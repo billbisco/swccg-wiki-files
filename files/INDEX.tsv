@@ -8920,6 +8920,7 @@ POVS1 Executor Holotheatre Fush DS 2003.txt	POVS1_Executor_Holotheatre_Fush_DS_2
 POVS1 Executor Holotheatre Trooper-1234.txt	POVS1_Executor_Holotheatre_Trooper-1234.txt	application/xml	4638
 POVS1 FirstMove Brown DS 2002 DeckTech.txt	POVS1_FirstMove_Brown_DS_2002_DeckTech.txt	application/xml	4748
 POVS1 FirstMove Flatliner DS 2002 GPN.txt	POVS1_FirstMove_Flatliner_DS_2002_GPN.txt	application/xml	4729
+POVS1 FirstMove French DS 2002 DeckTech.txt	POVS1_FirstMove_French_DS_2002_DeckTech.txt	application/xml	4678
 POVS1 FirstMove HuntaWarya DS 2002 NoMansLa.txt	POVS1_FirstMove_HuntaWarya_DS_2002_NoMansLa.txt	application/xml	4547
 POVS1 FirstMove Wicket33 DS 2002 GPN.txt	POVS1_FirstMove_Wicket33_DS_2002_GPN.txt	application/xml	4749
 POVS1 FirstMove Winsafra DS 2002 GPN.txt	POVS1_FirstMove_Winsafra_DS_2002_GPN.txt	application/xml	4679
@@ -8930,6 +8931,7 @@ POVS1 Fun With TIEs Hoth DS 2003 GPN.txt	POVS1_Fun_With_TIEs_Hoth_DS_2003_GPN.tx
 POVS1 HB Admiral Sjet LS 2002 GPN.txt	POVS1_HB_Admiral_Sjet_LS_2002_GPN.txt	application/xml	4257
 POVS1 HB Admiral Sjet LS 2002 Untested.txt	POVS1_HB_Admiral_Sjet_LS_2002_Untested.txt	application/xml	4492
 POVS1 HB Barahir LS 2002 GPN.txt	POVS1_HB_Barahir_LS_2002_GPN.txt	application/xml	4396
+POVS1 HB Beusekom LS 2002 DeckTech.txt	POVS1_HB_Beusekom_LS_2002_DeckTech.txt	application/xml	4639
 POVS1 HB Bravo40 LS 2002 SunsetOv.txt	POVS1_HB_Bravo40_LS_2002_SunsetOv.txt	application/xml	4358
 POVS1 HB HuntaWarya LS 2002 HowtoHid.txt	POVS1_HB_HuntaWarya_LS_2002_HowtoHid.txt	application/xml	4401
 POVS1 HB Lancer4life LS 2002 GPN.txt	POVS1_HB_Lancer4life_LS_2002_GPN.txt	application/xml	4396
@@ -8959,16 +8961,21 @@ POVS1 IOcc Greyhame DS 2002 GPN.txt	POVS1_IOcc_Greyhame_DS_2002_GPN.txt	applicat
 POVS1 IOcc Legolas DS 2002 DeckTech.txt	POVS1_IOcc_Legolas_DS_2002_DeckTech.txt	application/xml	4705
 POVS1 IOcc Rickynumber24 DS 2003 GPN.txt	POVS1_IOcc_Rickynumber24_DS_2003_GPN.txt	application/xml	4550
 POVS1 ISB Burnett DS 2002 DeckTech.txt	POVS1_ISB_Burnett_DS_2002_DeckTech.txt	application/xml	4726
+POVS1 ISB Elia DS 2002 DeckTech.txt	POVS1_ISB_Elia_DS_2002_DeckTech.txt	application/xml	4596
 POVS1 LU DarthVader LS 2002 GPN.txt	POVS1_LU_DarthVader_LS_2002_GPN.txt	application/xml	4330
+POVS1 LU Ertan LS 2002 DeckTech.txt	POVS1_LU_Ertan_LS_2002_DeckTech.txt	application/xml	4701
 POVS1 LU Wehner LS 2002 DeckTech.txt	POVS1_LU_Wehner_LS_2002_DeckTech.txt	application/xml	4370
 POVS1 LU fixer LS 2003 GPN.txt	POVS1_LU_fixer_LS_2003_GPN.txt	application/xml	4626
+POVS1 Legal Seymour DS 2002 DeckTech.txt	POVS1_Legal_Seymour_DS_2002_DeckTech.txt	application/xml	4718
 POVS1 Legal icebreath DS 2003 GPN.txt	POVS1_Legal_icebreath_DS_2003_GPN.txt	application/xml	4487
 POVS1 Legal karrde DS 2003 BlueChee.txt	POVS1_Legal_karrde_DS_2003_BlueChee.txt	application/xml	5253
 POVS1 Legal karrde DS 2003 GPN.txt	POVS1_Legal_karrde_DS_2003_GPN.txt	application/xml	4969
 POVS1 MKOS Carila DS 2002 DeckTech.txt	POVS1_MKOS_Carila_DS_2002_DeckTech.txt	application/xml	4600
 POVS1 MKOS DMX69 DS 2002 DeckTech.txt	POVS1_MKOS_DMX69_DS_2002_DeckTech.txt	application/xml	4678
 POVS1 MKOS Tino DS 2002 GPN.txt	POVS1_MKOS_Tino_DS_2002_GPN.txt	application/xml	4607
+POVS1 MPG Elia LS 2002 DeckTech.txt	POVS1_MPG_Elia_LS_2002_DeckTech.txt	application/xml	4695
 POVS1 MPG icebreath LS 2003 GPN.txt	POVS1_MPG_icebreath_LS_2003_GPN.txt	application/xml	4367
+POVS1 MWYHL French LS 2002 DeckTech.txt	POVS1_MWYHL_French_LS_2002_DeckTech.txt	application/xml	4617
 POVS1 MWYHL Redldr12 LS 2002 GPN.txt	POVS1_MWYHL_Redldr12_LS_2002_GPN.txt	application/xml	4586
 POVS1 MWYHL yodaindahouze LS 2002 GPN.txt	POVS1_MWYHL_yodaindahouze_LS_2002_GPN.txt	application/xml	4541
 POVS1 Massassi Base Operations Taran Wan.txt	POVS1_Massassi_Base_Operations_Taran_Wan.txt	application/xml	4274
@@ -9001,6 +9008,7 @@ POVS1 RST Martin LS 2002 DeckTech.txt	POVS1_RST_Martin_LS_2002_DeckTech.txt	appl
 POVS1 RST Spam LS 2002 GPN.txt	POVS1_RST_Spam_LS_2002_GPN.txt	application/xml	4481
 POVS1 RTP yodaindahouze LS 2002 GPN.txt	POVS1_RTP_yodaindahouze_LS_2002_GPN.txt	application/xml	4527
 POVS1 SYCFA Aeopile DS 2002 GPN.txt	POVS1_SYCFA_Aeopile_DS_2002_GPN.txt	application/xml	4639
+POVS1 SYCFA Black DS 2002 21850.txt	POVS1_SYCFA_Black_DS_2002_21850.txt	application/xml	4985
 POVS1 SYCFA Black DS 2002 DeckTech.txt	POVS1_SYCFA_Black_DS_2002_DeckTech.txt	application/xml	4985
 POVS1 SYCFA Helrot DS 2003 GPN.txt	POVS1_SYCFA_Helrot_DS_2003_GPN.txt	application/xml	4491
 POVS1 SYCFA Hoth DS 2003 FunWithS 4785.txt	POVS1_SYCFA_Hoth_DS_2003_FunWithS_4785.txt	application/xml	4686
@@ -9013,6 +9021,7 @@ POVS1 TIGIH Desnoy LS 2003 GPN.txt	POVS1_TIGIH_Desnoy_LS_2003_GPN.txt	applicatio
 POVS1 TIGIH Out LS 2002 GPN.txt	POVS1_TIGIH_Out_LS_2002_GPN.txt	application/xml	4362
 POVS1 TIGIH TheOutlawTorn LS 2003 GPN.txt	POVS1_TIGIH_TheOutlawTorn_LS_2003_GPN.txt	application/xml	4828
 POVS1 TRM Leezeldafuzz LS 2003 GPN.txt	POVS1_TRM_Leezeldafuzz_LS_2003_GPN.txt	application/xml	4386
+POVS1 TSQ Bottoms LS 2002 DeckTech.txt	POVS1_TSQ_Bottoms_LS_2002_DeckTech.txt	application/xml	4733
 POVS1 Tatooine City Outskirts jediknigh thosebla.txt	POVS1_Tatooine_City_Outskirts_jediknigh_thosebla.txt	application/xml	4612
 POVS1 Tatooine Jabba's Palace Sithlord1.txt	POVS1_Tatooine_Jabba's_Palace_Sithlord1.txt	application/xml	4499
 POVS1 The Hyperdrive Generator's Gone Hy.txt	POVS1_The_Hyperdrive_Generator's_Gone_Hy.txt	application/xml	4855
@@ -9024,6 +9033,7 @@ POVS1 Vile LordHoban DS 2003 GPN.txt	POVS1_Vile_LordHoban_DS_2003_GPN.txt	applic
 POVS1 Vile moron DS 2002 GPN.txt	POVS1_Vile_moron_DS_2002_GPN.txt	application/xml	4454
 POVS1 Vile xcshort DS 2003 GPN.txt	POVS1_Vile_xcshort_DS_2003_GPN.txt	application/xml	5026
 POVS1 WHT Drapos LS 2002 DeckTech.txt	POVS1_WHT_Drapos_LS_2002_DeckTech.txt	application/xml	4739
+POVS1 WHT Ertan LS 2002 DeckTech.txt	POVS1_WHT_Ertan_LS_2002_DeckTech.txt	application/xml	4876
 POVS1 WHT Fush LS 2002 GPN.txt	POVS1_WHT_Fush_LS_2002_GPN.txt	application/xml	4727
 POVS1 WHT Hamner LS 2002 VSCEvery.txt	POVS1_WHT_Hamner_LS_2002_VSCEvery.txt	application/xml	4753
 POVS1 WHT Manley LS 2002 DeckTech.txt	POVS1_WHT_Manley_LS_2002_DeckTech.txt	application/xml	4641
