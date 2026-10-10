@@ -8889,6 +8889,7 @@ POVS1 Coruscant Docking Bay Fett DS DarkSide.txt	POVS1_Coruscant_Docking_Bay_Fet
 POVS1 Coruscant Imperial City PhatKraKr.txt	POVS1_Coruscant_Imperial_City_PhatKraKr.txt	application/xml	4679
 POVS1 Court Shewski LS 2002 GPN.txt	POVS1_Court_Shewski_LS_2002_GPN.txt	application/xml	4193
 POVS1 Deal Bastard DS 2002 ThisDeal.txt	POVS1_Deal_Bastard_DS_2002_ThisDeal.txt	application/xml	4777
+POVS1 Deal Gillman DS 2002 DeckTech.txt	POVS1_Deal_Gillman_DS_2002_DeckTech.txt	application/xml	4617
 POVS1 Deal Hoth DS 2003 GPN.txt	POVS1_Deal_Hoth_DS_2003_GPN.txt	application/xml	4912
 POVS1 Deal Hoth DS 2004 GPN.txt	POVS1_Deal_Hoth_DS_2004_GPN.txt	application/xml	4938
 POVS1 Deal Lancer4life DS 2002 GPN.txt	POVS1_Deal_Lancer4life_DS_2002_GPN.txt	application/xml	4622
@@ -8911,6 +8912,7 @@ POVS1 Executor Control Station TheJungu.txt	POVS1_Executor_Control_Station_TheJu
 POVS1 Executor Control Station dude DS.txt	POVS1_Executor_Control_Station_dude_DS.txt	application/xml	4492
 POVS1 Executor Holotheatre Fush DS 2003.txt	POVS1_Executor_Holotheatre_Fush_DS_2003.txt	application/xml	4734
 POVS1 Executor Holotheatre Trooper-1234.txt	POVS1_Executor_Holotheatre_Trooper-1234.txt	application/xml	4638
+POVS1 FirstMove Brown DS 2002 DeckTech.txt	POVS1_FirstMove_Brown_DS_2002_DeckTech.txt	application/xml	4748
 POVS1 FirstMove Flatliner DS 2002 GPN.txt	POVS1_FirstMove_Flatliner_DS_2002_GPN.txt	application/xml	4729
 POVS1 FirstMove HuntaWarya DS 2002 NoMansLa.txt	POVS1_FirstMove_HuntaWarya_DS_2002_NoMansLa.txt	application/xml	4547
 POVS1 FirstMove Wicket33 DS 2002 GPN.txt	POVS1_FirstMove_Wicket33_DS_2002_GPN.txt	application/xml	4749
@@ -8946,6 +8948,7 @@ POVS1 Hoth Main Power Generators (1st M Nightoft.txt	POVS1_Hoth_Main_Power_Gener
 POVS1 Hoth Main Power Generators (1st M Tauntaun.txt	POVS1_Hoth_Main_Power_Generators_(1st_M_Tauntaun.txt	application/xml	4545
 POVS1 Hoth Main Power Generators (1st M.txt	POVS1_Hoth_Main_Power_Generators_(1st_M.txt	application/xml	5042
 POVS1 IOcc Greyhame DS 2002 GPN.txt	POVS1_IOcc_Greyhame_DS_2002_GPN.txt	application/xml	4708
+POVS1 IOcc Legolas DS 2002 DeckTech.txt	POVS1_IOcc_Legolas_DS_2002_DeckTech.txt	application/xml	4705
 POVS1 IOcc Rickynumber24 DS 2003 GPN.txt	POVS1_IOcc_Rickynumber24_DS_2003_GPN.txt	application/xml	4550
 POVS1 LU DarthVader LS 2002 GPN.txt	POVS1_LU_DarthVader_LS_2002_GPN.txt	application/xml	4330
 POVS1 LU fixer LS 2003 GPN.txt	POVS1_LU_fixer_LS_2003_GPN.txt	application/xml	4626
@@ -8977,6 +8980,7 @@ POVS1 QMC Stock LS 2002 DeckTech.txt	POVS1_QMC_Stock_LS_2002_DeckTech.txt	applic
 POVS1 QMC icebreath LS 2003 GPN.txt	POVS1_QMC_icebreath_LS_2003_GPN.txt	application/xml	4479
 POVS1 ROps Majors DS 2002 DeckTech.txt	POVS1_ROps_Majors_DS_2002_DeckTech.txt	application/xml	4437
 POVS1 ROps Shewski DS 2003 GPN.txt	POVS1_ROps_Shewski_DS_2003_GPN.txt	application/xml	4684
+POVS1 RST Ballin LS 2002 22361.txt	POVS1_RST_Ballin_LS_2002_22361.txt	application/xml	4671
 POVS1 RST Ballin LS 2002 DeckTech.txt	POVS1_RST_Ballin_LS_2002_DeckTech.txt	application/xml	4671
 POVS1 RST Spam LS 2002 GPN.txt	POVS1_RST_Spam_LS_2002_GPN.txt	application/xml	4481
 POVS1 RTP yodaindahouze LS 2002 GPN.txt	POVS1_RTP_yodaindahouze_LS_2002_GPN.txt	application/xml	4527
@@ -8985,6 +8989,7 @@ POVS1 SYCFA Helrot DS 2003 GPN.txt	POVS1_SYCFA_Helrot_DS_2003_GPN.txt	applicatio
 POVS1 SYCFA Hoth DS 2003 FunWithS 4785.txt	POVS1_SYCFA_Hoth_DS_2003_FunWithS_4785.txt	application/xml	4686
 POVS1 SYCFA Hoth DS 2003 FunWithS.txt	POVS1_SYCFA_Hoth_DS_2003_FunWithS.txt	application/xml	4750
 POVS1 SYCFA SalaciousCrumb DS 2003 GPN.txt	POVS1_SYCFA_SalaciousCrumb_DS_2003_GPN.txt	application/xml	4637
+POVS1 Senate Johnson LS 2002 DeckTech.txt	POVS1_Senate_Johnson_LS_2002_DeckTech.txt	application/xml	4493
 POVS1 Senate icebreath LS 2003 GPN.txt	POVS1_Senate_icebreath_LS_2003_GPN.txt	application/xml	4757
 POVS1 TIGIH Desnoy LS 2003 GPN.txt	POVS1_TIGIH_Desnoy_LS_2003_GPN.txt	application/xml	4289
 POVS1 TIGIH Out LS 2002 GPN.txt	POVS1_TIGIH_Out_LS_2002_GPN.txt	application/xml	4362
@@ -9014,6 +9019,7 @@ POVS1 WYS Tino LS 2002 VSCWYSwi.txt	POVS1_WYS_Tino_LS_2002_VSCWYSwi.txt	applicat
 POVS1 WYS big chief04 LS 2003 GPN.txt	POVS1_WYS_big_chief04_LS_2003_GPN.txt	application/xml	4433
 POVS1 WYS well. LS 2002 GPN.txt	POVS1_WYS_well._LS_2002_GPN.txt	application/xml	4633
 POVS1 We Have A Plan Yogi LS 2002 GPN.txt	POVS1_We_Have_A_Plan_Yogi_LS_2002_GPN.txt	application/xml	4662
+POVS1 YMSYL Ballin DS 2002 DeckTech.txt	POVS1_YMSYL_Ballin_DS_2002_DeckTech.txt	application/xml	4872
 POVS1 YMSYL Silva DS 2002 DeckTech.txt	POVS1_YMSYL_Silva_DS_2002_DeckTech.txt	application/xml	4752
 POVS2 AOBS Vader1000 DS 2003 GPN.txt	POVS2_AOBS_Vader1000_DS_2003_GPN.txt	application/xml	4463
 POVS2 BHBM Fush DS 2002 GPN.txt	POVS2_BHBM_Fush_DS_2002_GPN.txt	application/xml	4603
