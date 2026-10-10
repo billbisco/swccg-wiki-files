@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+<card blueprintId="9_2" title="Combined Fleet Action"/>
+<card blueprintId="9_4" title="I'll Take The Leader"/>
+<card blueprintId="200_1" title="Aayla Secura"/>
+<card blueprintId="200_2*" title="Anakin Skywalker, Padawan Learner"/>
+<card blueprintId="204_1" title="BB-8 (Beebee-Ate)"/>
+<card blueprintId="214_18" title="Din Djarin"/>
+<card blueprintId="216_29" title="Grogu"/>
+<card blueprintId="200_15" title="Harc Seff"/>
+<card blueprintId="206_4" title="Jyn Erso"/>
+<card blueprintId="109_3" title="Lando With Blaster Pistol"/>
+<card blueprintId="13_29" title="Leia, Rebel Princess"/>
+<card blueprintId="200_19" title="Lobot"/>
+<card blueprintId="200_20" title="Luke Skywalker"/>
+<card blueprintId="211_57" title="Maz Kanata"/>
+<card blueprintId="201_4" title="Obi-Wan Kenobi"/>
+<card blueprintId="6_33*" title="Pucumir Thryss"/>
+<card blueprintId="214_22" title="Rey, All Of The Jedi"/>
+<card blueprintId="213_44" title="Yoda, Master Of The Force"/>
+<card blueprintId="209_14" title="Yoxgit"/>
+<card blueprintId="200_35*" title="Anger, Fear, Aggression"/>
+<card blueprintId="211_31*" title="Beldon's Eye &amp; All My Urchins"/>
+<card blueprintId="7_55" title="Cloud City Celebration"/>
+<card blueprintId="200_39" title="I Don't Like Sand"/>
+<card blueprintId="11_20" title="Keeping The Empire Out Forever"/>
+<card blueprintId="9_38*" title="Menace Fades"/>
+<card blueprintId="206_6" title="What Chance Do We Have?"/>
+<card blueprintId="200_47*" title="Wokling"/>
+<card blueprintId="200_49" title="Antilles Maneuver"/>
+<card blueprintId="200_49" title="Antilles Maneuver"/>
+<card blueprintId="201_11" title="Ascension Guns"/>
+<card blueprintId="9_51*" title="Heading For The Medical Frigate"/>
+<card blueprintId="201_13" title="Hear Me Baby, Hold Together"/>
+<card blueprintId="10_8" title="Houjix &amp; Out Of Nowhere"/>
+<card blueprintId="207_13*" title="I Think I Can Handle Myself"/>
+<card blueprintId="1_90*" title="It Could Be Worse"/>
+<card blueprintId="200_54*" title="Jedi Levitation"/>
+<card blueprintId="200_54*" title="Jedi Levitation"/>
+<card blueprintId="5_57" title="Lift Tube Escape"/>
+<card blueprintId="10_16" title="Out Of Commission &amp; Transmission Terminated"/>
+<card blueprintId="5_62" title="Path Of Least Resistance"/>
+<card blueprintId="5_62*" title="Path Of Least Resistance"/>
+<card blueprintId="210_24" title="Quite A Mercenary"/>
+<card blueprintId="1_105" title="Rebel Barrier"/>
+<card blueprintId="203_17*" title="Rebel Leadership"/>
+<card blueprintId="201_15" title="Sabotage"/>
+<card blueprintId="1_109" title="Sense"/>
+<card blueprintId="207_14" title="They're Tracking Us"/>
+<card blueprintId="5_76*" title="Bespin"/>
+<card blueprintId="5_80*" title="Cloud City: Guest Quarters"/>
+<card blueprintId="7_114*" title="Cloud City: North Corridor"/>
+<card blueprintId="5_83*" title="Cloud City: Platform 327 (Docking Bay)"/>
+<card blueprintId="5_84*" title="Cloud City: Upper Plaza Corridor"/>
+<card blueprintId="7_115*" title="Cloud City: West Gallery"/>
+<card blueprintId="109_4*" title="Quiet Mining Colony"/>
+<card blueprintId="205_7" title="Han, Chewie, And The Falcon"/>
+<card blueprintId="213_58" title="Leia's Resistance Transport"/>
+<card blueprintId="200_64" title="Overseer"/>
+<card blueprintId="200_67" title="Wedge In Red Squadron 1"/>
+<card blueprintId="1_148" title="Lift Tube"/>
+<card blueprintId="1_148" title="Lift Tube"/>
+<cardOutsideDeck blueprintId="200_16" title="The Mythrol"/>
+<cardOutsideDeck blueprintId="13_1" title="A Close Race"/>
+<cardOutsideDeck blueprintId="13_3*" title="A Tragedy Has Occurred"/>
+<cardOutsideDeck blueprintId="200_25" title="Affect Mind"/>
+<cardOutsideDeck blueprintId="13_4*" title="Aim High"/>
+<cardOutsideDeck blueprintId="13_6" title="Another Pathetic Lifeform"/>
+<cardOutsideDeck blueprintId="13_8" title="Battle Plan"/>
+<cardOutsideDeck blueprintId="213_45" title="Clumsy And Stupid"/>
+<cardOutsideDeck blueprintId="13_15*" title="Do, Or Do Not"/>
+<cardOutsideDeck blueprintId="200_26" title="Don't Do That Again"/>
+<cardOutsideDeck blueprintId="200_27" title="Goldenrod"/>
+<cardOutsideDeck blueprintId="13_22" title="He Can Go About His Business"/>
+<cardOutsideDeck blueprintId="13_30" title="Let's Keep A Little Optimism Here"/>
+<cardOutsideDeck blueprintId="13_35" title="Only Jedi Carry That Weapon"/>
+<cardOutsideDeck blueprintId="13_37" title="Ounee Ta"/>
+<cardOutsideDeck blueprintId="203_13" title="Planetary Defenses"/>
+<cardOutsideDeck blueprintId="200_28" title="Simple Tricks And Nonsense"/>
+<cardOutsideDeck blueprintId="200_29" title="The Republic No Longer Functions"/>
+<cardOutsideDeck blueprintId="209_15" title="There Is Another"/>
+<cardOutsideDeck blueprintId="13_44" title="Ultimatum"/>
+<cardOutsideDeck blueprintId="13_47" title="Wise Advice"/>
+<cardOutsideDeck blueprintId="200_31" title="Yavin Sentry"/>
+<cardOutsideDeck blueprintId="200_32" title="Your Insight Serves You Well"/>
+<cardOutsideDeck blueprintId="301_5" title="Your Ship?"/>
+</deck>

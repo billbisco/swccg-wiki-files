@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+<card blueprintId="9_2" title="Combined Fleet Action"/>
+<card blueprintId="9_2" title="Combined Fleet Action"/>
+<card blueprintId="209_1" title="Admiral Raddus"/>
+<card blueprintId="208_1" title="Admiral U.O. Statura"/>
+<card blueprintId="204_1" title="BB-8 (Beebee-Ate)"/>
+<card blueprintId="204_1" title="BB-8 (Beebee-Ate)"/>
+<card blueprintId="214_16" title="Beaumont Kin"/>
+<card blueprintId="204_4^" title="Chewie With Bowcaster"/>
+<card blueprintId="214_18" title="Din Djarin"/>
+<card blueprintId="204_6" title="Finn"/>
+<card blueprintId="204_6" title="Finn"/>
+<card blueprintId="9_13" title="General Calrissian"/>
+<card blueprintId="206_4" title="Jyn Erso"/>
+<card blueprintId="13_29" title="Leia, Rebel Princess"/>
+<card blueprintId="13_29" title="Leia, Rebel Princess"/>
+<card blueprintId="204_7" title="Lor San Tekka"/>
+<card blueprintId="204_8" title="Poe Dameron"/>
+<card blueprintId="204_8" title="Poe Dameron"/>
+<card blueprintId="204_9" title="Rey"/>
+<card blueprintId="204_9" title="Rey"/>
+<card blueprintId="209_11" title="Rose Tico"/>
+<card blueprintId="209_11" title="Rose Tico"/>
+<card blueprintId="204_11^" title="Solo"/>
+<card blueprintId="211_55" title="Vice Admiral Holdo"/>
+<card blueprintId="205_4" title="Rebel Flight Suit"/>
+<card blueprintId="209_16" title="A Brave Resistance"/>
+<card blueprintId="200_35" title="Anger, Fear, Aggression"/>
+<card blueprintId="200_39" title="I Don't Like Sand"/>
+<card blueprintId="9_38" title="Menace Fades"/>
+<card blueprintId="6_56" title="Projection Of A Skywalker"/>
+<card blueprintId="9_41" title="Strike Planning"/>
+<card blueprintId="200_47" title="Wokling"/>
+<card blueprintId="12_52" title="You've Got A Lot Of Guts Coming Here"/>
+<card blueprintId="200_51" title="Don't Tread On Me"/>
+<card blueprintId="200_51" title="Don't Tread On Me"/>
+<card blueprintId="9_51" title="Heading For The Medical Frigate"/>
+<card blueprintId="201_13" title="Hear Me Baby, Hold Together"/>
+<card blueprintId="201_13" title="Hear Me Baby, Hold Together"/>
+<card blueprintId="204_19" title="I'm Getting Pretty Good At This"/>
+<card blueprintId="200_54" title="Jedi Levitation"/>
+<card blueprintId="204_20" title="Keep Your Eyes Open"/>
+<card blueprintId="204_20" title="Keep Your Eyes Open"/>
+<card blueprintId="10_16" title="Out Of Commission &amp; Transmission Terminated"/>
+<card blueprintId="5_64" title="Punch It!"/>
+<card blueprintId="1_105" title="Rebel Barrier"/>
+<card blueprintId="1_105" title="Rebel Barrier"/>
+<card blueprintId="203_17" title="Rebel Leadership"/>
+<card blueprintId="10_25" title="The Bith Shuffle &amp; Desperate Reach"/>
+<card blueprintId="204_26" title="Jakku"/>
+<card blueprintId="204_27^" title="Jakku: Niima Outpost Shipyard"/>
+<card blueprintId="204_29" title="Jakku: Rey's Encampment"/>
+<card blueprintId="204_30" title="Jakku: Starship Graveyard"/>
+<card blueprintId="204_31" title="Jakku: Tuanul Village"/>
+<card blueprintId="204_32" title="Old Allies"/>
+<card blueprintId="1_140" title="Corellian Corvette"/>
+<card blueprintId="200_62" title="Gold Leader In Gold 1"/>
+<card blueprintId="213_58" title="Leia's Resistance Transport"/>
+<card blueprintId="204_35" title="The Falcon, Junkyard Garbage"/>
+<card blueprintId="209_32" title="Blue 11"/>
+<card blueprintId="201_20" title="Dash In Rogue 12"/>
+<cardOutsideDeck blueprintId="200_16" title="The Mythrol"/>
+<cardOutsideDeck blueprintId="13_3" title="A Tragedy Has Occurred"/>
+<cardOutsideDeck blueprintId="200_25" title="Affect Mind"/>
+<cardOutsideDeck blueprintId="13_4" title="Aim High"/>
+<cardOutsideDeck blueprintId="13_6" title="Another Pathetic Lifeform"/>
+<cardOutsideDeck blueprintId="13_8" title="Battle Plan"/>
+<cardOutsideDeck blueprintId="213_45" title="Clumsy And Stupid"/>
+<cardOutsideDeck blueprintId="13_15" title="Do, Or Do Not"/>
+<cardOutsideDeck blueprintId="200_26" title="Don't Do That Again"/>
+<cardOutsideDeck blueprintId="200_27" title="Goldenrod"/>
+<cardOutsideDeck blueprintId="13_22" title="He Can Go About His Business"/>
+<cardOutsideDeck blueprintId="13_30" title="Let's Keep A Little Optimism Here"/>
+<cardOutsideDeck blueprintId="13_35" title="Only Jedi Carry That Weapon"/>
+<cardOutsideDeck blueprintId="217_43" title="Ounee Ta"/>
+<cardOutsideDeck blueprintId="203_13" title="Planetary Defenses"/>
+<cardOutsideDeck blueprintId="200_28" title="Simple Tricks And Nonsense"/>
+<cardOutsideDeck blueprintId="200_29" title="The Republic No Longer Functions"/>
+<cardOutsideDeck blueprintId="209_15" title="There Is Another"/>
+<cardOutsideDeck blueprintId="13_44" title="Ultimatum"/>
+<cardOutsideDeck blueprintId="13_47" title="Wise Advice"/>
+<cardOutsideDeck blueprintId="200_31" title="Yavin Sentry"/>
+<cardOutsideDeck blueprintId="200_32" title="Your Insight Serves You Well"/>
+<cardOutsideDeck blueprintId="301_5" title="Your Ship?"/>
+</deck>

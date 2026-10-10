@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="6_171" horizontal="true" title="Tatooine: Jabba's Palace"/>
+    <card blueprintId="6_171" horizontal="true" title="Tatooine: Jabba's Palace"/>
+    <card blueprintId="6_171" horizontal="true" title="Tatooine: Jabba's Palace"/>
+    <card blueprintId="6_162" horizontal="true" title="Jabba's Palace: Audience Chamber"/>
+    <card blueprintId="6_164" horizontal="true" title="Jabba's Palace: Dungeon"/>
+    <card blueprintId="6_166" horizontal="true" title="Jabba's Palace: Rancor Pit"/>
+    <card blueprintId="6_170" horizontal="true" title="Tatooine: Great Pit Of Carkoon"/>
+    <card blueprintId="1_291" horizontal="true" title="Tatooine: Docking Bay 94"/>
+    <card blueprintId="1_290" horizontal="true" title="Tatooine: Cantina"/>
+    <card blueprintId="6_109" horizontal="false" title="Jabba The Hutt"/>
+    <card blueprintId="6_104" horizontal="false" title="Gailid"/>
+    <card blueprintId="1_189" horizontal="false" title="Myo"/>
+    <card blueprintId="1_189" horizontal="false" title="Myo"/>
+    <card blueprintId="1_189" horizontal="false" title="Myo"/>
+    <card blueprintId="108_5" horizontal="false" title="Boba Fett With Blaster Rifle"/>
+    <card blueprintId="108_5" horizontal="false" title="Boba Fett With Blaster Rifle"/>
+    <card blueprintId="110_9" horizontal="false" title="Jodo Kast"/>
+    <card blueprintId="109_11" horizontal="false" title="IG-88 With Riot Gun"/>
+    <card blueprintId="109_6" horizontal="false" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="106_11" horizontal="false" title="Chall Bekan"/>
+    <card blueprintId="5_94" horizontal="false" title="Cloud City Engineer"/>
+    <card blueprintId="6_91" horizontal="false" title="Abyssin"/>
+    <card blueprintId="6_91" horizontal="false" title="Abyssin"/>
+    <card blueprintId="6_91" horizontal="false" title="Abyssin"/>
+    <card blueprintId="6_91" horizontal="false" title="Abyssin"/>
+    <card blueprintId="6_91" horizontal="false" title="Abyssin"/>
+    <card blueprintId="6_91" horizontal="false" title="Abyssin"/>
+    <card blueprintId="6_91" horizontal="false" title="Abyssin"/>
+    <card blueprintId="6_91" horizontal="false" title="Abyssin"/>
+    <card blueprintId="6_91" horizontal="false" title="Abyssin"/>
+    <card blueprintId="6_91" horizontal="false" title="Abyssin"/>
+    <card blueprintId="6_139" horizontal="false" title="Rancor"/>
+    <card blueprintId="6_138" horizontal="false" title="Bubo"/>
+    <card blueprintId="110_12" horizontal="false" title="Zuckuss In Mist Hunter"/>
+    <card blueprintId="110_8" horizontal="false" title="IG-88 In IG-2000"/>
+    <card blueprintId="7_301" horizontal="false" title="Bossk In Hound's Tooth"/>
+    <card blueprintId="109_10" horizontal="false" title="Dengar In Punishing One"/>
+    <card blueprintId="5_109" horizontal="false" title="Mandalorian Armor"/>
+    <card blueprintId="4_116" horizontal="false" title="Bad Feeling Have I"/>
+    <card blueprintId="6_149" horizontal="false" title="Scum And Villainy"/>
+    <card blueprintId="8_131" horizontal="false" title="Search And Destroy"/>
+    <card blueprintId="8_132" horizontal="false" title="Security Precautions"/>
+    <card blueprintId="1_227" horizontal="false" title="Presence Of The Force"/>
+    <card blueprintId="1_227" horizontal="false" title="Presence Of The Force"/>
+    <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="6_151" horizontal="false" title="Abyssin Ornament"/>
+    <card blueprintId="6_154" horizontal="false" title="Hidden Weapons"/>
+    <card blueprintId="6_154" horizontal="false" title="Hidden Weapons"/>
+    <card blueprintId="6_154" horizontal="false" title="Hidden Weapons"/>
+    <card blueprintId="6_154" horizontal="false" title="Hidden Weapons"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="6_155" horizontal="false" title="Hutt Smooch"/>
+    <card blueprintId="6_155" horizontal="false" title="Hutt Smooch"/>
+    <card blueprintId="6_159" horizontal="false" title="Trap Door"/>
+    <card blueprintId="110_6" horizontal="false" title="Court Of The Vile Gangster"/>
+</deck>

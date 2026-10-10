@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="4_84" horizontal="false" title="Dagobah"/>
+    <card blueprintId="4_89" horizontal="true" title="Dagobah: Yoda's Hut"/>
+    <card blueprintId="4_85" horizontal="true" title="Dagobah: Bog Clearing"/>
+    <card blueprintId="4_88" horizontal="true" title="Dagobah: Training Area"/>
+    <card blueprintId="4_87" horizontal="true" title="Dagobah: Swamp"/>
+    <card blueprintId="1_126" horizontal="false" title="Kessel"/>
+    <card blueprintId="4_82" horizontal="false" title="Big One"/>
+    <card blueprintId="4_82" horizontal="false" title="Big One"/>
+    <card blueprintId="4_81" horizontal="false" title="Asteroid Field"/>
+    <card blueprintId="4_81" horizontal="false" title="Asteroid Field"/>
+    <card blueprintId="4_81" horizontal="false" title="Asteroid Field"/>
+    <card blueprintId="4_81" horizontal="false" title="Asteroid Field"/>
+    <card blueprintId="4_81" horizontal="false" title="Asteroid Field"/>
+    <card blueprintId="4_81" horizontal="false" title="Asteroid Field"/>
+    <card blueprintId="5_1" horizontal="false" title="Captain Han Solo"/>
+    <card blueprintId="5_1" horizontal="false" title="Captain Han Solo"/>
+    <card blueprintId="6_26" horizontal="false" title="Leslomy Tacema"/>
+    <card blueprintId="1_19" horizontal="false" title="Luke Skywalker"/>
+    <card blueprintId="1_19" horizontal="false" title="Luke Skywalker"/>
+    <card blueprintId="2_3" horizontal="false" title="Chewbacca"/>
+    <card blueprintId="2_3" horizontal="false" title="Chewbacca"/>
+    <card blueprintId="9_31" horizontal="false" title="Wedge Antilles, Red Squadron Leader"/>
+    <card blueprintId="8_8" horizontal="false" title="Daughter Of Skywalker"/>
+    <card blueprintId="4_2" horizontal="false" title="Yoda"/>
+    <card blueprintId="1_143" horizontal="false" title="Millennium Falcon"/>
+    <card blueprintId="1_143" horizontal="false" title="Millennium Falcon"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="9_81" horizontal="false" title="Red Squadron 1"/>
+    <card blueprintId="9_62" horizontal="false" title="A-wing"/>
+    <card blueprintId="9_62" horizontal="false" title="A-wing"/>
+    <card blueprintId="9_62" horizontal="false" title="A-wing"/>
+    <card blueprintId="9_62" horizontal="false" title="A-wing"/>
+    <card blueprintId="9_62" horizontal="false" title="A-wing"/>
+    <card blueprintId="4_36" horizontal="false" title="Rycar's Run"/>
+    <card blueprintId="4_36" horizontal="false" title="Rycar's Run"/>
+    <card blueprintId="4_17" horizontal="false" title="Asteroid Sanctuary"/>
+    <card blueprintId="4_17" horizontal="false" title="Asteroid Sanctuary"/>
+    <card blueprintId="4_17" horizontal="false" title="Asteroid Sanctuary"/>
+    <card blueprintId="4_17" horizontal="false" title="Asteroid Sanctuary"/>
+    <card blueprintId="4_16" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="4_16" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="9_39" horizontal="false" title="Squadron Assignments"/>
+    <card blueprintId="7_81" horizontal="false" title="Wise Advice"/>
+    <card blueprintId="9_33" horizontal="false" title="Honor Of The Jedi"/>
+    <card blueprintId="1_70" horizontal="false" title="A Few Maneuvers"/>
+    <card blueprintId="1_70" horizontal="false" title="A Few Maneuvers"/>
+    <card blueprintId="1_70" horizontal="false" title="A Few Maneuvers"/>
+    <card blueprintId="1_70" horizontal="false" title="A Few Maneuvers"/>
+    <card blueprintId="4_47" horizontal="false" title="Closer?!"/>
+    <card blueprintId="4_47" horizontal="false" title="Closer?!"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="4_77" horizontal="false" title="Great Warrior"/>
+    <card blueprintId="4_75" horizontal="false" title="A Jedi's Strength"/>
+    <card blueprintId="7_138" horizontal="false" title="Mind What You Have Learned"/>
+</deck>

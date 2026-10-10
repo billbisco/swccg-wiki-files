@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="1_133" horizontal="true" title="Tatooine: Mos Eisley"/>
+    <card blueprintId="1_133" horizontal="true" title="Tatooine: Mos Eisley"/>
+    <card blueprintId="1_133" horizontal="true" title="Tatooine: Mos Eisley"/>
+    <card blueprintId="1_133" horizontal="true" title="Tatooine: Mos Eisley"/>
+    <card blueprintId="1_132" horizontal="true" title="Tatooine: Lars' Moisture Farm"/>
+    <card blueprintId="1_132" horizontal="true" title="Tatooine: Lars' Moisture Farm"/>
+    <card blueprintId="1_132" horizontal="true" title="Tatooine: Lars' Moisture Farm"/>
+    <card blueprintId="1_132" horizontal="true" title="Tatooine: Lars' Moisture Farm"/>
+    <card blueprintId="1_127" horizontal="false" title="Tatooine"/>
+    <card blueprintId="1_127" horizontal="false" title="Tatooine"/>
+    <card blueprintId="1_127" horizontal="false" title="Tatooine"/>
+    <card blueprintId="1_127" horizontal="false" title="Tatooine"/>
+    <card blueprintId="1_56" horizontal="false" title="Nightfall"/>
+    <card blueprintId="1_56" horizontal="false" title="Nightfall"/>
+    <card blueprintId="1_56" horizontal="false" title="Nightfall"/>
+    <card blueprintId="1_56" horizontal="false" title="Nightfall"/>
+    <card blueprintId="1_64" horizontal="false" title="Sai'torr Kal Fas"/>
+    <card blueprintId="1_64" horizontal="false" title="Sai'torr Kal Fas"/>
+    <card blueprintId="1_64" horizontal="false" title="Sai'torr Kal Fas"/>
+    <card blueprintId="1_64" horizontal="false" title="Sai'torr Kal Fas"/>
+    <card blueprintId="1_162" horizontal="false" title="Timer Mine"/>
+    <card blueprintId="1_162" horizontal="false" title="Timer Mine"/>
+    <card blueprintId="1_162" horizontal="false" title="Timer Mine"/>
+    <card blueprintId="1_162" horizontal="false" title="Timer Mine"/>
+    <card blueprintId="1_40" horizontal="false" title="Tatooine Utility Belt"/>
+    <card blueprintId="1_40" horizontal="false" title="Tatooine Utility Belt"/>
+    <card blueprintId="1_40" horizontal="false" title="Tatooine Utility Belt"/>
+    <card blueprintId="1_40" horizontal="false" title="Tatooine Utility Belt"/>
+    <card blueprintId="1_5" horizontal="false" title="C-3PO (See-Threepio)"/>
+    <card blueprintId="1_31" horizontal="false" title="Talz"/>
+    <card blueprintId="1_31" horizontal="false" title="Talz"/>
+    <card blueprintId="1_31" horizontal="false" title="Talz"/>
+    <card blueprintId="1_31" horizontal="false" title="Talz"/>
+    <card blueprintId="1_26" horizontal="false" title="Rebel Guard"/>
+    <card blueprintId="1_26" horizontal="false" title="Rebel Guard"/>
+    <card blueprintId="1_26" horizontal="false" title="Rebel Guard"/>
+    <card blueprintId="1_26" horizontal="false" title="Rebel Guard"/>
+    <card blueprintId="1_28" horizontal="false" title="Rebel Trooper"/>
+    <card blueprintId="1_28" horizontal="false" title="Rebel Trooper"/>
+    <card blueprintId="1_28" horizontal="false" title="Rebel Trooper"/>
+    <card blueprintId="1_28" horizontal="false" title="Rebel Trooper"/>
+    <card blueprintId="1_12" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_12" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_12" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_12" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_30" horizontal="false" title="Shistavanen Wolfman"/>
+    <card blueprintId="1_30" horizontal="false" title="Shistavanen Wolfman"/>
+    <card blueprintId="1_30" horizontal="false" title="Shistavanen Wolfman"/>
+    <card blueprintId="1_30" horizontal="false" title="Shistavanen Wolfman"/>
+    <card blueprintId="1_13" horizontal="false" title="Jek Porkins"/>
+    <card blueprintId="1_13" horizontal="false" title="Jek Porkins"/>
+    <card blueprintId="1_13" horizontal="false" title="Jek Porkins"/>
+    <card blueprintId="1_13" horizontal="false" title="Jek Porkins"/>
+    <card blueprintId="1_23" horizontal="false" title="Pops"/>
+    <card blueprintId="1_23" horizontal="false" title="Pops"/>
+    <card blueprintId="1_23" horizontal="false" title="Pops"/>
+    <card blueprintId="1_23" horizontal="false" title="Pops"/>
+    <card blueprintId="1_10" horizontal="false" title="General Dodonna"/>
+    <card blueprintId="1_10" horizontal="false" title="General Dodonna"/>
+    <card blueprintId="1_10" horizontal="false" title="General Dodonna"/>
+    <card blueprintId="1_10" horizontal="false" title="General Dodonna"/>
+    <card blueprintId="1_153" horizontal="false" title="Blaster Rifle"/>
+    <card blueprintId="1_153" horizontal="false" title="Blaster Rifle"/>
+    <card blueprintId="1_153" horizontal="false" title="Blaster Rifle"/>
+    <card blueprintId="1_153" horizontal="false" title="Blaster Rifle"/>
+</deck>

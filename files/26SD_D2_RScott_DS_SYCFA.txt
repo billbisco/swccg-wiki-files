@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_71*" horizontal="false" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="204_36*" horizontal="false" title="B2 Battle Droid"/>
+    <card blueprintId="204_36*" horizontal="false" title="B2 Battle Droid"/>
+    <card blueprintId="204_36*" horizontal="false" title="B2 Battle Droid"/>
+    <card blueprintId="7_175*" horizontal="false" title="Darth Vader, Dark Lord Of The Sith"/>
+    <card blueprintId="200_82*" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="200_82*" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="209_36*" horizontal="false" title="Krennic, Death Star Commandant"/>
+    <card blueprintId="208_34*" horizontal="false" title="Lord Maul With Lightsaber"/>
+    <card blueprintId="208_34*" horizontal="false" title="Lord Maul With Lightsaber"/>
+    <card blueprintId="226_8" horizontal="false" title="Mara Jade, The Emperor's Hand"/>
+    <card blueprintId="222_12*" horizontal="false" title="Palpatine, Galactic Emperor"/>
+    <card blueprintId="222_12*" horizontal="false" title="Palpatine, Galactic Emperor"/>
+    <card blueprintId="222_12*" horizontal="false" title="Palpatine, Galactic Emperor"/>
+    <card blueprintId="200_101*" horizontal="false" title="A Day Long Remembered"/>
+    <card blueprintId="217_14*" horizontal="false" title="Blast Door Controls"/>
+    <card blueprintId="14_96*" horizontal="false" title="Droid Racks"/>
+    <card blueprintId="12_133*" horizontal="false" title="Enter The Bureaucrat"/>
+    <card blueprintId="7_229*" horizontal="false" title="First Strike"/>
+    <card blueprintId="9_126*" horizontal="false" title="Inconsequential Losses"/>
+    <card blueprintId="200_110^" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="112_16*" horizontal="false" title="No Escape"/>
+    <card blueprintId="12_140*" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="12_140*" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="12_144*" horizontal="false" title="You Cannot Hide Forever &amp; Mobilization Points"/>
+    <card blueprintId="200_114*" horizontal="false" title="You'll Be Dead!"/>
+    <card blueprintId="218_7*" horizontal="false" title="A Dark Time For The Rebellion &amp; Tarkin's Orders"/>
+    <card blueprintId="201_35*" horizontal="false" title="Cold Feet"/>
+    <card blueprintId="221_13*" horizontal="false" title="ComScan Detection"/>
+    <card blueprintId="208_43*" horizontal="false" title="Double Back"/>
+    <card blueprintId="14_102" horizontal="false" title="Drop Your Weapons"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="2_132*" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="12_148" horizontal="false" title="Imperial Artillery"/>
+    <card blueprintId="12_152*" horizontal="false" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="208_44*" horizontal="false" title="Operational As Planned"/>
+    <card blueprintId="205_20*" horizontal="false" title="Point Man"/>
+    <card blueprintId="218_2" horizontal="false" title="Seal Off The Bridge"/>
+    <card blueprintId="218_2" horizontal="false" title="Seal Off The Bridge"/>
+    <card blueprintId="200_123*" horizontal="false" title="Sith Fury"/>
+    <card blueprintId="14_107*" horizontal="false" title="There They Are!"/>
+    <card blueprintId="12_163*" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_164*" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="8_156*" horizontal="false" title="Carida"/>
+    <card blueprintId="2_143*" horizontal="false" title="Death Star"/>
+    <card blueprintId="1_285*" horizontal="true" title="Death Star: Docking Bay 327"/>
+    <card blueprintId="208_48*" horizontal="true" title="Death Star: War Room"/>
+    <card blueprintId="208_50*" horizontal="false" title="Jedha"/>
+    <card blueprintId="209_49^" horizontal="true" title="Jedha: Jedha City"/>
+    <card blueprintId="111_6*" horizontal="false" title="Set Your Course For Alderaan"/>
+    <card blueprintId="200_130*" horizontal="false" title="Boba Fett In Slave I"/>
+    <card blueprintId="109_10" horizontal="false" title="Dengar In Punishing One"/>
+    <card blueprintId="9_156*" horizontal="false" title="Emperor's Personal Shuttle"/>
+    <card blueprintId="9_156*" horizontal="false" title="Emperor's Personal Shuttle"/>
+    <card blueprintId="12_186*" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186*" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186*" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186*" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186*" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="216_19*" horizontal="false" title="Superlaser"/>
+    <cardOutsideDeck blueprintId="13_51*" horizontal="false" title="A Useless Gesture"/>
+    <cardOutsideDeck blueprintId="223_7*" horizontal="false" title="A Useless Gesture &amp; Death Star Sentry"/>
+    <cardOutsideDeck blueprintId="13_52*" horizontal="false" title="Allegations Of Corruption"/>
+    <cardOutsideDeck blueprintId="13_54*" horizontal="false" title="Battle Order"/>
+    <cardOutsideDeck blueprintId="13_61*" horizontal="false" title="Come Here You Big Coward"/>
+    <cardOutsideDeck blueprintId="225_3*" horizontal="false" title="Come Here You Big Coward"/>
+    <cardOutsideDeck blueprintId="13_63*" horizontal="false" title="Crossfire"/>
+    <cardOutsideDeck blueprintId="216_5*" horizontal="false" title="Crossfire"/>
+    <cardOutsideDeck blueprintId="13_66*" horizontal="false" title="Do They Have A Code Clearance?"/>
+    <cardOutsideDeck blueprintId="220_2*" horizontal="false" title="Drop!"/>
+    <cardOutsideDeck blueprintId="213_13*" horizontal="false" title="Failure At The Cave"/>
+    <cardOutsideDeck blueprintId="13_68*" horizontal="false" title="Fanfare"/>
+    <cardOutsideDeck blueprintId="200_95*" horizontal="false" title="Fanfare"/>
+    <cardOutsideDeck blueprintId="13_72*" horizontal="false" title="Leave Them To Me"/>
+    <cardOutsideDeck blueprintId="13_78*" horizontal="false" title="No Escape"/>
+    <cardOutsideDeck blueprintId="13_81*" horizontal="false" title="Oppressive Enforcement"/>
+    <cardOutsideDeck blueprintId="13_84*" horizontal="false" title="Resistance"/>
+    <cardOutsideDeck blueprintId="13_86*" horizontal="false" title="Secret Plans"/>
+    <cardOutsideDeck blueprintId="13_90*" horizontal="false" title="There Is No Try"/>
+    <cardOutsideDeck blueprintId="200_99*" horizontal="false" title="Vote Of No Confidence"/>
+    <cardOutsideDeck blueprintId="13_96*" horizontal="false" title="We'll Let Fate-a Decide, Huh?"/>
+    <cardOutsideDeck blueprintId="223_26*" horizontal="false" title="We'll Let Fate-a Decide, Huh?"/>
+    <cardOutsideDeck blueprintId="13_95*" horizontal="false" title="Weapon Of A Sith"/>
+    <cardOutsideDeck blueprintId="13_98*" horizontal="false" title="Wipe Them Out, All Of Them"/>
+    <cardOutsideDeck blueprintId="13_99*" horizontal="false" title="You Cannot Hide Forever"/>
+    <cardOutsideDeck blueprintId="200_100*" horizontal="false" title="You Cannot Hide Forever"/>
+    <cardOutsideDeck blueprintId="13_100*" horizontal="false" title="You've Never Won A Race?"/>
+    <cardOutsideDeck blueprintId="223_29*" horizontal="false" title="You've Never Won A Race?"/>
+</deck>

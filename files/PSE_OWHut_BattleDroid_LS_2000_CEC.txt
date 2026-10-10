@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="6_8" horizontal="false" title="B'omarr Monk"/>
+    <card blueprintId="6_8" horizontal="false" title="B'omarr Monk"/>
+    <card blueprintId="6_8" horizontal="false" title="B'omarr Monk"/>
+    <card blueprintId="6_8" horizontal="false" title="B'omarr Monk"/>
+    <card blueprintId="7_4" horizontal="false" title="Ben Kenobi"/>
+    <card blueprintId="7_5" horizontal="false" title="Bothan Spy"/>
+    <card blueprintId="7_9" horizontal="false" title="Camie"/>
+    <card blueprintId="2_3" horizontal="false" title="Chewbacca"/>
+    <card blueprintId="108_1" horizontal="false" title="Han With Heavy Blaster Pistol"/>
+    <card blueprintId="1_17" horizontal="false" title="Leia Organa"/>
+    <card blueprintId="108_2" horizontal="false" title="Leia With Blaster Rifle"/>
+    <card blueprintId="1_19" horizontal="false" title="Luke Skywalker"/>
+    <card blueprintId="108_3" horizontal="false" title="Luke With Lightsaber"/>
+    <card blueprintId="1_20" horizontal="false" title="Momaw Nadon"/>
+    <card blueprintId="1_21" horizontal="false" title="Obi-Wan Kenobi"/>
+    <card blueprintId="6_40" horizontal="false" title="Sic-Six"/>
+    <card blueprintId="6_40" horizontal="false" title="Sic-Six"/>
+    <card blueprintId="7_50" horizontal="false" title="Wookiee"/>
+    <card blueprintId="7_50" horizontal="false" title="Wookiee"/>
+    <card blueprintId="3_71" horizontal="false" title="Anakin's Lightsaber"/>
+    <card blueprintId="1_155" horizontal="false" title="Jedi Lightsaber"/>
+    <card blueprintId="1_155" horizontal="false" title="Jedi Lightsaber"/>
+    <card blueprintId="1_157" horizontal="false" title="Obi-Wan's Lightsaber"/>
+    <card blueprintId="103_1" horizontal="false" title="Gold Leader In Gold 1"/>
+    <card blueprintId="1_143" horizontal="false" title="Millennium Falcon"/>
+    <card blueprintId="103_2" horizontal="false" title="Red Leader In Red 1"/>
+    <card blueprintId="2_73" horizontal="false" title="Tantive IV"/>
+    <card blueprintId="7_120" horizontal="true" title="Farm"/>
+    <card blueprintId="1_127" horizontal="false" title="Tatooine"/>
+    <card blueprintId="1_128" horizontal="true" title="Tatooine: Cantina"/>
+    <card blueprintId="1_134" horizontal="true" title="Tatooine: Obi-Wan's Hut"/>
+    <card blueprintId="1_71" horizontal="false" title="Alter"/>
+    <card blueprintId="1_71" horizontal="false" title="Alter"/>
+    <card blueprintId="4_48" horizontal="false" title="Control"/>
+    <card blueprintId="4_48" horizontal="false" title="Control"/>
+    <card blueprintId="1_97" horizontal="false" title="Nabrun Leids"/>
+    <card blueprintId="1_97" horizontal="false" title="Nabrun Leids"/>
+    <card blueprintId="1_97" horizontal="false" title="Nabrun Leids"/>
+    <card blueprintId="1_97" horizontal="false" title="Nabrun Leids"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="5_17" horizontal="false" title="All My Urchins"/>
+    <card blueprintId="5_17" horizontal="false" title="All My Urchins"/>
+    <card blueprintId="3_32" horizontal="false" title="Bacta Tank"/>
+    <card blueprintId="6_53" horizontal="false" title="Bargaining Table"/>
+    <card blueprintId="1_54" horizontal="false" title="Lightsaber Proficiency"/>
+    <card blueprintId="4_29" horizontal="false" title="Obi-Wan's Apparition"/>
+    <card blueprintId="4_29" horizontal="false" title="Obi-Wan's Apparition"/>
+    <card blueprintId="4_30" horizontal="false" title="Order To Engage"/>
+    <card blueprintId="4_30" horizontal="false" title="Order To Engage"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="4_33" horizontal="false" title="Reflection"/>
+    <card blueprintId="1_62" horizontal="false" title="Revolution"/>
+    <card blueprintId="7_77" horizontal="false" title="Tatooine Celebration"/>
+    <card blueprintId="1_66" horizontal="false" title="Traffic Control"/>
+</deck>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+<card blueprintId="204_3" title="Captain Hera Syndulla"/>
+<card blueprintId="200_5" title="Chewie"/>
+<card blueprintId="10_6" title="Dash Rendar"/>
+<card blueprintId="214_18" title="Din Djarin"/>
+<card blueprintId="9_20" title="Kin Kian"/>
+<card blueprintId="7_30" title="Lieutenant Tarn Mison"/>
+<card blueprintId="7_30" title="Lieutenant Tarn Mison"/>
+<card blueprintId="200_20" title="Luke Skywalker"/>
+<card blueprintId="10_12" title="Mirax Terrik"/>
+<card blueprintId="204_8" title="Poe Dameron"/>
+<card blueprintId="204_9" title="Rey"/>
+<card blueprintId="204_11" title="Solo"/>
+<card blueprintId="208_11" title="Temmin &quot;Snap&quot; Wexley"/>
+<card blueprintId="203_12" title="Toryn Farr"/>
+<card blueprintId="201_8" title="A New Secret Base"/>
+<card blueprintId="200_35" title="Anger, Fear, Aggression"/>
+<card blueprintId="200_39" title="I Don't Like Sand"/>
+<card blueprintId="9_39" title="Squadron Assignments"/>
+<card blueprintId="206_6" title="What Chance Do We Have?"/>
+<card blueprintId="200_47" title="Wokling"/>
+<card blueprintId="12_53" title="All Wings Report In &amp; Darklighter Spin"/>
+<card blueprintId="12_53" title="All Wings Report In &amp; Darklighter Spin"/>
+<card blueprintId="208_18" title="Corellian Slip"/>
+<card blueprintId="209_19" title="Effective Repairs &amp; Starship Levitation"/>
+<card blueprintId="204_18" title="Escape Pod &amp; We're Doomed"/>
+<card blueprintId="9_51" title="Heading For The Medical Frigate"/>
+<card blueprintId="201_13" title="Hear Me Baby, Hold Together"/>
+<card blueprintId="207_13" title="I Think I Can Handle Myself"/>
+<card blueprintId="12_59" title="Inconsequential Barriers"/>
+<card blueprintId="1_90" title="It Could Be Worse"/>
+<card blueprintId="200_54" title="Jedi Levitation"/>
+<card blueprintId="7_97" title="Organized Attack"/>
+<card blueprintId="7_97" title="Organized Attack"/>
+<card blueprintId="7_100" title="Rapid Fire"/>
+<card blueprintId="12_66" title="Rebel Artillery"/>
+<card blueprintId="1_105" title="Rebel Barrier"/>
+<card blueprintId="1_105" title="Rebel Barrier"/>
+<card blueprintId="7_105" title="Steady Aim"/>
+<card blueprintId="207_14" title="They're Tracking Us"/>
+<card blueprintId="9_56" title="Aquaris"/>
+<card blueprintId="106_2" title="Corulag"/>
+<card blueprintId="204_26" title="Jakku"/>
+<card blueprintId="12_78" title="Naboo"/>
+<card blueprintId="200_58" title="Nar Shaddaa"/>
+<card blueprintId="7_123" title="Rendezvous Point"/>
+<card blueprintId="7_136" title="Hidden Base"/>
+<card blueprintId="210_5" title="Blue Squadron 1"/>
+<card blueprintId="200_62" title="Gold Leader In Gold 1"/>
+<card blueprintId="9_69" title="Gray Squadron 1"/>
+<card blueprintId="201_18" title="Green Leader In Green Squadron 1"/>
+<card blueprintId="10_17" title="Outrider"/>
+<card blueprintId="209_31" title="Red 5"/>
+<card blueprintId="2_72" title="Red 6"/>
+<card blueprintId="9_82" title="Red Squadron 4"/>
+<card blueprintId="206_7" title="Rogue One"/>
+<card blueprintId="206_8" title="The Falcon"/>
+<card blueprintId="200_67" title="Wedge In Red Squadron 1"/>
+<card blueprintId="1_158" title="Proton Torpedoes"/>
+<card blueprintId="7_162" title="X-wing Laser Cannon"/>
+<card blueprintId="7_162" title="X-wing Laser Cannon"/>
+<cardOutsideDeck blueprintId="200_16" title="Jabba's Prize"/>
+<cardOutsideDeck blueprintId="13_1" title="A Close Race"/>
+<cardOutsideDeck blueprintId="13_3" title="A Tragedy Has Occurred"/>
+<cardOutsideDeck blueprintId="200_25" title="Affect Mind"/>
+<cardOutsideDeck blueprintId="13_4" title="Aim High"/>
+<cardOutsideDeck blueprintId="13_6" title="Another Pathetic Lifeform"/>
+<cardOutsideDeck blueprintId="13_8" title="Battle Plan"/>
+<cardOutsideDeck blueprintId="213_45" title="Clumsy And Stupid"/>
+<cardOutsideDeck blueprintId="13_15" title="Do, Or Do Not"/>
+<cardOutsideDeck blueprintId="200_26" title="Don't Do That Again"/>
+<cardOutsideDeck blueprintId="200_27" title="Goldenrod"/>
+<cardOutsideDeck blueprintId="13_22" title="He Can Go About His Business"/>
+<cardOutsideDeck blueprintId="13_30" title="Let's Keep A Little Optimism Here"/>
+<cardOutsideDeck blueprintId="13_35" title="Only Jedi Carry That Weapon"/>
+<cardOutsideDeck blueprintId="13_37" title="Ounee Ta"/>
+<cardOutsideDeck blueprintId="13_38" title="Planetary Defenses"/>
+<cardOutsideDeck blueprintId="203_13" title="Planetary Defenses"/>
+<cardOutsideDeck blueprintId="200_28" title="Simple Tricks And Nonsense"/>
+<cardOutsideDeck blueprintId="200_29" title="The Republic No Longer Functions"/>
+<cardOutsideDeck blueprintId="209_15" title="There Is Another"/>
+<cardOutsideDeck blueprintId="13_44" title="Ultimatum"/>
+<cardOutsideDeck blueprintId="13_47" title="Wise Advice"/>
+<cardOutsideDeck blueprintId="200_31" title="Yavin Sentry"/>
+<cardOutsideDeck blueprintId="200_32" title="Your Insight Serves You Well"/>
+<cardOutsideDeck blueprintId="301_5" title="Your Ship?"/>
+<cardOutsideDeck blueprintId="9_56" title="Aquaris"/>
+<cardOutsideDeck blueprintId="106_2" title="Corulag"/>
+<cardOutsideDeck blueprintId="204_26" title="Jakku"/>
+<cardOutsideDeck blueprintId="12_78" title="Naboo"/>
+<cardOutsideDeck blueprintId="200_58" title="Nar Shaddaa"/>
+</deck>

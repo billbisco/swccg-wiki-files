@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+<card blueprintId="9_20" title="Kin Kian"/>
+<card blueprintId="210_19" title="Kit Fisto"/>
+<card blueprintId="13_29" title="Leia, Rebel Princess"/>
+<card blueprintId="14_15" title="Lieutenant Arven Wendik"/>
+<card blueprintId="14_17" title="Lieutenant Rya Kirsch"/>
+<card blueprintId="200_20" title="Luke Skywalker"/>
+<card blueprintId="201_2" title="Mace Windu"/>
+<card blueprintId="201_2" title="Mace Windu"/>
+<card blueprintId="201_2" title="Mace Windu"/>
+<card blueprintId="216_38" title="Master Yoda"/>
+<card blueprintId="14_20" title="Officer Dolphe"/>
+<card blueprintId="213_40" title="Qui-Gon Jinn, Serene Jedi"/>
+<card blueprintId="213_40" title="Qui-Gon Jinn, Serene Jedi"/>
+<card blueprintId="213_40" title="Qui-Gon Jinn, Serene Jedi"/>
+<card blueprintId="204_9" title="Rey"/>
+<card blueprintId="14_29" title="Ric Olie, Bravo Leader"/>
+<card blueprintId="9_31" title="Wedge Antilles, Red Squadron Leader"/>
+<card blueprintId="200_35" title="Anger, Fear, Aggression"/>
+<card blueprintId="14_31" title="Get To Your Ships!"/>
+<card blueprintId="200_39" title="I Don't Like Sand"/>
+<card blueprintId="14_33" title="It's On Automatic Pilot!"/>
+<card blueprintId="210_17" title="Jedi Business"/>
+<card blueprintId="213_47" title="Meditation"/>
+<card blueprintId="9_38" title="Menace Fades"/>
+<card blueprintId="6_56" title="Projection Of A Skywalker"/>
+<card blueprintId="6_56" title="Projection Of A Skywalker"/>
+<card blueprintId="12_50" title="We're Leaving"/>
+<card blueprintId="206_6" title="What Chance Do We Have?"/>
+<card blueprintId="216_24" title="Communing"/>
+<card blueprintId="12_53" title="All Wings Report In &amp; Darklighter Spin"/>
+<card blueprintId="12_53" title="All Wings Report In &amp; Darklighter Spin"/>
+<card blueprintId="12_53" title="All Wings Report In &amp; Darklighter Spin"/>
+<card blueprintId="6_61" title="Blaster Deflection"/>
+<card blueprintId="6_61" title="Blaster Deflection"/>
+<card blueprintId="204_18" title="Escape Pod &amp; We're Doomed"/>
+<card blueprintId="2_50" title="Houjix"/>
+<card blueprintId="1_88" title="Hyper Escape"/>
+<card blueprintId="216_39" title="I Am Part Of The Living Force"/>
+<card blueprintId="200_54" title="Jedi Levitation"/>
+<card blueprintId="5_69" title="Smoke Screen"/>
+<card blueprintId="5_69" title="Smoke Screen"/>
+<card blueprintId="12_72" title="We Wish To Board At Once"/>
+<card blueprintId="216_26" title="Dagobah: Yoda's Hut"/>
+<card blueprintId="211_43" title="Kamino"/>
+<card blueprintId="6_83" title="Kiffex"/>
+<card blueprintId="12_77" title="Malastare"/>
+<card blueprintId="12_78" title="Naboo"/>
+<card blueprintId="11_43" title="Tatooine: Mos Espa"/>
+<card blueprintId="14_53" title="Bravo 1"/>
+<card blueprintId="14_54" title="Bravo 2"/>
+<card blueprintId="14_55" title="Bravo 3"/>
+<card blueprintId="14_56" title="Bravo 4"/>
+<card blueprintId="9_69" title="Gray Squadron 1"/>
+<card blueprintId="205_7" title="Han, Chewie, And The Falcon"/>
+<card blueprintId="209_31" title="Red 5"/>
+<card blueprintId="205_10" title="Tycho In Green Squadron 3"/>
+<card blueprintId="200_67" title="Wedge In Red Squadron 1"/>
+<card blueprintId="211_33" title="Jedi Lightsaber"/>
+<card blueprintId="211_33" title="Jedi Lightsaber"/>
+<card blueprintId="211_33" title="Jedi Lightsaber"/>
+<cardOutsideDeck blueprintId="200_16" title="The Mythrol"/>
+<cardOutsideDeck blueprintId="13_1" title="A Close Race"/>
+<cardOutsideDeck blueprintId="13_3" title="A Tragedy Has Occurred"/>
+<cardOutsideDeck blueprintId="200_25" title="Affect Mind"/>
+<cardOutsideDeck blueprintId="13_4" title="Aim High"/>
+<cardOutsideDeck blueprintId="13_6" title="Another Pathetic Lifeform"/>
+<cardOutsideDeck blueprintId="13_8" title="Battle Plan"/>
+<cardOutsideDeck blueprintId="213_45" title="Clumsy And Stupid"/>
+<cardOutsideDeck blueprintId="13_15" title="Do, Or Do Not"/>
+<cardOutsideDeck blueprintId="13_16" title="Don't Do That Again"/>
+<cardOutsideDeck blueprintId="200_26" title="Don't Do That Again"/>
+<cardOutsideDeck blueprintId="200_27" title="Goldenrod"/>
+<cardOutsideDeck blueprintId="13_22" title="He Can Go About His Business"/>
+<cardOutsideDeck blueprintId="13_30" title="Let's Keep A Little Optimism Here"/>
+<cardOutsideDeck blueprintId="13_35" title="Only Jedi Carry That Weapon"/>
+<cardOutsideDeck blueprintId="13_37" title="Ounee Ta"/>
+<cardOutsideDeck blueprintId="217_43" title="Ounee Ta"/>
+<cardOutsideDeck blueprintId="13_38" title="Planetary Defenses"/>
+<cardOutsideDeck blueprintId="203_13" title="Planetary Defenses"/>
+<cardOutsideDeck blueprintId="200_28" title="Simple Tricks And Nonsense"/>
+<cardOutsideDeck blueprintId="200_29" title="The Republic No Longer Functions"/>
+<cardOutsideDeck blueprintId="209_15" title="There Is Another"/>
+<cardOutsideDeck blueprintId="13_44" title="Ultimatum"/>
+<cardOutsideDeck blueprintId="13_47" title="Wise Advice"/>
+<cardOutsideDeck blueprintId="200_31" title="Yavin Sentry"/>
+<cardOutsideDeck blueprintId="13_49" title="Your Insight Serves You Well"/>
+<cardOutsideDeck blueprintId="200_32" title="Your Insight Serves You Well"/>
+<cardOutsideDeck blueprintId="13_50" title="Your Ship?"/>
+<cardOutsideDeck blueprintId="301_5" title="Your Ship?"/>
+</deck>
