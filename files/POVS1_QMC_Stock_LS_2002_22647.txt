@@ -39,7 +39,6 @@
     <card blueprintId="7_162" horizontal="false" title="X-wing Laser Cannon"/>
     <card blueprintId="7_159" horizontal="false" title="Intruder Missile"/>
     <card blueprintId="9_90" horizontal="false" title="Luke's Lightsaber"/>
-    <card blueprintId="1_36" horizontal="false" title="Fusion Generator Supply Tanks"/>
     <card blueprintId="9_4" horizontal="false" title="I'll Take The Leader"/>
     <card blueprintId="7_62" horizontal="false" title="Goo Nee Tay"/>
     <card blueprintId="7_68" horizontal="false" title="Legendary Starfighter"/>

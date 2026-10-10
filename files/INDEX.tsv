@@ -8900,6 +8900,7 @@ POVS1 Deal Stock DS 2002 DeckTech.txt	POVS1_Deal_Stock_DS_2002_DeckTech.txt	appl
 POVS1 Deal Tino DS 2002 VSCThisD.txt	POVS1_Deal_Tino_DS_2002_VSCThisD.txt	application/xml	4285
 POVS1 Deal challenger DS 2003 WeirdDea.txt	POVS1_Deal_challenger_DS_2003_WeirdDea.txt	application/xml	4800
 POVS1 Death Star II Docking Bay karrde.txt	POVS1_Death_Star_II_Docking_Bay_karrde.txt	application/xml	5019
+POVS1 EBO Walker LS 2002 DeckTech.txt	POVS1_EBO_Walker_LS_2002_DeckTech.txt	application/xml	4466
 POVS1 EOps DS-1234 DS 2002 GPN.txt	POVS1_EOps_DS-1234_DS_2002_GPN.txt	application/xml	4879
 POVS1 EOps ECF DS 2003 GPN.txt	POVS1_EOps_ECF_DS_2003_GPN.txt	application/xml	4758
 POVS1 EOps Gillman DS 2002 DeckTech.txt	POVS1_EOps_Gillman_DS_2002_DeckTech.txt	application/xml	4695
@@ -8950,11 +8951,13 @@ POVS1 Hoth Main Power Generators (1st M.txt	POVS1_Hoth_Main_Power_Generators_(1s
 POVS1 IOcc Greyhame DS 2002 GPN.txt	POVS1_IOcc_Greyhame_DS_2002_GPN.txt	application/xml	4708
 POVS1 IOcc Legolas DS 2002 DeckTech.txt	POVS1_IOcc_Legolas_DS_2002_DeckTech.txt	application/xml	4705
 POVS1 IOcc Rickynumber24 DS 2003 GPN.txt	POVS1_IOcc_Rickynumber24_DS_2003_GPN.txt	application/xml	4550
+POVS1 ISB Burnett DS 2002 DeckTech.txt	POVS1_ISB_Burnett_DS_2002_DeckTech.txt	application/xml	4726
 POVS1 LU DarthVader LS 2002 GPN.txt	POVS1_LU_DarthVader_LS_2002_GPN.txt	application/xml	4330
 POVS1 LU fixer LS 2003 GPN.txt	POVS1_LU_fixer_LS_2003_GPN.txt	application/xml	4626
 POVS1 Legal icebreath DS 2003 GPN.txt	POVS1_Legal_icebreath_DS_2003_GPN.txt	application/xml	4487
 POVS1 Legal karrde DS 2003 BlueChee.txt	POVS1_Legal_karrde_DS_2003_BlueChee.txt	application/xml	5253
 POVS1 Legal karrde DS 2003 GPN.txt	POVS1_Legal_karrde_DS_2003_GPN.txt	application/xml	4969
+POVS1 MKOS DMX69 DS 2002 DeckTech.txt	POVS1_MKOS_DMX69_DS_2002_DeckTech.txt	application/xml	4678
 POVS1 MKOS Tino DS 2002 GPN.txt	POVS1_MKOS_Tino_DS_2002_GPN.txt	application/xml	4607
 POVS1 MPG icebreath LS 2003 GPN.txt	POVS1_MPG_icebreath_LS_2003_GPN.txt	application/xml	4367
 POVS1 MWYHL Redldr12 LS 2002 GPN.txt	POVS1_MWYHL_Redldr12_LS_2002_GPN.txt	application/xml	4586
@@ -8965,6 +8968,7 @@ POVS1 NMNPND joshbader DS 2002 GPN.txt	POVS1_NMNPND_joshbader_DS_2002_GPN.txt	ap
 POVS1 Naboo Boss Nass' Chambers icebrea.txt	POVS1_Naboo_Boss_Nass'_Chambers_icebrea.txt	application/xml	4540
 POVS1 Naboo Theed Palace Generator Core PowerofT.txt	POVS1_Naboo_Theed_Palace_Generator_Core_PowerofT.txt	application/xml	4467
 POVS1 Naboo Theed Palace Generator Core.txt	POVS1_Naboo_Theed_Palace_Generator_Core.txt	application/xml	4610
+POVS1 Pile Larson DS 2002 DeckTech.txt	POVS1_Pile_Larson_DS_2002_DeckTech.txt	application/xml	4764
 POVS1 Profit Comitz LS 2002 VSCThePr.txt	POVS1_Profit_Comitz_LS_2002_VSCThePr.txt	application/xml	4522
 POVS1 Profit Mud LS 2002 GPN.txt	POVS1_Profit_Mud_LS_2002_GPN.txt	application/xml	4490
 POVS1 Profit Mud LS 2002 VSCLeiaP.txt	POVS1_Profit_Mud_LS_2002_VSCLeiaP.txt	application/xml	4580
@@ -8982,9 +8986,11 @@ POVS1 ROps Majors DS 2002 DeckTech.txt	POVS1_ROps_Majors_DS_2002_DeckTech.txt	ap
 POVS1 ROps Shewski DS 2003 GPN.txt	POVS1_ROps_Shewski_DS_2003_GPN.txt	application/xml	4684
 POVS1 RST Ballin LS 2002 22361.txt	POVS1_RST_Ballin_LS_2002_22361.txt	application/xml	4671
 POVS1 RST Ballin LS 2002 DeckTech.txt	POVS1_RST_Ballin_LS_2002_DeckTech.txt	application/xml	4671
+POVS1 RST Lingrell LS 2002 DeckTech.txt	POVS1_RST_Lingrell_LS_2002_DeckTech.txt	application/xml	4839
 POVS1 RST Spam LS 2002 GPN.txt	POVS1_RST_Spam_LS_2002_GPN.txt	application/xml	4481
 POVS1 RTP yodaindahouze LS 2002 GPN.txt	POVS1_RTP_yodaindahouze_LS_2002_GPN.txt	application/xml	4527
 POVS1 SYCFA Aeopile DS 2002 GPN.txt	POVS1_SYCFA_Aeopile_DS_2002_GPN.txt	application/xml	4639
+POVS1 SYCFA Black DS 2002 DeckTech.txt	POVS1_SYCFA_Black_DS_2002_DeckTech.txt	application/xml	4985
 POVS1 SYCFA Helrot DS 2003 GPN.txt	POVS1_SYCFA_Helrot_DS_2003_GPN.txt	application/xml	4491
 POVS1 SYCFA Hoth DS 2003 FunWithS 4785.txt	POVS1_SYCFA_Hoth_DS_2003_FunWithS_4785.txt	application/xml	4686
 POVS1 SYCFA Hoth DS 2003 FunWithS.txt	POVS1_SYCFA_Hoth_DS_2003_FunWithS.txt	application/xml	4750
