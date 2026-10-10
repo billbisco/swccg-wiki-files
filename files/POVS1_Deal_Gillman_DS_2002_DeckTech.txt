@@ -55,7 +55,7 @@
     <card blueprintId="5_115" horizontal="false" title="Dark Deal"/>
     <card blueprintId="7_223" horizontal="false" title="Cloud City Occupation"/>
     <card blueprintId="1_215" horizontal="false" title="Expand The Empire"/>
-    <card blueprintId="11_99" horizontal="false" title="Maul's Lightsaber"/>
+    <card blueprintId="13_75" horizontal="false" title="Maul's Double-Bladed Lightsaber"/>
     <card blueprintId="5_179" horizontal="false" title="Boba Fett's Blaster Rifle"/>
     <card blueprintId="6_180" horizontal="false" title="Vibro-Ax"/>
     <card blueprintId="110_11" horizontal="false" title="Mara Jade's Lightsaber"/>
