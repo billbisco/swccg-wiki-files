@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+<card blueprintId="200_86" title="Mara Jade With Lightsaber"/>
+<card blueprintId="214_8" title="Palpatine, Emperor Returned"/>
+<card blueprintId="209_39" title="Supreme Leader Snoke"/>
+<card blueprintId="212_6" title="Allegiant General Pryde"/>
+<card blueprintId="212_6" title="Allegiant General Pryde"/>
+<card blueprintId="208_37" title="Captain Peavey"/>
+<card blueprintId="204_38" title="Captain Phasma"/>
+<card blueprintId="204_41" title="General Hux"/>
+<card blueprintId="209_37" title="Kylo Ren With Lightsaber"/>
+<card blueprintId="209_37" title="Kylo Ren With Lightsaber"/>
+<card blueprintId="9_97" title="Admiral Chiraneau"/>
+<card blueprintId="207_20" title="Director Orson Krennic"/>
+<card blueprintId="200_81" title="General Veers"/>
+<card blueprintId="10_40" title="Grand Admiral Thrawn"/>
+<card blueprintId="200_82" title="Grand Moff Tarkin"/>
+<card blueprintId="200_85" title="Maarek Stele, The Emperor's Reach"/>
+<card blueprintId="204_47" title="Bow To The First Order"/>
+<card blueprintId="208_40" title="I Will Finish What You Started"/>
+<card blueprintId="200_107" title="Image Of The Dark Lord"/>
+<card blueprintId="5_120" title="Imperial Decree"/>
+<card blueprintId="200_108" title="Imperial Decree"/>
+<card blueprintId="200_110" title="Knowledge And Defense"/>
+<card blueprintId="200_111" title="Kuat Drive Yards"/>
+<card blueprintId="1_222" title="Lateral Damage"/>
+<card blueprintId="214_11" title="The Dead Speak!"/>
+<card blueprintId="200_116" title="Close Call"/>
+<card blueprintId="200_116" title="Close Call"/>
+<card blueprintId="201_35" title="Cold Feet"/>
+<card blueprintId="200_120" title="Force Push"/>
+<card blueprintId="10_39" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+<card blueprintId="10_39" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+<card blueprintId="9_137" title="Imperial Command"/>
+<card blueprintId="9_137" title="Imperial Command"/>
+<card blueprintId="9_137" title="Imperial Command"/>
+<card blueprintId="9_137" title="Imperial Command"/>
+<card blueprintId="7_258" title="Overwhelmed"/>
+<card blueprintId="9_139" title="Prepared Defenses"/>
+<card blueprintId="106_17" title="Tarkin's Orders"/>
+<card blueprintId="7_266" title="They've Shut Down The Main Reactor"/>
+<card blueprintId="3_138" title="Trample"/>
+<card blueprintId="3_138" title="Trample"/>
+<card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+<card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+<card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+<card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+<card blueprintId="12_164" title="Blockade Flagship: Bridge"/>
+<card blueprintId="211_19" title="D'Qar"/>
+<card blueprintId="214_4" title="Exegol: Sith Throne"/>
+<card blueprintId="204_51^" title="Jakku"/>
+<card blueprintId="204_53" title="Jakku: Tuanul Village"/>
+<card blueprintId="208_51" title="Starkiller Base"/>
+<card blueprintId="208_57" title="I Want That Map"/>
+<card blueprintId="200_131" title="Bossk In Hound's Tooth"/>
+<card blueprintId="204_54" title="Finalizer"/>
+<card blueprintId="214_9" title="Steadfast"/>
+<card blueprintId="200_139" title="Blizzard 2"/>
+<card blueprintId="13_56" title="Blizzard 4"/>
+<card blueprintId="200_140" title="Blizzard Scout 1"/>
+<card blueprintId="8_170" title="Tempest 1"/>
+<card blueprintId="12_187" title="Laser Cannon Battery"/>
+<cardOutsideDeck blueprintId="13_51" title="A Useless Gesture"/>
+<cardOutsideDeck blueprintId="200_93" title="A Useless Gesture"/>
+<cardOutsideDeck blueprintId="13_52" title="Allegations Of Corruption"/>
+<cardOutsideDeck blueprintId="13_54" title="Battle Order"/>
+<cardOutsideDeck blueprintId="13_61" title="Come Here You Big Coward"/>
+<cardOutsideDeck blueprintId="13_63" title="Crossfire"/>
+<cardOutsideDeck blueprintId="200_94" title="Death Star Sentry"/>
+<cardOutsideDeck blueprintId="13_66" title="Do They Have A Code Clearance?"/>
+<cardOutsideDeck blueprintId="213_13" title="Failure At The Cave"/>
+<cardOutsideDeck blueprintId="13_68" title="Fanfare"/>
+<cardOutsideDeck blueprintId="200_95" title="Fanfare"/>
+<cardOutsideDeck blueprintId="200_97" title="I Find Your Lack Of Faith Disturbing"/>
+<cardOutsideDeck blueprintId="200_98" title="Imperial Detention"/>
+<cardOutsideDeck blueprintId="13_72" title="Leave Them To Me"/>
+<cardOutsideDeck blueprintId="13_78" title="No Escape"/>
+<cardOutsideDeck blueprintId="13_81" title="Oppressive Enforcement"/>
+<cardOutsideDeck blueprintId="13_84" title="Resistance"/>
+<cardOutsideDeck blueprintId="13_86" title="Secret Plans"/>
+<cardOutsideDeck blueprintId="13_90" title="There Is No Try"/>
+<cardOutsideDeck blueprintId="200_99" title="Vote Of No Confidence"/>
+<cardOutsideDeck blueprintId="13_96" title="We'll Let Fate-a Decide, Huh?"/>
+<cardOutsideDeck blueprintId="13_95" title="Weapon Of A Sith"/>
+<cardOutsideDeck blueprintId="13_98" title="Wipe Them Out, All Of Them"/>
+<cardOutsideDeck blueprintId="13_99" title="You Cannot Hide Forever"/>
+<cardOutsideDeck blueprintId="200_100" title="You Cannot Hide Forever"/>
+<cardOutsideDeck blueprintId="13_100" title="You've Never Won A Race?"/>
+</deck>

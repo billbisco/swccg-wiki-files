@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="7_275" horizontal="false" title="Coruscant"/>
+    <card blueprintId="3_144" horizontal="true" title="Hoth: Defensive Perimeter (3rd Marker)"/>
+    <card blueprintId="8_159" horizontal="true" title="Endor: Back Door"/>
+    <card blueprintId="8_164" horizontal="true" title="Endor: Forest Clearing"/>
+    <card blueprintId="7_272" horizontal="true" title="Cloud City: Port Town District"/>
+    <card blueprintId="1_290" horizontal="true" title="Tatooine: Cantina"/>
+    <card blueprintId="1_293" horizontal="true" title="Tatooine: Jundland Wastes"/>
+    <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
+    <card blueprintId="110_10" horizontal="false" title="Mara Jade, The Emperor's Hand"/>
+    <card blueprintId="3_82" horizontal="false" title="Admiral Ozzel"/>
+    <card blueprintId="109_11" horizontal="false" title="IG-88 With Riot Gun"/>
+    <card blueprintId="108_5" horizontal="false" title="Boba Fett With Blaster Rifle"/>
+    <card blueprintId="109_6" horizontal="false" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="4_107" horizontal="false" title="Zuckuss"/>
+    <card blueprintId="8_99" horizontal="false" title="Corporal Oberk"/>
+    <card blueprintId="8_103" horizontal="false" title="Lieutenant Renz"/>
+    <card blueprintId="8_114" horizontal="false" title="Sergeant Tarl"/>
+    <card blueprintId="7_206" horizontal="false" title="Sergeant Torent"/>
+    <card blueprintId="1_163" horizontal="false" title="5D6-RA-7 (Fivedesix)"/>
+    <card blueprintId="1_166" horizontal="false" title="Colonel Wullf Yularen"/>
+    <card blueprintId="4_98" horizontal="false" title="Corporal Derdram"/>
+    <card blueprintId="4_99" horizontal="false" title="Corporal Vandolay"/>
+    <card blueprintId="2_98" horizontal="false" title="Officer Evax"/>
+    <card blueprintId="3_90" horizontal="false" title="Probe Droid"/>
+    <card blueprintId="3_90" horizontal="false" title="Probe Droid"/>
+    <card blueprintId="3_90" horizontal="false" title="Probe Droid"/>
+    <card blueprintId="3_90" horizontal="false" title="Probe Droid"/>
+    <card blueprintId="4_167" horizontal="false" title="Executor"/>
+    <card blueprintId="110_12" horizontal="false" title="Zuckuss In Mist Hunter"/>
+    <card blueprintId="109_8" horizontal="false" title="Boba Fett In Slave I"/>
+    <card blueprintId="7_301" horizontal="false" title="Bossk In Hound's Tooth"/>
+    <card blueprintId="3_155" horizontal="false" title="Blizzard 2"/>
+    <card blueprintId="8_170" horizontal="false" title="Tempest 1"/>
+    <card blueprintId="8_126" horizontal="false" title="Imperial Arrest Order"/>
+    <card blueprintId="2_129" horizontal="false" title="Undercover"/>
+    <card blueprintId="2_129" horizontal="false" title="Undercover"/>
+    <card blueprintId="2_129" horizontal="false" title="Undercover"/>
+    <card blueprintId="4_118" horizontal="false" title="Broken Concentration"/>
+    <card blueprintId="8_153" horizontal="false" title="Sneak Attack"/>
+    <card blueprintId="8_153" horizontal="false" title="Sneak Attack"/>
+    <card blueprintId="8_153" horizontal="false" title="Sneak Attack"/>
+    <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="2_135" horizontal="false" title="Monnok"/>
+    <card blueprintId="2_135" horizontal="false" title="Monnok"/>
+    <card blueprintId="1_261" horizontal="false" title="Nevar Yalnal"/>
+    <card blueprintId="1_261" horizontal="false" title="Nevar Yalnal"/>
+    <card blueprintId="5_153" horizontal="false" title="Shocking Revelation"/>
+    <card blueprintId="1_243" horizontal="false" title="Elis Helrot"/>
+    <card blueprintId="1_243" horizontal="false" title="Elis Helrot"/>
+    <card blueprintId="7_261" horizontal="false" title="Sacrifice"/>
+    <card blueprintId="7_261" horizontal="false" title="Sacrifice"/>
+    <card blueprintId="7_299" horizontal="false" title="ISB Operations"/>
+</deck>

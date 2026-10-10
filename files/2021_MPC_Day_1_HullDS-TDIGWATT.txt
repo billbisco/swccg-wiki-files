@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+<card blueprintId="9_95" title="Intensify The Forward Batteries"/>
+<card blueprintId="200_76" title="Count Dooku"/>
+<card blueprintId="208_35" title="Lord Sidious"/>
+<card blueprintId="208_35" title="Lord Sidious"/>
+<card blueprintId="204_38" title="Captain Phasma"/>
+<card blueprintId="3_82" title="Admiral Ozzel"/>
+<card blueprintId="9_98" title="Admiral Piett"/>
+<card blueprintId="208_30" title="Darth Vader, Emperor's Enforcer"/>
+<card blueprintId="208_30" title="Darth Vader, Emperor's Enforcer"/>
+<card blueprintId="208_30" title="Darth Vader, Emperor's Enforcer"/>
+<card blueprintId="8_111" title="Sergeant Barich"/>
+<card blueprintId="8_112" title="Sergeant Elsek"/>
+<card blueprintId="8_115" title="Sergeant Wallen"/>
+<card blueprintId="1_194" title="Stormtrooper"/>
+<card blueprintId="106_16" title="Stormtrooper Cadet"/>
+<card blueprintId="106_16" title="Stormtrooper Cadet"/>
+<card blueprintId="106_16" title="Stormtrooper Cadet"/>
+<card blueprintId="204_44" title="Stormtrooper Patrol"/>
+<card blueprintId="204_44" title="Stormtrooper Patrol"/>
+<card blueprintId="2_106" title="Trooper Davin Felth"/>
+<card blueprintId="208_34" title="Lord Maul With Lightsaber"/>
+<card blueprintId="12_129" title="Battle Order &amp; First Strike"/>
+<card blueprintId="7_223" title="Cloud City Occupation"/>
+<card blueprintId="201_29" title="Endor Shield"/>
+<card blueprintId="12_135" title="Imperial Arrest Order &amp; Secret Plans"/>
+<card blueprintId="200_110" title="Knowledge And Defense"/>
+<card blueprintId="207_26" title="Security Precautions"/>
+<card blueprintId="7_242" title="Strategic Reserves"/>
+<card blueprintId="208_41" title="Tarkin's Bounty"/>
+<card blueprintId="13_91" title="They Must Never Again Leave This City"/>
+<card blueprintId="13_91" title="They Must Never Again Leave This City"/>
+<card blueprintId="13_91" title="They Must Never Again Leave This City"/>
+<card blueprintId="13_91" title="They Must Never Again Leave This City"/>
+<card blueprintId="12_144" title="You Cannot Hide Forever &amp; Mobilization Points"/>
+<card blueprintId="1_240" title="Dark Jedi Presence"/>
+<card blueprintId="1_240" title="Dark Jedi Presence"/>
+<card blueprintId="1_240" title="Dark Jedi Presence"/>
+<card blueprintId="1_240" title="Dark Jedi Presence"/>
+<card blueprintId="200_120" title="Force Push"/>
+<card blueprintId="205_20" title="Point Man"/>
+<card blueprintId="1_267" title="Sense"/>
+<card blueprintId="1_267" title="Sense"/>
+<card blueprintId="10_46" title="Sense &amp; Uncertain Is The Future"/>
+<card blueprintId="212_4" title="Slip Sliding Away"/>
+<card blueprintId="3_136" title="Tactical Support"/>
+<card blueprintId="3_136" title="Tactical Support"/>
+<card blueprintId="3_136" title="Tactical Support"/>
+<card blueprintId="4_149" title="Take Evasive Action"/>
+<card blueprintId="5_159" title="Trooper Assault"/>
+<card blueprintId="5_159" title="Trooper Assault"/>
+<card blueprintId="5_159" title="Trooper Assault"/>
+<card blueprintId="5_159" title="Trooper Assault"/>
+<card blueprintId="5_164" title="Bespin"/>
+<card blueprintId="5_165" title="Bespin: Cloud City"/>
+<card blueprintId="7_270" title="Cloud City: Downtown Plaza"/>
+<card blueprintId="7_273" title="Cloud City: Upper Walkway"/>
+<card blueprintId="9_145" title="Death Star II: Docking Bay"/>
+<card blueprintId="7_282" title="Executor: Docking Bay"/>
+<card blueprintId="109_12" title="This Deal Is Getting Worse All The Time"/>
+<card blueprintId="4_167" title="Executor"/>
+<cardOutsideDeck blueprintId="13_51" title="A Useless Gesture"/>
+<cardOutsideDeck blueprintId="200_93" title="A Useless Gesture"/>
+<cardOutsideDeck blueprintId="13_52" title="Allegations Of Corruption"/>
+<cardOutsideDeck blueprintId="13_54" title="Battle Order"/>
+<cardOutsideDeck blueprintId="13_61" title="Come Here You Big Coward"/>
+<cardOutsideDeck blueprintId="13_63" title="Crossfire"/>
+<cardOutsideDeck blueprintId="200_94" title="Death Star Sentry"/>
+<cardOutsideDeck blueprintId="13_66" title="Do They Have A Code Clearance?"/>
+<cardOutsideDeck blueprintId="213_13" title="Failure At The Cave"/>
+<cardOutsideDeck blueprintId="200_95" title="Fanfare"/>
+<cardOutsideDeck blueprintId="200_97" title="I Find Your Lack Of Faith Disturbing"/>
+<cardOutsideDeck blueprintId="200_98" title="Imperial Detention"/>
+<cardOutsideDeck blueprintId="13_72" title="Leave Them To Me"/>
+<cardOutsideDeck blueprintId="13_78" title="No Escape"/>
+<cardOutsideDeck blueprintId="13_81" title="Oppressive Enforcement"/>
+<cardOutsideDeck blueprintId="13_84" title="Resistance"/>
+<cardOutsideDeck blueprintId="13_86" title="Secret Plans"/>
+<cardOutsideDeck blueprintId="13_90" title="There Is No Try"/>
+<cardOutsideDeck blueprintId="200_99" title="Vote Of No Confidence"/>
+<cardOutsideDeck blueprintId="13_96" title="We'll Let Fate-a Decide, Huh?"/>
+<cardOutsideDeck blueprintId="13_95" title="Weapon Of A Sith"/>
+<cardOutsideDeck blueprintId="13_98" title="Wipe Them Out, All Of Them"/>
+<cardOutsideDeck blueprintId="200_100" title="You Cannot Hide Forever"/>
+<cardOutsideDeck blueprintId="13_100" title="You've Never Won A Race?"/>
+</deck>

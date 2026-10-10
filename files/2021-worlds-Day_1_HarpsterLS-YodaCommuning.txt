@@ -1,0 +1,64 @@
+2021 WORLDS STEVE HARPSTER LS YODA COMMUNING
+
+CHARACTER
+1x Anakin Skywalker, Padawan Learner
+1x BB-8 (Beebee-Ate)
+1x Corran Horn
+1x Kit Fisto
+1x Leia, Rebel Princess
+1x Luke Skywalker (V)
+3x Mace Windu (AI) (V)
+1x Master Yoda
+1x Mirax Terrik
+2x Padme Naberrie (AI) (V)
+3x Qui-Gon Jinn, Serene Jedi
+1x R2-D2 (Artoo-Detoo) (V)
+2x Rey
+1x Rose Tico
+1x Solo
+1x Wedge Antilles, Red Squadron Leader
+
+EFFECT
+1x Anger, Fear, Aggression (V)
+1x Disarmed
+1x I Don't Like Sand
+1x Jedi Business
+1x Projection Of A Skywalker
+1x Squadron Assignments
+1x Wokling (V)
+
+EPIC EVENT
+1x Communing
+
+INTERRUPT
+1x A Few Maneuvers
+1x A Jedi's Concentration
+3x All Wings Report In & Darklighter Spin
+1x Blaster Deflection
+1x Effective Repairs & Starship Levitation
+1x Escape Pod & We're Doomed
+1x Hear Me Baby, Hold Together (V)
+1x Houjix
+1x I Am Part Of The Living Force
+2x Jedi Levitation (V)
+1x Odin Nesloor & First Aid
+1x Quite A Mercenary (V)
+1x Sense
+2x Smoke Screen
+1x Sorry About The Mess
+
+LOCATION
+1x Dagobah: Yoda's Hut (V)
+1x Kamino
+1x Kamino: Clone Birthing Center
+1x Malastare
+1x Naboo: Theed Palace Generator Core
+
+STARSHIP
+1x Pulsar Skate
+1x Red 5 (V)
+1x The Falcon
+
+WEAPON
+2x Jedi Lightsaber (V)
+1x Mace Windu's Lightsaber

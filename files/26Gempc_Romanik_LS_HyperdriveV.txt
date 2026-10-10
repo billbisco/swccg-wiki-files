@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="9_1" horizontal="false" title="Capital Support"/>
+    <card blueprintId="200_1^" horizontal="false" title="Aayla Secura"/>
+    <card blueprintId="217_26" horizontal="false" title="Admiral Kilian"/>
+    <card blueprintId="221_45" horizontal="false" title="Admiral Yularen"/>
+    <card blueprintId="301_1^" horizontal="false" title="Ahsoka Tano With Lightsabers"/>
+    <card blueprintId="221_46" horizontal="false" title="Anakin Skywalker, Junkyard Slave"/>
+    <card blueprintId="221_46" horizontal="false" title="Anakin Skywalker, Junkyard Slave"/>
+    <card blueprintId="216_23" horizontal="false" title="Chewbacca, Defender Of Kashyyyk"/>
+    <card blueprintId="214_18^" horizontal="false" title="Din Djarin"/>
+    <card blueprintId="14_10" horizontal="false" title="General Jar Jar"/>
+    <card blueprintId="14_11" horizontal="false" title="General Jar Jar"/>
+    <card blueprintId="226_18" horizontal="false" title="Kelleran Beq"/>
+    <card blueprintId="201_42" horizontal="false" title="Mace Windu"/>
+    <card blueprintId="200_146" horizontal="false" title="Master Qui-Gon"/>
+    <card blueprintId="200_145" horizontal="false" title="Obi-Wan Kenobi, Padawan Learner"/>
+    <card blueprintId="200_23" horizontal="false" title="Obi-Wan Kenobi, Padawan Learner"/>
+    <card blueprintId="11_9" horizontal="false" title="Padme Naberrie"/>
+    <card blueprintId="203_36" horizontal="false" title="Padme Naberrie"/>
+    <card blueprintId="11_12" horizontal="false" title="Shmi Skywalker"/>
+    <card blueprintId="216_42" horizontal="false" title="Tarfful"/>
+    <card blueprintId="11_13" horizontal="false" title="Threepio With His Parts Showing"/>
+    <card blueprintId="213_44" horizontal="false" title="Yoda, Master Of The Force"/>
+    <card blueprintId="221_44" horizontal="false" title="A Remote Planet"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="221_56" horizontal="false" title="Credits Will Do Fine"/>
+    <card blueprintId="221_60" horizontal="false" title="Galactic Republic Navy"/>
+    <card blueprintId="210_17^" horizontal="false" title="Jedi Business"/>
+    <card blueprintId="209_17" horizontal="false" title="Relatively Unprotected"/>
+    <card blueprintId="7_77" horizontal="false" title="Tatooine Celebration"/>
+    <card blueprintId="7_77" horizontal="false" title="Tatooine Celebration"/>
+    <card blueprintId="204_15" horizontal="false" title="We're Leaving"/>
+    <card blueprintId="11_24" horizontal="false" title="Boonta Eve Podrace"/>
+    <card blueprintId="11_25" horizontal="false" title="I Did It!"/>
+    <card blueprintId="200_143" horizontal="false" title="Alter"/>
+    <card blueprintId="11_31" horizontal="false" title="Changing The Odds"/>
+    <card blueprintId="221_57" horizontal="false" title="Either Way, You Win"/>
+    <card blueprintId="221_57" horizontal="false" title="Either Way, You Win"/>
+    <card blueprintId="221_59" horizontal="false" title="Eventually You'll Lose"/>
+    <card blueprintId="221_59" horizontal="false" title="Eventually You'll Lose"/>
+    <card blueprintId="221_59" horizontal="false" title="Eventually You'll Lose"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="201_14" horizontal="false" title="Perimeter Scan"/>
+    <card blueprintId="227_1" horizontal="false" title="Podrace Prep"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="211_2" horizontal="false" title="See You Around, Kid"/>
+    <card blueprintId="12_84" horizontal="false" title="Tatooine"/>
+    <card blueprintId="11_42" horizontal="true" title="Tatooine: City Outskirts"/>
+    <card blueprintId="221_75" horizontal="true" title="Tatooine: Mos Espa"/>
+    <card blueprintId="11_44" horizontal="true" title="Tatooine: Podrace Arena"/>
+    <card blueprintId="217_47" horizontal="true" title="Tatooine: Skywalker Hut"/>
+    <card blueprintId="12_87" horizontal="true" title="Tatooine: Watto's Junkyard"/>
+    <card blueprintId="210_25" horizontal="false" title="The Hyperdrive Generator's Gone"/>
+    <card blueprintId="11_47" horizontal="false" title="Anakin's Podracer"/>
+    <card blueprintId="221_58" horizontal="false" title="Endurance"/>
+    <card blueprintId="221_71" horizontal="false" title="Resolute"/>
+    <card blueprintId="211_33^" horizontal="false" title="Jedi Lightsaber"/>
+    <card blueprintId="201_21^" horizontal="false" title="Mace Windu's Lightsaber"/>
+    <card blueprintId="221_70" horizontal="false" title="Qui-Gon Jinn's Lightsaber"/>
+    <cardOutsideDeck blueprintId="200_16" horizontal="false" title="The Mythrol"/>
+    <cardOutsideDeck blueprintId="223_30" horizontal="false" title="A Close Race"/>
+    <cardOutsideDeck blueprintId="13_3" horizontal="false" title="A Tragedy Has Occurred"/>
+    <cardOutsideDeck blueprintId="13_4" horizontal="false" title="Aim High"/>
+    <cardOutsideDeck blueprintId="13_6" horizontal="false" title="Another Pathetic Lifeform"/>
+    <cardOutsideDeck blueprintId="13_8" horizontal="false" title="Battle Plan"/>
+    <cardOutsideDeck blueprintId="13_15" horizontal="false" title="Do, Or Do Not"/>
+    <cardOutsideDeck blueprintId="200_26" horizontal="false" title="Don't Do That Again"/>
+    <cardOutsideDeck blueprintId="13_22" horizontal="false" title="He Can Go About His Business"/>
+    <cardOutsideDeck blueprintId="225_51" horizontal="false" title="Let's Keep A Little Optimism Here"/>
+    <cardOutsideDeck blueprintId="221_68" horizontal="false" title="Only Jedi Carry That Weapon"/>
+    <cardOutsideDeck blueprintId="13_37" horizontal="false" title="Ounee Ta"/>
+    <cardOutsideDeck blueprintId="203_13" horizontal="false" title="Planetary Defenses"/>
+    <cardOutsideDeck blueprintId="200_28" horizontal="false" title="Simple Tricks And Nonsense"/>
+    <cardOutsideDeck blueprintId="200_29" horizontal="false" title="The Republic No Longer Functions"/>
+    <cardOutsideDeck blueprintId="209_15" horizontal="false" title="There Is Another"/>
+    <cardOutsideDeck blueprintId="220_10" horizontal="false" title="Thrown Back"/>
+    <cardOutsideDeck blueprintId="13_44" horizontal="false" title="Ultimatum"/>
+    <cardOutsideDeck blueprintId="13_47" horizontal="false" title="Wise Advice"/>
+    <cardOutsideDeck blueprintId="223_49" horizontal="false" title="Yavin Sentry &amp; Goldenrod"/>
+    <cardOutsideDeck blueprintId="200_32" horizontal="false" title="Your Insight Serves You Well"/>
+    <cardOutsideDeck blueprintId="301_5" horizontal="false" title="Your Ship?"/>
+</deck>

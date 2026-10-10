@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="9_96" title="We're In Attack Position Now"/>
+    <card blueprintId="9_96" title="We're In Attack Position Now"/>
+    <card blueprintId="200_73" title="Admiral Motti"/>
+    <card blueprintId="213_1" title="Admiral Ozzel"/>
+    <card blueprintId="301_6" title="Captain Khurgee"/>
+    <card blueprintId="7_175" title="Darth Vader, Dark Lord Of The Sith"/>
+    <card blueprintId="9_109" title="Emperor Palpatine"/>
+    <card blueprintId="200_81" title="General Veers"/>
+    <card blueprintId="200_81" title="General Veers"/>
+    <card blueprintId="219_7" title="Governor Pryce"/>
+    <card blueprintId="10_40" title="Grand Admiral Thrawn"/>
+    <card blueprintId="200_82" title="Grand Moff Tarkin"/>
+    <card blueprintId="200_82" title="Grand Moff Tarkin"/>
+    <card blueprintId="219_15" title="Magistrate Morgan Elsbeth"/>
+    <card blueprintId="200_86" title="Mara Jade With Lightsaber"/>
+    <card blueprintId="223_18" title="Moff Gideon, Suited For Battle"/>
+    <card blueprintId="222_12" title="Palpatine, Galactic Emperor"/>
+    <card blueprintId="208_38" title="Alert My Star Destroyer!"/>
+    <card blueprintId="200_109" title="Coarse And Rough And Irritating"/>
+    <card blueprintId="201_29" title="Endor Shield"/>
+    <card blueprintId="200_107" title="Image Of The Dark Lord"/>
+    <card blueprintId="12_135" title="Imperial Arrest Order &amp; Secret Plans"/>
+    <card blueprintId="200_108" title="Imperial Decree"/>
+    <card blueprintId="201_30" title="Imperial Enforcement"/>
+    <card blueprintId="200_110" title="Knowledge And Defense"/>
+    <card blueprintId="4_127" title="Lost In Space"/>
+    <card blueprintId="219_16" title="No Escape"/>
+    <card blueprintId="221_39" title="Tentacle"/>
+    <card blueprintId="219_20" title="Thrawn's Art Collection"/>
+    <card blueprintId="201_33" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="201_33" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="221_13" title="ComScan Detection"/>
+    <card blueprintId="200_120" title="Force Push"/>
+    <card blueprintId="219_9" title="History, Philosophy, And Art"/>
+    <card blueprintId="12_148" title="Imperial Artillery"/>
+    <card blueprintId="12_148" title="Imperial Artillery"/>
+    <card blueprintId="9_137" title="Imperial Command"/>
+    <card blueprintId="9_137" title="Imperial Command"/>
+    <card blueprintId="9_137" title="Imperial Command"/>
+    <card blueprintId="9_139" title="Prepared Defenses"/>
+    <card blueprintId="200_124" title="Sneak Attack"/>
+    <card blueprintId="200_124" title="Sneak Attack"/>
+    <card blueprintId="106_17" title="Tarkin's Orders"/>
+    <card blueprintId="3_138" title="Trample"/>
+    <card blueprintId="7_276" title="Coruscant: Docking Bay"/>
+    <card blueprintId="7_282" title="Executor: Docking Bay"/>
+    <card blueprintId="2_146" title="Kashyyyk"/>
+    <card blueprintId="219_10" title="Lothal"/>
+    <card blueprintId="219_11" title="Lothal: Advanced Projects Laboratory"/>
+    <card blueprintId="219_12" title="Lothal: Capital City"/>
+    <card blueprintId="219_13" title="Lothal: Imperial Complex"/>
+    <card blueprintId="219_1" title="A Great Tactician Creates Plans"/>
+    <card blueprintId="219_2" title="Chimaera"/>
+    <card blueprintId="219_22" title="Thunderflare"/>
+    <card blueprintId="211_24" title="Vengeance"/>
+    <card blueprintId="217_4" title="Blizzard 1"/>
+    <card blueprintId="200_139" title="Blizzard 2"/>
+    <card blueprintId="13_56" title="Blizzard 4"/>
+    <card blueprintId="200_140" title="Blizzard Scout 1"/>
+    <card blueprintId="12_187" title="Laser Cannon Battery"/>
+</deck>

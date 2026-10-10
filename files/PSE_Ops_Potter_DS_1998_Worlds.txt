@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="7_298" horizontal="false" title="Imperial Occupation"/>
+    <card blueprintId="7_163" horizontal="false" title="2X-7KPR (Tooex)"/>
+    <card blueprintId="7_163" horizontal="false" title="2X-7KPR (Tooex)"/>
+    <card blueprintId="7_163" horizontal="false" title="2X-7KPR (Tooex)"/>
+    <card blueprintId="7_163" horizontal="false" title="2X-7KPR (Tooex)"/>
+    <card blueprintId="7_177" horizontal="false" title="Eriadu Operative"/>
+    <card blueprintId="7_177" horizontal="false" title="Eriadu Operative"/>
+    <card blueprintId="7_177" horizontal="false" title="Eriadu Operative"/>
+    <card blueprintId="7_177" horizontal="false" title="Eriadu Operative"/>
+    <card blueprintId="7_177" horizontal="false" title="Eriadu Operative"/>
+    <card blueprintId="7_177" horizontal="false" title="Eriadu Operative"/>
+    <card blueprintId="7_177" horizontal="false" title="Eriadu Operative"/>
+    <card blueprintId="7_177" horizontal="false" title="Eriadu Operative"/>
+    <card blueprintId="7_177" horizontal="false" title="Eriadu Operative"/>
+    <card blueprintId="7_177" horizontal="false" title="Eriadu Operative"/>
+    <card blueprintId="7_177" horizontal="false" title="Eriadu Operative"/>
+    <card blueprintId="7_177" horizontal="false" title="Eriadu Operative"/>
+    <card blueprintId="7_177" horizontal="false" title="Eriadu Operative"/>
+    <card blueprintId="7_177" horizontal="false" title="Eriadu Operative"/>
+    <card blueprintId="7_177" horizontal="false" title="Eriadu Operative"/>
+    <card blueprintId="7_177" horizontal="false" title="Eriadu Operative"/>
+    <card blueprintId="7_177" horizontal="false" title="Eriadu Operative"/>
+    <card blueprintId="7_177" horizontal="false" title="Eriadu Operative"/>
+    <card blueprintId="7_177" horizontal="false" title="Eriadu Operative"/>
+    <card blueprintId="7_177" horizontal="false" title="Eriadu Operative"/>
+    <card blueprintId="6_121" horizontal="false" title="Ree-Yees"/>
+    <card blueprintId="6_138" horizontal="false" title="Bubo"/>
+    <card blueprintId="6_138" horizontal="false" title="Bubo"/>
+    <card blueprintId="7_281" horizontal="true" title="Desert"/>
+    <card blueprintId="102_7" horizontal="false" title="Eriadu"/>
+    <card blueprintId="7_284" horizontal="true" title="Forest"/>
+    <card blueprintId="7_285" horizontal="true" title="Jungle"/>
+    <card blueprintId="7_288" horizontal="true" title="Spaceport City"/>
+    <card blueprintId="7_289" horizontal="true" title="Spaceport Docking Bay"/>
+    <card blueprintId="7_290" horizontal="true" title="Spaceport Prefect's Office"/>
+    <card blueprintId="7_291" horizontal="true" title="Spaceport Street"/>
+    <card blueprintId="7_292" horizontal="true" title="Swamp"/>
+    <card blueprintId="4_114" horizontal="false" title="3,720 To 1"/>
+    <card blueprintId="4_114" horizontal="false" title="3,720 To 1"/>
+    <card blueprintId="6_143" horizontal="false" title="Den Of Thieves"/>
+    <card blueprintId="1_230" horizontal="false" title="Sunsdown"/>
+    <card blueprintId="1_230" horizontal="false" title="Sunsdown"/>
+    <card blueprintId="1_230" horizontal="false" title="Sunsdown"/>
+    <card blueprintId="1_230" horizontal="false" title="Sunsdown"/>
+    <card blueprintId="6_150" horizontal="false" title="Well Guarded"/>
+    <card blueprintId="6_151" horizontal="false" title="Abyssin Ornament"/>
+    <card blueprintId="6_151" horizontal="false" title="Abyssin Ornament"/>
+    <card blueprintId="6_151" horizontal="false" title="Abyssin Ornament"/>
+    <card blueprintId="6_151" horizontal="false" title="Abyssin Ornament"/>
+    <card blueprintId="6_151" horizontal="false" title="Abyssin Ornament"/>
+    <card blueprintId="6_151" horizontal="false" title="Abyssin Ornament"/>
+    <card blueprintId="4_139" horizontal="false" title="Control"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="1_258" horizontal="false" title="Lone Warrior"/>
+    <card blueprintId="1_260" horizontal="false" title="Moment Of Triumph"/>
+    <card blueprintId="2_135" horizontal="false" title="Monnok"/>
+    <card blueprintId="2_135" horizontal="false" title="Monnok"/>
+    <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
+</deck>

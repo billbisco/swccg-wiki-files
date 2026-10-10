@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="4_84" horizontal="false" title="Dagobah"/>
+    <card blueprintId="4_89" horizontal="true" title="Dagobah: Yoda's Hut"/>
+    <card blueprintId="4_85" horizontal="true" title="Dagobah: Bog Clearing"/>
+    <card blueprintId="4_88" horizontal="true" title="Dagobah: Training Area"/>
+    <card blueprintId="4_86" horizontal="true" title="Dagobah: Jungle"/>
+    <card blueprintId="5_85" horizontal="false" title="Clouds"/>
+    <card blueprintId="5_85" horizontal="false" title="Clouds"/>
+    <card blueprintId="5_85" horizontal="false" title="Clouds"/>
+    <card blueprintId="5_81" horizontal="true" title="Cloud City: Incinerator"/>
+    <card blueprintId="5_81" horizontal="true" title="Cloud City: Incinerator"/>
+    <card blueprintId="1_126" horizontal="false" title="Kessel"/>
+    <card blueprintId="4_1" horizontal="false" title="Son Of Skywalker"/>
+    <card blueprintId="4_1" horizontal="false" title="Son Of Skywalker"/>
+    <card blueprintId="4_1" horizontal="false" title="Son Of Skywalker"/>
+    <card blueprintId="4_1" horizontal="false" title="Son Of Skywalker"/>
+    <card blueprintId="4_2" horizontal="false" title="Yoda"/>
+    <card blueprintId="4_2" horizontal="false" title="Yoda"/>
+    <card blueprintId="3_8" horizontal="false" title="EG-4 (Eegee-Four)"/>
+    <card blueprintId="3_8" horizontal="false" title="EG-4 (Eegee-Four)"/>
+    <card blueprintId="103_1" horizontal="false" title="Gold Leader In Gold 1"/>
+    <card blueprintId="103_2" horizontal="false" title="Red Leader In Red 1"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_147" horizontal="false" title="Y-wing"/>
+    <card blueprintId="1_147" horizontal="false" title="Y-wing"/>
+    <card blueprintId="4_77" horizontal="false" title="Great Warrior"/>
+    <card blueprintId="1_101" horizontal="false" title="On The Edge"/>
+    <card blueprintId="1_101" horizontal="false" title="On The Edge"/>
+    <card blueprintId="1_101" horizontal="false" title="On The Edge"/>
+    <card blueprintId="5_59" horizontal="false" title="Off The Edge"/>
+    <card blueprintId="5_59" horizontal="false" title="Off The Edge"/>
+    <card blueprintId="5_59" horizontal="false" title="Off The Edge"/>
+    <card blueprintId="5_59" horizontal="false" title="Off The Edge"/>
+    <card blueprintId="1_114" horizontal="false" title="Thank The Maker"/>
+    <card blueprintId="1_114" horizontal="false" title="Thank The Maker"/>
+    <card blueprintId="1_114" horizontal="false" title="Thank The Maker"/>
+    <card blueprintId="1_90" horizontal="false" title="It Could Be Worse"/>
+    <card blueprintId="1_90" horizontal="false" title="It Could Be Worse"/>
+    <card blueprintId="1_90" horizontal="false" title="It Could Be Worse"/>
+    <card blueprintId="4_48" horizontal="false" title="Control"/>
+    <card blueprintId="4_48" horizontal="false" title="Control"/>
+    <card blueprintId="4_72" horizontal="false" title="Yoda Stew"/>
+    <card blueprintId="4_72" horizontal="false" title="Yoda Stew"/>
+    <card blueprintId="4_54" horizontal="false" title="Levitation"/>
+    <card blueprintId="4_54" horizontal="false" title="Levitation"/>
+    <card blueprintId="5_68" horizontal="false" title="Shocking Information"/>
+    <card blueprintId="5_68" horizontal="false" title="Shocking Information"/>
+    <card blueprintId="1_66" horizontal="false" title="Traffic Control"/>
+    <card blueprintId="1_66" horizontal="false" title="Traffic Control"/>
+    <card blueprintId="4_16" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="4_16" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="4_16" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="4_21" horizontal="false" title="Do, Or Do Not"/>
+    <card blueprintId="4_21" horizontal="false" title="Do, Or Do Not"/>
+</deck>

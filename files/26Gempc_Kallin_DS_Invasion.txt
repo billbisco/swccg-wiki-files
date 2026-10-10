@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="212_5^" horizontal="false" title="Admiral Trench"/>
+    <card blueprintId="204_36^" horizontal="false" title="B2 Battle Droid"/>
+    <card blueprintId="204_36^" horizontal="false" title="B2 Battle Droid"/>
+    <card blueprintId="204_36^" horizontal="false" title="B2 Battle Droid"/>
+    <card blueprintId="14_76" horizontal="false" title="Captain Daultay Dofine"/>
+    <card blueprintId="203_26" horizontal="false" title="Darth Maul, Lone Hunter"/>
+    <card blueprintId="203_26" horizontal="false" title="Darth Maul, Lone Hunter"/>
+    <card blueprintId="203_26" horizontal="false" title="Darth Maul, Lone Hunter"/>
+    <card blueprintId="203_27" horizontal="false" title="General Grievous"/>
+    <card blueprintId="208_35" horizontal="false" title="Lord Sidious"/>
+    <card blueprintId="210_40" horizontal="false" title="Nute Gunray"/>
+    <card blueprintId="14_84" horizontal="false" title="OWO-1 With Backup"/>
+    <card blueprintId="12_114" horizontal="false" title="P-59"/>
+    <card blueprintId="14_89" horizontal="false" title="SSA-1015"/>
+    <card blueprintId="225_5" horizontal="false" title="Sil Unch"/>
+    <card blueprintId="12_121" horizontal="false" title="Tey How"/>
+    <card blueprintId="203_29" horizontal="false" title="Deflector Shield Generators"/>
+    <card blueprintId="217_3" horizontal="false" title="Begin Landing Your Troops &amp; Fighters Straight Ahead"/>
+    <card blueprintId="14_96" horizontal="false" title="Droid Racks"/>
+    <card blueprintId="7_229" horizontal="false" title="First Strike"/>
+    <card blueprintId="9_126" horizontal="false" title="Inconsequential Losses"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="219_16" horizontal="false" title="No Escape"/>
+    <card blueprintId="12_140" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="12_140" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="209_44" horizontal="false" title="They Will Be No Match For You"/>
+    <card blueprintId="200_114" horizontal="false" title="You'll Be Dead!"/>
+    <card blueprintId="201_35" horizontal="false" title="Cold Feet"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="10_39" horizontal="false" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+    <card blueprintId="200_122" horizontal="false" title="Imbalance &amp; Kintan Strider"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="3_130" horizontal="false" title="Oh, Switch Off"/>
+    <card blueprintId="3_130" horizontal="false" title="Oh, Switch Off"/>
+    <card blueprintId="205_20" horizontal="false" title="Point Man"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="211_14" horizontal="false" title="Trade Federation Tactics"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="7_276" horizontal="true" title="Coruscant: Docking Bay"/>
+    <card blueprintId="216_10" horizontal="false" title="Naboo"/>
+    <card blueprintId="12_171" horizontal="true" title="Naboo: Swamp"/>
+    <card blueprintId="14_112" horizontal="true" title="Naboo: Theed Palace Hallway"/>
+    <card blueprintId="12_174" horizontal="true" title="Naboo: Theed Palace Throne Room"/>
+    <card blueprintId="14_113" horizontal="false" title="Invasion"/>
+    <card blueprintId="14_114" horizontal="false" title="Blockade Flagship"/>
+    <card blueprintId="200_129" horizontal="false" title="Blockade Support Ship"/>
+    <card blueprintId="211_23" horizontal="false" title="Invisible Hand"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="13_75" horizontal="true" title="Maul's Double-Bladed Lightsaber"/>
+    <cardOutsideDeck blueprintId="13_51" horizontal="false" title="A Useless Gesture"/>
+    <cardOutsideDeck blueprintId="223_7" horizontal="false" title="A Useless Gesture &amp; Death Star Sentry"/>
+    <cardOutsideDeck blueprintId="13_52" horizontal="false" title="Allegations Of Corruption"/>
+    <cardOutsideDeck blueprintId="13_54" horizontal="false" title="Battle Order"/>
+    <cardOutsideDeck blueprintId="13_61" horizontal="false" title="Come Here You Big Coward"/>
+    <cardOutsideDeck blueprintId="225_3" horizontal="false" title="Come Here You Big Coward"/>
+    <cardOutsideDeck blueprintId="13_63" horizontal="false" title="Crossfire"/>
+    <cardOutsideDeck blueprintId="216_5" horizontal="false" title="Crossfire"/>
+    <cardOutsideDeck blueprintId="13_66" horizontal="false" title="Do They Have A Code Clearance?"/>
+    <cardOutsideDeck blueprintId="220_2" horizontal="false" title="Drop!"/>
+    <cardOutsideDeck blueprintId="213_13" horizontal="false" title="Failure At The Cave"/>
+    <cardOutsideDeck blueprintId="13_68" horizontal="false" title="Fanfare"/>
+    <cardOutsideDeck blueprintId="200_95" horizontal="false" title="Fanfare"/>
+    <cardOutsideDeck blueprintId="13_72" horizontal="false" title="Leave Them To Me"/>
+    <cardOutsideDeck blueprintId="13_78" horizontal="false" title="No Escape"/>
+    <cardOutsideDeck blueprintId="13_81" horizontal="false" title="Oppressive Enforcement"/>
+    <cardOutsideDeck blueprintId="13_84" horizontal="false" title="Resistance"/>
+    <cardOutsideDeck blueprintId="13_86" horizontal="false" title="Secret Plans"/>
+    <cardOutsideDeck blueprintId="13_90" horizontal="false" title="There Is No Try"/>
+    <cardOutsideDeck blueprintId="200_99" horizontal="false" title="Vote Of No Confidence"/>
+    <cardOutsideDeck blueprintId="13_96" horizontal="false" title="We'll Let Fate-a Decide, Huh?"/>
+    <cardOutsideDeck blueprintId="223_26" horizontal="false" title="We'll Let Fate-a Decide, Huh?"/>
+    <cardOutsideDeck blueprintId="13_95" horizontal="false" title="Weapon Of A Sith"/>
+    <cardOutsideDeck blueprintId="13_98" horizontal="false" title="Wipe Them Out, All Of Them"/>
+    <cardOutsideDeck blueprintId="13_99" horizontal="false" title="You Cannot Hide Forever"/>
+    <cardOutsideDeck blueprintId="200_100" horizontal="false" title="You Cannot Hide Forever"/>
+    <cardOutsideDeck blueprintId="13_100" horizontal="false" title="You've Never Won A Race?"/>
+    <cardOutsideDeck blueprintId="223_29" horizontal="false" title="You've Never Won A Race?"/>
+</deck>

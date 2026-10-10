@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_73" title="Admiral Motti"/>
+    <card blueprintId="208_30" title="Darth Vader, Emperor's Enforcer"/>
+    <card blueprintId="10_40" title="Grand Admiral Thrawn"/>
+    <card blueprintId="209_36" title="Krennic, Death Star Commandant"/>
+    <card blueprintId="209_36" title="Krennic, Death Star Commandant"/>
+    <card blueprintId="4_104" title="Lieutenant Suba"/>
+    <card blueprintId="4_104" title="Lieutenant Suba"/>
+    <card blueprintId="208_34" title="Lord Maul With Lightsaber"/>
+    <card blueprintId="9_118" title="Myn Kyneugh"/>
+    <card blueprintId="222_12" title="Palpatine, Galactic Emperor"/>
+    <card blueprintId="13_87" title="Stormtrooper Garrison"/>
+    <card blueprintId="13_87" title="Stormtrooper Garrison"/>
+    <card blueprintId="13_87" title="Stormtrooper Garrison"/>
+    <card blueprintId="13_87" title="Stormtrooper Garrison"/>
+    <card blueprintId="13_87" title="Stormtrooper Garrison"/>
+    <card blueprintId="203_29" title="Deflector Shield Generators"/>
+    <card blueprintId="203_29" title="Deflector Shield Generators"/>
+    <card blueprintId="11_68" title="A Million Voices Crying Out"/>
+    <card blueprintId="217_1" title="An Effective Demonstration"/>
+    <card blueprintId="200_109" title="Coarse And Rough And Irritating"/>
+    <card blueprintId="12_133" title="Enter The Bureaucrat"/>
+    <card blueprintId="200_107" title="Image Of The Dark Lord"/>
+    <card blueprintId="200_108" title="Imperial Decree"/>
+    <card blueprintId="200_110" title="Knowledge And Defense"/>
+    <card blueprintId="200_111" title="Kuat Drive Yards"/>
+    <card blueprintId="1_222*" title="Lateral Damage"/>
+    <card blueprintId="7_242" title="Strategic Reserves"/>
+    <card blueprintId="2_130" title="Commence Primary Ignition"/>
+    <card blueprintId="209_46" title="Apology Accepted"/>
+    <card blueprintId="209_46" title="Apology Accepted"/>
+    <card blueprintId="1_240" title="Dark Jedi Presence"/>
+    <card blueprintId="1_240" title="Dark Jedi Presence"/>
+    <card blueprintId="209_47" title="Death Squadron Assignment"/>
+    <card blueprintId="10_39" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+    <card blueprintId="1_249" title="Imperial Barrier"/>
+    <card blueprintId="9_137*" title="Imperial Command"/>
+    <card blueprintId="9_139" title="Prepared Defenses"/>
+    <card blueprintId="7_259" title="Put All Sections On Alert"/>
+    <card blueprintId="7_259" title="Put All Sections On Alert"/>
+    <card blueprintId="218_2" title="Seal Off The Bridge"/>
+    <card blueprintId="201_36" title="TIE Sentry Ships"/>
+    <card blueprintId="201_36" title="TIE Sentry Ships"/>
+    <card blueprintId="3_136" title="Tactical Support"/>
+    <card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="1_281" title="Alderaan"/>
+    <card blueprintId="8_156" title="Carida"/>
+    <card blueprintId="106_12" title="Corulag"/>
+    <card blueprintId="2_143*" title="Death Star"/>
+    <card blueprintId="1_285" title="Death Star: Docking Bay 327"/>
+    <card blueprintId="208_48" title="Death Star: War Room"/>
+    <card blueprintId="4_164" title="Raithal"/>
+    <card blueprintId="111_6" title="Set Your Course For Alderaan"/>
+    <card blueprintId="216_3" title="Avenger"/>
+    <card blueprintId="200_133" title="Conquest"/>
+    <card blueprintId="216_8" title="Devastator"/>
+    <card blueprintId="201_41" title="Stalker"/>
+    <card blueprintId="211_24" title="Vengeance"/>
+    <card blueprintId="13_56" title="Blizzard 4"/>
+    <card blueprintId="13_56" title="Blizzard 4"/>
+    <card blueprintId="216_19" title="Superlaser"/>
+    <cardOutsideDeck blueprintId="13_51" title="A Useless Gesture"/>
+    <cardOutsideDeck blueprintId="200_93" title="A Useless Gesture"/>
+    <cardOutsideDeck blueprintId="13_52" title="Allegations Of Corruption"/>
+    <cardOutsideDeck blueprintId="13_54" title="Battle Order"/>
+    <cardOutsideDeck blueprintId="13_61" title="Come Here You Big Coward"/>
+    <cardOutsideDeck blueprintId="216_5" title="Crossfire"/>
+    <cardOutsideDeck blueprintId="200_94" title="Death Star Sentry"/>
+    <cardOutsideDeck blueprintId="13_66" title="Do They Have A Code Clearance?"/>
+    <cardOutsideDeck blueprintId="213_13" title="Failure At The Cave"/>
+    <cardOutsideDeck blueprintId="200_95" title="Fanfare"/>
+    <cardOutsideDeck blueprintId="200_97" title="I Find Your Lack Of Faith Disturbing"/>
+    <cardOutsideDeck blueprintId="200_98" title="Imperial Detention"/>
+    <cardOutsideDeck blueprintId="13_72" title="Leave Them To Me"/>
+    <cardOutsideDeck blueprintId="13_78" title="No Escape"/>
+    <cardOutsideDeck blueprintId="13_81" title="Oppressive Enforcement"/>
+    <cardOutsideDeck blueprintId="13_84" title="Resistance"/>
+    <cardOutsideDeck blueprintId="13_86" title="Secret Plans"/>
+    <cardOutsideDeck blueprintId="13_90" title="There Is No Try"/>
+    <cardOutsideDeck blueprintId="200_99" title="Vote Of No Confidence"/>
+    <cardOutsideDeck blueprintId="13_96" title="We'll Let Fate-a Decide, Huh?"/>
+    <cardOutsideDeck blueprintId="13_95" title="Weapon Of A Sith"/>
+    <cardOutsideDeck blueprintId="13_98" title="Wipe Them Out, All Of Them"/>
+    <cardOutsideDeck blueprintId="200_100" title="You Cannot Hide Forever"/>
+    <cardOutsideDeck blueprintId="13_100" title="You've Never Won A Race?"/>
+</deck>

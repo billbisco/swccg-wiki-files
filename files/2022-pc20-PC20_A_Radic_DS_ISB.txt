@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+<card blueprintId="200_72" title="5D6-RA-7 (Fivedesix)"/>
+<card blueprintId="9_97" title="Admiral Chiraneau"/>
+<card blueprintId="3_82" title="Admiral Ozzel"/>
+<card blueprintId="203_22" title="Agent Kallus"/>
+<card blueprintId="201_22" title="Colonel Wullf Yularen"/>
+<card blueprintId="201_23" title="Corporal Vandolay"/>
+<card blueprintId="213_3" title="Darth Tyranus"/>
+<card blueprintId="108_6" title="Darth Vader With Lightsaber"/>
+<card blueprintId="208_30" title="Darth Vader, Emperor's Enforcer"/>
+<card blueprintId="208_30" title="Darth Vader, Emperor's Enforcer"/>
+<card blueprintId="217_8" title="Deputy Director Harus Ison"/>
+<card blueprintId="213_6" title="Fifth Brother"/>
+<card blueprintId="207_21" title="Grand Admiral Thrawn"/>
+<card blueprintId="208_32" title="Kir Kanos"/>
+<card blueprintId="8_103" title="Lieutenant Renz"/>
+<card blueprintId="208_34" title="Lord Maul With Lightsaber"/>
+<card blueprintId="208_34" title="Lord Maul With Lightsaber"/>
+<card blueprintId="208_34" title="Lord Maul With Lightsaber"/>
+<card blueprintId="208_35" title="Lord Sidious"/>
+<card blueprintId="208_35" title="Lord Sidious"/>
+<card blueprintId="201_26" title="Lt. Pol Treidum"/>
+<card blueprintId="212_2" title="Moff Gideon"/>
+<card blueprintId="208_36" title="Myn Kyneugh"/>
+<card blueprintId="213_11" title="Ninth Sister"/>
+<card blueprintId="2_98" title="Officer Evax"/>
+<card blueprintId="13_87" title="Stormtrooper Garrison"/>
+<card blueprintId="13_87" title="Stormtrooper Garrison"/>
+<card blueprintId="204_44" title="Stormtrooper Patrol"/>
+<card blueprintId="204_45" title="Tarkin"/>
+<card blueprintId="210_46" title="The Grand Inquisitor"/>
+<card blueprintId="200_92" title="Ysanne Isard"/>
+<card blueprintId="200_110" title="Knowledge And Defense"/>
+<card blueprintId="218_13" title="Ni Chuba Na??"/>
+<card blueprintId="200_112" title="Something Special Planned For Them"/>
+<card blueprintId="208_41" title="Tarkin's Bounty"/>
+<card blueprintId="12_144" title="You Cannot Hide Forever &amp; Mobilization Points"/>
+<card blueprintId="1_240" title="Dark Jedi Presence"/>
+<card blueprintId="1_240" title="Dark Jedi Presence"/>
+<card blueprintId="1_240" title="Dark Jedi Presence"/>
+<card blueprintId="1_240" title="Dark Jedi Presence"/>
+<card blueprintId="1_243" title="Elis Helrot"/>
+<card blueprintId="1_243" title="Elis Helrot"/>
+<card blueprintId="1_243" title="Elis Helrot"/>
+<card blueprintId="1_243" title="Elis Helrot"/>
+<card blueprintId="9_137" title="Imperial Command"/>
+<card blueprintId="212_4" title="Slip Sliding Away"/>
+<card blueprintId="8_156" title="Carida"/>
+<card blueprintId="211_17" title="Coruscant: 500 Republica"/>
+<card blueprintId="216_4" title="Coruscant: The Works"/>
+<card blueprintId="203_32" title="Coruscant: Xizor's Palace"/>
+<card blueprintId="218_12" title="Malastare"/>
+<card blueprintId="11_94" title="Tatooine: Podrace Arena"/>
+<card blueprintId="209_51" title="Xizor's Palace: Sewer"/>
+<card blueprintId="203_34" title="Xizor's Palace: Uplink Station"/>
+<card blueprintId="7_299" title="ISB Operations"/>
+<card blueprintId="202_13" title="Binder"/>
+<card blueprintId="200_133" title="Conquest"/>
+<card blueprintId="201_41" title="Stalker"/>
+<card blueprintId="211_24" title="Vengeance"/>
+<card blueprintId="13_56" title="Blizzard 4"/>
+<cardOutsideDeck blueprintId="13_51" title="A Useless Gesture"/>
+<cardOutsideDeck blueprintId="200_93" title="A Useless Gesture"/>
+<cardOutsideDeck blueprintId="13_52" title="Allegations Of Corruption"/>
+<cardOutsideDeck blueprintId="13_54" title="Battle Order"/>
+<cardOutsideDeck blueprintId="13_61" title="Come Here You Big Coward"/>
+<cardOutsideDeck blueprintId="13_63" title="Crossfire"/>
+<cardOutsideDeck blueprintId="216_5" title="Crossfire"/>
+<cardOutsideDeck blueprintId="200_94" title="Death Star Sentry"/>
+<cardOutsideDeck blueprintId="13_66" title="Do They Have A Code Clearance?"/>
+<cardOutsideDeck blueprintId="213_13" title="Failure At The Cave"/>
+<cardOutsideDeck blueprintId="13_68" title="Fanfare"/>
+<cardOutsideDeck blueprintId="200_95" title="Fanfare"/>
+<cardOutsideDeck blueprintId="200_97" title="I Find Your Lack Of Faith Disturbing"/>
+<cardOutsideDeck blueprintId="200_98" title="Imperial Detention"/>
+<cardOutsideDeck blueprintId="13_72" title="Leave Them To Me"/>
+<cardOutsideDeck blueprintId="13_78" title="No Escape"/>
+<cardOutsideDeck blueprintId="13_81" title="Oppressive Enforcement"/>
+<cardOutsideDeck blueprintId="13_84" title="Resistance"/>
+<cardOutsideDeck blueprintId="13_86" title="Secret Plans"/>
+<cardOutsideDeck blueprintId="13_90" title="There Is No Try"/>
+<cardOutsideDeck blueprintId="200_99" title="Vote Of No Confidence"/>
+<cardOutsideDeck blueprintId="13_96" title="We'll Let Fate-a Decide, Huh?"/>
+<cardOutsideDeck blueprintId="13_95" title="Weapon Of A Sith"/>
+<cardOutsideDeck blueprintId="13_98" title="Wipe Them Out, All Of Them"/>
+<cardOutsideDeck blueprintId="13_99" title="You Cannot Hide Forever"/>
+<cardOutsideDeck blueprintId="200_100" title="You Cannot Hide Forever"/>
+<cardOutsideDeck blueprintId="13_100" title="You've Never Won A Race?"/>
+</deck>

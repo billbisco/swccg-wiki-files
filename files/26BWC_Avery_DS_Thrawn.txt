@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="109_6" horizontal="false" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="200_73" horizontal="false" title="Admiral Motti"/>
+    <card blueprintId="3_82" horizontal="false" title="Admiral Ozzel"/>
+    <card blueprintId="9_98" horizontal="false" title="Admiral Piett"/>
+    <card blueprintId="13_59" horizontal="false" title="Boba Fett, Bounty Hunter"/>
+    <card blueprintId="221_12" horizontal="false" title="Commander Praji"/>
+    <card blueprintId="1_168" horizontal="false" title="Darth Vader"/>
+    <card blueprintId="1_168" horizontal="false" title="Darth Vader"/>
+    <card blueprintId="10_40" horizontal="false" title="Grand Admiral Thrawn"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="209_38" horizontal="false" title="Lieutenant Venka"/>
+    <card blueprintId="110_10" horizontal="false" title="Mara Jade, The Emperor's Hand"/>
+    <card blueprintId="223_18" horizontal="false" title="Moff Gideon, Suited For Battle"/>
+    <card blueprintId="222_12" horizontal="false" title="Palpatine, Galactic Emperor"/>
+    <card blueprintId="222_12" horizontal="false" title="Palpatine, Galactic Emperor"/>
+    <card blueprintId="222_12" horizontal="false" title="Palpatine, Galactic Emperor"/>
+    <card blueprintId="222_12" horizontal="false" title="Palpatine, Galactic Emperor"/>
+    <card blueprintId="210_46" horizontal="false" title="The Grand Inquisitor"/>
+    <card blueprintId="2_107" horizontal="false" title="U-3PO (Yoo-Threepio)"/>
+    <card blueprintId="208_38" horizontal="false" title="Alert My Star Destroyer!"/>
+    <card blueprintId="201_29" horizontal="false" title="Endor Shield"/>
+    <card blueprintId="200_107" horizontal="false" title="Image Of The Dark Lord"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="1_222" horizontal="false" title="Lateral Damage"/>
+    <card blueprintId="1_222" horizontal="false" title="Lateral Damage"/>
+    <card blueprintId="4_127" horizontal="false" title="Lost In Space"/>
+    <card blueprintId="219_16" horizontal="false" title="No Escape"/>
+    <card blueprintId="9_132" horizontal="false" title="Something Special Planned For Them"/>
+    <card blueprintId="208_41" horizontal="false" title="Tarkin's Bounty"/>
+    <card blueprintId="219_20" horizontal="false" title="Thrawn's Art Collection"/>
+    <card blueprintId="10_36" horizontal="false" title="Defensive Fire &amp; Hutt Smooch"/>
+    <card blueprintId="222_7" horizontal="false" title="Force Push &amp; Podracer Collision"/>
+    <card blueprintId="222_7" horizontal="false" title="Force Push &amp; Podracer Collision"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="219_9" horizontal="false" title="History, Philosophy, And Art"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="218_1" horizontal="false" title="Imperial Command &amp; In Range"/>
+    <card blueprintId="218_1" horizontal="false" title="Imperial Command &amp; In Range"/>
+    <card blueprintId="1_255" horizontal="false" title="Limited Resources"/>
+    <card blueprintId="7_257" horizontal="false" title="Masterful Move"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="200_123" horizontal="false" title="Sith Fury"/>
+    <card blueprintId="200_123" horizontal="false" title="Sith Fury"/>
+    <card blueprintId="106_17" horizontal="false" title="Tarkin's Orders"/>
+    <card blueprintId="219_21" horizontal="false" title="Thrawn Pincer"/>
+    <card blueprintId="7_283" horizontal="false" title="Fondor"/>
+    <card blueprintId="2_146" horizontal="false" title="Kashyyyk"/>
+    <card blueprintId="219_10" horizontal="false" title="Lothal"/>
+    <card blueprintId="219_11" horizontal="true" title="Lothal: Advanced Projects Laboratory"/>
+    <card blueprintId="219_12" horizontal="true" title="Lothal: Capital City"/>
+    <card blueprintId="219_13" horizontal="true" title="Lothal: Imperial Complex"/>
+    <card blueprintId="219_1" horizontal="false" title="A Great Tactician Creates Plans"/>
+    <card blueprintId="219_2" horizontal="false" title="Chimaera"/>
+    <card blueprintId="216_8" horizontal="false" title="Devastator"/>
+    <card blueprintId="4_167" horizontal="true" title="Executor"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="200_140" horizontal="false" title="Blizzard Scout 1"/>
+    <cardOutsideDeck blueprintId="13_51" horizontal="false" title="A Useless Gesture"/>
+    <cardOutsideDeck blueprintId="223_7" horizontal="false" title="A Useless Gesture &amp; Death Star Sentry"/>
+    <cardOutsideDeck blueprintId="13_52" horizontal="false" title="Allegations Of Corruption"/>
+    <cardOutsideDeck blueprintId="13_54" horizontal="false" title="Battle Order"/>
+    <cardOutsideDeck blueprintId="13_61" horizontal="false" title="Come Here You Big Coward"/>
+    <cardOutsideDeck blueprintId="225_3" horizontal="false" title="Come Here You Big Coward"/>
+    <cardOutsideDeck blueprintId="13_63" horizontal="false" title="Crossfire"/>
+    <cardOutsideDeck blueprintId="216_5" horizontal="false" title="Crossfire"/>
+    <cardOutsideDeck blueprintId="13_66" horizontal="false" title="Do They Have A Code Clearance?"/>
+    <cardOutsideDeck blueprintId="220_2" horizontal="false" title="Drop!"/>
+    <cardOutsideDeck blueprintId="213_13" horizontal="false" title="Failure At The Cave"/>
+    <cardOutsideDeck blueprintId="13_68" horizontal="false" title="Fanfare"/>
+    <cardOutsideDeck blueprintId="200_95" horizontal="false" title="Fanfare"/>
+    <cardOutsideDeck blueprintId="13_72" horizontal="false" title="Leave Them To Me"/>
+    <cardOutsideDeck blueprintId="13_78" horizontal="false" title="No Escape"/>
+    <cardOutsideDeck blueprintId="13_81" horizontal="false" title="Oppressive Enforcement"/>
+    <cardOutsideDeck blueprintId="13_84" horizontal="false" title="Resistance"/>
+    <cardOutsideDeck blueprintId="13_86" horizontal="false" title="Secret Plans"/>
+    <cardOutsideDeck blueprintId="13_90" horizontal="false" title="There Is No Try"/>
+    <cardOutsideDeck blueprintId="200_99" horizontal="false" title="Vote Of No Confidence"/>
+    <cardOutsideDeck blueprintId="13_96" horizontal="false" title="We'll Let Fate-a Decide, Huh?"/>
+    <cardOutsideDeck blueprintId="223_26" horizontal="false" title="We'll Let Fate-a Decide, Huh?"/>
+    <cardOutsideDeck blueprintId="13_95" horizontal="false" title="Weapon Of A Sith"/>
+    <cardOutsideDeck blueprintId="13_98" horizontal="false" title="Wipe Them Out, All Of Them"/>
+    <cardOutsideDeck blueprintId="13_99" horizontal="false" title="You Cannot Hide Forever"/>
+    <cardOutsideDeck blueprintId="200_100" horizontal="false" title="You Cannot Hide Forever"/>
+    <cardOutsideDeck blueprintId="13_100" horizontal="false" title="You've Never Won A Race?"/>
+    <cardOutsideDeck blueprintId="223_29" horizontal="false" title="You've Never Won A Race?"/>
+</deck>

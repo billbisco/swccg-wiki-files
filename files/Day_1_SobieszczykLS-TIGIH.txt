@@ -1,0 +1,64 @@
+2021 WORLDS FORREST SOBIESZCYK LS TIGIH
+
+CHARACTER
+1x Ahsoka Tano
+1x Anakin Skywalker, Padawan Learner
+1x Captain Hera Syndulla
+1x Corran Horn
+1x Jyn Erso
+1x Lando Calrissian, Scoundrel
+1x Leia, Rebel Princess
+1x Luke Skywalker, Jedi Knight
+1x Luke Skywalker, Rebel Scout (V)
+2x Obi-Wan With Lightsaber
+1x Padme Naberrie (V)
+1x Princess Leia (V)
+2x Qui-Gon Jinn With Lightsaber
+2x Rey With Lightsaber
+1x Threepio With His Parts Showing (AI)
+1x Yoda, Master Of The Force (V)
+
+EFFECT
+1x Anger, Fear, Aggression (V)
+1x Disarmed
+1x Draw Their Fire
+1x I Feel The Conflict
+
+INTERRUPT
+2x A Jedi's Resilience
+1x Blaster Deflection
+2x Clash Of Sabers
+1x Control & Tunnel Vision
+1x Don't Tread On Me (V)
+1x Escape Pod & We're Doomed
+1x Houjix
+1x Impressive, Most Impressive (V)
+1x Jedi Levitation (V)
+1x Nabrun Leids
+1x Odin Nesloor & First Aid
+1x Out Of Commission & Transmission Terminated
+1x Rebel Barrier
+1x Sense & Recoil In Fear
+2x Sorry About The Mess & Blaster Proficiency
+3x Speak With The Jedi Council
+1x The Bith Shuffle & Desperate Reach
+1x Were You Looking For Me?
+3x Wesa Gotta Grand Army
+1x Yoda Stew & You Do Have Your Moments
+
+LOCATION
+1x Coruscant: Jedi Council Chamber
+1x Endor: Chief Chirpa's Hut
+1x Endor: Landing Platform (Docking Bay)
+1x Naboo: Battle Plains
+1x Naboo: Boss Nass' Chambers
+
+OBJECTIVE
+1x There Is Good In Him
+
+STARSHIP
+2x Han, Chewie, And The Falcon (V)
+
+WEAPON
+1x Leia's Blaster Rifle
+1x Luke's Lightsaber

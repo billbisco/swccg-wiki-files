@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="301_1" title="Ahsoka Tano With Lightsabers"/>
+    <card blueprintId="216_21" title="Anakin Skywalker, Jedi Knight"/>
+    <card blueprintId="216_21" title="Anakin Skywalker, Jedi Knight"/>
+    <card blueprintId="216_21" title="Anakin Skywalker, Jedi Knight"/>
+    <card blueprintId="216_21" title="Anakin Skywalker, Jedi Knight"/>
+    <card blueprintId="216_21" title="Anakin Skywalker, Jedi Knight"/>
+    <card blueprintId="10_5" title="Corran Horn"/>
+    <card blueprintId="200_9" title="Daughter Of Skywalker"/>
+    <card blueprintId="210_14" title="Ezra Bridger"/>
+    <card blueprintId="206_4" title="Jyn Erso"/>
+    <card blueprintId="13_27" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="208_8" title="Luke Skywalker, The Rebellion's Hope"/>
+    <card blueprintId="208_8" title="Luke Skywalker, The Rebellion's Hope"/>
+    <card blueprintId="203_10" title="Padme Naberrie"/>
+    <card blueprintId="204_9" title="Rey"/>
+    <card blueprintId="204_9" title="Rey"/>
+    <card blueprintId="204_11" title="Solo"/>
+    <card blueprintId="11_13" title="Threepio With His Parts Showing"/>
+    <card blueprintId="213_44" title="Yoda, Master Of The Force"/>
+    <card blueprintId="200_35" title="Anger, Fear, Aggression"/>
+    <card blueprintId="218_15" title="Best Starpilot In The Galaxy"/>
+    <card blueprintId="7_60" title="Draw Their Fire"/>
+    <card blueprintId="221_72" title="Scanner Techs"/>
+    <card blueprintId="200_47" title="Wokling"/>
+    <card blueprintId="217_52" title="Your Thoughts Dwell On Your Mother"/>
+    <card blueprintId="217_50" title="The Force Is Strong In My Family"/>
+    <card blueprintId="204_18" title="Escape Pod &amp; We're Doomed"/>
+    <card blueprintId="201_13" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="2_50" title="Houjix"/>
+    <card blueprintId="200_53" title="Impressive, Most Impressive"/>
+    <card blueprintId="200_53" title="Impressive, Most Impressive"/>
+    <card blueprintId="1_97" title="Nabrun Leids"/>
+    <card blueprintId="217_42" title="Now, This Is Podracing!"/>
+    <card blueprintId="217_42" title="Now, This Is Podracing!"/>
+    <card blueprintId="217_42" title="Now, This Is Podracing!"/>
+    <card blueprintId="217_42" title="Now, This Is Podracing!"/>
+    <card blueprintId="217_42" title="Now, This Is Podracing!"/>
+    <card blueprintId="209_21" title="Odin Nesloor &amp; First Aid"/>
+    <card blueprintId="12_66" title="Rebel Artillery"/>
+    <card blueprintId="10_23" title="Sorry About The Mess &amp; Blaster Proficiency"/>
+    <card blueprintId="218_6" title="Take A Seat, Young Skywalker"/>
+    <card blueprintId="218_6" title="Take A Seat, Young Skywalker"/>
+    <card blueprintId="218_6" title="Take A Seat, Young Skywalker"/>
+    <card blueprintId="203_18" title="The Force Is Strong With This One"/>
+    <card blueprintId="217_51" title="The Rise Of Skywalker"/>
+    <card blueprintId="12_76" title="Coruscant: Jedi Council Chamber"/>
+    <card blueprintId="200_57" title="Coruscant: Night Club"/>
+    <card blueprintId="218_28" title="Polis Massa"/>
+    <card blueprintId="217_47" title="Tatooine: Skywalker Hut"/>
+    <card blueprintId="217_48" title="Tatooine: Slave Quarters"/>
+    <card blueprintId="111_2" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="111_2" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="111_2" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="111_2" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="111_2" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="111_2" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="206_8" title="The Falcon"/>
+    <card blueprintId="3_71" title="Anakin's Lightsaber"/>
+    <card blueprintId="7_162" title="X-wing Laser Cannon"/>
+    <card blueprintId="7_162" title="X-wing Laser Cannon"/>
+</deck>

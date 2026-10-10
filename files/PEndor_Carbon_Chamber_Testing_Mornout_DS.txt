@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="7_296" horizontal="false" title="Carbon Chamber Testing"/>
+    <card blueprintId="5_166" horizontal="true" title="Cloud City: Carbonite Chamber"/>
+    <card blueprintId="5_172" horizontal="true" title="Cloud City: Security Tower"/>
+    <card blueprintId="7_270" horizontal="true" title="Cloud City: Downtown Plaza"/>
+    <card blueprintId="7_271" horizontal="true" title="Cloud City: Interrogation Room"/>
+    <card blueprintId="7_272" horizontal="true" title="Cloud City: Port Town District"/>
+    <card blueprintId="6_162" horizontal="true" title="Jabba's Palace: Audience Chamber"/>
+    <card blueprintId="1_294" horizontal="true" title="Tatooine: Lars' Moisture Farm"/>
+    <card blueprintId="1_293" horizontal="true" title="Tatooine: Jundland Wastes"/>
+    <card blueprintId="1_290" horizontal="true" title="Tatooine: Cantina"/>
+    <card blueprintId="1_168" horizontal="false" title="Darth Vader"/>
+    <card blueprintId="1_168" horizontal="false" title="Darth Vader"/>
+    <card blueprintId="1_187" horizontal="false" title="M'iiyoom Onith"/>
+    <card blueprintId="1_187" horizontal="false" title="M'iiyoom Onith"/>
+    <card blueprintId="6_109" horizontal="false" title="Jabba The Hutt"/>
+    <card blueprintId="4_107" horizontal="false" title="Zuckuss"/>
+    <card blueprintId="1_171" horizontal="false" title="Djas Puhr"/>
+    <card blueprintId="1_191" horizontal="false" title="Prophetess"/>
+    <card blueprintId="6_95" horizontal="false" title="Bane Malar"/>
+    <card blueprintId="7_169" horizontal="false" title="Brangus Glee"/>
+    <card blueprintId="5_107" horizontal="false" title="Carbonite Chamber Console"/>
+    <card blueprintId="8_132" horizontal="false" title="Security Precautions"/>
+    <card blueprintId="7_234" horizontal="false" title="Oppressive Enforcement"/>
+    <card blueprintId="6_147" horizontal="false" title="Resistance"/>
+    <card blueprintId="2_128" horizontal="false" title="There'll Be Hell To Pay"/>
+    <card blueprintId="2_128" horizontal="false" title="There'll Be Hell To Pay"/>
+    <card blueprintId="2_128" horizontal="false" title="There'll Be Hell To Pay"/>
+    <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="1_234" horizontal="false" title="Alter"/>
+    <card blueprintId="1_234" horizontal="false" title="Alter"/>
+    <card blueprintId="1_234" horizontal="false" title="Alter"/>
+    <card blueprintId="1_234" horizontal="false" title="Alter"/>
+    <card blueprintId="1_234" horizontal="false" title="Alter"/>
+    <card blueprintId="1_234" horizontal="false" title="Alter"/>
+    <card blueprintId="1_234" horizontal="false" title="Alter"/>
+    <card blueprintId="1_266" horizontal="false" title="Scanning Crew"/>
+    <card blueprintId="1_266" horizontal="false" title="Scanning Crew"/>
+    <card blueprintId="1_266" horizontal="false" title="Scanning Crew"/>
+    <card blueprintId="1_266" horizontal="false" title="Scanning Crew"/>
+    <card blueprintId="1_266" horizontal="false" title="Scanning Crew"/>
+    <card blueprintId="1_266" horizontal="false" title="Scanning Crew"/>
+    <card blueprintId="1_266" horizontal="false" title="Scanning Crew"/>
+    <card blueprintId="1_266" horizontal="false" title="Scanning Crew"/>
+    <card blueprintId="1_266" horizontal="false" title="Scanning Crew"/>
+    <card blueprintId="1_266" horizontal="false" title="Scanning Crew"/>
+    <card blueprintId="1_266" horizontal="false" title="Scanning Crew"/>
+    <card blueprintId="2_135" horizontal="false" title="Monnok"/>
+    <card blueprintId="2_135" horizontal="false" title="Monnok"/>
+    <card blueprintId="2_135" horizontal="false" title="Monnok"/>
+    <card blueprintId="2_135" horizontal="false" title="Monnok"/>
+    <card blueprintId="2_135" horizontal="false" title="Monnok"/>
+    <card blueprintId="2_135" horizontal="false" title="Monnok"/>
+</deck>

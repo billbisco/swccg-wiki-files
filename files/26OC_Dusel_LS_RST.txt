@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="9_5" horizontal="false" title="Taking Them With Us"/>
+    <card blueprintId="9_5" horizontal="false" title="Taking Them With Us"/>
+    <card blueprintId="203_1" horizontal="false" title="Admiral Ackbar"/>
+    <card blueprintId="206_2" horizontal="false" title="Cal Alder"/>
+    <card blueprintId="200_4" horizontal="false" title="Captain Yutani With Blaster Cannon"/>
+    <card blueprintId="208_4" horizontal="false" title="Corporal Delevar"/>
+    <card blueprintId="8_7" horizontal="false" title="Corporal Kensaric"/>
+    <card blueprintId="200_9" horizontal="false" title="Daughter Of Skywalker"/>
+    <card blueprintId="200_9" horizontal="false" title="Daughter Of Skywalker"/>
+    <card blueprintId="203_4" horizontal="false" title="Ellorrs Madak, Pilot Instructor"/>
+    <card blueprintId="200_12" horizontal="false" title="General Airen Cracken"/>
+    <card blueprintId="9_13" horizontal="false" title="General Calrissian"/>
+    <card blueprintId="224_15" horizontal="false" title="General Crix Madine"/>
+    <card blueprintId="200_13" horizontal="false" title="General Solo"/>
+    <card blueprintId="9_21" horizontal="false" title="Lieutenant Blount"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="203_8" horizontal="false" title="Major Bren Derlin"/>
+    <card blueprintId="225_52" horizontal="false" title="Major Panno"/>
+    <card blueprintId="201_4" horizontal="false" title="Obi-Wan Kenobi"/>
+    <card blueprintId="225_56" horizontal="false" title="Orrimaarko"/>
+    <card blueprintId="207_9" horizontal="false" title="Sabine Wren"/>
+    <card blueprintId="11_13*" horizontal="false" title="Threepio With His Parts Showing"/>
+    <card blueprintId="225_10" horizontal="false" title="Wuta"/>
+    <card blueprintId="213_44" horizontal="false" title="Yoda, Master Of The Force"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="8_40" horizontal="false" title="Insurrection"/>
+    <card blueprintId="226_20" horizontal="false" title="Launching The Assault"/>
+    <card blueprintId="218_26" horizontal="false" title="Ounee Ta"/>
+    <card blueprintId="221_6" horizontal="false" title="Strike Planning"/>
+    <card blueprintId="11_22*" horizontal="false" title="The Shield Is Down!"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="8_43" horizontal="false" title="Deactivate The Shield Generator"/>
+    <card blueprintId="225_7" horizontal="false" title="Critical Error Revealed"/>
+    <card blueprintId="5_43" horizontal="false" title="Dash"/>
+    <card blueprintId="6_66" horizontal="false" title="Fallen Portal"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="8_56" horizontal="false" title="I Know"/>
+    <card blueprintId="9_52" horizontal="false" title="Insertion Planning"/>
+    <card blueprintId="1_92" horizontal="false" title="Jedi Presence"/>
+    <card blueprintId="1_92" horizontal="false" title="Jedi Presence"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="101_3" horizontal="false" title="Run Luke, Run!"/>
+    <card blueprintId="8_63" horizontal="false" title="Throw Me Another Charge"/>
+    <card blueprintId="8_63" horizontal="false" title="Throw Me Another Charge"/>
+    <card blueprintId="8_64" horizontal="false" title="Were You Looking For Me?"/>
+    <card blueprintId="8_68" horizontal="false" title="Endor"/>
+    <card blueprintId="8_69*" horizontal="true" title="Endor: Back Door"/>
+    <card blueprintId="204_25" horizontal="true" title="Endor: Bunker"/>
+    <card blueprintId="8_71" horizontal="true" title="Endor: Chief Chirpa's Hut"/>
+    <card blueprintId="225_44" horizontal="true" title="Endor: Rebel Landing Site (Forest)"/>
+    <card blueprintId="9_60" horizontal="false" title="Sullust"/>
+    <card blueprintId="8_78" horizontal="false" title="Rebel Strike Team"/>
+    <card blueprintId="9_68" horizontal="false" title="Gold Squadron 1"/>
+    <card blueprintId="9_74" horizontal="false" title="Home One"/>
+    <card blueprintId="8_90" horizontal="false" title="Explosive Charge"/>
+    <cardOutsideDeck blueprintId="200_16" horizontal="false" title="The Mythrol"/>
+    <cardOutsideDeck blueprintId="13_1" horizontal="false" title="A Close Race"/>
+    <cardOutsideDeck blueprintId="223_30" horizontal="false" title="A Close Race"/>
+    <cardOutsideDeck blueprintId="13_3" horizontal="false" title="A Tragedy Has Occurred"/>
+    <cardOutsideDeck blueprintId="13_4" horizontal="false" title="Aim High"/>
+    <cardOutsideDeck blueprintId="13_6" horizontal="false" title="Another Pathetic Lifeform"/>
+    <cardOutsideDeck blueprintId="13_8" horizontal="false" title="Battle Plan"/>
+    <cardOutsideDeck blueprintId="13_15" horizontal="false" title="Do, Or Do Not"/>
+    <cardOutsideDeck blueprintId="200_26" horizontal="false" title="Don't Do That Again"/>
+    <cardOutsideDeck blueprintId="13_22" horizontal="false" title="He Can Go About His Business"/>
+    <cardOutsideDeck blueprintId="13_30" horizontal="false" title="Let's Keep A Little Optimism Here"/>
+    <cardOutsideDeck blueprintId="13_35" horizontal="false" title="Only Jedi Carry That Weapon"/>
+    <cardOutsideDeck blueprintId="13_37" horizontal="false" title="Ounee Ta"/>
+    <cardOutsideDeck blueprintId="203_13" horizontal="false" title="Planetary Defenses"/>
+    <cardOutsideDeck blueprintId="200_28" horizontal="false" title="Simple Tricks And Nonsense"/>
+    <cardOutsideDeck blueprintId="200_29" horizontal="false" title="The Republic No Longer Functions"/>
+    <cardOutsideDeck blueprintId="209_15" horizontal="false" title="There Is Another"/>
+    <cardOutsideDeck blueprintId="220_10" horizontal="false" title="Thrown Back"/>
+    <cardOutsideDeck blueprintId="13_44" horizontal="false" title="Ultimatum"/>
+    <cardOutsideDeck blueprintId="13_47" horizontal="false" title="Wise Advice"/>
+    <cardOutsideDeck blueprintId="223_49" horizontal="false" title="Yavin Sentry &amp; Goldenrod"/>
+    <cardOutsideDeck blueprintId="200_32" horizontal="false" title="Your Insight Serves You Well"/>
+    <cardOutsideDeck blueprintId="301_5" horizontal="false" title="Your Ship?"/>
+</deck>

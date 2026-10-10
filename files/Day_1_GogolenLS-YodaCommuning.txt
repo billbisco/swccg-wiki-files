@@ -1,0 +1,68 @@
+2021 WORLDS CHRIS GOGOLEN LS YODA COMMUNING
+
+CHARACTER
+1x Anakin Skywalker, Padawan Learner
+1x Boss Nass (AI)
+1x Captain Hera Syndulla
+1x Jar Jar Binks
+1x Jyn Erso
+3x Luke Skywalker, The Last Jedi
+2x Mace Windu (AI) (V)
+2x Master Qui-Gon (V)
+1x Master Yoda
+1x Padme Naberrie (AI) (V)
+1x Poe Dameron
+1x Princess Leia (V)
+1x Rep Been
+1x Rey
+
+EFFECT
+1x Anger, Fear, Aggression (V)
+1x Disarmed
+1x I Don't Like Sand
+1x Jedi Business
+1x Leia Of Alderaan (V)
+1x We're Leaving
+1x Wokling (V)
+
+EPIC EVENT
+1x Communing
+
+INTERRUPT
+1x All Wings Report In & Darklighter Spin
+1x Alter & Friendly Fire (V)
+1x Blaster Deflection
+1x Clash Of Sabers
+1x Escape Pod & We're Doomed
+1x Fly Casual
+1x Free Ride & Endor Celebration (V)
+1x Hear Me Baby, Hold Together (V)
+1x Houjix
+1x I Am Part Of The Living Force
+1x Impressive, Most Impressive (V)
+1x Jedi Levitation (V)
+1x Odin Nesloor & First Aid
+1x Rebel Barrier
+1x See You Around, Kid
+1x Sorry About The Mess & Blaster Proficiency
+1x The Bith Shuffle & Desperate Reach
+1x They're Tracking Us (V)
+4x Wesa Gotta Grand Army
+1x Where's Han?
+
+LOCATION
+1x Dagobah: Yoda's Hut (V)
+1x Kamino
+1x Kamino: Clone Birthing Center
+1x Naboo: Boss Nass' Chambers
+1x Naboo: Otoh Gunga Entrance
+1x Naboo: Theed Palace Generator Core
+
+STARSHIP
+1x Han, Chewie, And The Falcon (V)
+1x Tantive IV (V)
+
+WEAPON
+1x Anakin's Lightsaber (V)
+1x Mace Windu's Lightsaber
+1x Qui-Gon's Lightsaber

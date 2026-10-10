@@ -1,0 +1,60 @@
+2021 WORLDS TOM HAID LS Y4O
+
+CHARACTER
+1x Admiral Raddus
+1x General Kenobi
+1x General Leia Organa
+1x Kin Kian
+1x Luke Skywalker (V)
+1x Poe Dameron
+1x Temmin "Snap" Wexley
+1x Threepio With His Parts Showing (AI)
+1x Wedge Antilles, Red Squadron Leader
+
+EFFECT
+1x Anger, Fear, Aggression (V)
+1x Haven
+2x Projection Of A Skywalker
+1x Squadron Assignments
+1x For Luck (V)
+1x Wokling (V)
+
+EPIC EVENT
+1x Restore Freedom To The Galaxy
+
+INTERRUPT
+4x All Wings Report In & Darklighter Spin
+2x Control & Tunnel Vision
+2x Escape Pod & We're Doomed
+1x Grimtaash
+1x Heading For The Medical Frigate
+2x It Could Be Worse
+2x It's A Hit!
+1x On The Edge
+4x Organized Attack
+3x Rebel Artillery
+3x Rebel Leadership (V)
+2x Surprise Assault
+2x Were You Looking For Me?
+
+LOCATION
+1x Kamino
+1x Kamino: Clone Birthing Center
+1x Nar Shaddaa
+1x Yavin 4 (V)
+1x Yavin 4: Massassi War Room (V)
+
+OBJECTIVE
+1x Yavin 4 Base Operations
+
+STARSHIP
+1x BB-8 In Black Squadron 1
+1x Blue Squadron 1
+1x Gold Leader in Gold 1
+1x Gray Squadron 1
+1x Red 5 (V)
+1x Red Squadron 1
+
+WEAPON
+2x X-wing Laser Cannon
+(and all shields, including Jabba's Prize)

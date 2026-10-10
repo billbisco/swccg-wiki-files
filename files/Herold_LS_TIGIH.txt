@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+<card blueprintId="211_59" title="Ahsoka Tano"/>
+<card blueprintId="200_2" title="Anakin Skywalker, Padawan Learner"/>
+<card blueprintId="204_3" title="Captain Hera Syndulla"/>
+<card blueprintId="214_18" title="Din Djarin"/>
+<card blueprintId="11_4" title="Jar Jar Binks"/>
+<card blueprintId="13_27" title="Lando Calrissian, Scoundrel"/>
+<card blueprintId="13_27" title="Lando Calrissian, Scoundrel"/>
+<card blueprintId="108_2" title="Leia With Blaster Rifle"/>
+<card blueprintId="9_24" title="Luke Skywalker, Jedi Knight"/>
+<card blueprintId="200_21" title="Luke Skywalker, Rebel Scout"/>
+<card blueprintId="108_4" title="Obi-Wan With Lightsaber"/>
+<card blueprintId="203_10" title="Padme Naberrie"/>
+<card blueprintId="14_27" title="Qui-Gon Jinn With Lightsaber"/>
+<card blueprintId="209_10" title="Rey With Lightsaber"/>
+<card blueprintId="209_10" title="Rey With Lightsaber"/>
+<card blueprintId="11_13" title="Threepio With His Parts Showing"/>
+<card blueprintId="213_44" title="Yoda, Master Of The Force"/>
+<card blueprintId="200_35" title="Anger, Fear, Aggression"/>
+<card blueprintId="7_60" title="Draw Their Fire"/>
+<card blueprintId="200_39" title="I Don't Like Sand"/>
+<card blueprintId="9_34" title="I Feel The Conflict"/>
+<card blueprintId="11_29" title="A Jedi's Resilience"/>
+<card blueprintId="11_29" title="A Jedi's Resilience"/>
+<card blueprintId="6_61" title="Blaster Deflection"/>
+<card blueprintId="5_38" title="Clash Of Sabers"/>
+<card blueprintId="5_38" title="Clash Of Sabers"/>
+<card blueprintId="200_51" title="Don't Tread On Me"/>
+<card blueprintId="204_18" title="Escape Pod &amp; We're Doomed"/>
+<card blueprintId="204_18" title="Escape Pod &amp; We're Doomed"/>
+<card blueprintId="2_49" title="Grimtaash"/>
+<card blueprintId="201_13" title="Hear Me Baby, Hold Together"/>
+<card blueprintId="2_50" title="Houjix"/>
+<card blueprintId="200_53" title="Impressive, Most Impressive"/>
+<card blueprintId="200_54" title="Jedi Levitation"/>
+<card blueprintId="200_54" title="Jedi Levitation"/>
+<card blueprintId="1_97" title="Nabrun Leids"/>
+<card blueprintId="1_97" title="Nabrun Leids"/>
+<card blueprintId="10_21" title="Sense &amp; Recoil In Fear"/>
+<card blueprintId="10_21" title="Sense &amp; Recoil In Fear"/>
+<card blueprintId="10_23" title="Sorry About The Mess &amp; Blaster Proficiency"/>
+<card blueprintId="10_23" title="Sorry About The Mess &amp; Blaster Proficiency"/>
+<card blueprintId="12_69" title="Speak With The Jedi Council"/>
+<card blueprintId="12_69" title="Speak With The Jedi Council"/>
+<card blueprintId="12_69" title="Speak With The Jedi Council"/>
+<card blueprintId="10_25" title="The Bith Shuffle &amp; Desperate Reach"/>
+<card blueprintId="6_79" title="Weapon Levitation"/>
+<card blueprintId="8_64" title="Were You Looking For Me?"/>
+<card blueprintId="14_46" title="Wesa Gotta Grand Army"/>
+<card blueprintId="14_46" title="Wesa Gotta Grand Army"/>
+<card blueprintId="14_46" title="Wesa Gotta Grand Army"/>
+<card blueprintId="14_46" title="Wesa Gotta Grand Army"/>
+<card blueprintId="12_76" title="Coruscant: Jedi Council Chamber"/>
+<card blueprintId="8_71" title="Endor: Chief Chirpa's Hut"/>
+<card blueprintId="8_76" title="Endor: Landing Platform (Docking Bay)"/>
+<card blueprintId="12_79" title="Naboo: Battle Plains"/>
+<card blueprintId="14_49" title="Naboo: Boss Nass' Chambers"/>
+<card blueprintId="9_61" title="There Is Good In Him"/>
+<card blueprintId="205_7" title="Han, Chewie, And The Falcon"/>
+<card blueprintId="205_7" title="Han, Chewie, And The Falcon"/>
+<card blueprintId="9_90" title="Luke's Lightsaber"/>
+</deck>

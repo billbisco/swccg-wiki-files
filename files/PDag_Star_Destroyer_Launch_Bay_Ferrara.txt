@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="4_165" horizontal="true" title="Star Destroyer: Launch Bay"/>
+    <card blueprintId="4_165" horizontal="true" title="Star Destroyer: Launch Bay"/>
+    <card blueprintId="2_143" horizontal="false" title="Death Star"/>
+    <card blueprintId="2_147" horizontal="false" title="Kiffex"/>
+    <card blueprintId="3_143" horizontal="false" title="Hoth"/>
+    <card blueprintId="1_288" horizontal="false" title="Kessel"/>
+    <card blueprintId="205_14" horizontal="false" title="Luke Skywalker, The Emperor's Prize"/>
+    <card blueprintId="4_139" horizontal="false" title="Control"/>
+    <card blueprintId="4_139" horizontal="false" title="Control"/>
+    <card blueprintId="4_139" horizontal="false" title="Control"/>
+</deck>

@@ -1,0 +1,53 @@
+2021 WORLDS LENNY RUBIN DS MUSTAFAR CRV
+
+CHARACTER
+1x Allegiant General Pryde
+1x Darth Vader (V)
+1x Director Orson Krennic
+1x Dr. Evazan & Ponda Baba
+3x Emperor Palpatine
+1x Grand Admiral Thrawn (V)
+2x Grand Moff Tarkin (V)
+1x Kir Kanos (V)
+1x Kylo Ren With Lightsaber
+3x Lord Maul With Lightsaber
+1x Lord Sidious
+1x Myn Kyneugh (V)
+1x Nute Gunray (V)
+5x Vanee
+
+EFFECT
+1x Establish Control (V)
+1x Imperial Arrest Order & Secret Plans
+1x Knowledge And Defense (V)
+1x No Escape
+1x Security Precautions (V)
+1x The Phantom Menace
+
+INTERRUPT
+2x All Power To Weapons
+1x Combat Readiness (V)
+1x Force Field (V)
+1x Force Push (V)
+1x Ghhhk
+2x I Have You Now
+2x Imperial Barrier
+2x Imperial Command
+1x Masterful Move & Endor Occupation
+2x Sense
+1x Sith Fury (V)
+2x Vader's Anger (V)
+3x We Must Accelerate Our Plans
+
+LOCATION
+1x Blockade Flagship: Bridge
+1x Blockade Flagship: Docking Bay
+1x Fondor
+1x Mustafar
+1x Mustafar: Private Platform (Docking Bay)
+1x Mustafar: Vader's Castle
+
+STARSHIP
+2x Emperor's Personal Shuttle
+1x Mara Jade In VT-49 Decimator
+1x Vader's Custom TIE (V)

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="1_168" horizontal="false" title="Darth Vader"/>
+    <card blueprintId="1_168" horizontal="false" title="Darth Vader"/>
+    <card blueprintId="1_179" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="4_102" horizontal="false" title="Imperial Helmsman"/>
+    <card blueprintId="1_193" horizontal="false" title="R4-M9 (Arfour-Emmnine)"/>
+    <card blueprintId="2_101" horizontal="false" title="R5-A2 (Arfive-Aytoo)"/>
+    <card blueprintId="2_101" horizontal="false" title="R5-A2 (Arfive-Aytoo)"/>
+    <card blueprintId="1_187" horizontal="false" title="M'iiyoom Onith"/>
+    <card blueprintId="1_172" horizontal="false" title="Dr. Evazan"/>
+    <card blueprintId="1_177" horizontal="false" title="Garindan"/>
+    <card blueprintId="1_177" horizontal="false" title="Garindan"/>
+    <card blueprintId="2_105" horizontal="false" title="Tech Mo'r"/>
+    <card blueprintId="2_105" horizontal="false" title="Tech Mo'r"/>
+    <card blueprintId="4_164" horizontal="false" title="Raithal"/>
+    <card blueprintId="2_147" horizontal="false" title="Kiffex"/>
+    <card blueprintId="2_143" horizontal="false" title="Death Star"/>
+    <card blueprintId="1_288" horizontal="false" title="Kessel"/>
+    <card blueprintId="2_146" horizontal="false" title="Kashyyyk"/>
+    <card blueprintId="3_151" horizontal="false" title="Ord Mantell"/>
+    <card blueprintId="3_143" horizontal="false" title="Hoth"/>
+    <card blueprintId="1_296" horizontal="false" title="Yavin 4"/>
+    <card blueprintId="4_154" horizontal="false" title="Anoat"/>
+    <card blueprintId="1_324" horizontal="false" title="Vader's Lightsaber"/>
+    <card blueprintId="1_305" horizontal="false" title="TIE Scout"/>
+    <card blueprintId="1_305" horizontal="false" title="TIE Scout"/>
+    <card blueprintId="1_305" horizontal="false" title="TIE Scout"/>
+    <card blueprintId="1_305" horizontal="false" title="TIE Scout"/>
+    <card blueprintId="1_305" horizontal="false" title="TIE Scout"/>
+    <card blueprintId="1_305" horizontal="false" title="TIE Scout"/>
+    <card blueprintId="1_305" horizontal="false" title="TIE Scout"/>
+    <card blueprintId="1_305" horizontal="false" title="TIE Scout"/>
+    <card blueprintId="4_167" horizontal="false" title="Executor"/>
+    <card blueprintId="1_302" horizontal="false" title="Imperial-Class Star Destroyer"/>
+    <card blueprintId="4_166" horizontal="false" title="Avenger"/>
+    <card blueprintId="3_153" horizontal="false" title="Tyrant"/>
+    <card blueprintId="1_301" horizontal="false" title="Devastator"/>
+    <card blueprintId="2_152" horizontal="false" title="Conquest"/>
+    <card blueprintId="3_152" horizontal="false" title="Stalker"/>
+    <card blueprintId="2_155" horizontal="false" title="Victory-Class Star Destroyer"/>
+    <card blueprintId="1_227" horizontal="false" title="Presence Of The Force"/>
+    <card blueprintId="1_227" horizontal="false" title="Presence Of The Force"/>
+    <card blueprintId="4_114" horizontal="false" title="3,720 To 1"/>
+    <card blueprintId="4_114" horizontal="false" title="3,720 To 1"/>
+    <card blueprintId="4_114" horizontal="false" title="3,720 To 1"/>
+    <card blueprintId="4_114" horizontal="false" title="3,720 To 1"/>
+    <card blueprintId="4_114" horizontal="false" title="3,720 To 1"/>
+    <card blueprintId="4_114" horizontal="false" title="3,720 To 1"/>
+    <card blueprintId="4_114" horizontal="false" title="3,720 To 1"/>
+    <card blueprintId="4_139" horizontal="false" title="Control"/>
+    <card blueprintId="4_139" horizontal="false" title="Control"/>
+    <card blueprintId="2_135" horizontal="false" title="Monnok"/>
+    <card blueprintId="2_135" horizontal="false" title="Monnok"/>
+    <card blueprintId="2_135" horizontal="false" title="Monnok"/>
+    <card blueprintId="2_131" horizontal="false" title="Evader"/>
+    <card blueprintId="2_131" horizontal="false" title="Evader"/>
+    <card blueprintId="2_131" horizontal="false" title="Evader"/>
+    <card blueprintId="1_255" horizontal="false" title="Limited Resources"/>
+    <card blueprintId="1_255" horizontal="false" title="Limited Resources"/>
+    <card blueprintId="1_255" horizontal="false" title="Limited Resources"/>
+    <card blueprintId="1_255" horizontal="false" title="Limited Resources"/>
+</deck>

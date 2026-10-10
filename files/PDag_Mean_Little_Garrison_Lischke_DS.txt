@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="1_168" horizontal="false" title="Darth Vader"/>
+    <card blueprintId="1_168" horizontal="false" title="Darth Vader"/>
+    <card blueprintId="1_179" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="1_179" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="4_101" horizontal="false" title="IG-88"/>
+    <card blueprintId="1_172" horizontal="false" title="Dr. Evazan"/>
+    <card blueprintId="105_4" horizontal="false" title="Boba Fett"/>
+    <card blueprintId="1_190" horizontal="false" title="Ponda Baba"/>
+    <card blueprintId="1_174" horizontal="false" title="DS-61-3"/>
+    <card blueprintId="4_93" horizontal="false" title="Captain Needa"/>
+    <card blueprintId="3_87" horizontal="false" title="General Veers"/>
+    <card blueprintId="104_5" horizontal="false" title="Imperial Walker"/>
+    <card blueprintId="104_5" horizontal="false" title="Imperial Walker"/>
+    <card blueprintId="104_5" horizontal="false" title="Imperial Walker"/>
+    <card blueprintId="104_5" horizontal="false" title="Imperial Walker"/>
+    <card blueprintId="104_5" horizontal="false" title="Imperial Walker"/>
+    <card blueprintId="3_154" horizontal="false" title="Blizzard 1"/>
+    <card blueprintId="3_155" horizontal="false" title="Blizzard 2"/>
+    <card blueprintId="3_157" horizontal="false" title="Blizzard Walker"/>
+    <card blueprintId="4_167" horizontal="false" title="Executor"/>
+    <card blueprintId="1_301" horizontal="false" title="Devastator"/>
+    <card blueprintId="2_152" horizontal="false" title="Conquest"/>
+    <card blueprintId="4_166" horizontal="false" title="Avenger"/>
+    <card blueprintId="3_158" horizontal="false" title="AT-AT Cannon"/>
+    <card blueprintId="3_158" horizontal="false" title="AT-AT Cannon"/>
+    <card blueprintId="1_320" horizontal="false" title="Light Repeating Blaster Rifle"/>
+    <card blueprintId="1_320" horizontal="false" title="Light Repeating Blaster Rifle"/>
+    <card blueprintId="3_96" horizontal="false" title="Portable Fusion Generator"/>
+    <card blueprintId="3_96" horizontal="false" title="Portable Fusion Generator"/>
+    <card blueprintId="3_115" horizontal="false" title="Target The Main Generator"/>
+    <card blueprintId="1_227" horizontal="false" title="Presence Of The Force"/>
+    <card blueprintId="4_120" horizontal="false" title="Failure At The Cave"/>
+    <card blueprintId="1_222" horizontal="false" title="Lateral Damage"/>
+    <card blueprintId="3_117" horizontal="false" title="Cold Feet"/>
+    <card blueprintId="104_7" horizontal="false" title="Walker Garrison"/>
+    <card blueprintId="104_7" horizontal="false" title="Walker Garrison"/>
+    <card blueprintId="104_7" horizontal="false" title="Walker Garrison"/>
+    <card blueprintId="104_7" horizontal="false" title="Walker Garrison"/>
+    <card blueprintId="2_139" horizontal="false" title="Sniper"/>
+    <card blueprintId="2_139" horizontal="false" title="Sniper"/>
+    <card blueprintId="3_138" horizontal="false" title="Trample"/>
+    <card blueprintId="3_138" horizontal="false" title="Trample"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="2_135" horizontal="false" title="Monnok"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="4_139" horizontal="false" title="Control"/>
+    <card blueprintId="4_139" horizontal="false" title="Control"/>
+    <card blueprintId="4_139" horizontal="false" title="Control"/>
+    <card blueprintId="4_139" horizontal="false" title="Control"/>
+    <card blueprintId="4_158" horizontal="true" title="Dagobah: Cave"/>
+    <card blueprintId="3_150" horizontal="true" title="Hoth: Wampa Cave (7th Marker)"/>
+    <card blueprintId="3_148" horizontal="true" title="Hoth: Ice Plains (5th Marker)"/>
+    <card blueprintId="3_148" horizontal="true" title="Hoth: Ice Plains (5th Marker)"/>
+    <card blueprintId="3_144" horizontal="true" title="Hoth: Defensive Perimeter (3rd Marker)"/>
+    <card blueprintId="3_144" horizontal="true" title="Hoth: Defensive Perimeter (3rd Marker)"/>
+    <card blueprintId="3_149" horizontal="true" title="Hoth: North Ridge (4th Marker)"/>
+    <card blueprintId="104_4" horizontal="true" title="Hoth: Mountains (6th Marker)"/>
+    <card blueprintId="3_147" horizontal="true" title="Hoth: Echo Docking Bay"/>
+    <card blueprintId="3_145" horizontal="true" title="Hoth: Echo Command Center (War Room)"/>
+</deck>

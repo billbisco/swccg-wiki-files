@@ -1,0 +1,59 @@
+2021 WORLDS BILL KAFER LS CHIEF CHIRPAS HUT LTWW
+
+CHARACTER
+1x Ahsoka Tano
+1x Anakin Skywalker, Padawan Learner
+1x Captain Hera Syndulla
+1x Daughter Of Skywalker (V)
+1x Jar Jar Binks
+1x Jyn Erso
+1x Lando Calrissian, Scoundrel
+5x Luke Skywalker, Jedi Knight
+2x Obi-Wan With Lightsaber
+1x Padme Naberrie (V)
+2x Rey With Lightsaber
+1x Solo
+1x Yoda, Master Of The Force (V)
+
+EFFECT
+1x Anger, Fear, Aggression (V)
+1x I Don't Like Sand
+1x Insurrection & Aim High
+1x Like My Father Before Me
+1x Wokling (V)
+
+INTERRUPT
+2x A Jedi's Resilience
+2x Anakin Skywalker (V)
+1x Blaster Deflection
+1x Clash Of Sabers
+1x Escape Pod & We're Doomed
+1x Fly Casual
+1x Hear Me Baby, Hold Together (V)
+1x Houjix
+1x Inconsequential Barriers
+1x Jedi Levitation (V)
+1x Let The Wookiee Win (V)
+1x Mandalorian Mishap (V)
+1x See You Around, Kid
+2x Sorry About The Mess
+3x Speak With The Jedi Council
+1x Weapon Levitation
+4x Wesa Gotta Grand Army
+
+LOCATION
+1x Coruscant: Jedi Council Chamber
+1x Endor: Chief Chirpa's Hut
+1x Home One: Docking Bay
+1x Hoth: Echo Docking Bay
+1x Kashyyyk
+1x Naboo: Battle Plains
+1x Naboo: Boss Nass' Chambers
+
+STARSHIP
+1x Tantive IV (V)
+
+WEAPON
+1x Leia's Blaster Rifle
+2x Luke's Lightsaber
+
