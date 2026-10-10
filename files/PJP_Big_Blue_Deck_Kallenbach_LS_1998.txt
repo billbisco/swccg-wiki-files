@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="2_3" horizontal="false" title="Chewbacca"/>
+    <card blueprintId="1_11" horizontal="false" title="Han Solo"/>
+    <card blueprintId="1_17" horizontal="false" title="Leia Organa"/>
+    <card blueprintId="1_17" horizontal="false" title="Leia Organa"/>
+    <card blueprintId="1_19" horizontal="false" title="Luke Skywalker"/>
+    <card blueprintId="1_19" horizontal="false" title="Luke Skywalker"/>
+    <card blueprintId="107_2" horizontal="false" title="Mon Mothma"/>
+    <card blueprintId="2_14" horizontal="false" title="R2-D2 (Artoo-Detoo)"/>
+    <card blueprintId="4_25" horizontal="false" title="Hiding In The Garbage"/>
+    <card blueprintId="5_28" horizontal="false" title="Leia Of Alderaan"/>
+    <card blueprintId="1_55" horizontal="false" title="Mantellian Savrip"/>
+    <card blueprintId="2_41" horizontal="false" title="What're You Tryin' To Push On Us?"/>
+    <card blueprintId="2_41" horizontal="false" title="What're You Tryin' To Push On Us?"/>
+    <card blueprintId="2_41" horizontal="false" title="What're You Tryin' To Push On Us?"/>
+    <card blueprintId="4_48" horizontal="false" title="Control"/>
+    <card blueprintId="4_48" horizontal="false" title="Control"/>
+    <card blueprintId="4_48" horizontal="false" title="Control"/>
+    <card blueprintId="4_48" horizontal="false" title="Control"/>
+    <card blueprintId="1_102" horizontal="false" title="Out Of Nowhere"/>
+    <card blueprintId="1_102" horizontal="false" title="Out Of Nowhere"/>
+    <card blueprintId="1_102" horizontal="false" title="Out Of Nowhere"/>
+    <card blueprintId="1_102" horizontal="false" title="Out Of Nowhere"/>
+    <card blueprintId="4_80" horizontal="false" title="Anoat"/>
+    <card blueprintId="5_76" horizontal="false" title="Bespin"/>
+    <card blueprintId="1_122" horizontal="false" title="Dantooine"/>
+    <card blueprintId="3_57" horizontal="true" title="Hoth: Echo Command Center (War Room)"/>
+    <card blueprintId="2_64" horizontal="false" title="Kashyyyk"/>
+    <card blueprintId="1_126" horizontal="false" title="Kessel"/>
+    <card blueprintId="6_83" horizontal="false" title="Kiffex"/>
+    <card blueprintId="6_84" horizontal="false" title="Kirdo III"/>
+    <card blueprintId="1_127" horizontal="false" title="Tatooine"/>
+    <card blueprintId="6_87" horizontal="false" title="Tibrin"/>
+    <card blueprintId="1_135" horizontal="false" title="Yavin 4"/>
+    <card blueprintId="1_139" horizontal="true" title="Yavin 4: Massassi War Room"/>
+    <card blueprintId="107_1" horizontal="false" title="Mon Calamari Star Cruiser"/>
+    <card blueprintId="107_1" horizontal="false" title="Mon Calamari Star Cruiser"/>
+    <card blueprintId="107_1" horizontal="false" title="Mon Calamari Star Cruiser"/>
+    <card blueprintId="107_1" horizontal="false" title="Mon Calamari Star Cruiser"/>
+    <card blueprintId="107_1" horizontal="false" title="Mon Calamari Star Cruiser"/>
+    <card blueprintId="107_1" horizontal="false" title="Mon Calamari Star Cruiser"/>
+    <card blueprintId="107_1" horizontal="false" title="Mon Calamari Star Cruiser"/>
+    <card blueprintId="107_1" horizontal="false" title="Mon Calamari Star Cruiser"/>
+    <card blueprintId="107_1" horizontal="false" title="Mon Calamari Star Cruiser"/>
+    <card blueprintId="107_1" horizontal="false" title="Mon Calamari Star Cruiser"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+</deck>

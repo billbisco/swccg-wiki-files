@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="1_137" horizontal="true" title="Yavin 4: Jungle"/>
+    <card blueprintId="1_137" horizontal="true" title="Yavin 4: Jungle"/>
+    <card blueprintId="1_128" horizontal="true" title="Tatooine: Cantina"/>
+    <card blueprintId="106_8" horizontal="true" title="Tatooine: Jundland Wastes"/>
+    <card blueprintId="1_132" horizontal="true" title="Tatooine: Lars' Moisture Farm"/>
+    <card blueprintId="2_40" horizontal="false" title="Undercover"/>
+    <card blueprintId="2_40" horizontal="false" title="Undercover"/>
+</deck>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+<card blueprintId="216_21" title="Anakin Skywalker, Jedi Knight"/>
+<card blueprintId="216_21" title="Anakin Skywalker, Jedi Knight"/>
+<card blueprintId="216_21" title="Anakin Skywalker, Jedi Knight"/>
+<card blueprintId="216_21" title="Anakin Skywalker, Jedi Knight"/>
+<card blueprintId="203_4" title="Ellorrs Madak, Pilot Instructor"/>
+<card blueprintId="207_5" title="General Leia Organa"/>
+<card blueprintId="13_27" title="Lando Calrissian, Scoundrel"/>
+<card blueprintId="13_27" title="Lando Calrissian, Scoundrel"/>
+<card blueprintId="200_21" title="Luke Skywalker, Rebel Scout"/>
+<card blueprintId="200_21" title="Luke Skywalker, Rebel Scout"/>
+<card blueprintId="200_21" title="Luke Skywalker, Rebel Scout"/>
+<card blueprintId="210_20" title="Luke Skywalker, The Last Jedi"/>
+<card blueprintId="203_36" title="Padme Naberrie"/>
+<card blueprintId="204_9" title="Rey"/>
+<card blueprintId="11_12" title="Shmi Skywalker"/>
+<card blueprintId="204_11" title="Solo"/>
+<card blueprintId="11_14" title="Threepio With His Parts Showing"/>
+<card blueprintId="202_3" title="Wedge Antilles"/>
+<card blueprintId="213_44" title="Yoda, Master Of The Force"/>
+<card blueprintId="213_44" title="Yoda, Master Of The Force"/>
+<card blueprintId="200_35" title="Anger, Fear, Aggression"/>
+<card blueprintId="12_42" title="Credits Will Do Fine"/>
+<card blueprintId="7_60" title="Draw Their Fire"/>
+<card blueprintId="6_56" title="Projection Of A Skywalker"/>
+<card blueprintId="200_47" title="Wokling"/>
+<card blueprintId="208_16" title="Yarna d'al' Gargan"/>
+<card blueprintId="208_16" title="Yarna d'al' Gargan"/>
+<card blueprintId="208_16" title="Yarna d'al' Gargan"/>
+<card blueprintId="208_16" title="Yarna d'al' Gargan"/>
+<card blueprintId="208_16" title="Yarna d'al' Gargan"/>
+<card blueprintId="208_16" title="Yarna d'al' Gargan"/>
+<card blueprintId="217_52" title="Your Thoughts Dwell On Your Mother"/>
+<card blueprintId="11_29" title="A Jedi's Resilience"/>
+<card blueprintId="12_55" title="Are You Brain Dead?!"/>
+<card blueprintId="12_55" title="Are You Brain Dead?!"/>
+<card blueprintId="6_61" title="Blaster Deflection"/>
+<card blueprintId="10_4" title="Control &amp; Tunnel Vision"/>
+<card blueprintId="204_18" title="Escape Pod &amp; We're Doomed"/>
+<card blueprintId="216_28" title="Free Ride &amp; Endor Celebration"/>
+<card blueprintId="201_13" title="Hear Me Baby, Hold Together"/>
+<card blueprintId="2_50" title="Houjix"/>
+<card blueprintId="200_53" title="Impressive, Most Impressive"/>
+<card blueprintId="200_54" title="Jedi Levitation"/>
+<card blueprintId="215_16" title="Let The Wookiee Win"/>
+<card blueprintId="1_97" title="Nabrun Leids"/>
+<card blueprintId="1_105" title="Rebel Barrier"/>
+<card blueprintId="203_17" title="Rebel Leadership"/>
+<card blueprintId="203_17" title="Rebel Leadership"/>
+<card blueprintId="10_23" title="Sorry About The Mess &amp; Blaster Proficiency"/>
+<card blueprintId="6_79" title="Weapon Levitation"/>
+<card blueprintId="2_64" title="Kashyyyk"/>
+<card blueprintId="11_42" title="Tatooine: City Outskirts"/>
+<card blueprintId="11_46" title="Tatooine: Slave Quarters"/>
+<card blueprintId="7_133" title="Tatooine: Tosche Station"/>
+<card blueprintId="12_87" title="Tatooine: Watto's Junkyard"/>
+<card blueprintId="213_58" title="Leia's Resistance Transport"/>
+<card blueprintId="203_21" title="Wild Karrde"/>
+<card blueprintId="3_71" title="Anakin's Lightsaber"/>
+<card blueprintId="211_33" title="Jedi Lightsaber"/>
+<card blueprintId="7_161" title="Leia's Blaster Rifle"/>
+<cardOutsideDeck blueprintId="200_16" title="Jabba's Prize"/>
+<cardOutsideDeck blueprintId="13_1" title="A Close Race"/>
+<cardOutsideDeck blueprintId="13_3" title="A Tragedy Has Occurred"/>
+<cardOutsideDeck blueprintId="200_25" title="Affect Mind"/>
+<cardOutsideDeck blueprintId="13_4" title="Aim High"/>
+<cardOutsideDeck blueprintId="13_6" title="Another Pathetic Lifeform"/>
+<cardOutsideDeck blueprintId="13_8" title="Battle Plan"/>
+<cardOutsideDeck blueprintId="213_45" title="Clumsy And Stupid"/>
+<cardOutsideDeck blueprintId="13_15" title="Do, Or Do Not"/>
+<cardOutsideDeck blueprintId="13_16" title="Don't Do That Again"/>
+<cardOutsideDeck blueprintId="200_26" title="Don't Do That Again"/>
+<cardOutsideDeck blueprintId="200_27" title="Goldenrod"/>
+<cardOutsideDeck blueprintId="13_22" title="He Can Go About His Business"/>
+<cardOutsideDeck blueprintId="13_30" title="Let's Keep A Little Optimism Here"/>
+<cardOutsideDeck blueprintId="13_35" title="Only Jedi Carry That Weapon"/>
+<cardOutsideDeck blueprintId="217_43" title="Ounee Ta"/>
+<cardOutsideDeck blueprintId="13_38" title="Planetary Defenses"/>
+<cardOutsideDeck blueprintId="203_13" title="Planetary Defenses"/>
+<cardOutsideDeck blueprintId="200_28" title="Simple Tricks And Nonsense"/>
+<cardOutsideDeck blueprintId="200_29" title="The Republic No Longer Functions"/>
+<cardOutsideDeck blueprintId="209_15" title="There Is Another"/>
+<cardOutsideDeck blueprintId="13_44" title="Ultimatum"/>
+<cardOutsideDeck blueprintId="13_47" title="Wise Advice"/>
+<cardOutsideDeck blueprintId="200_31" title="Yavin Sentry"/>
+<cardOutsideDeck blueprintId="13_49" title="Your Insight Serves You Well"/>
+<cardOutsideDeck blueprintId="200_32" title="Your Insight Serves You Well"/>
+<cardOutsideDeck blueprintId="13_50" title="Your Ship?"/>
+<cardOutsideDeck blueprintId="301_5" title="Your Ship?"/>
+</deck>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+<card blueprintId="213_44*" title="Yoda, Master Of The Force"/>
+<card blueprintId="211_59*" title="Ahsoka Tano"/>
+<card blueprintId="206_3" title="Captain Cassian Andor"/>
+<card blueprintId="204_3*" title="Captain Hera Syndulla"/>
+<card blueprintId="200_4" title="Captain Yutani With Blaster Cannon"/>
+<card blueprintId="10_5*" title="Corran Horn"/>
+<card blueprintId="203_6" title="Kanan Jarrus"/>
+<card blueprintId="13_27*" title="Lando Calrissian, Scoundrel"/>
+<card blueprintId="9_24*" title="Luke Skywalker, Jedi Knight"/>
+<card blueprintId="9_24*" title="Luke Skywalker, Jedi Knight"/>
+<card blueprintId="9_24*" title="Luke Skywalker, Jedi Knight"/>
+<card blueprintId="9_24*" title="Luke Skywalker, Jedi Knight"/>
+<card blueprintId="9_24*" title="Luke Skywalker, Jedi Knight"/>
+<card blueprintId="108_4*" title="Obi-Wan With Lightsaber"/>
+<card blueprintId="108_4*" title="Obi-Wan With Lightsaber"/>
+<card blueprintId="201_5" title="Princess Leia"/>
+<card blueprintId="209_12" title="Saw Gerrera"/>
+<card blueprintId="200_35*" title="Anger, Fear, Aggression"/>
+<card blueprintId="9_34*" title="I Feel The Conflict"/>
+<card blueprintId="12_44*" title="Insurrection &amp; Aim High"/>
+<card blueprintId="202_5*" title="Like My Father Before Me"/>
+<card blueprintId="6_56" title="Projection Of A Skywalker"/>
+<card blueprintId="208_14*" title="Prophecy Of The Force"/>
+<card blueprintId="200_47*" title="Wokling"/>
+<card blueprintId="213_49*" title="Anakin Skywalker"/>
+<card blueprintId="213_49*" title="Anakin Skywalker"/>
+<card blueprintId="6_61*" title="Blaster Deflection"/>
+<card blueprintId="6_61*" title="Blaster Deflection"/>
+<card blueprintId="5_38*" title="Clash Of Sabers"/>
+<card blueprintId="5_38*" title="Clash Of Sabers"/>
+<card blueprintId="204_18*" title="Escape Pod &amp; We're Doomed"/>
+<card blueprintId="8_51*" title="Fly Casual"/>
+<card blueprintId="12_58" title="Free Ride &amp; Endor Celebration"/>
+<card blueprintId="9_51*" title="Heading For The Medical Frigate"/>
+<card blueprintId="201_13*" title="Hear Me Baby, Hold Together"/>
+<card blueprintId="2_50*" title="Houjix"/>
+<card blueprintId="200_53" title="Impressive, Most Impressive"/>
+<card blueprintId="200_54*" title="Jedi Levitation"/>
+<card blueprintId="209_21*" title="Odin Nesloor &amp; First Aid"/>
+<card blueprintId="214_20*" title="Our Only Hope"/>
+<card blueprintId="214_20*" title="Our Only Hope"/>
+<card blueprintId="214_20*" title="Our Only Hope"/>
+<card blueprintId="214_20*" title="Our Only Hope"/>
+<card blueprintId="210_24" title="Quite A Mercenary"/>
+<card blueprintId="211_2" title="See You Around, Kid"/>
+<card blueprintId="211_2" title="See You Around, Kid"/>
+<card blueprintId="1_110*" title="Skywalkers"/>
+<card blueprintId="10_23" title="Sorry About The Mess &amp; Blaster Proficiency"/>
+<card blueprintId="12_76*" title="Coruscant: Jedi Council Chamber"/>
+<card blueprintId="4_89*" title="Dagobah: Yoda's Hut"/>
+<card blueprintId="213_56*" title="Death Star II: Chasm Walkway"/>
+<card blueprintId="208_23*" title="Endor: Ewok Village"/>
+<card blueprintId="9_57*" title="Home One: Docking Bay"/>
+<card blueprintId="3_59*" title="Hoth: Echo Docking Bay"/>
+<card blueprintId="208_25*" title="He Is The Chosen One"/>
+<card blueprintId="205_7*" title="Han, Chewie, And The Falcon"/>
+<card blueprintId="201_19*" title="Tantive IV"/>
+<card blueprintId="7_161*" title="Leia's Blaster Rifle"/>
+<card blueprintId="9_90*" title="Luke's Lightsaber"/>
+<card blueprintId="9_90*" title="Luke's Lightsaber"/>
+<cardOutsideDeck blueprintId="13_1*" title="A Close Race"/>
+<cardOutsideDeck blueprintId="13_3*" title="A Tragedy Has Occurred"/>
+<cardOutsideDeck blueprintId="200_25*" title="Affect Mind"/>
+<cardOutsideDeck blueprintId="13_4*" title="Aim High"/>
+<cardOutsideDeck blueprintId="13_6*" title="Another Pathetic Lifeform"/>
+<cardOutsideDeck blueprintId="13_8*" title="Battle Plan"/>
+<cardOutsideDeck blueprintId="213_45*" title="Clumsy And Stupid"/>
+<cardOutsideDeck blueprintId="13_15*" title="Do, Or Do Not"/>
+<cardOutsideDeck blueprintId="200_26*" title="Don't Do That Again"/>
+<cardOutsideDeck blueprintId="200_27*" title="Goldenrod"/>
+<cardOutsideDeck blueprintId="13_22*" title="He Can Go About His Business"/>
+<cardOutsideDeck blueprintId="13_30*" title="Let's Keep A Little Optimism Here"/>
+<cardOutsideDeck blueprintId="13_35*" title="Only Jedi Carry That Weapon"/>
+<cardOutsideDeck blueprintId="13_37*" title="Ounee Ta"/>
+<cardOutsideDeck blueprintId="203_13*" title="Planetary Defenses"/>
+<cardOutsideDeck blueprintId="200_28*" title="Simple Tricks And Nonsense"/>
+<cardOutsideDeck blueprintId="200_29*" title="The Republic No Longer Functions"/>
+<cardOutsideDeck blueprintId="209_15*" title="There Is Another"/>
+<cardOutsideDeck blueprintId="13_44*" title="Ultimatum"/>
+<cardOutsideDeck blueprintId="13_47*" title="Wise Advice"/>
+<cardOutsideDeck blueprintId="200_31*" title="Yavin Sentry"/>
+<cardOutsideDeck blueprintId="200_32*" title="Your Insight Serves You Well"/>
+<cardOutsideDeck blueprintId="301_5*" title="Your Ship?"/>
+</deck>

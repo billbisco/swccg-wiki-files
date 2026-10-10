@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_71" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="200_74" title="Arica"/>
+    <card blueprintId="212_3" title="Aurra Sing With Blaster Rifle"/>
+    <card blueprintId="13_59" title="Boba Fett, Bounty Hunter"/>
+    <card blueprintId="14_77" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="108_6" title="Darth Vader With Lightsaber"/>
+    <card blueprintId="7_175" title="Darth Vader, Dark Lord Of The Sith"/>
+    <card blueprintId="201_24" title="Djas Puhr"/>
+    <card blueprintId="10_37" title="Dr. Evazan &amp; Ponda Baba"/>
+    <card blueprintId="10_37" title="Dr. Evazan &amp; Ponda Baba"/>
+    <card blueprintId="9_109" title="Emperor Palpatine"/>
+    <card blueprintId="9_109" title="Emperor Palpatine"/>
+    <card blueprintId="9_109" title="Emperor Palpatine"/>
+    <card blueprintId="203_27" title="General Grievous"/>
+    <card blueprintId="200_82" title="Grand Moff Tarkin"/>
+    <card blueprintId="9_110" title="Janus Greejatus"/>
+    <card blueprintId="209_37" title="Kylo Ren With Lightsaber"/>
+    <card blueprintId="208_34" title="Lord Maul With Lightsaber"/>
+    <card blueprintId="208_34" title="Lord Maul With Lightsaber"/>
+    <card blueprintId="213_11" title="Ninth Sister"/>
+    <card blueprintId="10_45" title="Prince Xizor"/>
+    <card blueprintId="214_10" title="The Client"/>
+    <card blueprintId="214_10" title="The Client"/>
+    <card blueprintId="214_10" title="The Client"/>
+    <card blueprintId="1_198" title="Wuher"/>
+    <card blueprintId="200_109" title="Coarse And Rough And Irritating"/>
+    <card blueprintId="7_229" title="First Strike"/>
+    <card blueprintId="201_31" title="Jabba's Haven"/>
+    <card blueprintId="221_24" title="Juri Juice"/>
+    <card blueprintId="200_110" title="Knowledge And Defense"/>
+    <card blueprintId="207_26" title="Security Precautions"/>
+    <card blueprintId="221_39" title="Tentacle"/>
+    <card blueprintId="12_140" title="The Phantom Menace"/>
+    <card blueprintId="12_140" title="The Phantom Menace"/>
+    <card blueprintId="12_140" title="The Phantom Menace"/>
+    <card blueprintId="218_7" title="A Dark Time For The Rebellion &amp; Tarkin's Orders"/>
+    <card blueprintId="8_135" title="Always Thinking With Your Stomach"/>
+    <card blueprintId="221_13" title="ComScan Detection"/>
+    <card blueprintId="1_243" title="Elis Helrot"/>
+    <card blueprintId="200_119" title="Force Field"/>
+    <card blueprintId="200_120" title="Force Push"/>
+    <card blueprintId="2_132" title="Ghhhk"/>
+    <card blueprintId="200_122" title="Imbalance &amp; Kintan Strider"/>
+    <card blueprintId="1_249" title="Imperial Barrier"/>
+    <card blueprintId="1_249" title="Imperial Barrier"/>
+    <card blueprintId="12_152" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="12_152" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="12_153" title="Maul Strikes"/>
+    <card blueprintId="205_20" title="Point Man"/>
+    <card blueprintId="10_46" title="Sense &amp; Uncertain Is The Future"/>
+    <card blueprintId="200_123" title="Sith Fury"/>
+    <card blueprintId="212_4" title="Slip Sliding Away"/>
+    <card blueprintId="6_163" title="Jabba's Palace: Droid Workshop"/>
+    <card blueprintId="6_164" title="Jabba's Palace: Dungeon"/>
+    <card blueprintId="6_168" title="Nal Hutta"/>
+    <card blueprintId="221_33" title="Tatooine: Cantina"/>
+    <card blueprintId="11_92" title="Tatooine: Desert Landing Site"/>
+    <card blueprintId="6_171" title="Tatooine: Jabba's Palace"/>
+    <card blueprintId="9_156" title="Emperor's Personal Shuttle"/>
+    <card blueprintId="110_12" title="Zuckuss In Mist Hunter"/>
+</deck>

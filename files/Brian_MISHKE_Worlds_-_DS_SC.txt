@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+<card blueprintId="301_3" title="Asajj Ventress With Lightsabers"/>
+<card blueprintId="212_3" title="Aurra Sing With Blaster Rifle"/>
+<card blueprintId="212_3" title="Aurra Sing With Blaster Rifle"/>
+<card blueprintId="217_2" title="BB-9E"/>
+<card blueprintId="209_33" title="Bala-Tik"/>
+<card blueprintId="200_79" title="Dengar With Blaster Carbine"/>
+<card blueprintId="200_79" title="Dengar With Blaster Carbine"/>
+<card blueprintId="10_37" title="Dr. Evazan &amp; Ponda Baba"/>
+<card blueprintId="10_37" title="Dr. Evazan &amp; Ponda Baba"/>
+<card blueprintId="205_13" title="Hondo Ohnaka"/>
+<card blueprintId="205_13" title="Hondo Ohnaka"/>
+<card blueprintId="109_11" title="IG-88 With Riot Gun"/>
+<card blueprintId="213_10" title="Maul"/>
+<card blueprintId="213_10" title="Maul"/>
+<card blueprintId="10_45" title="Prince Xizor"/>
+<card blueprintId="10_45" title="Prince Xizor"/>
+<card blueprintId="217_19" title="Qi'ra, Top Lieutenant"/>
+<card blueprintId="204_46" title="Zam Wesell"/>
+<card blueprintId="1_214" title="Disarmed"/>
+<card blueprintId="1_214" title="Disarmed"/>
+<card blueprintId="9_126" title="Inconsequential Losses"/>
+<card blueprintId="200_110" title="Knowledge And Defense"/>
+<card blueprintId="112_16" title="No Escape"/>
+<card blueprintId="12_140" title="The Phantom Menace"/>
+<card blueprintId="12_140" title="The Phantom Menace"/>
+<card blueprintId="12_140" title="The Phantom Menace"/>
+<card blueprintId="209_44" title="They Will Be No Match For You"/>
+<card blueprintId="200_114" title="You'll Be Dead!"/>
+<card blueprintId="200_120" title="Force Push"/>
+<card blueprintId="2_132" title="Ghhhk"/>
+<card blueprintId="200_122" title="Imbalance &amp; Kintan Strider"/>
+<card blueprintId="209_48" title="Lana Dobreed &amp; Sacrifice"/>
+<card blueprintId="209_48" title="Lana Dobreed &amp; Sacrifice"/>
+<card blueprintId="7_257" title="Masterful Move"/>
+<card blueprintId="7_257" title="Masterful Move"/>
+<card blueprintId="2_135" title="Monnok"/>
+<card blueprintId="205_20" title="Point Man"/>
+<card blueprintId="205_20" title="Point Man"/>
+<card blueprintId="200_123" title="Sith Fury"/>
+<card blueprintId="200_123" title="Sith Fury"/>
+<card blueprintId="212_4" title="Slip Sliding Away"/>
+<card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+<card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+<card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+<card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+<card blueprintId="8_154" title="Wounded Warrior"/>
+<card blueprintId="8_154" title="Wounded Warrior"/>
+<card blueprintId="12_164" title="Blockade Flagship: Bridge"/>
+<card blueprintId="7_273" title="Cloud City: Upper Walkway"/>
+<card blueprintId="213_23" title="Dathomir: Maul's Chambers"/>
+<card blueprintId="213_25" title="First Light: Bar"/>
+<card blueprintId="213_26" title="First Light: Dryden's Study"/>
+<card blueprintId="213_27" title="First Light: Reception Area"/>
+<card blueprintId="213_32" title="Shadow Collective"/>
+<card blueprintId="213_33" title="Black Sun Blaster"/>
+<card blueprintId="213_33" title="Black Sun Blaster"/>
+<card blueprintId="213_34" title="Crimson Dawn Blaster"/>
+<card blueprintId="213_34" title="Crimson Dawn Blaster"/>
+<card blueprintId="213_34" title="Crimson Dawn Blaster"/>
+<card blueprintId="13_75" title="Maul's Double-Bladed Lightsaber"/>
+</deck>

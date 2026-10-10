@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="7_3" horizontal="false" title="ASP-707 (Ayesspee)"/>
+    <card blueprintId="7_3" horizontal="false" title="ASP-707 (Ayesspee)"/>
+    <card blueprintId="7_22" horizontal="false" title="Incom Engineer"/>
+    <card blueprintId="7_22" horizontal="false" title="Incom Engineer"/>
+    <card blueprintId="3_26" horizontal="false" title="Wyron Serper"/>
+    <card blueprintId="3_26" horizontal="false" title="Wyron Serper"/>
+    <card blueprintId="1_32" horizontal="false" title="WED-9-M1 'Bantha' Droid"/>
+    <card blueprintId="2_24" horizontal="false" title="Zutton"/>
+    <card blueprintId="1_20" horizontal="false" title="Momaw Nadon"/>
+    <card blueprintId="8_23" horizontal="false" title="Orrimaarko"/>
+    <card blueprintId="7_53" horizontal="false" title="Portable Scanner"/>
+    <card blueprintId="7_53" horizontal="false" title="Portable Scanner"/>
+    <card blueprintId="7_53" horizontal="false" title="Portable Scanner"/>
+    <card blueprintId="7_53" horizontal="false" title="Portable Scanner"/>
+    <card blueprintId="7_53" horizontal="false" title="Portable Scanner"/>
+    <card blueprintId="1_35" horizontal="false" title="Electrobinoculars"/>
+    <card blueprintId="1_35" horizontal="false" title="Electrobinoculars"/>
+    <card blueprintId="2_75" horizontal="false" title="Incom T-16 Skyhopper"/>
+    <card blueprintId="2_75" horizontal="false" title="Incom T-16 Skyhopper"/>
+    <card blueprintId="2_75" horizontal="false" title="Incom T-16 Skyhopper"/>
+    <card blueprintId="2_75" horizontal="false" title="Incom T-16 Skyhopper"/>
+    <card blueprintId="2_75" horizontal="false" title="Incom T-16 Skyhopper"/>
+    <card blueprintId="2_75" horizontal="false" title="Incom T-16 Skyhopper"/>
+    <card blueprintId="2_75" horizontal="false" title="Incom T-16 Skyhopper"/>
+    <card blueprintId="2_75" horizontal="false" title="Incom T-16 Skyhopper"/>
+    <card blueprintId="2_75" horizontal="false" title="Incom T-16 Skyhopper"/>
+    <card blueprintId="2_75" horizontal="false" title="Incom T-16 Skyhopper"/>
+    <card blueprintId="2_75" horizontal="false" title="Incom T-16 Skyhopper"/>
+    <card blueprintId="2_75" horizontal="false" title="Incom T-16 Skyhopper"/>
+    <card blueprintId="2_75" horizontal="false" title="Incom T-16 Skyhopper"/>
+    <card blueprintId="102_4" horizontal="false" title="Luke's T-16 Skyhopper"/>
+    <card blueprintId="8_79" horizontal="false" title="Tydirium"/>
+    <card blueprintId="7_120" horizontal="true" title="Farm"/>
+    <card blueprintId="7_128" horizontal="true" title="Swamp"/>
+    <card blueprintId="8_70" horizontal="true" title="Endor: Bunker"/>
+    <card blueprintId="8_77" horizontal="true" title="Endor: Rebel Landing Site (Forest)"/>
+    <card blueprintId="8_75" horizontal="true" title="Endor: Hidden Forest Trail"/>
+    <card blueprintId="8_69" horizontal="true" title="Endor: Back Door"/>
+    <card blueprintId="8_71" horizontal="true" title="Endor: Chief Chirpa's Hut"/>
+    <card blueprintId="1_113" horizontal="false" title="Surprise Assault"/>
+    <card blueprintId="1_113" horizontal="false" title="Surprise Assault"/>
+    <card blueprintId="2_56" horizontal="false" title="Sabotage"/>
+    <card blueprintId="2_56" horizontal="false" title="Sabotage"/>
+    <card blueprintId="8_45" horizontal="false" title="Covert Landing"/>
+    <card blueprintId="8_45" horizontal="false" title="Covert Landing"/>
+    <card blueprintId="8_45" horizontal="false" title="Covert Landing"/>
+    <card blueprintId="8_45" horizontal="false" title="Covert Landing"/>
+    <card blueprintId="1_101" horizontal="false" title="On The Edge"/>
+    <card blueprintId="1_101" horizontal="false" title="On The Edge"/>
+    <card blueprintId="1_101" horizontal="false" title="On The Edge"/>
+    <card blueprintId="1_101" horizontal="false" title="On The Edge"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="2_40" horizontal="false" title="Undercover"/>
+    <card blueprintId="2_40" horizontal="false" title="Undercover"/>
+    <card blueprintId="7_69" horizontal="false" title="Maneuvering Flaps"/>
+    <card blueprintId="7_69" horizontal="false" title="Maneuvering Flaps"/>
+    <card blueprintId="6_59" horizontal="false" title="Yarna d'al' Gargan"/>
+    <card blueprintId="1_66" horizontal="false" title="Traffic Control"/>
+    <card blueprintId="6_58" horizontal="false" title="Ultimatum"/>
+    <card blueprintId="7_81" horizontal="false" title="Wise Advice"/>
+</deck>

@@ -1,0 +1,66 @@
+2021 WORLDS MATT SCOTT LS Y4O
+
+CHARACTER
+1x Derek 'Hobbie' Klivian (V)
+1x General Dodonna (V)
+1x Harc Seff (V)
+1x Kin Kian
+1x Leia (V)
+2x Lieutenant Tarn Mison
+1x Luke Skywalker (V)
+1x Poe Dameron
+1x Temmin "Snap" Wexley
+1x Wedge Antilles, Red Squadron Leader
+
+EFFECT
+1x Anger, Fear, Aggression (V)
+1x Haven
+1x Insurrection & Aim High
+3x Projection Of A Skywalker
+1x Squadron Assignments
+1x Strikeforce (V)
+1x What Chance Do We Have?
+1x Wokling (V)
+
+EPIC EVENT
+1x Restore Freedom To The Galaxy
+
+INTERRUPT
+3x All Wings Report In & Darklighter Spin
+2x Effective Repairs & Starship Levitation
+1x Heading For The Medical Frigate
+1x Inconsequential Barriers
+3x Organized Attack
+2x Out Of Commission & Transmission Terminated
+1x Rapid Fire
+1x Stay Sharp!
+1x They're Tracking Us (V)
+1x Where's Han?
+
+LOCATION
+1x Aquaris
+1x Nar Shaddaa
+1x Yavin 4 (V)
+1x Yavin 4: Massassi War Room (V)
+
+OBJECTIVE
+1x Yavin 4 Base Operations
+
+STARSHIP
+1x BB-8 In Black Squadron 1
+1x Blue Squadron 1
+1x Gold Leader In Gold 1 (V)
+1x Gray Squadron 1
+2x Green Leader In Green Squadron 1
+1x Han, Chewie, And The Falcon (V)
+1x Overseer
+1x Red 5 (V)
+1x Red 6
+1x Red 8 (V)
+1x Red Squadron 1
+1x Red Squadron 4
+
+WEAPON
+2x Enhanced Proton Torpedoes
+2x X-wing Laser Cannon
+

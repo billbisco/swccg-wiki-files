@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="1_127" horizontal="false" title="Tatooine"/>
+    <card blueprintId="1_129" horizontal="true" title="Tatooine: Docking Bay 94"/>
+    <card blueprintId="1_131" horizontal="true" title="Tatooine: Jawa Camp"/>
+    <card blueprintId="1_130" horizontal="true" title="Tatooine: Dune Sea"/>
+    <card blueprintId="1_132" horizontal="true" title="Tatooine: Lars' Moisture Farm"/>
+    <card blueprintId="1_135" horizontal="false" title="Yavin 4"/>
+    <card blueprintId="1_137" horizontal="true" title="Yavin 4: Jungle"/>
+    <card blueprintId="1_136" horizontal="true" title="Yavin 4: Docking Bay"/>
+    <card blueprintId="1_12" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_12" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_12" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_12" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_6" horizontal="false" title="CZ-3 (Seezee-Three)"/>
+    <card blueprintId="1_6" horizontal="false" title="CZ-3 (Seezee-Three)"/>
+    <card blueprintId="1_28" horizontal="false" title="Rebel Trooper"/>
+    <card blueprintId="1_28" horizontal="false" title="Rebel Trooper"/>
+    <card blueprintId="1_28" horizontal="false" title="Rebel Trooper"/>
+    <card blueprintId="1_28" horizontal="false" title="Rebel Trooper"/>
+    <card blueprintId="1_28" horizontal="false" title="Rebel Trooper"/>
+    <card blueprintId="1_25" horizontal="false" title="R4-E1 (Arfour-Eeone)"/>
+    <card blueprintId="1_25" horizontal="false" title="R4-E1 (Arfour-Eeone)"/>
+    <card blueprintId="1_26" horizontal="false" title="Rebel Guard"/>
+    <card blueprintId="1_26" horizontal="false" title="Rebel Guard"/>
+    <card blueprintId="1_27" horizontal="false" title="Rebel Pilot"/>
+    <card blueprintId="1_27" horizontal="false" title="Rebel Pilot"/>
+    <card blueprintId="1_27" horizontal="false" title="Rebel Pilot"/>
+    <card blueprintId="1_30" horizontal="false" title="Shistavanen Wolfman"/>
+    <card blueprintId="1_30" horizontal="false" title="Shistavanen Wolfman"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_147" horizontal="false" title="Y-wing"/>
+    <card blueprintId="1_147" horizontal="false" title="Y-wing"/>
+    <card blueprintId="1_147" horizontal="false" title="Y-wing"/>
+    <card blueprintId="1_36" horizontal="false" title="Fusion Generator Supply Tanks"/>
+    <card blueprintId="1_36" horizontal="false" title="Fusion Generator Supply Tanks"/>
+    <card blueprintId="1_36" horizontal="false" title="Fusion Generator Supply Tanks"/>
+    <card blueprintId="1_158" horizontal="false" title="Proton Torpedoes"/>
+    <card blueprintId="1_158" horizontal="false" title="Proton Torpedoes"/>
+    <card blueprintId="1_158" horizontal="false" title="Proton Torpedoes"/>
+    <card blueprintId="1_40" horizontal="false" title="Tatooine Utility Belt"/>
+    <card blueprintId="1_40" horizontal="false" title="Tatooine Utility Belt"/>
+    <card blueprintId="1_152" horizontal="false" title="Blaster"/>
+    <card blueprintId="1_152" horizontal="false" title="Blaster"/>
+    <card blueprintId="1_153" horizontal="false" title="Blaster Rifle"/>
+    <card blueprintId="1_153" horizontal="false" title="Blaster Rifle"/>
+    <card blueprintId="1_90" horizontal="false" title="It Could Be Worse"/>
+    <card blueprintId="1_90" horizontal="false" title="It Could Be Worse"/>
+    <card blueprintId="1_90" horizontal="false" title="It Could Be Worse"/>
+    <card blueprintId="1_100" horizontal="false" title="Old Ben"/>
+    <card blueprintId="1_100" horizontal="false" title="Old Ben"/>
+    <card blueprintId="1_100" horizontal="false" title="Old Ben"/>
+    <card blueprintId="1_104" horizontal="false" title="Radar Scanner"/>
+</deck>

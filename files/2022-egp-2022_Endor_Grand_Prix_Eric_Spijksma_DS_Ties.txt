@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+<card blueprintId="9_99" title="Baron Soontir Fel"/>
+<card blueprintId="1_173" title="DS-61-2"/>
+<card blueprintId="200_78" title="Darth Vader"/>
+<card blueprintId="200_82" title="Grand Moff Tarkin"/>
+<card blueprintId="200_85" title="Maarek Stele, The Emperor's Reach"/>
+<card blueprintId="200_105" title="Combat Response"/>
+<card blueprintId="7_227" title="Dreaded Imperial Starfleet"/>
+<card blueprintId="12_133" title="Enter The Bureaucrat"/>
+<card blueprintId="12_133" title="Enter The Bureaucrat"/>
+<card blueprintId="200_107" title="Image Of The Dark Lord"/>
+<card blueprintId="200_110" title="Knowledge And Defense"/>
+<card blueprintId="200_111" title="Kuat Drive Yards"/>
+<card blueprintId="1_222" title="Lateral Damage"/>
+<card blueprintId="112_16" title="No Escape"/>
+<card blueprintId="207_26" title="Security Precautions"/>
+<card blueprintId="7_241" title="Sienar Fleet Systems"/>
+<card blueprintId="200_112" title="Something Special Planned For Them"/>
+<card blueprintId="7_246" title="All Power To Weapons"/>
+<card blueprintId="7_246" title="All Power To Weapons"/>
+<card blueprintId="7_246" title="All Power To Weapons"/>
+<card blueprintId="200_117" title="Combat Readiness"/>
+<card blueprintId="200_120" title="Force Push"/>
+<card blueprintId="2_132" title="Ghhhk"/>
+<card blueprintId="12_148" title="Imperial Artillery"/>
+<card blueprintId="1_249" title="Imperial Barrier"/>
+<card blueprintId="1_249" title="Imperial Barrier"/>
+<card blueprintId="7_257" title="Masterful Move"/>
+<card blueprintId="7_260" title="Relentless Pursuit"/>
+<card blueprintId="12_158" title="Short Range Fighters &amp; Watch Your Back!"/>
+<card blueprintId="12_158" title="Short Range Fighters &amp; Watch Your Back!"/>
+<card blueprintId="12_158" title="Short Range Fighters &amp; Watch Your Back!"/>
+<card blueprintId="106_17" title="Tarkin's Orders"/>
+<card blueprintId="106_17" title="Tarkin's Orders"/>
+<card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+<card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+<card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+<card blueprintId="12_164" title="Blockade Flagship: Bridge"/>
+<card blueprintId="2_146" title="Kashyyyk"/>
+<card blueprintId="210_39" title="Mustafar"/>
+<card blueprintId="209_50" title="Mustafar: Vader's Castle"/>
+<card blueprintId="12_169" title="Naboo"/>
+<card blueprintId="213_30" title="Wakeelmui"/>
+<card blueprintId="200_127" title="Black 2"/>
+<card blueprintId="200_132" title="Colonel Jendon In Onyx 1"/>
+<card blueprintId="106_13" title="Dreadnaught-Class Heavy Cruiser"/>
+<card blueprintId="200_136" title="Onyx 2"/>
+<card blueprintId="9_162" title="Saber 1"/>
+<card blueprintId="9_165" title="Saber 4"/>
+<card blueprintId="9_175" title="TIE Interceptor"/>
+<card blueprintId="9_175" title="TIE Interceptor"/>
+<card blueprintId="9_175" title="TIE Interceptor"/>
+<card blueprintId="9_175" title="TIE Interceptor"/>
+<card blueprintId="9_175" title="TIE Interceptor"/>
+<card blueprintId="9_175" title="TIE Interceptor"/>
+<card blueprintId="9_172" title="The Emperor's Shield"/>
+<card blueprintId="9_173" title="The Emperor's Sword"/>
+<card blueprintId="206_14" title="Vader's Custom TIE"/>
+<card blueprintId="7_324" title="SFS L-s9.3 Laser Cannons"/>
+<card blueprintId="7_324" title="SFS L-s9.3 Laser Cannons"/>
+<card blueprintId="7_324" title="SFS L-s9.3 Laser Cannons"/>
+<cardOutsideDeck blueprintId="13_51" title="A Useless Gesture"/>
+<cardOutsideDeck blueprintId="200_93" title="A Useless Gesture"/>
+<cardOutsideDeck blueprintId="13_52" title="Allegations Of Corruption"/>
+<cardOutsideDeck blueprintId="13_54" title="Battle Order"/>
+<cardOutsideDeck blueprintId="13_61" title="Come Here You Big Coward"/>
+<cardOutsideDeck blueprintId="216_5" title="Crossfire"/>
+<cardOutsideDeck blueprintId="200_94" title="Death Star Sentry"/>
+<cardOutsideDeck blueprintId="13_66" title="Do They Have A Code Clearance?"/>
+<cardOutsideDeck blueprintId="213_13" title="Failure At The Cave"/>
+<cardOutsideDeck blueprintId="13_68" title="Fanfare"/>
+<cardOutsideDeck blueprintId="200_95" title="Fanfare"/>
+<cardOutsideDeck blueprintId="200_97" title="I Find Your Lack Of Faith Disturbing"/>
+<cardOutsideDeck blueprintId="200_98" title="Imperial Detention"/>
+<cardOutsideDeck blueprintId="13_72" title="Leave Them To Me"/>
+<cardOutsideDeck blueprintId="13_78" title="No Escape"/>
+<cardOutsideDeck blueprintId="13_81" title="Oppressive Enforcement"/>
+<cardOutsideDeck blueprintId="13_84" title="Resistance"/>
+<cardOutsideDeck blueprintId="13_86" title="Secret Plans"/>
+<cardOutsideDeck blueprintId="13_90" title="There Is No Try"/>
+<cardOutsideDeck blueprintId="200_99" title="Vote Of No Confidence"/>
+<cardOutsideDeck blueprintId="13_96" title="We'll Let Fate-a Decide, Huh?"/>
+<cardOutsideDeck blueprintId="13_95" title="Weapon Of A Sith"/>
+<cardOutsideDeck blueprintId="13_98" title="Wipe Them Out, All Of Them"/>
+<cardOutsideDeck blueprintId="200_100" title="You Cannot Hide Forever"/>
+<cardOutsideDeck blueprintId="13_100" title="You've Never Won A Race?"/>
+</deck>

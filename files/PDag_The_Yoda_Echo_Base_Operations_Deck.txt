@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="4_2" horizontal="false" title="Yoda"/>
+    <card blueprintId="4_1" horizontal="false" title="Son Of Skywalker"/>
+    <card blueprintId="3_10" horizontal="false" title="General Carlist Rieekan"/>
+    <card blueprintId="3_10" horizontal="false" title="General Carlist Rieekan"/>
+    <card blueprintId="1_21" horizontal="false" title="Obi-Wan Kenobi"/>
+    <card blueprintId="3_34" horizontal="false" title="Echo Base Operations"/>
+    <card blueprintId="3_34" horizontal="false" title="Echo Base Operations"/>
+    <card blueprintId="4_43" horizontal="false" title="Yoda's Gimer Stick"/>
+    <card blueprintId="4_43" horizontal="false" title="Yoda's Gimer Stick"/>
+    <card blueprintId="1_74" horizontal="false" title="Collision!"/>
+    <card blueprintId="1_74" horizontal="false" title="Collision!"/>
+    <card blueprintId="1_74" horizontal="false" title="Collision!"/>
+    <card blueprintId="1_74" horizontal="false" title="Collision!"/>
+    <card blueprintId="1_74" horizontal="false" title="Collision!"/>
+    <card blueprintId="1_95" horizontal="false" title="Luke's Back"/>
+    <card blueprintId="1_95" horizontal="false" title="Luke's Back"/>
+    <card blueprintId="1_107" horizontal="false" title="Return Of A Jedi"/>
+    <card blueprintId="1_107" horizontal="false" title="Return Of A Jedi"/>
+    <card blueprintId="4_73" horizontal="false" title="Yoda, You Seek Yoda"/>
+    <card blueprintId="4_73" horizontal="false" title="Yoda, You Seek Yoda"/>
+    <card blueprintId="3_71" horizontal="false" title="Anakin's Lightsaber"/>
+    <card blueprintId="1_157" horizontal="false" title="Obi-Wan's Lightsaber"/>
+    <card blueprintId="1_158" horizontal="false" title="Proton Torpedoes"/>
+    <card blueprintId="1_158" horizontal="false" title="Proton Torpedoes"/>
+    <card blueprintId="1_158" horizontal="false" title="Proton Torpedoes"/>
+    <card blueprintId="1_158" horizontal="false" title="Proton Torpedoes"/>
+    <card blueprintId="1_158" horizontal="false" title="Proton Torpedoes"/>
+    <card blueprintId="1_158" horizontal="false" title="Proton Torpedoes"/>
+    <card blueprintId="1_158" horizontal="false" title="Proton Torpedoes"/>
+    <card blueprintId="1_158" horizontal="false" title="Proton Torpedoes"/>
+    <card blueprintId="3_61" horizontal="true" title="Hoth: Main Power Generators (1st Marker)"/>
+    <card blueprintId="3_57" horizontal="true" title="Hoth: Echo Command Center (War Room)"/>
+    <card blueprintId="3_60" horizontal="true" title="Hoth: Echo Med Lab"/>
+    <card blueprintId="3_59" horizontal="true" title="Hoth: Echo Docking Bay"/>
+    <card blueprintId="3_62" horizontal="true" title="Hoth: North Ridge (4th Marker)"/>
+    <card blueprintId="3_55" horizontal="false" title="Hoth"/>
+    <card blueprintId="1_127" horizontal="false" title="Tatooine"/>
+    <card blueprintId="1_126" horizontal="false" title="Kessel"/>
+    <card blueprintId="1_135" horizontal="false" title="Yavin 4"/>
+    <card blueprintId="4_84" horizontal="false" title="Dagobah"/>
+    <card blueprintId="4_89" horizontal="true" title="Dagobah: Yoda's Hut"/>
+    <card blueprintId="4_85" horizontal="true" title="Dagobah: Bog Clearing"/>
+    <card blueprintId="4_87" horizontal="true" title="Dagobah: Swamp"/>
+    <card blueprintId="4_86" horizontal="true" title="Dagobah: Jungle"/>
+    <card blueprintId="4_88" horizontal="true" title="Dagobah: Training Area"/>
+    <card blueprintId="1_147" horizontal="false" title="Y-wing"/>
+    <card blueprintId="1_147" horizontal="false" title="Y-wing"/>
+    <card blueprintId="1_147" horizontal="false" title="Y-wing"/>
+    <card blueprintId="1_147" horizontal="false" title="Y-wing"/>
+    <card blueprintId="103_1" horizontal="false" title="Gold Leader In Gold 1"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="103_2" horizontal="false" title="Red Leader In Red 1"/>
+    <card blueprintId="1_140" horizontal="false" title="Corellian Corvette"/>
+    <card blueprintId="1_140" horizontal="false" title="Corellian Corvette"/>
+    <card blueprintId="1_140" horizontal="false" title="Corellian Corvette"/>
+    <card blueprintId="1_140" horizontal="false" title="Corellian Corvette"/>
+    <card blueprintId="1_140" horizontal="false" title="Corellian Corvette"/>
+</deck>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="3_61" horizontal="true" title="Hoth: Main Power Generators (1st Marker)"/>
+    <card blueprintId="3_62" horizontal="true" title="Hoth: North Ridge (4th Marker)"/>
+    <card blueprintId="3_59" horizontal="true" title="Hoth: Echo Docking Bay"/>
+    <card blueprintId="3_57" horizontal="true" title="Hoth: Echo Command Center (War Room)"/>
+    <card blueprintId="3_58" horizontal="true" title="Hoth: Echo Corridor"/>
+    <card blueprintId="1_126" horizontal="false" title="Kessel"/>
+    <card blueprintId="1_126" horizontal="false" title="Kessel"/>
+    <card blueprintId="6_83" horizontal="false" title="Kiffex"/>
+    <card blueprintId="1_135" horizontal="false" title="Yavin 4"/>
+    <card blueprintId="7_116" horizontal="false" title="Coruscant"/>
+    <card blueprintId="1_127" horizontal="false" title="Tatooine"/>
+    <card blueprintId="106_2" horizontal="false" title="Corulag"/>
+    <card blueprintId="3_10" horizontal="false" title="General Carlist Rieekan"/>
+    <card blueprintId="5_1" horizontal="false" title="Captain Han Solo"/>
+    <card blueprintId="5_1" horizontal="false" title="Captain Han Solo"/>
+    <card blueprintId="108_2" horizontal="false" title="Leia With Blaster Rifle"/>
+    <card blueprintId="1_31" horizontal="false" title="Talz"/>
+    <card blueprintId="1_31" horizontal="false" title="Talz"/>
+    <card blueprintId="1_31" horizontal="false" title="Talz"/>
+    <card blueprintId="1_32" horizontal="false" title="WED-9-M1 'Bantha' Droid"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="7_150" horizontal="false" title="X-wing Assault Squadron"/>
+    <card blueprintId="7_150" horizontal="false" title="X-wing Assault Squadron"/>
+    <card blueprintId="1_143" horizontal="false" title="Millennium Falcon"/>
+    <card blueprintId="1_143" horizontal="false" title="Millennium Falcon"/>
+    <card blueprintId="2_73" horizontal="false" title="Tantive IV"/>
+    <card blueprintId="111_1" horizontal="false" title="A New Secret Base"/>
+    <card blueprintId="7_73" horizontal="false" title="Rebel Fleet"/>
+    <card blueprintId="4_21" horizontal="false" title="Do, Or Do Not"/>
+    <card blueprintId="7_81" horizontal="false" title="Wise Advice"/>
+    <card blueprintId="111_3" horizontal="false" title="Echo Base Garrison"/>
+    <card blueprintId="3_34" horizontal="false" title="Echo Base Operations"/>
+    <card blueprintId="3_37" horizontal="false" title="Ice Storm"/>
+    <card blueprintId="3_37" horizontal="false" title="Ice Storm"/>
+    <card blueprintId="3_37" horizontal="false" title="Ice Storm"/>
+    <card blueprintId="1_87" horizontal="false" title="How Did We Get Into This Mess?"/>
+    <card blueprintId="1_87" horizontal="false" title="How Did We Get Into This Mess?"/>
+    <card blueprintId="1_87" horizontal="false" title="How Did We Get Into This Mess?"/>
+    <card blueprintId="1_87" horizontal="false" title="How Did We Get Into This Mess?"/>
+    <card blueprintId="7_82" horizontal="false" title="All Wings Report In"/>
+    <card blueprintId="7_82" horizontal="false" title="All Wings Report In"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="1_88" horizontal="false" title="Hyper Escape"/>
+    <card blueprintId="1_88" horizontal="false" title="Hyper Escape"/>
+    <card blueprintId="1_88" horizontal="false" title="Hyper Escape"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="8_56" horizontal="false" title="I Know"/>
+</deck>

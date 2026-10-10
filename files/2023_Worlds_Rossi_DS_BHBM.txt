@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_71" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="206_9" title="Boba Fett"/>
+    <card blueprintId="200_76" title="Count Dooku"/>
+    <card blueprintId="7_175" title="Darth Vader, Dark Lord Of The Sith"/>
+    <card blueprintId="7_175" title="Darth Vader, Dark Lord Of The Sith"/>
+    <card blueprintId="208_30" title="Darth Vader, Emperor's Enforcer"/>
+    <card blueprintId="208_30" title="Darth Vader, Emperor's Enforcer"/>
+    <card blueprintId="205_12" title="Emperor Palpatine, Foreseer"/>
+    <card blueprintId="213_6" title="Fifth Brother"/>
+    <card blueprintId="207_30" title="Grand Admiral Thrawn"/>
+    <card blueprintId="9_110" title="Janus Greejatus"/>
+    <card blueprintId="209_37" title="Kylo Ren With Lightsaber"/>
+    <card blueprintId="209_37^" title="Kylo Ren With Lightsaber"/>
+    <card blueprintId="213_10" title="Maul"/>
+    <card blueprintId="205_15" title="Sim Aloo"/>
+    <card blueprintId="200_90" title="Sith Probe Droid"/>
+    <card blueprintId="200_90" title="Sith Probe Droid"/>
+    <card blueprintId="209_39" title="Supreme Leader Snoke"/>
+    <card blueprintId="200_92" title="Ysanne Isard"/>
+    <card blueprintId="1_210" title="Blast Door Controls"/>
+    <card blueprintId="13_62" title="Conduct Your Search"/>
+    <card blueprintId="9_123" title="Emperor's Power"/>
+    <card blueprintId="205_17" title="I Am Your Father"/>
+    <card blueprintId="12_135" title="Imperial Arrest Order &amp; Secret Plans"/>
+    <card blueprintId="9_127" title="Insignificant Rebellion"/>
+    <card blueprintId="200_110" title="Knowledge And Defense"/>
+    <card blueprintId="201_32" title="Ng'ok War Beast"/>
+    <card blueprintId="112_16" title="No Escape"/>
+    <card blueprintId="200_112" title="Something Special Planned For Them"/>
+    <card blueprintId="207_27" title="Specter Of The Supreme Leader"/>
+    <card blueprintId="207_27" title="Specter Of The Supreme Leader"/>
+    <card blueprintId="208_41" title="Tarkin's Bounty"/>
+    <card blueprintId="9_134" title="Your Destiny"/>
+    <card blueprintId="201_33" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="200_119" title="Force Field"/>
+    <card blueprintId="200_120" title="Force Push"/>
+    <card blueprintId="10_39" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+    <card blueprintId="200_122" title="Imbalance &amp; Kintan Strider"/>
+    <card blueprintId="209_48" title="Lana Dobreed &amp; Sacrifice"/>
+    <card blueprintId="205_20" title="Point Man"/>
+    <card blueprintId="12_158" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="12_158" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="200_123" title="Sith Fury"/>
+    <card blueprintId="200_123" title="Sith Fury"/>
+    <card blueprintId="212_4" title="Slip Sliding Away"/>
+    <card blueprintId="211_16" title="Vader's Anger"/>
+    <card blueprintId="211_16" title="Vader's Anger"/>
+    <card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_164" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="7_276" title="Coruscant: Docking Bay"/>
+    <card blueprintId="9_145" title="Death Star II: Docking Bay"/>
+    <card blueprintId="9_147" title="Death Star II: Throne Room"/>
+    <card blueprintId="8_159" title="Endor: Back Door"/>
+    <card blueprintId="213_25" title="First Light: Bar"/>
+    <card blueprintId="9_151" title="Bring Him Before Me"/>
+    <card blueprintId="201_40^" title="Slave I, Symbol Of Fear"/>
+    <card blueprintId="110_12" title="Zuckuss In Mist Hunter"/>
+    <card blueprintId="208_59" title="Darth Vader's Lightsaber"/>
+    <cardOutsideDeck blueprintId="205_14" title="Luke Skywalker, The Emperor's Prize"/>
+    <cardOutsideDeck blueprintId="13_51" title="A Useless Gesture"/>
+    <cardOutsideDeck blueprintId="200_93" title="A Useless Gesture"/>
+    <cardOutsideDeck blueprintId="13_52" title="Allegations Of Corruption"/>
+    <cardOutsideDeck blueprintId="13_54" title="Battle Order"/>
+    <cardOutsideDeck blueprintId="13_61" title="Come Here You Big Coward"/>
+    <cardOutsideDeck blueprintId="216_5" title="Crossfire"/>
+    <cardOutsideDeck blueprintId="200_94" title="Death Star Sentry"/>
+    <cardOutsideDeck blueprintId="13_66" title="Do They Have A Code Clearance?"/>
+    <cardOutsideDeck blueprintId="220_2" title="Drop!"/>
+    <cardOutsideDeck blueprintId="213_13" title="Failure At The Cave"/>
+    <cardOutsideDeck blueprintId="200_95" title="Fanfare"/>
+    <cardOutsideDeck blueprintId="200_97" title="I Find Your Lack Of Faith Disturbing"/>
+    <cardOutsideDeck blueprintId="200_98" title="Imperial Detention"/>
+    <cardOutsideDeck blueprintId="13_72" title="Leave Them To Me"/>
+    <cardOutsideDeck blueprintId="13_78" title="No Escape"/>
+    <cardOutsideDeck blueprintId="13_81" title="Oppressive Enforcement"/>
+    <cardOutsideDeck blueprintId="13_84" title="Resistance"/>
+    <cardOutsideDeck blueprintId="13_86" title="Secret Plans"/>
+    <cardOutsideDeck blueprintId="13_90" title="There Is No Try"/>
+    <cardOutsideDeck blueprintId="200_99" title="Vote Of No Confidence"/>
+    <cardOutsideDeck blueprintId="13_96" title="We'll Let Fate-a Decide, Huh?"/>
+    <cardOutsideDeck blueprintId="13_95" title="Weapon Of A Sith"/>
+    <cardOutsideDeck blueprintId="13_98" title="Wipe Them Out, All Of Them"/>
+    <cardOutsideDeck blueprintId="200_100" title="You Cannot Hide Forever"/>
+</deck>

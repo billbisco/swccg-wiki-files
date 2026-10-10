@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+<card blueprintId="204_36" title="B2 Battle Droid"/>
+<card blueprintId="204_36" title="B2 Battle Droid"/>
+<card blueprintId="204_36" title="B2 Battle Droid"/>
+<card blueprintId="209_35" title="Dr. Chelli Lona Aphra"/>
+<card blueprintId="10_41" title="Guri"/>
+<card blueprintId="208_34" title="Lord Maul With Lightsaber"/>
+<card blueprintId="208_34" title="Lord Maul With Lightsaber"/>
+<card blueprintId="208_35" title="Lord Sidious"/>
+<card blueprintId="210_40" title="Nute Gunray"/>
+<card blueprintId="14_84" title="OWO-1 With Backup"/>
+<card blueprintId="12_114" title="P-59"/>
+<card blueprintId="200_88" title="Probot"/>
+<card blueprintId="12_121" title="Tey How"/>
+<card blueprintId="2_107" title="U-3PO (Yoo-Threepio)"/>
+<card blueprintId="8_116" title="An Entire Legion Of My Best Troops"/>
+<card blueprintId="1_210" title="Blast Door Controls"/>
+<card blueprintId="14_96" title="Droid Racks"/>
+<card blueprintId="9_126" title="Inconsequential Losses"/>
+<card blueprintId="200_110" title="Knowledge And Defense"/>
+<card blueprintId="200_111" title="Kuat Drive Yards"/>
+<card blueprintId="200_114" title="You'll Be Dead!"/>
+<card blueprintId="13_58" title="Blow Parried"/>
+<card blueprintId="200_120" title="Force Push"/>
+<card blueprintId="10_39" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+<card blueprintId="10_39" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+<card blueprintId="10_39" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+<card blueprintId="3_130" title="Oh, Switch Off"/>
+<card blueprintId="3_130" title="Oh, Switch Off"/>
+<card blueprintId="9_139" title="Prepared Defenses"/>
+<card blueprintId="218_2" title="Seal Off The Bridge"/>
+<card blueprintId="218_2" title="Seal Off The Bridge"/>
+<card blueprintId="14_107" title="There They Are!"/>
+<card blueprintId="14_107" title="There They Are!"/>
+<card blueprintId="14_107" title="There They Are!"/>
+<card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+<card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+<card blueprintId="12_164" title="Blockade Flagship: Bridge"/>
+<card blueprintId="106_12" title="Corulag"/>
+<card blueprintId="7_283" title="Fondor"/>
+<card blueprintId="216_10" title="Naboo"/>
+<card blueprintId="12_171" title="Naboo: Swamp"/>
+<card blueprintId="12_174" title="Naboo: Theed Palace Throne Room"/>
+<card blueprintId="14_113" title="Invasion"/>
+<card blueprintId="14_114" title="Blockade Flagship"/>
+<card blueprintId="14_115" title="DFS Squadron Starfighter"/>
+<card blueprintId="12_186" title="Battle Droid Blaster Rifle"/>
+<card blueprintId="12_186" title="Battle Droid Blaster Rifle"/>
+<card blueprintId="12_186" title="Battle Droid Blaster Rifle"/>
+<card blueprintId="12_186" title="Battle Droid Blaster Rifle"/>
+<card blueprintId="12_186" title="Battle Droid Blaster Rifle"/>
+<card blueprintId="12_186" title="Battle Droid Blaster Rifle"/>
+<card blueprintId="12_186" title="Battle Droid Blaster Rifle"/>
+<card blueprintId="12_186" title="Battle Droid Blaster Rifle"/>
+<card blueprintId="12_186" title="Battle Droid Blaster Rifle"/>
+<card blueprintId="12_186" title="Battle Droid Blaster Rifle"/>
+<card blueprintId="12_186" title="Battle Droid Blaster Rifle"/>
+<card blueprintId="12_186" title="Battle Droid Blaster Rifle"/>
+<card blueprintId="12_186" title="Battle Droid Blaster Rifle"/>
+<card blueprintId="12_186" title="Battle Droid Blaster Rifle"/>
+<card blueprintId="14_127" title="Droid Starfighter Laser Cannons"/>
+</deck>

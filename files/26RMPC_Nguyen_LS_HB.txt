@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="9_3" horizontal="false" title="Concentrate All Fire"/>
+    <card blueprintId="9_3" horizontal="false" title="Concentrate All Fire"/>
+    <card blueprintId="110_1" horizontal="false" title="Boushh"/>
+    <card blueprintId="108_3" horizontal="false" title="Luke With Lightsaber"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="7_48" horizontal="false" title="TK-422"/>
+    <card blueprintId="8_34" horizontal="false" title="Aim High"/>
+    <card blueprintId="9_33" horizontal="false" title="Honor Of The Jedi"/>
+    <card blueprintId="7_73" horizontal="false" title="Rebel Fleet"/>
+    <card blueprintId="9_43" horizontal="false" title="Superficial Damage"/>
+    <card blueprintId="7_80" horizontal="false" title="Weapons Display"/>
+    <card blueprintId="2_41" horizontal="false" title="What're You Tryin' To Push On Us?"/>
+    <card blueprintId="2_41" horizontal="false" title="What're You Tryin' To Push On Us?"/>
+    <card blueprintId="7_81" horizontal="false" title="Wise Advice"/>
+    <card blueprintId="9_47" horizontal="false" title="Your Insight Serves You Well"/>
+    <card blueprintId="7_82" horizontal="false" title="All Wings Report In"/>
+    <card blueprintId="2_49" horizontal="false" title="Grimtaash"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="1_88" horizontal="false" title="Hyper Escape"/>
+    <card blueprintId="1_88" horizontal="false" title="Hyper Escape"/>
+    <card blueprintId="1_91" horizontal="false" title="I've Got A Bad Feeling About This"/>
+    <card blueprintId="7_98" horizontal="false" title="Power Pivot"/>
+    <card blueprintId="7_98" horizontal="false" title="Power Pivot"/>
+    <card blueprintId="7_100" horizontal="false" title="Rapid Fire"/>
+    <card blueprintId="7_100" horizontal="false" title="Rapid Fire"/>
+    <card blueprintId="7_100" horizontal="false" title="Rapid Fire"/>
+    <card blueprintId="7_104" horizontal="false" title="Stay Sharp!"/>
+    <card blueprintId="7_104" horizontal="false" title="Stay Sharp!"/>
+    <card blueprintId="7_105" horizontal="false" title="Steady Aim"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="4_67" horizontal="false" title="Tunnel Vision"/>
+    <card blueprintId="4_67" horizontal="false" title="Tunnel Vision"/>
+    <card blueprintId="9_56" horizontal="false" title="Aquaris"/>
+    <card blueprintId="8_68" horizontal="false" title="Endor"/>
+    <card blueprintId="7_121" horizontal="true" title="Forest"/>
+    <card blueprintId="2_64" horizontal="false" title="Kashyyyk"/>
+    <card blueprintId="1_126" horizontal="false" title="Kessel"/>
+    <card blueprintId="6_83" horizontal="false" title="Kiffex"/>
+    <card blueprintId="7_123" horizontal="false" title="Rendezvous Point"/>
+    <card blueprintId="9_60" horizontal="false" title="Sullust"/>
+    <card blueprintId="7_136" horizontal="false" title="Hidden Base"/>
+    <card blueprintId="7_140" horizontal="false" title="B-wing Attack Fighter"/>
+    <card blueprintId="7_140" horizontal="false" title="B-wing Attack Fighter"/>
+    <card blueprintId="7_140" horizontal="false" title="B-wing Attack Fighter"/>
+    <card blueprintId="7_140" horizontal="false" title="B-wing Attack Fighter"/>
+    <card blueprintId="7_140" horizontal="false" title="B-wing Attack Fighter"/>
+    <card blueprintId="9_66" horizontal="false" title="B-wing Bomber"/>
+    <card blueprintId="9_64" horizontal="false" title="Blue Squadron B-wing"/>
+    <card blueprintId="9_64" horizontal="false" title="Blue Squadron B-wing"/>
+    <card blueprintId="9_64" horizontal="false" title="Blue Squadron B-wing"/>
+    <card blueprintId="9_87" horizontal="false" title="Concussion Missiles"/>
+    <card blueprintId="9_87" horizontal="false" title="Concussion Missiles"/>
+    <card blueprintId="9_87" horizontal="false" title="Concussion Missiles"/>
+    <card blueprintId="9_87" horizontal="false" title="Concussion Missiles"/>
+    <card blueprintId="9_87" horizontal="false" title="Concussion Missiles"/>
+    <card blueprintId="9_88" horizontal="false" title="Enhanced Proton Torpedoes"/>
+    <card blueprintId="7_159" horizontal="false" title="Intruder Missile"/>
+    <card blueprintId="2_81" horizontal="false" title="SW-4 Ion Cannon"/>
+    <cardOutsideDeck blueprintId="9_56" horizontal="false" title="Aquaris"/>
+    <cardOutsideDeck blueprintId="8_68" horizontal="false" title="Endor"/>
+    <cardOutsideDeck blueprintId="2_64" horizontal="false" title="Kashyyyk"/>
+    <cardOutsideDeck blueprintId="1_126" horizontal="false" title="Kessel"/>
+    <cardOutsideDeck blueprintId="6_83" horizontal="false" title="Kiffex"/>
+    <cardOutsideDeck blueprintId="9_60" horizontal="false" title="Sullust"/>
+</deck>

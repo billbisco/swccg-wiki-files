@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="9_4" horizontal="false" title="I'll Take The Leader"/>
+    <card blueprintId="6_6" horizontal="false" title="Baragwin"/>
+    <card blueprintId="110_1" horizontal="false" title="Boushh"/>
+    <card blueprintId="5_1" horizontal="false" title="Captain Han Solo"/>
+    <card blueprintId="7_16" horizontal="false" title="Elyhek Rue"/>
+    <card blueprintId="9_13" horizontal="false" title="General Calrissian"/>
+    <card blueprintId="9_21" horizontal="false" title="Lieutenant Blount"/>
+    <card blueprintId="1_19" horizontal="false" title="Luke Skywalker"/>
+    <card blueprintId="108_3" horizontal="false" title="Luke With Lightsaber"/>
+    <card blueprintId="9_29" horizontal="false" title="Ten Numb"/>
+    <card blueprintId="9_30" horizontal="false" title="Tycho Celchu"/>
+    <card blueprintId="9_31" horizontal="false" title="Wedge Antilles, Red Squadron Leader"/>
+    <card blueprintId="4_10" horizontal="false" title="Han's Toolkit"/>
+    <card blueprintId="2_33" horizontal="false" title="Grappling Hook"/>
+    <card blueprintId="9_33" horizontal="false" title="Honor Of The Jedi"/>
+    <card blueprintId="7_68" horizontal="false" title="Legendary Starfighter"/>
+    <card blueprintId="4_30" horizontal="false" title="Order To Engage"/>
+    <card blueprintId="9_39" horizontal="false" title="Squadron Assignments"/>
+    <card blueprintId="9_41" horizontal="false" title="Strike Planning"/>
+    <card blueprintId="2_41" horizontal="false" title="What're You Tryin' To Push On Us?"/>
+    <card blueprintId="2_41" horizontal="false" title="What're You Tryin' To Push On Us?"/>
+    <card blueprintId="7_81" horizontal="false" title="Wise Advice"/>
+    <card blueprintId="9_47" horizontal="false" title="Your Insight Serves You Well"/>
+    <card blueprintId="1_70" horizontal="false" title="A Few Maneuvers"/>
+    <card blueprintId="1_70" horizontal="false" title="A Few Maneuvers"/>
+    <card blueprintId="7_85" horizontal="false" title="Darklighter Spin"/>
+    <card blueprintId="5_44" horizontal="false" title="Desperate Reach"/>
+    <card blueprintId="2_49" horizontal="false" title="Grimtaash"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="1_88" horizontal="false" title="Hyper Escape"/>
+    <card blueprintId="1_101" horizontal="false" title="On The Edge"/>
+    <card blueprintId="1_101" horizontal="false" title="On The Edge"/>
+    <card blueprintId="2_54" horizontal="false" title="Out Of Commission"/>
+    <card blueprintId="7_98" horizontal="false" title="Power Pivot"/>
+    <card blueprintId="7_100" horizontal="false" title="Rapid Fire"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_113" horizontal="false" title="Surprise Assault"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="7_110" horizontal="false" title="Bothawui"/>
+    <card blueprintId="5_85" horizontal="false" title="Clouds"/>
+    <card blueprintId="106_2" horizontal="false" title="Corulag"/>
+    <card blueprintId="7_116" horizontal="false" title="Coruscant"/>
+    <card blueprintId="8_68" horizontal="false" title="Endor"/>
+    <card blueprintId="2_64" horizontal="false" title="Kashyyyk"/>
+    <card blueprintId="1_126" horizontal="false" title="Kessel"/>
+    <card blueprintId="7_123" horizontal="false" title="Rendezvous Point"/>
+    <card blueprintId="6_87" horizontal="false" title="Tibrin"/>
+    <card blueprintId="7_136" horizontal="false" title="Hidden Base"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="9_63" horizontal="false" title="Blue Squadron 5"/>
+    <card blueprintId="9_68" horizontal="false" title="Gold Squadron 1"/>
+    <card blueprintId="9_72" horizontal="false" title="Green Squadron 3"/>
+    <card blueprintId="7_146" horizontal="false" title="Red 7"/>
+    <card blueprintId="9_81" horizontal="false" title="Red Squadron 1"/>
+    <card blueprintId="7_149" horizontal="false" title="Spiral"/>
+    <card blueprintId="9_85" horizontal="false" title="Tala 2"/>
+    <card blueprintId="9_87" horizontal="false" title="Concussion Missiles"/>
+    <card blueprintId="7_159" horizontal="false" title="Intruder Missile"/>
+    <card blueprintId="7_159" horizontal="false" title="Intruder Missile"/>
+    <card blueprintId="7_162" horizontal="false" title="X-wing Laser Cannon"/>
+    <cardOutsideDeck blueprintId="7_110" horizontal="false" title="Bothawui"/>
+    <cardOutsideDeck blueprintId="106_2" horizontal="false" title="Corulag"/>
+    <cardOutsideDeck blueprintId="8_68" horizontal="false" title="Endor"/>
+    <cardOutsideDeck blueprintId="2_64" horizontal="false" title="Kashyyyk"/>
+    <cardOutsideDeck blueprintId="1_126" horizontal="false" title="Kessel"/>
+    <cardOutsideDeck blueprintId="6_87" horizontal="false" title="Tibrin"/>
+</deck>

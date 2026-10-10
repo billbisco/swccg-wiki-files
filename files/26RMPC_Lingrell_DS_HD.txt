@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="1_168" horizontal="false" title="Darth Vader"/>
+    <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
+    <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
+    <card blueprintId="7_175" horizontal="false" title="Darth Vader, Dark Lord Of The Sith"/>
+    <card blueprintId="7_175" horizontal="false" title="Darth Vader, Dark Lord Of The Sith"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="1_179" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="109_11" horizontal="false" title="IG-88 With Riot Gun"/>
+    <card blueprintId="7_224" horizontal="false" title="Come Here You Big Coward"/>
+    <card blueprintId="109_9" horizontal="false" title="Crush The Rebellion"/>
+    <card blueprintId="8_126" horizontal="false" title="Imperial Arrest Order"/>
+    <card blueprintId="9_129" horizontal="false" title="Mobilization Points"/>
+    <card blueprintId="4_135" horizontal="false" title="Visage Of The Emperor"/>
+    <card blueprintId="4_135" horizontal="false" title="Visage Of The Emperor"/>
+    <card blueprintId="4_135" horizontal="false" title="Visage Of The Emperor"/>
+    <card blueprintId="9_133" horizontal="false" title="You Cannot Hide Forever"/>
+    <card blueprintId="5_129" horizontal="false" title="Epic Duel"/>
+    <card blueprintId="8_135" horizontal="false" title="Always Thinking With Your Stomach"/>
+    <card blueprintId="8_135" horizontal="false" title="Always Thinking With Your Stomach"/>
+    <card blueprintId="1_238" horizontal="false" title="Counter Assault"/>
+    <card blueprintId="1_238" horizontal="false" title="Counter Assault"/>
+    <card blueprintId="1_238" horizontal="false" title="Counter Assault"/>
+    <card blueprintId="2_131" horizontal="false" title="Evader"/>
+    <card blueprintId="2_131" horizontal="false" title="Evader"/>
+    <card blueprintId="5_141" horizontal="false" title="Focused Attack"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="7_252" horizontal="false" title="Hunting Party"/>
+    <card blueprintId="7_257" horizontal="false" title="Masterful Move"/>
+    <card blueprintId="7_257" horizontal="false" title="Masterful Move"/>
+    <card blueprintId="9_138" horizontal="false" title="Operational As Planned"/>
+    <card blueprintId="9_138" horizontal="false" title="Operational As Planned"/>
+    <card blueprintId="9_138" horizontal="false" title="Operational As Planned"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="4_147" horizontal="false" title="Shut Him Up Or Shut Him Down"/>
+    <card blueprintId="1_271" horizontal="false" title="The Circle Is Now Complete"/>
+    <card blueprintId="1_271" horizontal="false" title="The Circle Is Now Complete"/>
+    <card blueprintId="3_138" horizontal="false" title="Trample"/>
+    <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="4_152" horizontal="false" title="Unexpected Interruption"/>
+    <card blueprintId="101_6" horizontal="false" title="Vader's Obsession"/>
+    <card blueprintId="101_6" horizontal="false" title="Vader's Obsession"/>
+    <card blueprintId="5_163" horizontal="false" title="You Are Beaten"/>
+    <card blueprintId="5_163" horizontal="false" title="You Are Beaten"/>
+    <card blueprintId="8_156" horizontal="false" title="Carida"/>
+    <card blueprintId="5_169" horizontal="true" title="Cloud City: East Platform (Docking Bay)"/>
+    <card blueprintId="2_143" horizontal="false" title="Death Star"/>
+    <card blueprintId="7_282" horizontal="true" title="Executor: Docking Bay"/>
+    <card blueprintId="4_161" horizontal="true" title="Executor: Holotheatre"/>
+    <card blueprintId="4_163" horizontal="true" title="Executor: Meditation Chamber"/>
+    <card blueprintId="7_297" horizontal="false" title="Hunt Down And Destroy The Jedi"/>
+    <card blueprintId="109_8" horizontal="false" title="Boba Fett In Slave I"/>
+    <card blueprintId="7_301" horizontal="false" title="Bossk In Hound's Tooth"/>
+    <card blueprintId="8_177" horizontal="false" title="Tempest Scout 6"/>
+    <card blueprintId="7_322" horizontal="false" title="Intruder Missile"/>
+    <card blueprintId="7_322" horizontal="false" title="Intruder Missile"/>
+    <card blueprintId="7_322" horizontal="false" title="Intruder Missile"/>
+    <card blueprintId="7_322" horizontal="false" title="Intruder Missile"/>
+</deck>

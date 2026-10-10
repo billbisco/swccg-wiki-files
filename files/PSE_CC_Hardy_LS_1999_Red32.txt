@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="5_77" horizontal="false" title="Bespin: Cloud City"/>
+    <card blueprintId="5_76" horizontal="false" title="Bespin"/>
+    <card blueprintId="5_76" horizontal="false" title="Bespin"/>
+    <card blueprintId="7_113" horizontal="true" title="Cloud City: Downtown Plaza"/>
+    <card blueprintId="7_111" horizontal="true" title="Cloud City: Casino"/>
+    <card blueprintId="5_83" horizontal="true" title="Cloud City: Platform 327 (Docking Bay)"/>
+    <card blueprintId="5_85" horizontal="false" title="Clouds"/>
+    <card blueprintId="5_85" horizontal="false" title="Clouds"/>
+    <card blueprintId="5_85" horizontal="false" title="Clouds"/>
+    <card blueprintId="5_85" horizontal="false" title="Clouds"/>
+    <card blueprintId="5_85" horizontal="false" title="Clouds"/>
+    <card blueprintId="7_3" horizontal="false" title="ASP-707 (Ayesspee)"/>
+    <card blueprintId="6_10" horizontal="false" title="Devaronian"/>
+    <card blueprintId="6_10" horizontal="false" title="Devaronian"/>
+    <card blueprintId="6_10" horizontal="false" title="Devaronian"/>
+    <card blueprintId="6_10" horizontal="false" title="Devaronian"/>
+    <card blueprintId="6_10" horizontal="false" title="Devaronian"/>
+    <card blueprintId="6_10" horizontal="false" title="Devaronian"/>
+    <card blueprintId="6_10" horizontal="false" title="Devaronian"/>
+    <card blueprintId="6_10" horizontal="false" title="Devaronian"/>
+    <card blueprintId="5_8" horizontal="false" title="Tibanna Gas Miner"/>
+    <card blueprintId="5_8" horizontal="false" title="Tibanna Gas Miner"/>
+    <card blueprintId="6_18" horizontal="false" title="H'nemthe"/>
+    <card blueprintId="6_18" horizontal="false" title="H'nemthe"/>
+    <card blueprintId="6_18" horizontal="false" title="H'nemthe"/>
+    <card blueprintId="5_4" horizontal="false" title="Kebyc"/>
+    <card blueprintId="5_4" horizontal="false" title="Kebyc"/>
+    <card blueprintId="6_33" horizontal="false" title="Pucumir Thryss"/>
+    <card blueprintId="6_33" horizontal="false" title="Pucumir Thryss"/>
+    <card blueprintId="5_88" horizontal="false" title="Cloud Car"/>
+    <card blueprintId="5_88" horizontal="false" title="Cloud Car"/>
+    <card blueprintId="5_88" horizontal="false" title="Cloud Car"/>
+    <card blueprintId="5_88" horizontal="false" title="Cloud Car"/>
+    <card blueprintId="5_88" horizontal="false" title="Cloud Car"/>
+    <card blueprintId="5_88" horizontal="false" title="Cloud Car"/>
+    <card blueprintId="5_88" horizontal="false" title="Cloud Car"/>
+    <card blueprintId="5_88" horizontal="false" title="Cloud Car"/>
+    <card blueprintId="5_88" horizontal="false" title="Cloud Car"/>
+    <card blueprintId="5_88" horizontal="false" title="Cloud Car"/>
+    <card blueprintId="5_88" horizontal="false" title="Cloud Car"/>
+    <card blueprintId="5_88" horizontal="false" title="Cloud Car"/>
+    <card blueprintId="6_53" horizontal="false" title="Bargaining Table"/>
+    <card blueprintId="7_62" horizontal="false" title="Goo Nee Tay"/>
+    <card blueprintId="7_69" horizontal="false" title="Maneuvering Flaps"/>
+    <card blueprintId="6_58" horizontal="false" title="Ultimatum"/>
+    <card blueprintId="7_94" horizontal="false" title="Local Defense"/>
+    <card blueprintId="7_94" horizontal="false" title="Local Defense"/>
+    <card blueprintId="7_94" horizontal="false" title="Local Defense"/>
+    <card blueprintId="7_94" horizontal="false" title="Local Defense"/>
+    <card blueprintId="7_94" horizontal="false" title="Local Defense"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="5_39" horizontal="false" title="Cloud City Sabacc"/>
+    <card blueprintId="5_39" horizontal="false" title="Cloud City Sabacc"/>
+    <card blueprintId="5_39" horizontal="false" title="Cloud City Sabacc"/>
+    <card blueprintId="5_39" horizontal="false" title="Cloud City Sabacc"/>
+    <card blueprintId="5_39" horizontal="false" title="Cloud City Sabacc"/>
+</deck>

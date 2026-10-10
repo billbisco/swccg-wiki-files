@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="7_5" horizontal="false" title="Bothan Spy"/>
+    <card blueprintId="6_20" horizontal="false" title="Ithorian"/>
+    <card blueprintId="6_20" horizontal="false" title="Ithorian"/>
+    <card blueprintId="6_20" horizontal="false" title="Ithorian"/>
+    <card blueprintId="108_3" horizontal="false" title="Luke With Lightsaber"/>
+    <card blueprintId="7_39" horizontal="false" title="Ralltiir Operative"/>
+    <card blueprintId="7_39" horizontal="false" title="Ralltiir Operative"/>
+    <card blueprintId="7_39" horizontal="false" title="Ralltiir Operative"/>
+    <card blueprintId="7_39" horizontal="false" title="Ralltiir Operative"/>
+    <card blueprintId="7_39" horizontal="false" title="Ralltiir Operative"/>
+    <card blueprintId="7_39" horizontal="false" title="Ralltiir Operative"/>
+    <card blueprintId="7_39" horizontal="false" title="Ralltiir Operative"/>
+    <card blueprintId="7_39" horizontal="false" title="Ralltiir Operative"/>
+    <card blueprintId="7_39" horizontal="false" title="Ralltiir Operative"/>
+    <card blueprintId="7_39" horizontal="false" title="Ralltiir Operative"/>
+    <card blueprintId="1_47" horizontal="false" title="Demotion"/>
+    <card blueprintId="4_21" horizontal="false" title="Do, Or Do Not"/>
+    <card blueprintId="4_25" horizontal="false" title="Hiding In The Garbage"/>
+    <card blueprintId="9_33" horizontal="false" title="Honor Of The Jedi"/>
+    <card blueprintId="8_40" horizontal="false" title="Insurrection"/>
+    <card blueprintId="7_69" horizontal="false" title="Maneuvering Flaps"/>
+    <card blueprintId="4_27" horizontal="false" title="Never Tell Me The Odds"/>
+    <card blueprintId="2_41" horizontal="false" title="What're You Tryin' To Push On Us?"/>
+    <card blueprintId="2_41" horizontal="false" title="What're You Tryin' To Push On Us?"/>
+    <card blueprintId="2_41" horizontal="false" title="What're You Tryin' To Push On Us?"/>
+    <card blueprintId="7_81" horizontal="false" title="Wise Advice"/>
+    <card blueprintId="6_59" horizontal="false" title="Yarna d'al' Gargan"/>
+    <card blueprintId="9_47" horizontal="false" title="Your Insight Serves You Well"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="5_55" horizontal="false" title="It's A Trap!"/>
+    <card blueprintId="8_57" horizontal="false" title="Lost In The Wilderness"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="4_67" horizontal="false" title="Tunnel Vision"/>
+    <card blueprintId="4_67" horizontal="false" title="Tunnel Vision"/>
+    <card blueprintId="7_119" horizontal="true" title="Desert"/>
+    <card blueprintId="7_120" horizontal="true" title="Farm"/>
+    <card blueprintId="7_121" horizontal="true" title="Forest"/>
+    <card blueprintId="9_57" horizontal="true" title="Home One: Docking Bay"/>
+    <card blueprintId="3_59" horizontal="true" title="Hoth: Echo Docking Bay"/>
+    <card blueprintId="7_122" horizontal="true" title="Jungle"/>
+    <card blueprintId="2_65" horizontal="false" title="Ralltiir"/>
+    <card blueprintId="7_126" horizontal="true" title="Spaceport Docking Bay"/>
+    <card blueprintId="7_127" horizontal="true" title="Spaceport Street"/>
+    <card blueprintId="7_128" horizontal="true" title="Swamp"/>
+    <card blueprintId="7_137" horizontal="false" title="Local Uprising"/>
+    <card blueprintId="104_3" horizontal="false" title="Rebel Snowspeeder"/>
+    <card blueprintId="104_3" horizontal="false" title="Rebel Snowspeeder"/>
+    <card blueprintId="104_3" horizontal="false" title="Rebel Snowspeeder"/>
+    <card blueprintId="104_3" horizontal="false" title="Rebel Snowspeeder"/>
+    <card blueprintId="104_3" horizontal="false" title="Rebel Snowspeeder"/>
+    <card blueprintId="104_3" horizontal="false" title="Rebel Snowspeeder"/>
+    <card blueprintId="104_3" horizontal="false" title="Rebel Snowspeeder"/>
+    <card blueprintId="104_3" horizontal="false" title="Rebel Snowspeeder"/>
+    <card blueprintId="104_3" horizontal="false" title="Rebel Snowspeeder"/>
+    <card blueprintId="104_3" horizontal="false" title="Rebel Snowspeeder"/>
+    <card blueprintId="104_3" horizontal="false" title="Rebel Snowspeeder"/>
+    <card blueprintId="104_3" horizontal="false" title="Rebel Snowspeeder"/>
+    <cardOutsideDeck blueprintId="7_22" horizontal="false" title="Incom Engineer"/>
+    <cardOutsideDeck blueprintId="6_53" horizontal="false" title="Bargaining Table"/>
+    <cardOutsideDeck blueprintId="7_66" horizontal="false" title="Incom Corporation"/>
+    <cardOutsideDeck blueprintId="6_57" horizontal="false" title="Sandwhirl"/>
+    <cardOutsideDeck blueprintId="2_49" horizontal="false" title="Grimtaash"/>
+    <cardOutsideDeck blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <cardOutsideDeck blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+</deck>

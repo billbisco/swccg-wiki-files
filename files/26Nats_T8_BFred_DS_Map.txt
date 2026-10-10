@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="212_6" horizontal="false" title="Allegiant General Pryde"/>
+    <card blueprintId="222_2" horizontal="false" title="Ap'lek"/>
+    <card blueprintId="222_2" horizontal="false" title="Ap'lek"/>
+    <card blueprintId="212_3" horizontal="false" title="Aurra Sing With Blaster Rifle"/>
+    <card blueprintId="208_37" horizontal="false" title="Captain Peavey"/>
+    <card blueprintId="204_38" horizontal="false" title="Captain Phasma"/>
+    <card blueprintId="204_38" horizontal="false" title="Captain Phasma"/>
+    <card blueprintId="225_14" horizontal="false" title="Cardo"/>
+    <card blueprintId="10_37" horizontal="false" title="Dr. Evazan &amp; Ponda Baba"/>
+    <card blueprintId="204_39" horizontal="false" title="FN-2003"/>
+    <card blueprintId="204_39" horizontal="false" title="FN-2003"/>
+    <card blueprintId="208_31" horizontal="false" title="FN-2199 (Nines)"/>
+    <card blueprintId="204_41" horizontal="false" title="General Hux"/>
+    <card blueprintId="222_10" horizontal="false" title="Kylo, Master Of The Knights Of Ren"/>
+    <card blueprintId="222_10" horizontal="false" title="Kylo, Master Of The Knights Of Ren"/>
+    <card blueprintId="222_10" horizontal="false" title="Kylo, Master Of The Knights Of Ren"/>
+    <card blueprintId="208_33" horizontal="false" title="Lieutenant Dopheld Mitaka"/>
+    <card blueprintId="208_33" horizontal="false" title="Lieutenant Dopheld Mitaka"/>
+    <card blueprintId="200_86" horizontal="false" title="Mara Jade With Lightsaber"/>
+    <card blueprintId="12_114" horizontal="false" title="P-59"/>
+    <card blueprintId="209_39" horizontal="false" title="Supreme Leader Snoke"/>
+    <card blueprintId="225_35" horizontal="false" title="Vicrul"/>
+    <card blueprintId="204_47^" horizontal="false" title="Bow To The First Order"/>
+    <card blueprintId="7_229" horizontal="false" title="First Strike"/>
+    <card blueprintId="208_40" horizontal="false" title="I Will Finish What You Started"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="225_24" horizontal="false" title="Navy Of The First Order"/>
+    <card blueprintId="214_12" horizontal="false" title="The First Order Was Just The Beginning"/>
+    <card blueprintId="218_7" horizontal="false" title="A Dark Time For The Rebellion &amp; Tarkin's Orders"/>
+    <card blueprintId="225_2" horizontal="false" title="Blast Points"/>
+    <card blueprintId="200_116" horizontal="false" title="Close Call"/>
+    <card blueprintId="200_116" horizontal="false" title="Close Call"/>
+    <card blueprintId="201_35" horizontal="false" title="Cold Feet"/>
+    <card blueprintId="221_13" horizontal="false" title="ComScan Detection"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="3_125" horizontal="false" title="Furry Fury"/>
+    <card blueprintId="10_39" horizontal="false" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="226_9" horizontal="false" title="Ommni Box &amp; It's Worse"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="10_47" horizontal="false" title="Sniper &amp; Dark Strike"/>
+    <card blueprintId="12_161" horizontal="false" title="They're Still Coming Through!"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="204_51" horizontal="false" title="Jakku"/>
+    <card blueprintId="204_53" horizontal="true" title="Jakku: Tuanul Village"/>
+    <card blueprintId="214_6" horizontal="false" title="Kijimi"/>
+    <card blueprintId="208_51" horizontal="false" title="Starkiller Base"/>
+    <card blueprintId="208_53" horizontal="true" title="Starkiller Base: Forest"/>
+    <card blueprintId="208_55" horizontal="true" title="Starkiller Base: Shield Control"/>
+    <card blueprintId="208_57" horizontal="false" title="I Want That Map"/>
+    <card blueprintId="204_54" horizontal="true" title="Finalizer"/>
+    <card blueprintId="204_55" horizontal="false" title="Kylo Ren's Command Shuttle"/>
+    <card blueprintId="222_11" horizontal="false" title="Night Buzzard"/>
+    <card blueprintId="214_9" horizontal="false" title="Steadfast"/>
+    <card blueprintId="204_58" horizontal="false" title="Kylo Ren's Lightsaber"/>
+    <cardOutsideDeck blueprintId="10_40" horizontal="false" title="Grand Admiral Thrawn"/>
+    <cardOutsideDeck blueprintId="13_51" horizontal="false" title="A Useless Gesture"/>
+    <cardOutsideDeck blueprintId="223_7" horizontal="false" title="A Useless Gesture &amp; Death Star Sentry"/>
+    <cardOutsideDeck blueprintId="13_52" horizontal="false" title="Allegations Of Corruption"/>
+    <cardOutsideDeck blueprintId="13_54" horizontal="false" title="Battle Order"/>
+    <cardOutsideDeck blueprintId="225_3" horizontal="false" title="Come Here You Big Coward"/>
+    <cardOutsideDeck blueprintId="216_5" horizontal="false" title="Crossfire"/>
+    <cardOutsideDeck blueprintId="13_66" horizontal="false" title="Do They Have A Code Clearance?"/>
+    <cardOutsideDeck blueprintId="220_2" horizontal="false" title="Drop!"/>
+    <cardOutsideDeck blueprintId="213_13" horizontal="false" title="Failure At The Cave"/>
+    <cardOutsideDeck blueprintId="200_95" horizontal="false" title="Fanfare"/>
+    <cardOutsideDeck blueprintId="13_72" horizontal="false" title="Leave Them To Me"/>
+    <cardOutsideDeck blueprintId="13_78" horizontal="false" title="No Escape"/>
+    <cardOutsideDeck blueprintId="13_81" horizontal="false" title="Oppressive Enforcement"/>
+    <cardOutsideDeck blueprintId="13_84" horizontal="false" title="Resistance"/>
+    <cardOutsideDeck blueprintId="13_86" horizontal="false" title="Secret Plans"/>
+    <cardOutsideDeck blueprintId="13_90" horizontal="false" title="There Is No Try"/>
+    <cardOutsideDeck blueprintId="200_99" horizontal="false" title="Vote Of No Confidence"/>
+    <cardOutsideDeck blueprintId="223_26" horizontal="false" title="We'll Let Fate-a Decide, Huh?"/>
+    <cardOutsideDeck blueprintId="13_95" horizontal="false" title="Weapon Of A Sith"/>
+    <cardOutsideDeck blueprintId="13_98" horizontal="false" title="Wipe Them Out, All Of Them"/>
+    <cardOutsideDeck blueprintId="200_100" horizontal="false" title="You Cannot Hide Forever"/>
+    <cardOutsideDeck blueprintId="223_29" horizontal="false" title="You've Never Won A Race?"/>
+    <cardOutsideDeck blueprintId="221_39" horizontal="false" title="Tentacle"/>
+    <cardOutsideDeck blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+</deck>

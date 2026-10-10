@@ -1,0 +1,68 @@
+2021 WORLDS TOP 8 ROBBIE HENDON LS WHAP
+
+ADMIRAL'S ORDER
+2x Taking Them With Us
+
+CHARACTER
+1x Anakin Skywalker, Padawan Learner
+1x Baragwin
+1x CT-5385 (Tup)
+1x Cal Kestis
+1x Captain Rex, 501st Legion
+1x Commander Cody
+2x General Kenobi
+1x Jerus Jannick
+1x Kit Fisto
+2x Mace Windu (AI) (V)
+1x Panaka, Protector Of The Queen (AI)
+2x Queen Amidala (AI)
+2x Qui-Gon Jinn, Serene Jedi
+1x Sio Bibble
+2x Solo
+1x Yoda, Master Of The Force
+
+DEVICE
+1x Landing Claw
+
+EFFECT
+1x Anger, Fear, Aggression (V)
+1x For Luck (V)
+1x Jedi Business
+1x Meditation (V)
+1x We'll Take The Long Way
+1x Wokling (V)
+
+INTERRUPT
+1x A Jedi's Concentration
+1x Ascension Guns (V)
+2x Blaster Deflection
+1x Clash Of Sabers
+2x Control & Tunnel Vision
+1x Escape Pod & We're Doomed
+1x Heading For The Medical Frigate
+1x Hear Me Baby, Hold Together (V)
+1x It Could Be Worse
+1x It's A Trap!
+1x Jedi Levitation (V)
+1x See You Around, Kid
+1x Sense & Recoil In Fear
+1x Sorry About The Mess & Blaster Proficiency
+1x They're Tracking Us (V)
+3x Wesa Gotta Grand Army
+
+LOCATION
+1x Naboo
+1x Naboo: Boss Nass' Chambers
+1x Naboo: Theed Palace Courtyard
+1x Naboo: Theed Palace Hallway (V)
+1x Naboo: Theed Palace Throne Room
+
+OBJECTIVE
+1x We Have A Plan
+
+STARSHIP
+1x Bravo Fighter (V)
+1x Ric In Queen's Royal Starship
+
+WEAPON
+2x Jedi Lightsaber (V)

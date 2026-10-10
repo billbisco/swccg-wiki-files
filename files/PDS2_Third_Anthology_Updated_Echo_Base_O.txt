@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="3_61" horizontal="true" title="Hoth: Main Power Generators (1st Marker)"/>
+    <card blueprintId="3_62" horizontal="true" title="Hoth: North Ridge (4th Marker)"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="111_1" horizontal="false" title="A New Secret Base"/>
+    <card blueprintId="3_60" horizontal="true" title="Hoth: Echo Med Lab"/>
+    <card blueprintId="3_58" horizontal="true" title="Hoth: Echo Corridor"/>
+    <card blueprintId="6_83" horizontal="false" title="Kiffex"/>
+    <card blueprintId="1_127" horizontal="false" title="Tatooine"/>
+    <card blueprintId="106_2" horizontal="false" title="Corulag"/>
+    <card blueprintId="4_80" horizontal="false" title="Anoat"/>
+    <card blueprintId="5_76" horizontal="false" title="Bespin"/>
+    <card blueprintId="1_126" horizontal="false" title="Kessel"/>
+    <card blueprintId="7_116" horizontal="false" title="Coruscant"/>
+    <card blueprintId="2_64" horizontal="false" title="Kashyyyk"/>
+    <card blueprintId="1_135" horizontal="false" title="Yavin 4"/>
+    <card blueprintId="4_90" horizontal="false" title="Raithal"/>
+    <card blueprintId="108_3" horizontal="false" title="Luke With Lightsaber"/>
+    <card blueprintId="108_1" horizontal="false" title="Han With Heavy Blaster Pistol"/>
+    <card blueprintId="1_33" horizontal="false" title="Wioslea"/>
+    <card blueprintId="7_48" horizontal="false" title="TK-422"/>
+    <card blueprintId="7_5" horizontal="false" title="Bothan Spy"/>
+    <card blueprintId="7_5" horizontal="false" title="Bothan Spy"/>
+    <card blueprintId="7_5" horizontal="false" title="Bothan Spy"/>
+    <card blueprintId="1_31" horizontal="false" title="Talz"/>
+    <card blueprintId="6_47" horizontal="false" title="Yoxgit"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_147" horizontal="false" title="Y-wing"/>
+    <card blueprintId="1_147" horizontal="false" title="Y-wing"/>
+    <card blueprintId="1_147" horizontal="false" title="Y-wing"/>
+    <card blueprintId="1_140" horizontal="false" title="Corellian Corvette"/>
+    <card blueprintId="1_140" horizontal="false" title="Corellian Corvette"/>
+    <card blueprintId="1_140" horizontal="false" title="Corellian Corvette"/>
+    <card blueprintId="7_73" horizontal="false" title="Rebel Fleet"/>
+    <card blueprintId="7_73" horizontal="false" title="Rebel Fleet"/>
+    <card blueprintId="3_34" horizontal="false" title="Echo Base Operations"/>
+    <card blueprintId="3_37" horizontal="false" title="Ice Storm"/>
+    <card blueprintId="3_37" horizontal="false" title="Ice Storm"/>
+    <card blueprintId="3_37" horizontal="false" title="Ice Storm"/>
+    <card blueprintId="3_37" horizontal="false" title="Ice Storm"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_88" horizontal="false" title="Hyper Escape"/>
+    <card blueprintId="1_88" horizontal="false" title="Hyper Escape"/>
+    <card blueprintId="1_88" horizontal="false" title="Hyper Escape"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="2_44" horizontal="false" title="Alternatives To Fighting"/>
+    <card blueprintId="2_44" horizontal="false" title="Alternatives To Fighting"/>
+</deck>

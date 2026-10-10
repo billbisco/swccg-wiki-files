@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="9_95" title="Intensify The Forward Batteries"/>
+    <card blueprintId="9_96" title="We're In Attack Position Now"/>
+    <card blueprintId="200_73" title="Admiral Motti"/>
+    <card blueprintId="9_98" title="Admiral Piett"/>
+    <card blueprintId="10_33" title="Captain Gilad Pellaeon"/>
+    <card blueprintId="221_10" title="Captain Mod Terrik"/>
+    <card blueprintId="217_6" title="Captain Needa"/>
+    <card blueprintId="203_25" title="Commander Nemet"/>
+    <card blueprintId="221_20" title="General Tagge"/>
+    <card blueprintId="219_7" title="Governor Pryce"/>
+    <card blueprintId="10_40" title="Grand Admiral Thrawn"/>
+    <card blueprintId="200_82" title="Grand Moff Tarkin"/>
+    <card blueprintId="208_32" title="Kir Kanos"/>
+    <card blueprintId="200_86" title="Mara Jade With Lightsaber"/>
+    <card blueprintId="7_202" title="Sergeant Major Bursk"/>
+    <card blueprintId="221_30" title="Sergeant Tarl"/>
+    <card blueprintId="8_115" title="Sergeant Wallen"/>
+    <card blueprintId="106_16" title="Stormtrooper Cadet"/>
+    <card blueprintId="106_16" title="Stormtrooper Cadet"/>
+    <card blueprintId="106_16" title="Stormtrooper Cadet"/>
+    <card blueprintId="13_87" title="Stormtrooper Garrison"/>
+    <card blueprintId="204_44" title="Stormtrooper Patrol"/>
+    <card blueprintId="204_44" title="Stormtrooper Patrol"/>
+    <card blueprintId="204_44" title="Stormtrooper Patrol"/>
+    <card blueprintId="204_44" title="Stormtrooper Patrol"/>
+    <card blueprintId="2_106" title="Trooper Davin Felth"/>
+    <card blueprintId="208_38" title="Alert My Star Destroyer!"/>
+    <card blueprintId="12_131" title="Do They Have A Code Clearance?"/>
+    <card blueprintId="201_29" title="Endor Shield"/>
+    <card blueprintId="200_110" title="Knowledge And Defense"/>
+    <card blueprintId="1_222" title="Lateral Damage"/>
+    <card blueprintId="4_127" title="Lost In Space"/>
+    <card blueprintId="219_16" title="No Escape"/>
+    <card blueprintId="7_242" title="Strategic Reserves"/>
+    <card blueprintId="208_41" title="Tarkin's Bounty"/>
+    <card blueprintId="219_20" title="Thrawn's Art Collection"/>
+    <card blueprintId="1_243" title="Elis Helrot"/>
+    <card blueprintId="200_120" title="Force Push"/>
+    <card blueprintId="1_246" title="Full Scale Alert"/>
+    <card blueprintId="1_246" title="Full Scale Alert"/>
+    <card blueprintId="219_9" title="History, Philosophy, And Art"/>
+    <card blueprintId="9_137" title="Imperial Command"/>
+    <card blueprintId="9_137" title="Imperial Command"/>
+    <card blueprintId="9_137" title="Imperial Command"/>
+    <card blueprintId="9_139" title="Prepared Defenses"/>
+    <card blueprintId="3_136" title="Tactical Support"/>
+    <card blueprintId="5_159" title="Trooper Assault"/>
+    <card blueprintId="5_159" title="Trooper Assault"/>
+    <card blueprintId="5_159" title="Trooper Assault"/>
+    <card blueprintId="5_159" title="Trooper Assault"/>
+    <card blueprintId="2_146" title="Kashyyyk"/>
+    <card blueprintId="1_288" title="Kessel"/>
+    <card blueprintId="219_10" title="Lothal"/>
+    <card blueprintId="219_11" title="Lothal: Advanced Projects Laboratory"/>
+    <card blueprintId="219_12" title="Lothal: Capital City"/>
+    <card blueprintId="219_13" title="Lothal: Imperial Complex"/>
+    <card blueprintId="219_1" title="A Great Tactician Creates Plans"/>
+    <card blueprintId="216_3" title="Avenger"/>
+    <card blueprintId="219_2" title="Chimaera"/>
+    <card blueprintId="200_133" title="Conquest"/>
+    <cardOutsideDeck blueprintId="13_51" title="A Useless Gesture"/>
+    <cardOutsideDeck blueprintId="200_93" title="A Useless Gesture"/>
+    <cardOutsideDeck blueprintId="13_52" title="Allegations Of Corruption"/>
+    <cardOutsideDeck blueprintId="13_54" title="Battle Order"/>
+    <cardOutsideDeck blueprintId="13_61" title="Come Here You Big Coward"/>
+    <cardOutsideDeck blueprintId="13_63" title="Crossfire"/>
+    <cardOutsideDeck blueprintId="216_5" title="Crossfire"/>
+    <cardOutsideDeck blueprintId="200_94" title="Death Star Sentry"/>
+    <cardOutsideDeck blueprintId="13_66" title="Do They Have A Code Clearance?"/>
+    <cardOutsideDeck blueprintId="220_2" title="Drop!"/>
+    <cardOutsideDeck blueprintId="213_13" title="Failure At The Cave"/>
+    <cardOutsideDeck blueprintId="13_68" title="Fanfare"/>
+    <cardOutsideDeck blueprintId="200_95" title="Fanfare"/>
+    <cardOutsideDeck blueprintId="200_97" title="I Find Your Lack Of Faith Disturbing"/>
+    <cardOutsideDeck blueprintId="200_98" title="Imperial Detention"/>
+    <cardOutsideDeck blueprintId="13_72" title="Leave Them To Me"/>
+    <cardOutsideDeck blueprintId="13_78" title="No Escape"/>
+    <cardOutsideDeck blueprintId="13_81" title="Oppressive Enforcement"/>
+    <cardOutsideDeck blueprintId="13_84" title="Resistance"/>
+    <cardOutsideDeck blueprintId="13_86" title="Secret Plans"/>
+    <cardOutsideDeck blueprintId="13_90" title="There Is No Try"/>
+    <cardOutsideDeck blueprintId="200_99" title="Vote Of No Confidence"/>
+    <cardOutsideDeck blueprintId="13_96" title="We'll Let Fate-a Decide, Huh?"/>
+    <cardOutsideDeck blueprintId="13_95" title="Weapon Of A Sith"/>
+    <cardOutsideDeck blueprintId="13_98" title="Wipe Them Out, All Of Them"/>
+    <cardOutsideDeck blueprintId="13_99" title="You Cannot Hide Forever"/>
+    <cardOutsideDeck blueprintId="200_100" title="You Cannot Hide Forever"/>
+    <cardOutsideDeck blueprintId="13_100" title="You've Never Won A Race?"/>
+    <cardOutsideDeck blueprintId="7_312" title="Dewback"/>
+</deck>

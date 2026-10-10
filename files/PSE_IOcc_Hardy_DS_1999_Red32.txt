@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="106_12" horizontal="false" title="Corulag"/>
+    <card blueprintId="7_290" horizontal="true" title="Spaceport Prefect's Office"/>
+    <card blueprintId="7_288" horizontal="true" title="Spaceport City"/>
+    <card blueprintId="7_291" horizontal="true" title="Spaceport Street"/>
+    <card blueprintId="7_289" horizontal="true" title="Spaceport Docking Bay"/>
+    <card blueprintId="7_284" horizontal="true" title="Forest"/>
+    <card blueprintId="7_285" horizontal="true" title="Jungle"/>
+    <card blueprintId="7_292" horizontal="true" title="Swamp"/>
+    <card blueprintId="7_281" horizontal="true" title="Desert"/>
+    <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
+    <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
+    <card blueprintId="1_181" horizontal="false" title="Imperial Trooper Guard"/>
+    <card blueprintId="1_181" horizontal="false" title="Imperial Trooper Guard"/>
+    <card blueprintId="1_181" horizontal="false" title="Imperial Trooper Guard"/>
+    <card blueprintId="2_92" horizontal="false" title="Imperial Squad Leader"/>
+    <card blueprintId="2_92" horizontal="false" title="Imperial Squad Leader"/>
+    <card blueprintId="2_92" horizontal="false" title="Imperial Squad Leader"/>
+    <card blueprintId="2_92" horizontal="false" title="Imperial Squad Leader"/>
+    <card blueprintId="106_16" horizontal="false" title="Stormtrooper Cadet"/>
+    <card blueprintId="106_16" horizontal="false" title="Stormtrooper Cadet"/>
+    <card blueprintId="106_16" horizontal="false" title="Stormtrooper Cadet"/>
+    <card blueprintId="106_16" horizontal="false" title="Stormtrooper Cadet"/>
+    <card blueprintId="1_194" horizontal="false" title="Stormtrooper"/>
+    <card blueprintId="1_194" horizontal="false" title="Stormtrooper"/>
+    <card blueprintId="1_194" horizontal="false" title="Stormtrooper"/>
+    <card blueprintId="1_194" horizontal="false" title="Stormtrooper"/>
+    <card blueprintId="7_173" horizontal="false" title="Corulag Operative"/>
+    <card blueprintId="7_173" horizontal="false" title="Corulag Operative"/>
+    <card blueprintId="7_173" horizontal="false" title="Corulag Operative"/>
+    <card blueprintId="7_173" horizontal="false" title="Corulag Operative"/>
+    <card blueprintId="7_173" horizontal="false" title="Corulag Operative"/>
+    <card blueprintId="7_173" horizontal="false" title="Corulag Operative"/>
+    <card blueprintId="7_173" horizontal="false" title="Corulag Operative"/>
+    <card blueprintId="7_173" horizontal="false" title="Corulag Operative"/>
+    <card blueprintId="7_173" horizontal="false" title="Corulag Operative"/>
+    <card blueprintId="7_173" horizontal="false" title="Corulag Operative"/>
+    <card blueprintId="7_173" horizontal="false" title="Corulag Operative"/>
+    <card blueprintId="7_173" horizontal="false" title="Corulag Operative"/>
+    <card blueprintId="1_305" horizontal="false" title="TIE Scout"/>
+    <card blueprintId="1_305" horizontal="false" title="TIE Scout"/>
+    <card blueprintId="1_305" horizontal="false" title="TIE Scout"/>
+    <card blueprintId="1_305" horizontal="false" title="TIE Scout"/>
+    <card blueprintId="7_242" horizontal="false" title="Strategic Reserves"/>
+    <card blueprintId="6_143" horizontal="false" title="Den Of Thieves"/>
+    <card blueprintId="6_150" horizontal="false" title="Well Guarded"/>
+    <card blueprintId="1_227" horizontal="false" title="Presence Of The Force"/>
+    <card blueprintId="1_227" horizontal="false" title="Presence Of The Force"/>
+    <card blueprintId="1_215" horizontal="false" title="Expand The Empire"/>
+    <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="6_151" horizontal="false" title="Abyssin Ornament"/>
+    <card blueprintId="6_151" horizontal="false" title="Abyssin Ornament"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="7_298" horizontal="false" title="Imperial Occupation"/>
+</deck>

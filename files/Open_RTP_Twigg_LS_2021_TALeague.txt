@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="7_139" horizontal="false" title="Rescue The Princess"/>
+    <card blueprintId="6_1" horizontal="false" title="8D8"/>
+    <card blueprintId="11_14" horizontal="false" title="Threepio With His Parts Showing"/>
+    <card blueprintId="213_44" horizontal="false" title="Yoda, Master Of The Force"/>
+    <card blueprintId="203_1" horizontal="false" title="Admiral Ackbar"/>
+    <card blueprintId="206_1" horizontal="false" title="Bodhi Rook"/>
+    <card blueprintId="206_3" horizontal="false" title="Captain Cassian Andor"/>
+    <card blueprintId="200_7" horizontal="false" title="Commander Luke Skywalker"/>
+    <card blueprintId="200_7" horizontal="false" title="Commander Luke Skywalker"/>
+    <card blueprintId="205_1" horizontal="false" title="Commander Wedge Antilles"/>
+    <card blueprintId="10_5" horizontal="false" title="Corran Horn"/>
+    <card blueprintId="200_10" horizontal="false" title="Derek 'Hobbie' Klivian"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="201_5" horizontal="false" title="Princess Leia"/>
+    <card blueprintId="111_5" horizontal="false" title="Prisoner 2187"/>
+    <card blueprintId="204_8" horizontal="false" title="Poe Dameron"/>
+    <card blueprintId="209_10" horizontal="false" title="Rey With Lightsaber"/>
+    <card blueprintId="209_10" horizontal="false" title="Rey With Lightsaber"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="12_39" horizontal="false" title="Another Pathetic Lifeform"/>
+    <card blueprintId="3_32" horizontal="false" title="Bacta Tank"/>
+    <card blueprintId="2_30" horizontal="false" title="Cell 2187"/>
+    <card blueprintId="2_30" horizontal="false" title="Cell 2187"/>
+    <card blueprintId="111_3" horizontal="false" title="Echo Base Garrison"/>
+    <card blueprintId="8_40" horizontal="false" title="Insurrection"/>
+    <card blueprintId="200_43" horizontal="false" title="Maneuvering Flaps"/>
+    <card blueprintId="1_55" horizontal="false" title="Mantellian Savrip"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="200_48" horizontal="false" title="Alter"/>
+    <card blueprintId="2_48" horizontal="false" title="Double Agent"/>
+    <card blueprintId="201_12" horizontal="false" title="Escape Pod"/>
+    <card blueprintId="6_66" horizontal="false" title="Fallen Portal"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="1_87" horizontal="false" title="How Did We Get Into This Mess?"/>
+    <card blueprintId="1_87" horizontal="false" title="How Did We Get Into This Mess?"/>
+    <card blueprintId="1_87" horizontal="false" title="How Did We Get Into This Mess?"/>
+    <card blueprintId="1_87" horizontal="false" title="How Did We Get Into This Mess?"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="5_57" horizontal="false" title="Lift Tube Escape"/>
+    <card blueprintId="5_57" horizontal="false" title="Lift Tube Escape"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="8_64" horizontal="false" title="Were You Looking For Me?"/>
+    <card blueprintId="12_76" horizontal="true" title="Coruscant: Jedi Council Chamber"/>
+    <card blueprintId="7_118" horizontal="true" title="Death Star: Detention Block Corridor"/>
+    <card blueprintId="1_124" horizontal="true" title="Death Star: Docking Bay 327"/>
+    <card blueprintId="9_57" horizontal="true" title="Home One: Docking Bay"/>
+    <card blueprintId="9_58" horizontal="true" title="Home One: War Room"/>
+    <card blueprintId="1_136" horizontal="true" title="Yavin 4: Docking Bay"/>
+    <card blueprintId="208_24" horizontal="true" title="Yavin 4: Massassi War Room"/>
+    <card blueprintId="205_7" horizontal="false" title="Han, Chewie, And The Falcon"/>
+    <card blueprintId="205_7" horizontal="false" title="Han, Chewie, And The Falcon"/>
+    <card blueprintId="9_74" horizontal="false" title="Home One"/>
+    <card blueprintId="3_66" horizontal="false" title="Rogue 1"/>
+    <card blueprintId="3_68" horizontal="false" title="Rogue 3"/>
+    <card blueprintId="7_154" horizontal="false" title="Rogue 4"/>
+    <card blueprintId="1_148" horizontal="false" title="Lift Tube"/>
+    <card blueprintId="1_148" horizontal="false" title="Lift Tube"/>
+</deck>
