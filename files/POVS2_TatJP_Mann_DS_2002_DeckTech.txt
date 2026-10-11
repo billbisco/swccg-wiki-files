@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="6_109" horizontal="false" title="Jabba The Hutt"/>
+    <card blueprintId="6_109" horizontal="false" title="Jabba The Hutt"/>
+    <card blueprintId="6_104" horizontal="false" title="Gailid"/>
+    <card blueprintId="6_104" horizontal="false" title="Gailid"/>
+    <card blueprintId="7_168" horizontal="false" title="Boelo"/>
+    <card blueprintId="6_98" horizontal="false" title="Bib Fortuna"/>
+    <card blueprintId="6_101" horizontal="false" title="Ephant Mon"/>
+    <card blueprintId="6_110" horizontal="false" title="J'Quille"/>
+    <card blueprintId="6_96" horizontal="false" title="Barada"/>
+    <card blueprintId="6_112" horizontal="false" title="Klaatu"/>
+    <card blueprintId="6_111" horizontal="false" title="Kithaba"/>
+    <card blueprintId="6_95" horizontal="false" title="Bane Malar"/>
+    <card blueprintId="6_95" horizontal="false" title="Bane Malar"/>
+    <card blueprintId="6_106" horizontal="false" title="Giran"/>
+    <card blueprintId="6_117" horizontal="false" title="Nysad"/>
+    <card blueprintId="6_122" horizontal="false" title="Salacious Crumb"/>
+    <card blueprintId="6_121" horizontal="false" title="Ree-Yees"/>
+    <card blueprintId="7_169" horizontal="false" title="Brangus Glee"/>
+    <card blueprintId="11_51" horizontal="false" title="Aurra Sing"/>
+    <card blueprintId="110_9" horizontal="false" title="Jodo Kast"/>
+    <card blueprintId="106_11" horizontal="false" title="Chall Bekan"/>
+    <card blueprintId="6_105" horizontal="false" title="Gamorrean Guard"/>
+    <card blueprintId="6_105" horizontal="false" title="Gamorrean Guard"/>
+    <card blueprintId="4_100" horizontal="false" title="Dengar"/>
+    <card blueprintId="110_7" horizontal="false" title="Dengar With Blaster Carbine"/>
+    <card blueprintId="4_92" horizontal="false" title="Bossk"/>
+    <card blueprintId="5_91" horizontal="false" title="Boba Fett"/>
+    <card blueprintId="108_5" horizontal="false" title="Boba Fett With Blaster Rifle"/>
+    <card blueprintId="4_107" horizontal="false" title="Zuckuss"/>
+    <card blueprintId="4_91" horizontal="false" title="4-LOM"/>
+    <card blueprintId="109_6" horizontal="false" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="4_101" horizontal="false" title="IG-88"/>
+    <card blueprintId="109_11" horizontal="false" title="IG-88 With Riot Gun"/>
+    <card blueprintId="6_138" horizontal="false" title="Bubo"/>
+    <card blueprintId="6_176" horizontal="false" title="Double Laser Cannon"/>
+    <card blueprintId="6_172" horizontal="false" title="Jabba's Sail Barge"/>
+    <card blueprintId="6_171" horizontal="true" title="Tatooine: Jabba's Palace"/>
+    <card blueprintId="6_165" horizontal="true" title="Jabba's Palace: Entrance Cavern"/>
+    <card blueprintId="6_162" horizontal="true" title="Jabba's Palace: Audience Chamber"/>
+    <card blueprintId="6_164" horizontal="true" title="Jabba's Palace: Dungeon"/>
+    <card blueprintId="6_166" horizontal="true" title="Jabba's Palace: Rancor Pit"/>
+    <card blueprintId="6_163" horizontal="true" title="Jabba's Palace: Droid Workshop"/>
+    <card blueprintId="6_167" horizontal="true" title="Jabba's Sail Barge: Passenger Deck"/>
+    <card blueprintId="7_233" horizontal="false" title="No Bargain"/>
+    <card blueprintId="112_17" horizontal="false" title="Power Of The Hutt"/>
+    <card blueprintId="6_149" horizontal="false" title="Scum And Villainy"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="6_157" horizontal="false" title="None Shall Pass"/>
+    <card blueprintId="6_157" horizontal="false" title="None Shall Pass"/>
+    <card blueprintId="6_157" horizontal="false" title="None Shall Pass"/>
+    <card blueprintId="6_157" horizontal="false" title="None Shall Pass"/>
+    <card blueprintId="6_157" horizontal="false" title="None Shall Pass"/>
+    <card blueprintId="6_157" horizontal="false" title="None Shall Pass"/>
+    <card blueprintId="6_157" horizontal="false" title="None Shall Pass"/>
+    <card blueprintId="6_157" horizontal="false" title="None Shall Pass"/>
+    <card blueprintId="6_157" horizontal="false" title="None Shall Pass"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+</deck>

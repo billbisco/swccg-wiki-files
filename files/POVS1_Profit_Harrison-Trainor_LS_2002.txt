@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="110_4" horizontal="false" title="You Can Either Profit By This..."/>
+    <card blueprintId="8_15" horizontal="false" title="General Solo"/>
+    <card blueprintId="1_11" horizontal="false" title="Han Solo"/>
+    <card blueprintId="10_10" horizontal="false" title="Luke Skywalker, Rebel Scout"/>
+    <card blueprintId="10_10" horizontal="false" title="Luke Skywalker, Rebel Scout"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="108_3" horizontal="false" title="Luke With Lightsaber"/>
+    <card blueprintId="13_9" horizontal="false" title="Chewie, Enraged"/>
+    <card blueprintId="10_3" horizontal="false" title="Chewbacca, Protector"/>
+    <card blueprintId="13_29" horizontal="false" title="Leia, Rebel Princess"/>
+    <card blueprintId="109_3" horizontal="false" title="Lando With Blaster Pistol"/>
+    <card blueprintId="11_1" horizontal="false" title="Caldera Righim"/>
+    <card blueprintId="10_24" horizontal="false" title="Talon Karrde"/>
+    <card blueprintId="8_23" horizontal="false" title="Orrimaarko"/>
+    <card blueprintId="14_23" horizontal="false" title="Panaka, Protector Of The Queen"/>
+    <card blueprintId="12_16" horizontal="false" title="Master Qui-Gon"/>
+    <card blueprintId="10_6" horizontal="false" title="Dash Rendar"/>
+    <card blueprintId="10_12" horizontal="false" title="Mirax Terrik"/>
+    <card blueprintId="9_8" horizontal="false" title="Colonel Cracken"/>
+    <card blueprintId="14_20" horizontal="false" title="Officer Dolphe"/>
+    <card blueprintId="1_155" horizontal="false" title="Jedi Lightsaber"/>
+    <card blueprintId="1_155" horizontal="false" title="Jedi Lightsaber"/>
+    <card blueprintId="14_54" horizontal="false" title="Bravo 2"/>
+    <card blueprintId="9_84" horizontal="false" title="Tala 1"/>
+    <card blueprintId="10_20" horizontal="false" title="Pulsar Skate"/>
+    <card blueprintId="10_17" horizontal="false" title="Outrider"/>
+    <card blueprintId="7_131" horizontal="true" title="Tatooine: Jabba's Palace"/>
+    <card blueprintId="6_81" horizontal="true" title="Jabba's Palace: Audience Chamber"/>
+    <card blueprintId="1_129" horizontal="true" title="Tatooine: Docking Bay 94"/>
+    <card blueprintId="9_39" horizontal="false" title="Squadron Assignments"/>
+    <card blueprintId="4_21" horizontal="false" title="Do, Or Do Not"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="3_32" horizontal="false" title="Bacta Tank"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="12_44" horizontal="false" title="Insurrection &amp; Aim High"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="5_45" horizontal="false" title="Dodge"/>
+    <card blueprintId="5_70" horizontal="false" title="Somersault"/>
+    <card blueprintId="6_70" horizontal="false" title="Life Debt"/>
+    <card blueprintId="5_69" horizontal="false" title="Smoke Screen"/>
+    <card blueprintId="1_119" horizontal="false" title="Warrior's Courage"/>
+    <card blueprintId="8_57" horizontal="false" title="Lost In The Wilderness"/>
+    <card blueprintId="1_116" horizontal="false" title="The Force Is Strong With This One"/>
+    <card blueprintId="1_76" horizontal="false" title="Don't Get Cocky"/>
+    <card blueprintId="5_72" horizontal="false" title="Swing-And-A-Miss"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_90" horizontal="false" title="It Could Be Worse"/>
+    <card blueprintId="6_66" horizontal="false" title="Fallen Portal"/>
+    <card blueprintId="8_55" horizontal="false" title="I Have A Really Bad Feeling About This"/>
+    <card blueprintId="5_55" horizontal="false" title="It's A Trap!"/>
+    <card blueprintId="5_55" horizontal="false" title="It's A Trap!"/>
+    <card blueprintId="5_35" horizontal="false" title="Blaster Proficiency"/>
+    <card blueprintId="6_79" horizontal="false" title="Weapon Levitation"/>
+    <card blueprintId="6_79" horizontal="false" title="Weapon Levitation"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+</deck>

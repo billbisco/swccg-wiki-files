@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="7_138" horizontal="false" title="Mind What You Have Learned"/>
+    <card blueprintId="11_4" horizontal="false" title="Jar Jar Binks"/>
+    <card blueprintId="11_4" horizontal="false" title="Jar Jar Binks"/>
+    <card blueprintId="14_27" horizontal="false" title="Qui-Gon Jinn With Lightsaber"/>
+    <card blueprintId="14_27" horizontal="false" title="Qui-Gon Jinn With Lightsaber"/>
+    <card blueprintId="14_27" horizontal="false" title="Qui-Gon Jinn With Lightsaber"/>
+    <card blueprintId="14_18" horizontal="false" title="Mace Windu, Jedi Master"/>
+    <card blueprintId="14_18" horizontal="false" title="Mace Windu, Jedi Master"/>
+    <card blueprintId="13_48" horizontal="false" title="Yoda, Master Of The Force"/>
+    <card blueprintId="4_2" horizontal="false" title="Yoda"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="8_8" horizontal="false" title="Daughter Of Skywalker"/>
+    <card blueprintId="108_1" horizontal="false" title="Han With Heavy Blaster Pistol"/>
+    <card blueprintId="108_1" horizontal="false" title="Han With Heavy Blaster Pistol"/>
+    <card blueprintId="13_9" horizontal="false" title="Chewie, Enraged"/>
+    <card blueprintId="13_9" horizontal="false" title="Chewie, Enraged"/>
+    <card blueprintId="14_23" horizontal="false" title="Panaka, Protector Of The Queen"/>
+    <card blueprintId="11_8" horizontal="false" title="Padme Naberrie"/>
+    <card blueprintId="13_33" horizontal="false" title="Obi-Wan Kenobi, Jedi Knight"/>
+    <card blueprintId="13_33" horizontal="false" title="Obi-Wan Kenobi, Jedi Knight"/>
+    <card blueprintId="13_33" horizontal="false" title="Obi-Wan Kenobi, Jedi Knight"/>
+    <card blueprintId="4_12" horizontal="false" title="Luke's Backpack"/>
+    <card blueprintId="9_90" horizontal="false" title="Luke's Lightsaber"/>
+    <card blueprintId="3_71" horizontal="false" title="Anakin's Lightsaber"/>
+    <card blueprintId="1_157" horizontal="false" title="Obi-Wan's Lightsaber"/>
+    <card blueprintId="1_157" horizontal="false" title="Obi-Wan's Lightsaber"/>
+    <card blueprintId="14_62" horizontal="false" title="Amidala's Blaster"/>
+    <card blueprintId="12_96" horizontal="false" title="Panaka's Blaster"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="4_84" horizontal="false" title="Dagobah"/>
+    <card blueprintId="4_87" horizontal="true" title="Dagobah: Swamp"/>
+    <card blueprintId="4_86" horizontal="true" title="Dagobah: Jungle"/>
+    <card blueprintId="4_88" horizontal="true" title="Dagobah: Training Area"/>
+    <card blueprintId="4_89" horizontal="true" title="Dagobah: Yoda's Hut"/>
+    <card blueprintId="13_31" horizontal="true" title="Naboo: Theed Palace Generator"/>
+    <card blueprintId="13_32" horizontal="true" title="Naboo: Theed Palace Generator Core"/>
+    <card blueprintId="7_81" horizontal="false" title="Wise Advice"/>
+    <card blueprintId="13_5" horizontal="false" title="An Unusual Amount Of Fear"/>
+    <card blueprintId="4_33" horizontal="false" title="Reflection"/>
+    <card blueprintId="1_66" horizontal="false" title="Traffic Control"/>
+    <card blueprintId="9_33" horizontal="false" title="Honor Of The Jedi"/>
+    <card blueprintId="3_32" horizontal="false" title="Bacta Tank"/>
+    <card blueprintId="4_44" horizontal="false" title="Yoda's Hope"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="4_77" horizontal="false" title="Great Warrior"/>
+    <card blueprintId="4_75" horizontal="false" title="A Jedi's Strength"/>
+    <card blueprintId="4_76" horizontal="false" title="Domain Of Evil"/>
+    <card blueprintId="4_79" horizontal="false" title="Size Matters Not"/>
+    <card blueprintId="4_78" horizontal="false" title="It Is The Future You See"/>
+    <card blueprintId="9_55" horizontal="false" title="You Must Confront Vader"/>
+</deck>
