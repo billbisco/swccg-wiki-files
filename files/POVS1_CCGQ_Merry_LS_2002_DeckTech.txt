@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="5_1" horizontal="false" title="Captain Han Solo"/>
+    <card blueprintId="12_10" horizontal="false" title="Ki-Adi-Mundi"/>
+    <card blueprintId="14_14" horizontal="false" title="Jerus Jannick"/>
+    <card blueprintId="14_18" horizontal="false" title="Mace Windu, Jedi Master"/>
+    <card blueprintId="9_31" horizontal="false" title="Wedge Antilles, Red Squadron Leader"/>
+    <card blueprintId="108_3" horizontal="false" title="Luke With Lightsaber"/>
+    <card blueprintId="11_8" horizontal="false" title="Padme Naberrie"/>
+    <card blueprintId="10_10" horizontal="false" title="Luke Skywalker, Rebel Scout"/>
+    <card blueprintId="9_19" horizontal="false" title="Keir Santage"/>
+    <card blueprintId="108_2" horizontal="false" title="Leia With Blaster Rifle"/>
+    <card blueprintId="5_7" horizontal="false" title="Princess Leia"/>
+    <card blueprintId="5_7" horizontal="false" title="Princess Leia"/>
+    <card blueprintId="14_29" horizontal="false" title="Ric Olie, Bravo Leader"/>
+    <card blueprintId="13_9" horizontal="false" title="Chewie, Enraged"/>
+    <card blueprintId="14_20" horizontal="false" title="Officer Dolphe"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="5_12" horizontal="false" title="Bionic Hand"/>
+    <card blueprintId="5_12" horizontal="false" title="Bionic Hand"/>
+    <card blueprintId="5_12" horizontal="false" title="Bionic Hand"/>
+    <card blueprintId="13_25" horizontal="false" title="Jar Jar's Electropole"/>
+    <card blueprintId="8_88" horizontal="false" title="Ewok Catapult"/>
+    <card blueprintId="8_88" horizontal="false" title="Ewok Catapult"/>
+    <card blueprintId="8_88" horizontal="false" title="Ewok Catapult"/>
+    <card blueprintId="7_159" horizontal="false" title="Intruder Missile"/>
+    <card blueprintId="9_90" horizontal="false" title="Luke's Lightsaber"/>
+    <card blueprintId="8_86" horizontal="false" title="Chewbacca's Bowcaster"/>
+    <card blueprintId="13_21" horizontal="false" title="Han, Chewie, And The Falcon"/>
+    <card blueprintId="103_2" horizontal="false" title="Red Leader In Red 1"/>
+    <card blueprintId="7_146" horizontal="false" title="Red 7"/>
+    <card blueprintId="9_81" horizontal="false" title="Red Squadron 1"/>
+    <card blueprintId="14_53" horizontal="false" title="Bravo 1"/>
+    <card blueprintId="14_54" horizontal="false" title="Bravo 2"/>
+    <card blueprintId="5_80" horizontal="true" title="Cloud City: Guest Quarters"/>
+    <card blueprintId="1_126" horizontal="false" title="Kessel"/>
+    <card blueprintId="12_78" horizontal="false" title="Naboo"/>
+    <card blueprintId="6_83" horizontal="false" title="Kiffex"/>
+    <card blueprintId="5_76" horizontal="false" title="Bespin"/>
+    <card blueprintId="7_111" horizontal="true" title="Cloud City: Casino"/>
+    <card blueprintId="5_81" horizontal="true" title="Cloud City: Incinerator"/>
+    <card blueprintId="5_82" horizontal="true" title="Cloud City: Lower Corridor"/>
+    <card blueprintId="5_83" horizontal="true" title="Cloud City: Platform 327 (Docking Bay)"/>
+    <card blueprintId="1_48" horizontal="false" title="Disarmed"/>
+    <card blueprintId="1_48" horizontal="false" title="Disarmed"/>
+    <card blueprintId="1_48" horizontal="false" title="Disarmed"/>
+    <card blueprintId="7_55" horizontal="false" title="Cloud City Celebration"/>
+    <card blueprintId="7_55" horizontal="false" title="Cloud City Celebration"/>
+    <card blueprintId="9_33" horizontal="false" title="Honor Of The Jedi"/>
+    <card blueprintId="1_55" horizontal="false" title="Mantellian Savrip"/>
+    <card blueprintId="1_55" horizontal="false" title="Mantellian Savrip"/>
+    <card blueprintId="12_39" horizontal="false" title="Another Pathetic Lifeform"/>
+    <card blueprintId="14_31" horizontal="false" title="Get To Your Ships!"/>
+    <card blueprintId="7_62" horizontal="false" title="Goo Nee Tay"/>
+    <card blueprintId="9_39" horizontal="false" title="Squadron Assignments"/>
+    <card blueprintId="7_58" horizontal="false" title="Docking And Repair Facilities"/>
+    <card blueprintId="4_33" horizontal="false" title="Reflection"/>
+    <card blueprintId="7_60" horizontal="false" title="Draw Their Fire"/>
+    <card blueprintId="9_38" horizontal="false" title="Menace Fades"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="1_71" horizontal="false" title="Alter"/>
+    <card blueprintId="14_2" horizontal="false" title="Let's Go Left"/>
+</deck>

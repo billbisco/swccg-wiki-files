@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="8_78" horizontal="false" title="Rebel Strike Team"/>
+    <card blueprintId="8_33" horizontal="false" title="Wuta"/>
+    <card blueprintId="8_14" horizontal="false" title="General Crix Madine"/>
+    <card blueprintId="8_15" horizontal="false" title="General Solo"/>
+    <card blueprintId="9_13" horizontal="false" title="General Calrissian"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="8_4" horizontal="false" title="Corporal Beezer"/>
+    <card blueprintId="8_19" horizontal="false" title="Lieutenant Page"/>
+    <card blueprintId="8_2" horizontal="false" title="Chewbacca Of Kashyyyk"/>
+    <card blueprintId="13_9" horizontal="false" title="Chewie, Enraged"/>
+    <card blueprintId="8_29" horizontal="false" title="Sergeant Junkin"/>
+    <card blueprintId="9_21" horizontal="false" title="Lieutenant Blount"/>
+    <card blueprintId="8_7" horizontal="false" title="Corporal Kensaric"/>
+    <card blueprintId="9_11" horizontal="false" title="Corporal Midge"/>
+    <card blueprintId="13_29" horizontal="false" title="Leia, Rebel Princess"/>
+    <card blueprintId="8_8" horizontal="false" title="Daughter Of Skywalker"/>
+    <card blueprintId="11_13" horizontal="false" title="Threepio With His Parts Showing"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="10_10" horizontal="false" title="Luke Skywalker, Rebel Scout"/>
+    <card blueprintId="8_23" horizontal="false" title="Orrimaarko"/>
+    <card blueprintId="8_6" horizontal="false" title="Corporal Janse"/>
+    <card blueprintId="8_5" horizontal="false" title="Corporal Delevar"/>
+    <card blueprintId="9_8" horizontal="false" title="Colonel Cracken"/>
+    <card blueprintId="3_71" horizontal="false" title="Anakin's Lightsaber"/>
+    <card blueprintId="9_90" horizontal="false" title="Luke's Lightsaber"/>
+    <card blueprintId="9_76" horizontal="false" title="Liberty"/>
+    <card blueprintId="9_74" horizontal="false" title="Home One"/>
+    <card blueprintId="9_84" horizontal="false" title="Tala 1"/>
+    <card blueprintId="9_85" horizontal="false" title="Tala 2"/>
+    <card blueprintId="8_68" horizontal="false" title="Endor"/>
+    <card blueprintId="8_77" horizontal="true" title="Endor: Rebel Landing Site (Forest)"/>
+    <card blueprintId="8_69" horizontal="true" title="Endor: Back Door"/>
+    <card blueprintId="8_72" horizontal="true" title="Endor: Dense Forest"/>
+    <card blueprintId="8_75" horizontal="true" title="Endor: Hidden Forest Trail"/>
+    <card blueprintId="13_5" horizontal="false" title="An Unusual Amount Of Fear"/>
+    <card blueprintId="11_22" horizontal="false" title="The Shield Is Down!"/>
+    <card blueprintId="9_41" horizontal="false" title="Strike Planning"/>
+    <card blueprintId="9_39" horizontal="false" title="Squadron Assignments"/>
+    <card blueprintId="9_32" horizontal="false" title="Close Air Support"/>
+    <card blueprintId="9_32" horizontal="false" title="Close Air Support"/>
+    <card blueprintId="9_33" horizontal="false" title="Honor Of The Jedi"/>
+    <card blueprintId="8_38" horizontal="false" title="I Hope She's All Right"/>
+    <card blueprintId="9_38" horizontal="false" title="Menace Fades"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="8_40" horizontal="false" title="Insurrection"/>
+    <card blueprintId="3_50" horizontal="false" title="Under Attack"/>
+    <card blueprintId="9_52" horizontal="false" title="Insertion Planning"/>
+    <card blueprintId="9_52" horizontal="false" title="Insertion Planning"/>
+    <card blueprintId="9_52" horizontal="false" title="Insertion Planning"/>
+    <card blueprintId="9_52" horizontal="false" title="Insertion Planning"/>
+    <card blueprintId="12_72" horizontal="false" title="We Wish To Board At Once"/>
+    <card blueprintId="1_101" horizontal="false" title="On The Edge"/>
+    <card blueprintId="1_101" horizontal="false" title="On The Edge"/>
+    <card blueprintId="1_101" horizontal="false" title="On The Edge"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="9_1" horizontal="false" title="Capital Support"/>
+    <card blueprintId="9_1" horizontal="false" title="Capital Support"/>
+</deck>

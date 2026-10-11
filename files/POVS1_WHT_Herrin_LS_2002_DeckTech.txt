@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="13_46" horizontal="false" title="We'll Handle This"/>
+    <card blueprintId="13_39" horizontal="false" title="Qui-Gon Jinn, Jedi Master"/>
+    <card blueprintId="13_39" horizontal="false" title="Qui-Gon Jinn, Jedi Master"/>
+    <card blueprintId="13_33" horizontal="false" title="Obi-Wan Kenobi, Jedi Knight"/>
+    <card blueprintId="13_33" horizontal="false" title="Obi-Wan Kenobi, Jedi Knight"/>
+    <card blueprintId="12_35" horizontal="false" title="Yoda, Senior Council Member"/>
+    <card blueprintId="12_13" horizontal="false" title="Mace Windu"/>
+    <card blueprintId="12_21" horizontal="false" title="Plo Koon"/>
+    <card blueprintId="12_4" horizontal="false" title="Depa Billaba"/>
+    <card blueprintId="11_8" horizontal="false" title="Padme Naberrie"/>
+    <card blueprintId="11_8" horizontal="false" title="Padme Naberrie"/>
+    <card blueprintId="14_23" horizontal="false" title="Panaka, Protector Of The Queen"/>
+    <card blueprintId="14_23" horizontal="false" title="Panaka, Protector Of The Queen"/>
+    <card blueprintId="11_13" horizontal="false" title="Threepio With His Parts Showing"/>
+    <card blueprintId="110_1" horizontal="false" title="Boushh"/>
+    <card blueprintId="7_48" horizontal="false" title="TK-422"/>
+    <card blueprintId="13_9" horizontal="false" title="Chewie, Enraged"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="13_11" horizontal="false" title="Colo Claw Fish"/>
+    <card blueprintId="5_12" horizontal="false" title="Bionic Hand"/>
+    <card blueprintId="5_12" horizontal="false" title="Bionic Hand"/>
+    <card blueprintId="13_40" horizontal="false" title="Qui-Gon's Lightsaber"/>
+    <card blueprintId="1_157" horizontal="false" title="Obi-Wan's Lightsaber"/>
+    <card blueprintId="7_161" horizontal="false" title="Leia's Blaster Rifle"/>
+    <card blueprintId="9_90" horizontal="false" title="Luke's Lightsaber"/>
+    <card blueprintId="1_38" horizontal="false" title="Restraining Bolt"/>
+    <card blueprintId="14_62" horizontal="false" title="Amidala's Blaster"/>
+    <card blueprintId="12_96" horizontal="false" title="Panaka's Blaster"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="13_31" horizontal="true" title="Naboo: Theed Palace Generator"/>
+    <card blueprintId="13_32" horizontal="true" title="Naboo: Theed Palace Generator Core"/>
+    <card blueprintId="12_76" horizontal="true" title="Coruscant: Jedi Council Chamber"/>
+    <card blueprintId="12_74" horizontal="true" title="Coruscant: Docking Bay"/>
+    <card blueprintId="12_82" horizontal="true" title="Naboo: Theed Palace Docking Bay"/>
+    <card blueprintId="13_5" horizontal="false" title="An Unusual Amount Of Fear"/>
+    <card blueprintId="1_54" horizontal="false" title="Lightsaber Proficiency"/>
+    <card blueprintId="4_29" horizontal="false" title="Obi-Wan's Apparition"/>
+    <card blueprintId="9_33" horizontal="false" title="Honor Of The Jedi"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="13_7" horizontal="false" title="Armament Dismantled"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="12_44" horizontal="false" title="Insurrection &amp; Aim High"/>
+    <card blueprintId="12_69" horizontal="false" title="Speak With The Jedi Council"/>
+    <card blueprintId="12_69" horizontal="false" title="Speak With The Jedi Council"/>
+    <card blueprintId="1_82" horizontal="false" title="Gift Of The Mentor"/>
+    <card blueprintId="13_12" horizontal="false" title="Darth Maul's Demise"/>
+    <card blueprintId="13_20" horizontal="false" title="Fall Of A Jedi"/>
+    <card blueprintId="14_45" horizontal="false" title="We Don't Have Time For This"/>
+    <card blueprintId="12_58" horizontal="false" title="Free Ride &amp; Endor Celebration"/>
+    <card blueprintId="2_45" horizontal="false" title="Blast The Door, Kid!"/>
+    <card blueprintId="2_45" horizontal="false" title="Blast The Door, Kid!"/>
+    <card blueprintId="101_3" horizontal="false" title="Run Luke, Run!"/>
+    <card blueprintId="13_43" horizontal="false" title="Strike Blocked"/>
+    <card blueprintId="13_43" horizontal="false" title="Strike Blocked"/>
+    <card blueprintId="11_26" horizontal="false" title="A Jedi's Concentration"/>
+    <card blueprintId="11_26" horizontal="false" title="A Jedi's Concentration"/>
+    <card blueprintId="13_24" horizontal="false" title="Inner Strength"/>
+</deck>
