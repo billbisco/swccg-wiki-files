@@ -1,0 +1,70 @@
+Source: https://forum.starwarsccg.org/viewtopic.php?t=86555
+Topic: 2026 Retro GEMPC Overview, Rules, Prizes, & Registration
+Posted by: billbisco » March 10th, 2026, 10:27 am
+Captured by the SWCCG Wiki from the guest-visible forum page on 11 October 2026 (opening post only).
+
+Hello everyone.  I'm excited to announce the 2026 Retro GEMPC.
+Details:
+1. Estimated Time: June 14th 2026 - September 6th, 2026
+2. Format: Premiere - Death Star II
+3. Match Play: Players will play 2 games against their opponent, 1 Dark Side and 1 Light Side with the highest net differential advancing forward. Tiebreaker is least number of cards in lost piles
+4. Bracket Placement: Seeded ( A group of experienced players will rank (seed) players based on their relative strength and brackets will be filled based on this method
+5. Bracket Type: Double Elimination
+4. Locked Decks: Players will have to submit their 2 decks their Dark Side and their Light Side by the registration deadline to decklists@starwarsccg.org and they must use those 2 decks throughout the entire tournament (The tournament director may on a case by case basis allow early fixing of obviously deficient decks (ex. a Set Your Course For Alderaan deck with Commence Primary Ignition but no Superlaser or a Hidden Base Deck without a Hidden Base)
+5. Cost of Entry: $0 - We want to make it easy for people to participate and play.
+6. ROCS Seeding: The winner of the 2026 Retro GEMPC is automatically seeded as a player in the 2026 ROCS (Retro Online Championship Series)
+7. Prizes
+Money:
+1st place : $500 USD 
+2nd place : $250 USD 
+3rd-4th place : $150 USD
+4 Other Random players who complete all their games with integrity : $75 USD
+The tournament director will speak to the winner and figure out the best way to send this to one of the winners or recipients.  This could be via PayPal, Zelle, sending an equivalent amount of USD worth of BTC, or something else to be determined.  In cases where it's difficult to send money to a user, a near equivalent USD value could be sent as SWCCG Product from an online store
+Playmats:
+1st place - 4th place: 2026 Retro GEMPC Playmat or $50 USD worth in SWCCG Product from an online store
+4 Other Random players who complete all their games with integrity: 2026 Retro GEMPC Playmat or $50 USD worth in SWCCG Product from an online store
+Physical Product:
+1st Anthology Box (donated by swtrmptguy) 
+PDS2 Light Side Starter Deck Uncut Sheet (donated by swtrmptguy) 
+The first through fourth place winners may on a first offered basis choose to get one of the Physical products instead of their money or playmat prize.  If no one chooses the physical products, the next random participant may choose one of these physical prizes instead of their money or playmat prize. 
+8. Registration
+Register using this Google Form:  https://forms.gle/tbMyTwjVdqz7DMsB6
+Registration End Date:  June 12, 2026 at 11:59 PM Pacific Standard Time / June 13, 2026 at 7:59 AM UTC
+Locked Decks Submission Date: June 12, 2026 at 11:59 PM Pacific Standard Time / June 13, 2026 at 7:59 AM UTC
+Notes on Submitting Decks
+1. Decklists must be submitted to decklists@starwarsccg.org in GEMP-importable format (.txt) and Decklist format.
+2. Create your Dark and Light Side decks in GEMP's Deck Builder function (play.starwarsccg.org; Deck Builder link is in the middle left on the lobby screen).
+3. Save your two decks using the "Save deck" and "Rename deck" buttons in the top left.
+4. Once you're done making your legal decks (remember your Hidden Base systems in the "Cards outside of deck" area), click the Decklist button in the top left.   Click the "Export Deck" button in your Decklist window. This is downloaded to whatever your browser's default download folder is. We'll come back to this in a moment.
+5. Then, click the Decklist button in your Decklist window - a new tab should open with a formatted list.
+6. Now, compose an e-mail to decklists@starwarsccg.org. Include in the e-mail subject "[First Name] [Last Name] [Gemp username]'s 2026 Retro GEMPC Decks".
+7. Copy and paste all the contents *for both your Light and Dark decks* from the tabs in Step 3) above into the body of the e-mail.
+8. Attach your downloaded decks (from Step 4) to the e-mail
+9. Send!
+Seeding and tournament play
+1. Once registration closes, the 2026 Retro GEMPC Selection Committee will convene and rank the participants into a bracket. Some players may have a bye due to uneven player numbers
+2.  Once the event begins, players will have 7 days to complete a full match (one game with each side) against the opponent they have been assigned, with the higher-seeded player (the one with the lower seed number) choosing which side of the Force is played first.  Players MUST use the same locked decks throughout the tournament (Minor exception is that the tournament director may on a case by case basis allow early fixes for obviously deficient decks).  
+Scoring, Winning, Etc.
+1. Each match will follow standard Match Play scoring procedures. The player with the highest net life force (cards in Reserve Deck, Used Pile, and Force Pile) from both of their games wins the  match and proceeds further.  Example: If Abe won Game 1 by 6 Life Force but Bob won Game 2 by 8 Life Force, Bob's net life force from both games would be +2 and Bob would win the Match.  Exception: concessions by the opponent and time-outs by the opponent ALSO cause hand size to count as life force for a player)
+2. In case of a tie, the fewest cards across both games in the discard pile are the tiebreaker.  
+Example:  
+Game 1: Cary wins by 12 life force with 45 cards in Discard while David lost with 48 cards in Lost Pile
+Game 2: David wins by 12 life force with 44 cards in Discard while Cary lost with 50 cards in Lost Pile
+Total Cards in Lost Pile for Both Games Cary: 45+50 = 95
+Total Cards in Lost Pile for Both Games David: 48+44 = 92
+Because both players are even in their respective life force totals for their wins, the game is decided by a tiebreaker.  Because David had fewer cards across both games in his lost pile (92) compared to Cary (95),  David wins the tiebreaker and wins the Match.  
+Be sure to record both the differential of each game and the cards in each player's lost pile for tiebreakers at the end of each game.
+3. Games are played with 50-minute timers per player and the standard 5-minute "inaction" timer. If a player reaches 0:00 on their clock or is inactive for 5 minutes, the game will be forfeited in favor of the opponent. The winner wins by the total of their hand & life Force remaining
+4. As this is a match-play event, and differential is being kept, concessions and timeouts are strongly discouraged. If a player does choose to concede or happens to timeout within a game, the winner wins by the total of their hand & life Force remaining. This differential is subject to the Tournament Director's discretion; concessions and timeouts are not intended as a strategic option to lower the differential of a match by preventing a retrieval loop or similar.
+5. If a match is tied in Life Force, the player with fewer cards in lost piles across the match will win. If lost pile counts are tied, the lower-seeded player will advance.
+6. The player who wins the match, either by winning both games outright or having a higher differential across the two games, will advance to the next round of the bracket.
+7. To report the winner of a match, one of the participants should post in the thread on the viewtopic.php?t=86782 - this allows us to easily keep track of all results!
+8. Reverts are not required to be allowed.  However, granting reverts for misclicks and minor mistakes is encouraged as an aspect of courteous sportsmanship.
+9. Intentionally using known bugs or exploits is heavily frowned upon and may punished at the discretion of the Tournament Director 
+10. If a new bug occurs during a game, play it as it lies if possible. If it is extremely disruptive to the game's result, please notify the Tournament Director, along with a game replay if possible.
+Prizes, Awards, and Delivery
+1. This tournament is being self-funded by Bill Bisco and as such it is a labor and effort of love offered freely to the community and those participating in the hopes that people have fun.  
+2. Bill Bisco currently has the funds and the capital to deliver prizes and it is his full intention to start the process shortly after the tournament completes.  
+3. The playmat prizes are intended to be customized for the recipients and so that aspect of tournament prize will take at least a couple of weeks as they must be custom ordered, delivered, and shipped.  
+4. Given the effort it takes to manage, fund, and deliver these prizes.  Bill Bisco reserves the right to withhold or re-assign prizes from randomly chosen individuals if those individuals are believed (with some evidence) to not have completed their games with integrity.  For example, quickly conceding games, skipping games with no notice, etc.  The participation prizes are meant to reward individuals for signing up and enjoying the game with their fellow players, not as a mechanism to try to roll the dice and have a random chance to get prizes without actually meaningfully participating in the tournament.
+5. Random participation prizes are meant to be random and will be chosen randomly.  However, if a player is already a TOP 4 player and will already be receiving prizes, that player will be ineligible for random prizes, and another player will be chosen.
