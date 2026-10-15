@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="4_114" horizontal="false" title="3,720 To 1"/>
+    <card blueprintId="4_114" horizontal="false" title="3,720 To 1"/>
+    <card blueprintId="5_110" horizontal="false" title="Ability, Ability, Ability"/>
+    <card blueprintId="4_166" horizontal="false" title="Avenger"/>
+    <card blueprintId="5_164" horizontal="false" title="Bespin"/>
+    <card blueprintId="5_164" horizontal="false" title="Bespin"/>
+    <card blueprintId="5_164" horizontal="false" title="Bespin"/>
+    <card blueprintId="5_165" horizontal="false" title="Bespin: Cloud City"/>
+    <card blueprintId="5_178" horizontal="false" title="Cloud Car"/>
+    <card blueprintId="5_178" horizontal="false" title="Cloud Car"/>
+    <card blueprintId="5_178" horizontal="false" title="Cloud Car"/>
+    <card blueprintId="5_178" horizontal="false" title="Cloud Car"/>
+    <card blueprintId="5_178" horizontal="false" title="Cloud Car"/>
+    <card blueprintId="5_95" horizontal="false" title="Cloud City Trooper"/>
+    <card blueprintId="5_95" horizontal="false" title="Cloud City Trooper"/>
+    <card blueprintId="5_95" horizontal="false" title="Cloud City Trooper"/>
+    <card blueprintId="5_95" horizontal="false" title="Cloud City Trooper"/>
+    <card blueprintId="5_168" horizontal="true" title="Cloud City: Dining Room"/>
+    <card blueprintId="5_168" horizontal="true" title="Cloud City: Dining Room"/>
+    <card blueprintId="5_169" horizontal="true" title="Cloud City: East Platform (Docking Bay)"/>
+    <card blueprintId="5_171" horizontal="true" title="Cloud City: Lower Corridor"/>
+    <card blueprintId="5_172" horizontal="true" title="Cloud City: Security Tower"/>
+    <card blueprintId="5_172" horizontal="true" title="Cloud City: Security Tower"/>
+    <card blueprintId="5_174" horizontal="false" title="Clouds"/>
+    <card blueprintId="5_174" horizontal="false" title="Clouds"/>
+    <card blueprintId="5_174" horizontal="false" title="Clouds"/>
+    <card blueprintId="5_174" horizontal="false" title="Clouds"/>
+    <card blueprintId="4_139" horizontal="false" title="Control"/>
+    <card blueprintId="4_139" horizontal="false" title="Control"/>
+    <card blueprintId="2_85" horizontal="false" title="Danz Borin"/>
+    <card blueprintId="5_115" horizontal="false" title="Dark Deal"/>
+    <card blueprintId="5_115" horizontal="false" title="Dark Deal"/>
+    <card blueprintId="1_301" horizontal="false" title="Devastator"/>
+    <card blueprintId="1_172" horizontal="false" title="Dr. Evazan"/>
+    <card blueprintId="1_243" horizontal="false" title="Elis Helrot"/>
+    <card blueprintId="1_243" horizontal="false" title="Elis Helrot"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="4_103" horizontal="false" title="Lieutenant Commander Ardan"/>
+    <card blueprintId="1_321" horizontal="false" title="Luke Seeker"/>
+    <card blueprintId="1_321" horizontal="false" title="Luke Seeker"/>
+    <card blueprintId="1_321" horizontal="false" title="Luke Seeker"/>
+    <card blueprintId="5_175" horizontal="false" title="Obsidian 7"/>
+    <card blueprintId="5_176" horizontal="false" title="Obsidian 8"/>
+    <card blueprintId="2_137" horizontal="false" title="Oo-ta Goo-ta, Solo?"/>
+    <card blueprintId="5_149" horizontal="false" title="Projective Telepathy"/>
+    <card blueprintId="5_149" horizontal="false" title="Projective Telepathy"/>
+    <card blueprintId="1_228" horizontal="false" title="Reactor Terminal"/>
+    <card blueprintId="2_140" horizontal="false" title="Stunning Leader"/>
+    <card blueprintId="2_140" horizontal="false" title="Stunning Leader"/>
+    <card blueprintId="4_134" horizontal="false" title="There Is No Try"/>
+    <card blueprintId="4_134" horizontal="false" title="There Is No Try"/>
+    <card blueprintId="5_102" horizontal="false" title="Tibanna Gas Miner"/>
+    <card blueprintId="5_102" horizontal="false" title="Tibanna Gas Miner"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="2_106" horizontal="false" title="Trooper Davin Felth"/>
+    <card blueprintId="5_103" horizontal="false" title="Trooper Jerrol Blendin"/>
+    <card blueprintId="2_107" horizontal="false" title="U-3PO (Yoo-Threepio)"/>
+    <card blueprintId="4_106" horizontal="false" title="Warrant Officer M'Kae"/>
+</deck>
