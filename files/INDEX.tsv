@@ -12208,7 +12208,7 @@ PJP Big Blue Deck Kallenbach LS 1998.txt	PJP_Big_Blue_Deck_Kallenbach_LS_1998.tx
 PJP Jabba's Dagobah Deck Mortonson LS.txt	PJP_Jabba's_Dagobah_Deck_Mortonson_LS.txt	application/xml	2918
 PJP Scum & Villainy Kallenbach DS 1998.txt	PJP_Scum_&_Villainy_Kallenbach_DS_1998.txt	application/xml	4127
 Players Committee organization chart 2021.png	Players_Committee_organization_chart_2021.png	image/png	1940604
-Players Committee organization chart 2024.png	Players_Committee_organization_chart_2024.png	image/png	1998048
+Players_Committee_organization_chart_2024.png	Players_Committee_organization_chart_2024.png	image/png	1987670
 Playtest-ds-at-at-walker-test-print.png	Playtest-ds-at-at-walker-test-print.png	image/png	1601570
 Playtest-ds-dark-falcon.png	Playtest-ds-dark-falcon.png	image/png	1685698
 Playtest-ds-deathstar-playtest.png	Playtest-ds-deathstar-playtest.png	image/png	2043162
@@ -12317,8 +12317,10 @@ POVS1 HB Tino LS 2002 VSCOurMo.txt	POVS1_HB_Tino_LS_2002_VSCOurMo.txt	applicatio
 POVS1 HB Tsung LS 2003 GPN.txt	POVS1_HB_Tsung_LS_2003_GPN.txt	application/xml	4396
 POVS1 HB Walker LS 2002 DeckTech.txt	POVS1_HB_Walker_LS_2002_DeckTech.txt	application/xml	4418
 POVS1_HB_Weigold_LS_2002_21505.txt	POVS1_HB_Weigold_LS_2002_21505.txt	application/xml	4560
+POVS1_HB_Weigold_LS_2002_DeckTech.txt	POVS1_HB_Weigold_LS_2002_DeckTech.txt	application/xml	4519
 POVS1 HD Aves DS 2003 HuntDown.txt	POVS1_HD_Aves_DS_2003_HuntDown.txt	application/xml	5017
 POVS1 HD F-Funk DS 2003 GPN.txt	POVS1_HD_F-Funk_DS_2003_GPN.txt	application/xml	4648
+POVS1_HD_Foss_DS_2002_DeckTech.txt	POVS1_HD_Foss_DS_2002_DeckTech.txt	application/xml	4932
 POVS1 HD Fush DS 2003 GPN.txt	POVS1_HD_Fush_DS_2003_GPN.txt	application/xml	4718
 POVS1 HD Hoth DS 2003 GPN.txt	POVS1_HD_Hoth_DS_2003_GPN.txt	application/xml	4806
 POVS1 HD Hoth DS 2003 KillThos.txt	POVS1_HD_Hoth_DS_2003_KillThos.txt	application/xml	4734
@@ -12328,18 +12330,23 @@ POVS1 HD Lusankya DS 2003 GPN.txt	POVS1_HD_Lusankya_DS_2003_GPN.txt	application/
 POVS1 HD Manley DS 2002 DeckTech.txt	POVS1_HD_Manley_DS_2002_DeckTech.txt	application/xml	4910
 POVS1 HD owen DS 2002 GPN.txt	POVS1_HD_owen_DS_2002_GPN.txt	application/xml	4746
 POVS1 HD Papp DS 2002 DeckTech.txt	POVS1_HD_Papp_DS_2002_DeckTech.txt	application/xml	5001
+POVS1_HD_Stevens_DS_2002_DeckTech.txt	POVS1_HD_Stevens_DS_2002_DeckTech.txt	application/xml	4866
 POVS1 HD TheHangman2k6 DS 2002 GPN.txt	POVS1_HD_TheHangman2k6_DS_2002_GPN.txt	application/xml	4891
+POVS1_HD_Weights_DS_2002_DeckTech.txt	POVS1_HD_Weights_DS_2002_DeckTech.txt	application/xml	4787
 POVS1 Home One War Room kpimenatl LS.txt	POVS1_Home_One_War_Room_kpimenatl_LS.txt	application/xml	4322
 POVS1 Home One War Room Shewski LS 2003.txt	POVS1_Home_One_War_Room_Shewski_LS_2003.txt	application/xml	4663
 POVS1 Hoth Main Power Generators (1st M.txt	POVS1_Hoth_Main_Power_Generators_(1st_M.txt	application/xml	5042
 POVS1 Hoth Main Power Generators (1st M EchoBase.txt	POVS1_Hoth_Main_Power_Generators_(1st_M_EchoBase.txt	application/xml	4255
 POVS1 Hoth Main Power Generators (1st M Nightoft.txt	POVS1_Hoth_Main_Power_Generators_(1st_M_Nightoft.txt	application/xml	4302
 POVS1 Hoth Main Power Generators (1st M Tauntaun.txt	POVS1_Hoth_Main_Power_Generators_(1st_M_Tauntaun.txt	application/xml	4545
+POVS1_Invasion_Obman_DS_2002_DeckTech.txt	POVS1_Invasion_Obman_DS_2002_DeckTech.txt	application/xml	4573
+POVS1_Invasion_Zajic_DS_2002_DeckTech.txt	POVS1_Invasion_Zajic_DS_2002_DeckTech.txt	application/xml	4574
 POVS1 IOcc Greyhame DS 2002 GPN.txt	POVS1_IOcc_Greyhame_DS_2002_GPN.txt	application/xml	4708
 POVS1 IOcc Legolas DS 2002 DeckTech.txt	POVS1_IOcc_Legolas_DS_2002_DeckTech.txt	application/xml	4705
 POVS1 IOcc Rickynumber24 DS 2003 GPN.txt	POVS1_IOcc_Rickynumber24_DS_2003_GPN.txt	application/xml	4550
 POVS1 ISB Burnett DS 2002 DeckTech.txt	POVS1_ISB_Burnett_DS_2002_DeckTech.txt	application/xml	4726
 POVS1 ISB Elia DS 2002 DeckTech.txt	POVS1_ISB_Elia_DS_2002_DeckTech.txt	application/xml	4596
+POVS1_KD_comando_DS_2002_DeckTech.txt	POVS1_KD_comando_DS_2002_DeckTech.txt	application/xml	4716
 POVS1 Legal Burnett DS 2002 DeckTech.txt	POVS1_Legal_Burnett_DS_2002_DeckTech.txt	application/xml	4824
 POVS1 Legal icebreath DS 2003 GPN.txt	POVS1_Legal_icebreath_DS_2003_GPN.txt	application/xml	4487
 POVS1 Legal icebreath DS 2004 GPN.txt	POVS1_Legal_icebreath_DS_2004_GPN.txt	application/xml	4717
@@ -12349,14 +12356,16 @@ POVS1 Legal Seymour DS 2002 DeckTech.txt	POVS1_Legal_Seymour_DS_2002_DeckTech.tx
 POVS1 LU DarthVader LS 2002 GPN.txt	POVS1_LU_DarthVader_LS_2002_GPN.txt	application/xml	4330
 POVS1 LU Ertan LS 2002 DeckTech.txt	POVS1_LU_Ertan_LS_2002_DeckTech.txt	application/xml	4701
 POVS1 LU fixer LS 2003 GPN.txt	POVS1_LU_fixer_LS_2003_GPN.txt	application/xml	4626
+POVS1_LU_Lord666_LS_2002_DeckTech.txt	POVS1_LU_Lord666_LS_2002_DeckTech.txt	application/xml	4466
 POVS1 LU Wehner LS 2002 DeckTech.txt	POVS1_LU_Wehner_LS_2002_DeckTech.txt	application/xml	4370
 POVS1 Massassi Base Operations Taran Wan.txt	POVS1_Massassi_Base_Operations_Taran_Wan.txt	application/xml	4274
 POVS1 MKOS Carila DS 2002 DeckTech.txt	POVS1_MKOS_Carila_DS_2002_DeckTech.txt	application/xml	4600
 POVS1 MKOS DMX69 DS 2002 DeckTech.txt	POVS1_MKOS_DMX69_DS_2002_DeckTech.txt	application/xml	4678
 POVS1 MKOS Tino DS 2002 GPN.txt	POVS1_MKOS_Tino_DS_2002_GPN.txt	application/xml	4607
+POVS1_MPG_Drapos_LS_2002_DeckTech.txt	POVS1_MPG_Drapos_LS_2002_DeckTech.txt	application/xml	4627
 POVS1 MPG Elia LS 2002 DeckTech.txt	POVS1_MPG_Elia_LS_2002_DeckTech.txt	application/xml	4695
 POVS1 MPG icebreath LS 2003 GPN.txt	POVS1_MPG_icebreath_LS_2003_GPN.txt	application/xml	4367
-POVS1 MWYHL French LS 2002 DeckTech.txt	POVS1_MWYHL_French_LS_2002_DeckTech.txt	application/xml	4617
+POVS1_MWYHL_French_LS_2002_DeckTech.txt	POVS1_MWYHL_French_LS_2002_DeckTech.txt	application/xml	4704
 POVS1 MWYHL Redldr12 LS 2002 GPN.txt	POVS1_MWYHL_Redldr12_LS_2002_GPN.txt	application/xml	4586
 POVS1 MWYHL Watkins LS 2002 DeckTech.txt	POVS1_MWYHL_Watkins_LS_2002_DeckTech.txt	application/xml	4665
 POVS1 MWYHL yodaindahouze LS 2002 GPN.txt	POVS1_MWYHL_yodaindahouze_LS_2002_GPN.txt	application/xml	4541
@@ -12367,11 +12376,13 @@ POVS1 NMNPND Ertan DS 2002 DeckTech.txt	POVS1_NMNPND_Ertan_DS_2002_DeckTech.txt	
 POVS1 NMNPND jaymcmullan DS 2003 GPN.txt	POVS1_NMNPND_jaymcmullan_DS_2003_GPN.txt	application/xml	4699
 POVS1 NMNPND joshbader DS 2002 GPN.txt	POVS1_NMNPND_joshbader_DS_2002_GPN.txt	application/xml	4586
 POVS1 NMNPND Keskic DS 2002 DeckTech.txt	POVS1_NMNPND_Keskic_DS_2002_DeckTech.txt	application/xml	4821
+POVS1_NMNPND_sodapop_DS_2002_DeckTech.txt	POVS1_NMNPND_sodapop_DS_2002_DeckTech.txt	application/xml	4834
 POVS1 Pile Larson DS 2002 DeckTech.txt	POVS1_Pile_Larson_DS_2002_DeckTech.txt	application/xml	4764
 POVS1 Profit Comitz LS 2002 VSCThePr.txt	POVS1_Profit_Comitz_LS_2002_VSCThePr.txt	application/xml	4522
 POVS1 Profit epyons anger LS 2003 GPN.txt	POVS1_Profit_epyons_anger_LS_2003_GPN.txt	application/xml	4398
 POVS1 Profit Ertan LS 2002 DeckTech.txt	POVS1_Profit_Ertan_LS_2002_DeckTech.txt	application/xml	4963
 POVS1 Profit Harrison-Trainor LS 2002.txt	POVS1_Profit_Harrison-Trainor_LS_2002.txt	application/xml	4510
+POVS1_Profit_Majors_LS_2002_DeckTech.txt	POVS1_Profit_Majors_LS_2002_DeckTech.txt	application/xml	4683
 POVS1 Profit Mud LS 2002 GPN.txt	POVS1_Profit_Mud_LS_2002_GPN.txt	application/xml	4490
 POVS1 Profit Mud LS 2002 VSCLeiaP.txt	POVS1_Profit_Mud_LS_2002_VSCLeiaP.txt	application/xml	4580
 POVS1 Profit phimpmasterflash LS 2002.txt	POVS1_Profit_phimpmasterflash_LS_2002.txt	application/xml	4699
@@ -12382,8 +12393,10 @@ POVS1 QMC Bastard LS 2002 AVirtual.txt	POVS1_QMC_Bastard_LS_2002_AVirtual.txt	ap
 POVS1 QMC Diamond LS 2002 DeckTech.txt	POVS1_QMC_Diamond_LS_2002_DeckTech.txt	application/xml	4924
 POVS1 QMC icebreath LS 2003 GPN.txt	POVS1_QMC_icebreath_LS_2003_GPN.txt	application/xml	4479
 POVS1 QMC Knight LS 2002 GPN.txt	POVS1_QMC_Knight_LS_2002_GPN.txt	application/xml	4675
+POVS1_QMC_Seymour_LS_2002_21405.txt	POVS1_QMC_Seymour_LS_2002_21405.txt	application/xml	4751
+POVS1_QMC_Seymour_LS_2002_DeckTech.txt	POVS1_QMC_Seymour_LS_2002_DeckTech.txt	application/xml	4751
 POVS1 QMC Solusar LS 2002 GPN.txt	POVS1_QMC_Solusar_LS_2002_GPN.txt	application/xml	4485
-POVS1 QMC Stock LS 2002 22647.txt	POVS1_QMC_Stock_LS_2002_22647.txt	application/xml	4768
+POVS1_QMC_Stock_LS_2002_22647.txt	POVS1_QMC_Stock_LS_2002_22647.txt	application/xml	4680
 POVS1 QMC Stock LS 2002 DeckTech.txt	POVS1_QMC_Stock_LS_2002_DeckTech.txt	application/xml	4816
 POVS1 ROps Majors DS 2002 DeckTech.txt	POVS1_ROps_Majors_DS_2002_DeckTech.txt	application/xml	4437
 POVS1 ROps Shewski DS 2003 GPN.txt	POVS1_ROps_Shewski_DS_2003_GPN.txt	application/xml	4684
@@ -12391,6 +12404,7 @@ POVS1 RST (Quione) LS 2002 DeckTech.txt	POVS1_RST_(Quione)_LS_2002_DeckTech.txt	
 POVS1 RST Ballin LS 2002 22361.txt	POVS1_RST_Ballin_LS_2002_22361.txt	application/xml	4671
 POVS1 RST Ballin LS 2002 DeckTech.txt	POVS1_RST_Ballin_LS_2002_DeckTech.txt	application/xml	4671
 POVS1 RST Ertan LS 2002 DeckTech.txt	POVS1_RST_Ertan_LS_2002_DeckTech.txt	application/xml	4606
+POVS1_RST_Fletcher_LS_2002_DeckTech.txt	POVS1_RST_Fletcher_LS_2002_DeckTech.txt	application/xml	4766
 POVS1 RST Hayward LS 2002 DeckTech.txt	POVS1_RST_Hayward_LS_2002_DeckTech.txt	application/xml	4656
 POVS1 RST Jeffris LS 2002 DeckTech.txt	POVS1_RST_Jeffris_LS_2002_DeckTech.txt	application/xml	4637
 POVS1 RST Lingrell LS 2002 DeckTech.txt	POVS1_RST_Lingrell_LS_2002_DeckTech.txt	application/xml	4839
@@ -12415,10 +12429,14 @@ POVS1 The Hyperdrive Generator's Gone ic.txt	POVS1_The_Hyperdrive_Generator's_Go
 POVS1 The Hyperdrive Generator's Gone lt Hyperdri.txt	POVS1_The_Hyperdrive_Generator's_Gone_lt_Hyperdri.txt	application/xml	4373
 POVS1 THGG Ertan LS 2002 DeckTech.txt	POVS1_THGG_Ertan_LS_2002_DeckTech.txt	application/xml	4764
 POVS1 TIGIH Desnoy LS 2003 GPN.txt	POVS1_TIGIH_Desnoy_LS_2003_GPN.txt	application/xml	4289
+POVS1_TIGIH_Krueger_LS_2002_DeckTech.txt	POVS1_TIGIH_Krueger_LS_2002_DeckTech.txt	application/xml	4374
 POVS1 TIGIH Out LS 2002 GPN.txt	POVS1_TIGIH_Out_LS_2002_GPN.txt	application/xml	4362
 POVS1 TIGIH TheOutlawTorn LS 2003 GPN.txt	POVS1_TIGIH_TheOutlawTorn_LS_2003_GPN.txt	application/xml	4828
+POVS1_TRM_Ertan_LS_2002_DeckTech.txt	POVS1_TRM_Ertan_LS_2002_DeckTech.txt	application/xml	4870
 POVS1 TRM Leezeldafuzz LS 2003 GPN.txt	POVS1_TRM_Leezeldafuzz_LS_2003_GPN.txt	application/xml	4386
+POVS1_TRM_Zygorf_LS_2002_DeckTech.txt	POVS1_TRM_Zygorf_LS_2002_DeckTech.txt	application/xml	4033
 POVS1 TSQ Bottoms LS 2002 DeckTech.txt	POVS1_TSQ_Bottoms_LS_2002_DeckTech.txt	application/xml	4733
+POVS1_Vile_Beusekom_DS_2002_DeckTech.txt	POVS1_Vile_Beusekom_DS_2002_DeckTech.txt	application/xml	4485
 POVS1 Vile Jenner DS 2002 DeckTech.txt	POVS1_Vile_Jenner_DS_2002_DeckTech.txt	application/xml	4554
 POVS1 Vile Keskic DS 2002 DeckTech.txt	POVS1_Vile_Keskic_DS_2002_DeckTech.txt	application/xml	4782
 POVS1 Vile LordHoban DS 2003 Destroye.txt	POVS1_Vile_LordHoban_DS_2003_Destroye.txt	application/xml	4374
@@ -12434,11 +12452,14 @@ POVS1 WHT Herrin LS 2002 DeckTech.txt	POVS1_WHT_Herrin_LS_2002_DeckTech.txt	appl
 POVS1 WHT Jewell LS 2002 DeckTech.txt	POVS1_WHT_Jewell_LS_2002_DeckTech.txt	application/xml	4716
 POVS1 WHT Keskic LS 2002 DeckTech.txt	POVS1_WHT_Keskic_LS_2002_DeckTech.txt	application/xml	4812
 POVS1 WHT Manley LS 2002 DeckTech.txt	POVS1_WHT_Manley_LS_2002_DeckTech.txt	application/xml	4641
+POVS1_WHT_Medalon_LS_2002_21290.txt	POVS1_WHT_Medalon_LS_2002_21290.txt	application/xml	4894
+POVS1_WHT_Medalon_LS_2002_DeckTech.txt	POVS1_WHT_Medalon_LS_2002_DeckTech.txt	application/xml	4882
 POVS1 WHT psyokid LS 2002 GPN.txt	POVS1_WHT_psyokid_LS_2002_GPN.txt	application/xml	4759
 POVS1 WHT RexBanner7 LS 2002 GPN.txt	POVS1_WHT_RexBanner7_LS_2002_GPN.txt	application/xml	5037
 POVS1 WHT Robinson LS 2002 DeckTech.txt	POVS1_WHT_Robinson_LS_2002_DeckTech.txt	application/xml	4872
 POVS1 WHT Spooky) LS 2003 GPN.txt	POVS1_WHT_Spooky)_LS_2003_GPN.txt	application/xml	3977
 POVS1 WHT Spooky) LS 2003 LSCMKII 4661.txt	POVS1_WHT_Spooky)_LS_2003_LSCMKII_4661.txt	application/xml	4196
+POVS1_WHT_Zajic_LS_2002_DeckTech.txt	POVS1_WHT_Zajic_LS_2002_DeckTech.txt	application/xml	4668
 POVS1 WYS Admiral Sjet LS 2002 GPN.txt	POVS1_WYS_Admiral_Sjet_LS_2002_GPN.txt	application/xml	4749
 POVS1 WYS Antillies LS 2003 GPN.txt	POVS1_WYS_Antillies_LS_2003_GPN.txt	application/xml	4291
 POVS1 WYS big chief04 LS 2003 GPN.txt	POVS1_WYS_big_chief04_LS_2003_GPN.txt	application/xml	4433
@@ -12446,6 +12467,7 @@ POVS1 WYS Bouchard LS 2002 DeckTech.txt	POVS1_WYS_Bouchard_LS_2002_DeckTech.txt	
 POVS1 WYS Ewokbabe LS 2002 GPN.txt	POVS1_WYS_Ewokbabe_LS_2002_GPN.txt	application/xml	4486
 POVS1 WYS Fush LS 2003 MyOwnWYS.txt	POVS1_WYS_Fush_LS_2003_MyOwnWYS.txt	application/xml	4653
 POVS1 WYS krazy cheetah LS 2004 GPN.txt	POVS1_WYS_krazy_cheetah_LS_2004_GPN.txt	application/xml	4738
+POVS1_WYS_Seymour_LS_2002_DeckTech.txt	POVS1_WYS_Seymour_LS_2002_DeckTech.txt	application/xml	4392
 POVS1 WYS Tino LS 2002 VSCWYSwi.txt	POVS1_WYS_Tino_LS_2002_VSCWYSwi.txt	application/xml	4592
 POVS1 WYS well. LS 2002 GPN.txt	POVS1_WYS_well._LS_2002_GPN.txt	application/xml	4633
 POVS1 YMSYL Ballin DS 2002 DeckTech.txt	POVS1_YMSYL_Ballin_DS_2002_DeckTech.txt	application/xml	4872
@@ -13277,9 +13299,9 @@ Prem Geez, Is This Deck Expensive Bozman.txt	Prem_Geez,_Is_This_Deck_Expensive_B
 Prem Rebel Penny Pincher Bozman LS 1996.txt	Prem_Rebel_Penny_Pincher_Bozman_LS_1996.txt	application/xml	3944
 Prem The Dust Bowl Bozman LS 1996.txt	Prem_The_Dust_Bowl_Bozman_LS_1996.txt	application/xml	3215
 Prem Wacky Deck Bozman LS 1996 Designs.txt	Prem_Wacky_Deck_Bozman_LS_1996_Designs.txt	application/xml	4434
-Premiere-2P-box.png	Premiere-2P-box.png	image/png	347810
+Premiere-2P-box.png	Premiere-2P-box.png	image/png	396069
 Premiere-2P-premiums.png	Premiere-2P-premiums.png	image/png	927166
-Premiere-2P-rules.png	Premiere-2P-rules.png	image/png	297002
+Premiere-2P-rules.png	Premiere-2P-rules.png	image/png	288757
 Premiere-D-5d6ra7-decipher-archive.gif	Premiere-D-5d6ra7-decipher-archive.gif	image/gif	77010
 Premiere-D-5d6ra7.gif	Premiere-D-5d6ra7.gif	image/png	400889
 Premiere-D-adisturbanceintheforce-decipher-archive.gif	Premiere-D-adisturbanceintheforce-decipher-archive.gif	image/gif	62381
@@ -13735,13 +13757,13 @@ Premiere-L-yavinsentry.gif	Premiere-L-yavinsentry.gif	image/gif	91728
 Premiere-L-yerkamig.gif	Premiere-L-yerkamig.gif	image/gif	98957
 Premiere-L-ywing.gif	Premiere-L-ywing.gif	image/gif	88468
 Premiere-Limited-blue.png	Premiere-Limited-blue.png	image/png	293815
-Premiere-Limited-box-encyc.png	Premiere-Limited-box-encyc.png	image/png	307247
+Premiere-Limited-box-encyc.png	Premiere-Limited-box-encyc.png	image/png	1022405
 Premiere-Limited-ds-rare-sheet.png	Premiere-Limited-ds-rare-sheet.png	image/png	6552541
 Premiere-Limited-expand-the-empire-poster.png	Premiere-Limited-expand-the-empire-poster.png	image/png	3470662
 Premiere-Limited-four-panel-poster.png	Premiere-Limited-four-panel-poster.png	image/png	459692
 Premiere-Limited-ls-rare-sheet.png	Premiere-Limited-ls-rare-sheet.png	image/png	7374997
-Premiere-Limited-pack.png	Premiere-Limited-pack.png	image/png	118431
-Premiere-Limited-starter-v2.png	Premiere-Limited-starter-v2.png	image/png	74506
+Premiere-Limited-pack.png	Premiere-Limited-pack.png	image/png	616727
+Premiere-Limited-starter-v2.png	Premiere-Limited-starter-v2.png	image/png	461833
 Premiere-Limited-starter.png	Premiere-Limited-starter.png	image/png	55186
 Premiere-Unlimited-box-v2.png	Premiere-Unlimited-box-v2.png	image/png	356394
 Premiere-Unlimited-box.png	Premiere-Unlimited-box.png	image/png	278850
@@ -14007,7 +14029,7 @@ Radio Free Decipher logo.jpg	Radio_Free_Decipher_logo.jpg	image/jpeg	9190
 Raphael Asselin 1996 Worlds.jpg	Raphael_Asselin_1996_Worlds.jpg	image/jpeg	91194
 Ratings-index-20011201.png	Ratings-index-20011201.png	image/png	73829
 Ratings-search-20011113.png	Ratings-search-20011113.png	image/png	62242
-Rebel-Leader-cards.png	Rebel-Leader-cards.png	image/png	337092
+Rebel-Leader-cards.png	Rebel-Leader-cards.png	image/png	1305867
 Ref2-D-abyssinornament&woundedwookiee.gif	Ref2-D-abyssinornament&woundedwookiee.gif	image/gif	54637
 Ref2-D-agentsofblacksun.gif	Ref2-D-agentsofblacksun.gif	image/gif	48994
 Ref2-D-alter&collateraldamage.gif	Ref2-D-alter&collateraldamage.gif	image/gif	50324
@@ -14167,15 +14189,15 @@ Ref3-L-wiseadvice.gif	Ref3-L-wiseadvice.gif	image/gif	92839
 Ref3-L-yodamasteroftheforce.gif	Ref3-L-yodamasteroftheforce.gif	image/gif	93579
 Ref3-L-yourinsightservesyouwell.gif	Ref3-L-yourinsightservesyouwell.gif	image/gif	90275
 Ref3-L-yourship.gif	Ref3-L-yourship.gif	image/gif	89270
-Reflections-box-toppers.png	Reflections-box-toppers.png	image/png	1456439
-Reflections-display.png	Reflections-display.png	image/png	463595
+Reflections-box-toppers.png	Reflections-box-toppers.png	image/png	1788642
+Reflections-display.png	Reflections-display.png	image/png	534692
 Reflections-II-art-1.png	Reflections-II-art-1.png	image/png	7495
 Reflections-II-art-2.png	Reflections-II-art-2.png	image/png	120107
-Reflections-II-display.png	Reflections-II-display.png	image/png	441452
-Reflections-II-pack.png	Reflections-II-pack.png	image/png	107436
+Reflections-II-display.png	Reflections-II-display.png	image/png	1456533
+Reflections-II-pack.png	Reflections-II-pack.png	image/png	691582
 Reflections-II-rules-supplement-back.png	Reflections-II-rules-supplement-back.png	image/png	1743668
 Reflections-II-rules-supplement-front.png	Reflections-II-rules-supplement-front.png	image/png	2496811
-Reflections-III-display.png	Reflections-III-display.png	image/png	405990
+Reflections-III-display.png	Reflections-III-display.png	image/png	1356118
 Reflections-III-fig-1.png	Reflections-III-fig-1.png	image/png	5290
 Reflections-III-fig-10.png	Reflections-III-fig-10.png	image/png	19365
 Reflections-III-fig-11.png	Reflections-III-fig-11.png	image/png	20390
@@ -14188,7 +14210,7 @@ Reflections-III-fig-6.png	Reflections-III-fig-6.png	image/png	1908
 Reflections-III-fig-7.png	Reflections-III-fig-7.png	image/png	15319
 Reflections-III-fig-8.png	Reflections-III-fig-8.png	image/png	1993
 Reflections-III-fig-9.png	Reflections-III-fig-9.png	image/png	20405
-Reflections-III-pack.png	Reflections-III-pack.png	image/png	101792
+Reflections-III-pack.png	Reflections-III-pack.png	image/png	656501
 Reflections-III-rules-supplement-back.png	Reflections-III-rules-supplement-back.png	image/png	1856049
 Reflections-III-rules-supplement-front.png	Reflections-III-rules-supplement-front.png	image/png	2989912
 Reflections-pack.png	Reflections-pack.png	image/png	102399
@@ -15132,6 +15154,7 @@ RG-TH-Well-Earned-Command.png	RG-TH-Well-Earned-Command.png	image/png	2745376
 RG-TH-You-Are-Beaten.png	RG-TH-You-Are-Beaten.png	image/png	1087401
 RG-TH-You-Will-Take-Me-To-Jabba-Now.png	RG-TH-You-Will-Take-Me-To-Jabba-Now.png	image/png	3326699
 RG-TK-420.jpg	RG-TK-420.jpg	image/jpeg	93539
+Richard_Borg.jpg	Richard_Borg.jpg	image/jpeg	163528
 Richard Garfield Spiel 2014.jpg	Richard_Garfield_Spiel_2014.jpg	image/jpeg	155872
 RL-L-goldleaderingold1.gif	RL-L-goldleaderingold1.gif	image/gif	113342
 RL-L-redleaderinred1.gif	RL-L-redleaderinred1.gif	image/gif	116637
@@ -15159,6 +15182,7 @@ Sam Tashima 2026 US Nationals.jpg	Sam_Tashima_2026_US_Nationals.jpg	image/jpeg	7
 Sam Tashima 2026 US Nationals group.jpg	Sam_Tashima_2026_US_Nationals_group.jpg	image/jpeg	27865
 Sam Tashima Worlds DS HDv.txt	Sam_Tashima_Worlds_DS_HDv.txt	application/xml	5317
 Sam Tashima Worlds LS QMC.txt	Sam_Tashima_Worlds_LS_QMC.txt	application/xml	5205
+Sample_Pente_game_pente.org.jpg	Sample_Pente_game_pente.org.jpg	image/jpeg	122482
 SarachanDS-SC.txt	SarachanDS-SC.txt	text/plain	1180
 SarachanLS-HITCO.txt	SarachanLS-HITCO.txt	text/plain	1343
 SchellbergDS BHBM.txt	SchellbergDS_BHBM.txt	application/xml	5265
@@ -15512,18 +15536,18 @@ SE-L-xwingassaultsquadron.gif	SE-L-xwingassaultsquadron.gif	image/gif	103633
 SE-L-xwinglasercannon.gif	SE-L-xwinglasercannon.gif	image/gif	105982
 SE-L-yavin4massassiheadquarters.gif	SE-L-yavin4massassiheadquarters.gif	image/gif	115805
 SE-L-yavin4trooper.gif	SE-L-yavin4trooper.gif	image/gif	84580
-SE-Limited-display.png	SE-Limited-display.png	image/png	336498
-SE-Limited-four-panel-poster-back.png	SE-Limited-four-panel-poster-back.png	image/png	1787857
-SE-Limited-four-panel-poster.png	SE-Limited-four-panel-poster.png	image/png	2053587
-SE-Limited-glossary.png	SE-Limited-glossary.png	image/png	78364
+SE-Limited-display.png	SE-Limited-display.png	image/png	1180625
+SE-Limited-four-panel-poster-back.png	SE-Limited-four-panel-poster-back.png	image/png	1831411
+SE-Limited-four-panel-poster.png	SE-Limited-four-panel-poster.png	image/png	878744
+SE-Limited-glossary.png	SE-Limited-glossary.png	image/png	831509
 SE-Limited-ls-rare-sheet.png	SE-Limited-ls-rare-sheet.png	image/png	6367216
-SE-Limited-pack.png	SE-Limited-pack.png	image/png	104204
-SE-Limited-rulebook.png	SE-Limited-rulebook.png	image/png	75851
-SE-Limited-starters.png	SE-Limited-starters.png	image/png	164296
+SE-Limited-pack.png	SE-Limited-pack.png	image/png	533073
+SE-Limited-rulebook.png	SE-Limited-rulebook.png	image/png	716436
+SE-Limited-starters.png	SE-Limited-starters.png	image/png	1462558
 Sean Luhks (community card).jpg	Sean_Luhks_(community_card).jpg	image/jpeg	31070
-Second-Anthology-box.png	Second-Anthology-box.png	image/png	303876
-Second-Anthology-checklist.png	Second-Anthology-checklist.png	image/png	155935
-Second-Anthology-preview-cards.png	Second-Anthology-preview-cards.png	image/png	1057222
+Second-Anthology-box.png	Second-Anthology-box.png	image/png	669881
+Second-Anthology-checklist.png	Second-Anthology-checklist.png	image/png	727512
+Second-Anthology-preview-cards.png	Second-Anthology-preview-cards.png	image/png	638888
 SersenDS-COVG.txt	SersenDS-COVG.txt	text/plain	1245
 SersenLS-Legend.txt	SersenLS-Legend.txt	text/plain	1349
 Set-a-new-hope-pack.jpg	Set-a-new-hope-pack.jpg	image/jpeg	22228
@@ -15705,6 +15729,8 @@ SokolDay2LS-HITCO.txt	SokolDay2LS-HITCO.txt	text/plain	1149
 SokolDS-HD.txt	SokolDS-HD.txt	text/plain	1144
 SokolLS-HITCO.txt	SokolLS-HITCO.txt	text/plain	1131
 SoTE-Skywalkers-Ad-DSII-Starter-Deck.webp	SoTE-Skywalkers-Ad-DSII-Starter-Deck.webp	image/webp	358018
+Spanish-2PG-rules-p01-cover.png	Spanish-2PG-rules-p01-cover.png	image/png	1094711
+Spanish-2PG-rules-p02-intro.png	Spanish-2PG-rules-p02-intro.png	image/png	775516
 SpecialEdition-D-inrange-decipher-archive.gif	SpecialEdition-D-inrange-decipher-archive.gif	image/gif	59307
 SpecialEdition-D-prideoftheempire-decipher-archive.gif	SpecialEdition-D-prideoftheempire-decipher-archive.gif	image/gif	38948
 SpecialEdition-D-sienarfleetsystems-decipher-archive.gif	SpecialEdition-D-sienarfleetsystems-decipher-archive.gif	image/gif	47460
@@ -15734,21 +15760,29 @@ Steve Baroni Worlds LS HITCO.txt	Steve_Baroni_Worlds_LS_HITCO.txt	application/xm
 Steve Sanders (community card).jpg	Steve_Sanders_(community_card).jpg	image/jpeg	34315
 Strother 23OCS T16 DS DLS-SSAv.txt	Strother_23OCS_T16_DS_DLS-SSAv.txt	application/xml	5696
 Strother 23OCS T16 LS QMC.txt	Strother_23OCS_T16_LS_QMC.txt	application/xml	5736
+SWCCG-Encyclopedia-3.2-p201-unreleased-product.png	SWCCG-Encyclopedia-3.2-p201-unreleased-product.png	image/png	530780
 SWCCG_1999_World_Championship_glass_trophy.jpg	SWCCG_1999_World_Championship_glass_trophy.jpg	image/jpeg	268470
 SWCCG 2023 AdvancedRulebook.pdf	SWCCG_2023_AdvancedRulebook.pdf	application/pdf	3406262
+SWCCG_card_T-shirt_back_encyc.png	SWCCG_card_T-shirt_back_encyc.png	image/png	301363
 SWCCG convention table.jpg	files/SWCCG_convention_table.jpg	image/jpeg	188342
+SWCCG_Executive_Gift_Set_box_encyc.png	SWCCG_Executive_Gift_Set_box_encyc.png	image/png	788131
 SWCCG forum t71634 2019 OCS Season Passholder List.txt	SWCCG_forum_t71634_2019_OCS_Season_Passholder_List.txt	text/plain	1871
 SWCCG forum t83998 2024 GEMPC Registered Players.txt	SWCCG_forum_t83998_2024_GEMPC_Registered_Players.txt	text/plain	3011
 SWCCG forum t85488 2025 Retro Gemp Match Play Championship.txt	SWCCG_forum_t85488_2025_Retro_Gemp_Match_Play_Championship.txt	text/plain	7119
 SWCCG forum t85495 2025 Retro GEMPC Registered Players.txt	SWCCG_forum_t85495_2025_Retro_GEMPC_Registered_Players.txt	text/plain	2303
 SWCCG forum t86555 2026 Retro GEMPC Overview.txt	SWCCG_forum_t86555_2026_Retro_GEMPC_Overview.txt	text/plain	9489
 SWCCG forum t86781 Player List for 2026 Retro GEMPC.txt	SWCCG_forum_t86781_Player_List_for_2026_Retro_GEMPC.txt	text/plain	1451
+SWCCG_Gold_Squadron_bag_encyc.png	SWCCG_Gold_Squadron_bag_encyc.png	image/png	383445
+SWCCG_Grand_Moff_Tarkin_T-shirt_layout_encyc.png	SWCCG_Grand_Moff_Tarkin_T-shirt_layout_encyc.png	image/png	361178
 SWCCG gym tournament.jpg	files/SWCCG_gym_tournament.jpg	image/jpeg	24114
 SWCCG_May_1996_FAQ_xerox.jpg	SWCCG_May_1996_FAQ_xerox.jpg	image/jpeg	45241
 SWCCG PC 2026 Boston Winter Classic Wrap-up.txt	SWCCG_PC_2026_Boston_Winter_Classic_Wrap-up.txt	text/plain	2443
 SWCCG PC 2026 San Diego Super Open Wrap-up.txt	SWCCG_PC_2026_San_Diego_Super_Open_Wrap-up.txt	text/plain	2359
+SWCCG_Rebel_and_Imperial_tab_pins_encyc.png	SWCCG_Rebel_and_Imperial_tab_pins_encyc.png	image/png	125674
+SWCCG_Red_and_Gold_Squadron_business_cards_encyc.png	SWCCG_Red_and_Gold_Squadron_business_cards_encyc.png	image/png	572313
 SWCCG region map US 2025.jpg	files/SWCCG_region_map_US_2025.jpg	image/jpeg	413559
 SWCCG region map world 2025.jpg	files/SWCCG_region_map_world_2025.jpg	image/jpeg	364485
+SWCCG_Squadron_and_Worlds_patches_encyc.png	SWCCG_Squadron_and_Worlds_patches_encyc.png	image/png	1634653
 SWCCG_store_window_sticker.jpg	SWCCG_store_window_sticker.jpg	image/jpeg	10669
 SWCCG Teams Rosters 14 September 2025.txt	SWCCG_Teams_Rosters_14_September_2025.txt	text/plain	12355
 SWCCG_tournament_Command_Card.jpg	SWCCG_tournament_Command_Card.jpg	image/jpeg	35996
@@ -15756,6 +15790,7 @@ SWCCG_Tournament_kit_binder_April_1996.jpg	SWCCG_Tournament_kit_binder_April_199
 SWCCG_tournament_kit_packet_sealed.jpg	SWCCG_tournament_kit_packet_sealed.jpg	image/jpeg	21018
 SWCCG_Tournament_Organizer_disc.jpg	SWCCG_Tournament_Organizer_disc.jpg	image/jpeg	24818
 SWCCG_Tournament_Organizer_Guide.jpg	SWCCG_Tournament_Organizer_Guide.jpg	image/jpeg	59452
+SWCCG_Tournament_Player_keychain_encyc.png	SWCCG_Tournament_Player_keychain_encyc.png	image/png	1373569
 SWCCG_tournament_poker_chip_encyc.jpg	SWCCG_tournament_poker_chip_encyc.jpg	image/jpeg	4090
 SWCCG_Tournament_Rule_Systems.jpg	SWCCG_Tournament_Rule_Systems.jpg	image/jpeg	66022
 SWCCG_Tournament_Rule_Systems_interior.jpg	SWCCG_Tournament_Rule_Systems_interior.jpg	image/jpeg	65196
