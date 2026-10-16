@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="10_29" horizontal="false" title="Agents Of Black Sun"/>
+    <card blueprintId="7_277" horizontal="true" title="Coruscant: Imperial City"/>
+    <card blueprintId="10_45" horizontal="false" title="Prince Xizor"/>
+    <card blueprintId="203_31" horizontal="false" title="Coruscant"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="200_104" horizontal="false" title="Blaster Rack"/>
+    <card blueprintId="6_141" horizontal="false" title="All Wrapped Up"/>
+    <card blueprintId="201_28" horizontal="false" title="Despair"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="1_184" horizontal="false" title="Labria"/>
+    <card blueprintId="205_23" horizontal="false" title="Dengar"/>
+    <card blueprintId="205_23" horizontal="false" title="Dengar"/>
+    <card blueprintId="110_5" horizontal="false" title="Bossk With Mortar Gun"/>
+    <card blueprintId="109_11" horizontal="false" title="IG-88 With Riot Gun"/>
+    <card blueprintId="204_36" horizontal="false" title="B2 Battle Droid"/>
+    <card blueprintId="200_88" horizontal="false" title="Probot"/>
+    <card blueprintId="10_41" horizontal="false" title="Guri"/>
+    <card blueprintId="10_48" horizontal="false" title="Snoova"/>
+    <card blueprintId="202_9" horizontal="false" title="Daroe"/>
+    <card blueprintId="200_91" horizontal="false" title="Vigo"/>
+    <card blueprintId="5_91" horizontal="false" title="Boba Fett"/>
+    <card blueprintId="204_46" horizontal="false" title="Zam Wesell"/>
+    <card blueprintId="204_42" horizontal="false" title="Greedo"/>
+    <card blueprintId="12_115" horizontal="false" title="P-60"/>
+    <card blueprintId="11_51" horizontal="false" title="Aurra Sing"/>
+    <card blueprintId="201_25" horizontal="false" title="Jango Fett"/>
+    <card blueprintId="1_227" horizontal="false" title="Presence Of The Force"/>
+    <card blueprintId="6_149" horizontal="false" title="Scum And Villainy"/>
+    <card blueprintId="2_121" horizontal="false" title="Imperial Justice"/>
+    <card blueprintId="200_114" horizontal="false" title="You'll Be Dead!"/>
+    <card blueprintId="206_12" horizontal="false" title="Xizor's Bounty"/>
+    <card blueprintId="5_128" horizontal="false" title="We're The Bait"/>
+    <card blueprintId="12_161" horizontal="false" title="They're Still Coming Through!"/>
+    <card blueprintId="1_243" horizontal="false" title="Elis Helrot"/>
+    <card blueprintId="1_243" horizontal="false" title="Elis Helrot"/>
+    <card blueprintId="2_140" horizontal="false" title="Stunning Leader"/>
+    <card blueprintId="2_140" horizontal="false" title="Stunning Leader"/>
+    <card blueprintId="204_50" horizontal="false" title="Hunting Party"/>
+    <card blueprintId="204_50" horizontal="false" title="Hunting Party"/>
+    <card blueprintId="200_118" horizontal="false" title="Defensive Fire"/>
+    <card blueprintId="6_154" horizontal="false" title="Hidden Weapons"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="201_33" horizontal="false" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="2_137" horizontal="false" title="Oo-ta Goo-ta, Solo?"/>
+    <card blueprintId="2_137" horizontal="false" title="Oo-ta Goo-ta, Solo?"/>
+    <card blueprintId="3_130" horizontal="false" title="Oh, Switch Off"/>
+    <card blueprintId="3_130" horizontal="false" title="Oh, Switch Off"/>
+    <card blueprintId="10_39" horizontal="false" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+    <card blueprintId="205_20" horizontal="false" title="Point Man"/>
+    <card blueprintId="8_143" horizontal="false" title="Freeze!"/>
+    <card blueprintId="6_171" horizontal="true" title="Tatooine: Jabba's Palace"/>
+    <card blueprintId="6_162" horizontal="true" title="Jabba's Palace: Audience Chamber"/>
+    <card blueprintId="6_164" horizontal="true" title="Jabba's Palace: Dungeon"/>
+    <card blueprintId="110_12" horizontal="false" title="Zuckuss In Mist Hunter"/>
+    <card blueprintId="203_35" horizontal="false" title="Falleen's Fist"/>
+    <card blueprintId="205_22" horizontal="false" title="Boba Fett's Blaster Rifle"/>
+    <card blueprintId="13_53" horizontal="false" title="Aurra Sing's Blaster Rifle"/>
+    <card blueprintId="4_176" horizontal="false" title="Dengar's Blaster Carbine"/>
+    <card blueprintId="6_180" horizontal="false" title="Vibro-Ax"/>
+</deck>
