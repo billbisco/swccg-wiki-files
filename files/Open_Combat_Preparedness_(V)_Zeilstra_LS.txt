@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="200_50" horizontal="false" title="Careful Planning"/>
+    <card blueprintId="1_127" horizontal="false" title="Tatooine"/>
+    <card blueprintId="12_42" horizontal="false" title="Credits Will Do Fine"/>
+    <card blueprintId="204_15" horizontal="false" title="We're Leaving"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="1_134" horizontal="true" title="Tatooine: Obi-Wan's Hut"/>
+    <card blueprintId="204_4" horizontal="false" title="Chewie With Bowcaster"/>
+    <card blueprintId="14_10" horizontal="false" title="General Jar Jar"/>
+    <card blueprintId="204_11" horizontal="false" title="Solo"/>
+    <card blueprintId="11_13" horizontal="false" title="Threepio With His Parts Showing"/>
+    <card blueprintId="12_17" horizontal="false" title="Master Qui-Gon"/>
+    <card blueprintId="12_17" horizontal="false" title="Master Qui-Gon"/>
+    <card blueprintId="203_1" horizontal="false" title="Admiral Ackbar"/>
+    <card blueprintId="10_5" horizontal="false" title="Corran Horn"/>
+    <card blueprintId="222_29" horizontal="false" title="Young Skywalker"/>
+    <card blueprintId="222_29" horizontal="false" title="Young Skywalker"/>
+    <card blueprintId="11_7" horizontal="false" title="Obi-Wan Kenobi, Padawan Learner"/>
+    <card blueprintId="11_7" horizontal="false" title="Obi-Wan Kenobi, Padawan Learner"/>
+    <card blueprintId="11_7" horizontal="false" title="Obi-Wan Kenobi, Padawan Learner"/>
+    <card blueprintId="11_8" horizontal="false" title="Padme Naberrie"/>
+    <card blueprintId="11_8" horizontal="false" title="Padme Naberrie"/>
+    <card blueprintId="204_9" horizontal="false" title="Rey"/>
+    <card blueprintId="10_15" horizontal="false" title="Obi-Wan's Journal"/>
+    <card blueprintId="6_52" horizontal="false" title="A Gift"/>
+    <card blueprintId="1_55" horizontal="false" title="Mantellian Savrip"/>
+    <card blueprintId="7_77" horizontal="false" title="Tatooine Celebration"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="200_48" horizontal="false" title="Alter"/>
+    <card blueprintId="6_61" horizontal="false" title="Blaster Deflection"/>
+    <card blueprintId="11_31" horizontal="false" title="Changing The Odds"/>
+    <card blueprintId="10_4" horizontal="false" title="Control &amp; Tunnel Vision"/>
+    <card blueprintId="209_19" horizontal="false" title="Effective Repairs &amp; Starship Levitation"/>
+    <card blueprintId="10_8" horizontal="false" title="Houjix &amp; Out Of Nowhere"/>
+    <card blueprintId="200_53" horizontal="false" title="Impressive, Most Impressive"/>
+    <card blueprintId="3_44" horizontal="false" title="It Can Wait"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="209_20" horizontal="false" title="Knights Of The Old Republic"/>
+    <card blueprintId="208_20" horizontal="false" title="Mandalorian Mishap"/>
+    <card blueprintId="12_62" horizontal="false" title="Mindful Of The Future"/>
+    <card blueprintId="12_62" horizontal="false" title="Mindful Of The Future"/>
+    <card blueprintId="201_14" horizontal="false" title="Perimeter Scan"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="10_21" horizontal="false" title="Sense &amp; Recoil In Fear"/>
+    <card blueprintId="10_21" horizontal="false" title="Sense &amp; Recoil In Fear"/>
+    <card blueprintId="5_69" horizontal="false" title="Smoke Screen"/>
+    <card blueprintId="8_64" horizontal="false" title="Were You Looking For Me?"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="209_21" horizontal="false" title="Odin Nesloor &amp; First Aid"/>
+    <card blueprintId="9_58" horizontal="true" title="Home One: War Room"/>
+    <card blueprintId="6_81" horizontal="true" title="Jabba's Palace: Audience Chamber"/>
+    <card blueprintId="14_49" horizontal="true" title="Naboo: Boss Nass' Chambers"/>
+    <card blueprintId="12_87" horizontal="true" title="Tatooine: Watto's Junkyard"/>
+    <card blueprintId="9_74" horizontal="false" title="Home One"/>
+    <card blueprintId="200_67" horizontal="false" title="Wedge In Red Squadron 1"/>
+    <card blueprintId="9_90" horizontal="false" title="Luke's Lightsaber"/>
+    <card blueprintId="1_157" horizontal="false" title="Obi-Wan's Lightsaber"/>
+    <card blueprintId="11_50" horizontal="false" title="Qui-Gon Jinn's Lightsaber"/>
+</deck>
