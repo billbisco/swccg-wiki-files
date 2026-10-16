@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="204_32" horizontal="false" title="Old Allies"/>
+    <card blueprintId="204_26" horizontal="false" title="Jakku"/>
+    <card blueprintId="204_27" horizontal="true" title="Jakku: Niima Outpost Shipyard"/>
+    <card blueprintId="204_35" horizontal="false" title="The Falcon, Junkyard Garbage"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="4_16" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="204_28" horizontal="true" title="Jakku: Ravager Crash Site"/>
+    <card blueprintId="204_29" horizontal="true" title="Jakku: Rey's Encampment"/>
+    <card blueprintId="204_30" horizontal="true" title="Jakku: Starship Graveyard"/>
+    <card blueprintId="14_49" horizontal="true" title="Naboo: Boss Nass' Chambers"/>
+    <card blueprintId="110_1" horizontal="false" title="Boushh"/>
+    <card blueprintId="204_4" horizontal="false" title="Chewie With Bowcaster"/>
+    <card blueprintId="204_6" horizontal="false" title="Finn"/>
+    <card blueprintId="204_6" horizontal="false" title="Finn"/>
+    <card blueprintId="206_4" horizontal="false" title="Jyn Erso"/>
+    <card blueprintId="207_7" horizontal="false" title="Major Caluan Ematt"/>
+    <card blueprintId="204_8" horizontal="false" title="Poe Dameron"/>
+    <card blueprintId="204_9" horizontal="false" title="Rey"/>
+    <card blueprintId="11_13" horizontal="false" title="Threepio With His Parts Showing"/>
+    <card blueprintId="12_41" horizontal="false" title="Battle Plan &amp; Draw Their Fire"/>
+    <card blueprintId="14_32" horizontal="false" title="Gungan Energy Shield"/>
+    <card blueprintId="9_43" horizontal="false" title="Superficial Damage"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="14_41" horizontal="false" title="Big Boomers!"/>
+    <card blueprintId="14_41" horizontal="false" title="Big Boomers!"/>
+    <card blueprintId="10_4" horizontal="false" title="Control &amp; Tunnel Vision"/>
+    <card blueprintId="11_35" horizontal="false" title="Eventually You'll Lose"/>
+    <card blueprintId="11_35" horizontal="false" title="Eventually You'll Lose"/>
+    <card blueprintId="11_35" horizontal="false" title="Eventually You'll Lose"/>
+    <card blueprintId="7_97" horizontal="false" title="Organized Attack"/>
+    <card blueprintId="7_97" horizontal="false" title="Organized Attack"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="8_64" horizontal="false" title="Were You Looking For Me?"/>
+    <card blueprintId="8_64" horizontal="false" title="Were You Looking For Me?"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="204_23" horizontal="false" title="You Do Have Your Moments"/>
+    <card blueprintId="204_23" horizontal="false" title="You Do Have Your Moments"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="202_8" horizontal="false" title="Corran Horn In Rogue 9"/>
+    <card blueprintId="200_62" horizontal="false" title="Gold Leader In Gold 1"/>
+    <card blueprintId="200_66" horizontal="false" title="Red 8"/>
+    <card blueprintId="7_149" horizontal="false" title="Spiral"/>
+    <card blueprintId="200_67" horizontal="false" title="Wedge In Red Squadron 1"/>
+    <card blueprintId="14_59" horizontal="false" title="Fambaa"/>
+    <card blueprintId="14_59" horizontal="false" title="Fambaa"/>
+    <card blueprintId="14_59" horizontal="false" title="Fambaa"/>
+    <card blueprintId="14_59" horizontal="false" title="Fambaa"/>
+    <card blueprintId="14_59" horizontal="false" title="Fambaa"/>
+    <card blueprintId="14_63" horizontal="false" title="Booma"/>
+    <card blueprintId="14_63" horizontal="false" title="Booma"/>
+    <card blueprintId="14_63" horizontal="false" title="Booma"/>
+    <card blueprintId="14_63" horizontal="false" title="Booma"/>
+    <card blueprintId="14_63" horizontal="false" title="Booma"/>
+</deck>

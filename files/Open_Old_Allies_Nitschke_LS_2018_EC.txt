@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="204_32" horizontal="false" title="Old Allies"/>
+    <card blueprintId="204_26" horizontal="false" title="Jakku"/>
+    <card blueprintId="204_27" horizontal="true" title="Jakku: Niima Outpost Shipyard"/>
+    <card blueprintId="204_35" horizontal="false" title="The Falcon, Junkyard Garbage"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="209_16" horizontal="false" title="A Brave Resistance"/>
+    <card blueprintId="9_41" horizontal="false" title="Strike Planning"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="9_2" horizontal="false" title="Combined Fleet Action"/>
+    <card blueprintId="9_2" horizontal="false" title="Combined Fleet Action"/>
+    <card blueprintId="209_1" horizontal="false" title="Admiral Raddus"/>
+    <card blueprintId="204_2" horizontal="false" title="Bail Organa"/>
+    <card blueprintId="200_4" horizontal="false" title="Captain Yutani With Blaster Cannon"/>
+    <card blueprintId="204_4" horizontal="false" title="Chewie With Bowcaster"/>
+    <card blueprintId="204_4" horizontal="false" title="Chewie With Bowcaster"/>
+    <card blueprintId="204_6" horizontal="false" title="Finn"/>
+    <card blueprintId="204_6" horizontal="false" title="Finn"/>
+    <card blueprintId="209_4" horizontal="false" title="Galen Erso"/>
+    <card blueprintId="200_12" horizontal="false" title="General Airen Cracken"/>
+    <card blueprintId="9_13" horizontal="false" title="General Calrissian"/>
+    <card blueprintId="207_5" horizontal="false" title="General Leia Organa"/>
+    <card blueprintId="7_20" horizontal="false" title="Harc Seff"/>
+    <card blueprintId="7_20" horizontal="false" title="Harc Seff"/>
+    <card blueprintId="204_7" horizontal="false" title="Lor San Tekka"/>
+    <card blueprintId="204_8" horizontal="false" title="Poe Dameron"/>
+    <card blueprintId="204_8" horizontal="false" title="Poe Dameron"/>
+    <card blueprintId="204_9" horizontal="false" title="Rey"/>
+    <card blueprintId="209_11" horizontal="false" title="Rose Tico"/>
+    <card blueprintId="209_11" horizontal="false" title="Rose Tico"/>
+    <card blueprintId="209_12" horizontal="false" title="Saw Gerrera"/>
+    <card blueprintId="204_11" horizontal="false" title="Solo"/>
+    <card blueprintId="204_11" horizontal="false" title="Solo"/>
+    <card blueprintId="204_13" horizontal="false" title="Tuanul Villager"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="13_41" horizontal="false" title="Sando Aqua Monster"/>
+    <card blueprintId="10_4" horizontal="false" title="Control &amp; Tunnel Vision"/>
+    <card blueprintId="5_45" horizontal="false" title="Dodge"/>
+    <card blueprintId="209_19" horizontal="false" title="Effective Repairs &amp; Starship Levitation"/>
+    <card blueprintId="1_90" horizontal="false" title="It Could Be Worse"/>
+    <card blueprintId="5_55" horizontal="false" title="It's A Trap!"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="204_20" horizontal="false" title="Keep Your Eyes Open"/>
+    <card blueprintId="204_20" horizontal="false" title="Keep Your Eyes Open"/>
+    <card blueprintId="5_64" horizontal="false" title="Punch It!"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="10_23" horizontal="false" title="Sorry About The Mess &amp; Blaster Proficiency"/>
+    <card blueprintId="204_28" horizontal="true" title="Jakku: Ravager Crash Site"/>
+    <card blueprintId="204_29" horizontal="true" title="Jakku: Rey's Encampment"/>
+    <card blueprintId="203_20" horizontal="false" title="Bright Hope"/>
+    <card blueprintId="1_140" horizontal="false" title="Corellian Corvette"/>
+    <card blueprintId="209_30" horizontal="false" title="Lightmaker"/>
+    <card blueprintId="7_149" horizontal="false" title="Spiral"/>
+    <card blueprintId="209_32" horizontal="false" title="Blue 11"/>
+    <card blueprintId="102_4" horizontal="false" title="Luke's T-16 Skyhopper"/>
+</deck>
