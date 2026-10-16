@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="9_61" horizontal="false" title="There Is Good In Him"/>
+    <card blueprintId="8_71" horizontal="true" title="Endor: Chief Chirpa's Hut"/>
+    <card blueprintId="200_21" horizontal="false" title="Luke Skywalker, Rebel Scout"/>
+    <card blueprintId="9_90" horizontal="false" title="Luke's Lightsaber"/>
+    <card blueprintId="8_76" horizontal="true" title="Endor: Landing Platform (Docking Bay)"/>
+    <card blueprintId="9_34" horizontal="false" title="I Feel The Conflict"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="12_76" horizontal="true" title="Coruscant: Jedi Council Chamber"/>
+    <card blueprintId="12_79" horizontal="true" title="Naboo: Battle Plains"/>
+    <card blueprintId="14_49" horizontal="true" title="Naboo: Boss Nass' Chambers"/>
+    <card blueprintId="200_2" horizontal="false" title="Anakin Skywalker, Padawan Learner"/>
+    <card blueprintId="200_2" horizontal="false" title="Anakin Skywalker, Padawan Learner"/>
+    <card blueprintId="10_5" horizontal="false" title="Corran Horn"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="13_29" horizontal="false" title="Leia, Rebel Princess"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="201_2" horizontal="false" title="Mace Windu"/>
+    <card blueprintId="201_2" horizontal="false" title="Mace Windu"/>
+    <card blueprintId="200_22" horizontal="false" title="Master Qui-Gon"/>
+    <card blueprintId="200_22" horizontal="false" title="Master Qui-Gon"/>
+    <card blueprintId="200_22" horizontal="false" title="Master Qui-Gon"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="11_13" horizontal="false" title="Threepio With His Parts Showing"/>
+    <card blueprintId="13_21" horizontal="false" title="Han, Chewie, And The Falcon"/>
+    <card blueprintId="13_21" horizontal="false" title="Han, Chewie, And The Falcon"/>
+    <card blueprintId="3_71" horizontal="false" title="Anakin's Lightsaber"/>
+    <card blueprintId="201_21" horizontal="false" title="Mace Windu's Lightsaber"/>
+    <card blueprintId="13_40" horizontal="false" title="Qui-Gon's Lightsaber"/>
+    <card blueprintId="5_20" horizontal="false" title="Civil Disorder"/>
+    <card blueprintId="1_45" horizontal="false" title="Crash Site Memorial"/>
+    <card blueprintId="7_60" horizontal="false" title="Draw Their Fire"/>
+    <card blueprintId="7_70" horizontal="false" title="Mechanical Failure"/>
+    <card blueprintId="200_45" horizontal="false" title="Sai'torr Kal Fas"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="6_61" horizontal="false" title="Blaster Deflection"/>
+    <card blueprintId="6_61" horizontal="false" title="Blaster Deflection"/>
+    <card blueprintId="5_38" horizontal="false" title="Clash Of Sabers"/>
+    <card blueprintId="201_12" horizontal="false" title="Escape Pod"/>
+    <card blueprintId="12_58" horizontal="false" title="Free Ride &amp; Endor Celebration"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="200_53" horizontal="false" title="Impressive, Most Impressive"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="1_97" horizontal="false" title="Nabrun Leids"/>
+    <card blueprintId="1_97" horizontal="false" title="Nabrun Leids"/>
+    <card blueprintId="10_16" horizontal="false" title="Out Of Commission &amp; Transmission Terminated"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="10_23" horizontal="false" title="Sorry About The Mess &amp; Blaster Proficiency"/>
+    <card blueprintId="10_23" horizontal="false" title="Sorry About The Mess &amp; Blaster Proficiency"/>
+    <card blueprintId="12_69" horizontal="false" title="Speak With The Jedi Council"/>
+    <card blueprintId="12_69" horizontal="false" title="Speak With The Jedi Council"/>
+    <card blueprintId="8_64" horizontal="false" title="Were You Looking For Me?"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="12_37" horizontal="false" title="A Tragedy Has Occurred"/>
+    <card blueprintId="1_43" horizontal="false" title="Affect Mind"/>
+    <card blueprintId="8_34" horizontal="false" title="Aim High"/>
+    <card blueprintId="8_35" horizontal="false" title="Battle Plan"/>
+    <card blueprintId="11_17" horizontal="false" title="Don't Do That Again"/>
+    <card blueprintId="6_58" horizontal="false" title="Ultimatum"/>
+    <card blueprintId="7_80" horizontal="false" title="Weapons Display"/>
+    <card blueprintId="7_81" horizontal="false" title="Wise Advice"/>
+    <card blueprintId="9_47" horizontal="false" title="Your Insight Serves You Well"/>
+</deck>

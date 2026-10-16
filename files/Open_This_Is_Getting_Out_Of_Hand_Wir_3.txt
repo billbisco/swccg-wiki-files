@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="9_61" horizontal="false" title="There Is Good In Him"/>
+    <card blueprintId="8_71" horizontal="true" title="Endor: Chief Chirpa's Hut"/>
+    <card blueprintId="8_76" horizontal="true" title="Endor: Landing Platform (Docking Bay)"/>
+    <card blueprintId="200_21" horizontal="false" title="Luke Skywalker, Rebel Scout"/>
+    <card blueprintId="9_90" horizontal="false" title="Luke's Lightsaber"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="9_34" horizontal="false" title="I Feel The Conflict"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="204_11" horizontal="false" title="Solo"/>
+    <card blueprintId="11_13" horizontal="false" title="Threepio With His Parts Showing"/>
+    <card blueprintId="14_27" horizontal="false" title="Qui-Gon Jinn With Lightsaber"/>
+    <card blueprintId="14_27" horizontal="false" title="Qui-Gon Jinn With Lightsaber"/>
+    <card blueprintId="206_3" horizontal="false" title="Captain Cassian Andor"/>
+    <card blueprintId="204_3" horizontal="false" title="Captain Hera Syndulla"/>
+    <card blueprintId="10_5" horizontal="false" title="Corran Horn"/>
+    <card blueprintId="206_4" horizontal="false" title="Jyn Erso"/>
+    <card blueprintId="203_6" horizontal="false" title="Kanan Jarrus"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="202_1" horizontal="false" title="Leia Organa"/>
+    <card blueprintId="9_21" horizontal="false" title="Lieutenant Blount"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="204_12" horizontal="false" title="Theron Nett"/>
+    <card blueprintId="301_1" horizontal="false" title="Ahsoka Tano With Lightsabers"/>
+    <card blueprintId="200_2" horizontal="false" title="Anakin Skywalker, Padawan Learner"/>
+    <card blueprintId="203_10" horizontal="false" title="Padme Naberrie"/>
+    <card blueprintId="209_10" horizontal="false" title="Rey With Lightsaber"/>
+    <card blueprintId="7_60" horizontal="false" title="Draw Their Fire"/>
+    <card blueprintId="3_35" horizontal="false" title="Evacuation Control"/>
+    <card blueprintId="12_44" horizontal="false" title="Insurrection &amp; Aim High"/>
+    <card blueprintId="207_11" horizontal="false" title="Rebellions Are Built On Hope"/>
+    <card blueprintId="209_17" horizontal="false" title="Relatively Unprotected"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="2_48" horizontal="false" title="Double Agent"/>
+    <card blueprintId="209_19" horizontal="false" title="Effective Repairs &amp; Starship Levitation"/>
+    <card blueprintId="204_18" horizontal="false" title="Escape Pod &amp; We're Doomed"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="209_22" horizontal="false" title="Rescue In The Clouds"/>
+    <card blueprintId="209_22" horizontal="false" title="Rescue In The Clouds"/>
+    <card blueprintId="12_69" horizontal="false" title="Speak With The Jedi Council"/>
+    <card blueprintId="12_69" horizontal="false" title="Speak With The Jedi Council"/>
+    <card blueprintId="12_69" horizontal="false" title="Speak With The Jedi Council"/>
+    <card blueprintId="8_64" horizontal="false" title="Were You Looking For Me?"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="12_76" horizontal="true" title="Coruscant: Jedi Council Chamber"/>
+    <card blueprintId="9_57" horizontal="true" title="Home One: Docking Bay"/>
+    <card blueprintId="3_59" horizontal="true" title="Hoth: Echo Docking Bay"/>
+    <card blueprintId="9_59" horizontal="false" title="Mon Calamari"/>
+    <card blueprintId="12_79" horizontal="true" title="Naboo: Battle Plains"/>
+    <card blueprintId="14_49" horizontal="true" title="Naboo: Boss Nass' Chambers"/>
+    <card blueprintId="203_20" horizontal="false" title="Bright Hope"/>
+    <card blueprintId="207_18" horizontal="false" title="Profundity"/>
+    <card blueprintId="201_19" horizontal="false" title="Tantive IV"/>
+</deck>
