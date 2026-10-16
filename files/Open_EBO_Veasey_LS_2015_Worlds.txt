@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="3_55" horizontal="false" title="Hoth"/>
+    <card blueprintId="3_61" horizontal="true" title="Hoth: Main Power Generators (1st Marker)"/>
+    <card blueprintId="3_62" horizontal="true" title="Hoth: North Ridge (4th Marker)"/>
+    <card blueprintId="200_50" horizontal="false" title="Careful Planning"/>
+    <card blueprintId="5_82" horizontal="true" title="Cloud City: Lower Corridor"/>
+    <card blueprintId="3_57" horizontal="true" title="Hoth: Echo Command Center (War Room)"/>
+    <card blueprintId="3_58" horizontal="true" title="Hoth: Echo Corridor"/>
+    <card blueprintId="3_59" horizontal="true" title="Hoth: Echo Docking Bay"/>
+    <card blueprintId="200_58" horizontal="false" title="Nar Shaddaa"/>
+    <card blueprintId="2_1" horizontal="false" title="Arcona"/>
+    <card blueprintId="6_6" horizontal="false" title="Baragwin"/>
+    <card blueprintId="110_1" horizontal="false" title="Boushh"/>
+    <card blueprintId="6_19" horizontal="false" title="Ishi Tib"/>
+    <card blueprintId="6_19" horizontal="false" title="Ishi Tib"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="200_20" horizontal="false" title="Luke Skywalker"/>
+    <card blueprintId="108_3" horizontal="false" title="Luke With Lightsaber"/>
+    <card blueprintId="10_12" horizontal="false" title="Mirax Terrik"/>
+    <card blueprintId="14_27" horizontal="false" title="Qui-Gon Jinn With Lightsaber"/>
+    <card blueprintId="14_27" horizontal="false" title="Qui-Gon Jinn With Lightsaber"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="200_60" horizontal="false" title="Booster In Pulsar Skate"/>
+    <card blueprintId="202_8" horizontal="false" title="Corran Horn In Rogue 9"/>
+    <card blueprintId="200_62" horizontal="false" title="Gold Leader In Gold 1"/>
+    <card blueprintId="13_21" horizontal="false" title="Han, Chewie, And The Falcon"/>
+    <card blueprintId="13_21" horizontal="false" title="Han, Chewie, And The Falcon"/>
+    <card blueprintId="200_66" horizontal="false" title="Red 8"/>
+    <card blueprintId="103_2" horizontal="false" title="Red Leader In Red 1"/>
+    <card blueprintId="7_149" horizontal="false" title="Spiral"/>
+    <card blueprintId="200_67" horizontal="false" title="Wedge In Red Squadron 1"/>
+    <card blueprintId="7_162" horizontal="false" title="X-wing Laser Cannon"/>
+    <card blueprintId="4_11" horizontal="false" title="Landing Claw"/>
+    <card blueprintId="111_1" horizontal="false" title="A New Secret Base"/>
+    <card blueprintId="3_34" horizontal="false" title="Echo Base Operations"/>
+    <card blueprintId="3_35" horizontal="false" title="Evacuation Control"/>
+    <card blueprintId="5_24" horizontal="false" title="Haven"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="200_46" horizontal="false" title="Strikeforce"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="1_70" horizontal="false" title="A Few Maneuvers"/>
+    <card blueprintId="1_70" horizontal="false" title="A Few Maneuvers"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="10_4" horizontal="false" title="Control &amp; Tunnel Vision"/>
+    <card blueprintId="201_12" horizontal="false" title="Escape Pod"/>
+    <card blueprintId="12_58" horizontal="false" title="Free Ride &amp; Endor Celebration"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="7_97" horizontal="false" title="Organized Attack"/>
+    <card blueprintId="7_97" horizontal="false" title="Organized Attack"/>
+    <card blueprintId="5_64" horizontal="false" title="Punch It!"/>
+    <card blueprintId="5_69" horizontal="false" title="Smoke Screen"/>
+    <card blueprintId="12_37" horizontal="false" title="A Tragedy Has Occurred"/>
+    <card blueprintId="1_43" horizontal="false" title="Affect Mind"/>
+    <card blueprintId="8_34" horizontal="false" title="Aim High"/>
+    <card blueprintId="8_35" horizontal="false" title="Battle Plan"/>
+    <card blueprintId="4_21" horizontal="false" title="Do, Or Do Not"/>
+    <card blueprintId="11_17" horizontal="false" title="Don't Do That Again"/>
+    <card blueprintId="6_58" horizontal="false" title="Ultimatum"/>
+    <card blueprintId="7_80" horizontal="false" title="Weapons Display"/>
+    <card blueprintId="7_81" horizontal="false" title="Wise Advice"/>
+    <card blueprintId="1_68" horizontal="false" title="Yavin Sentry"/>
+    <card blueprintId="9_47" horizontal="false" title="Your Insight Serves You Well"/>
+</deck>

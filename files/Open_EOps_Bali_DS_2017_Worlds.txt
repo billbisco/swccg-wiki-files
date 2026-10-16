@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="8_167" horizontal="false" title="Endor Operations"/>
+    <card blueprintId="8_157" horizontal="false" title="Endor"/>
+    <card blueprintId="8_160" horizontal="true" title="Endor: Bunker"/>
+    <card blueprintId="8_166" horizontal="true" title="Endor: Landing Platform (Docking Bay)"/>
+    <card blueprintId="109_7" horizontal="false" title="Any Methods Necessary"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="200_126" horizontal="true" title="Cloud City: Security Tower"/>
+    <card blueprintId="7_283" horizontal="false" title="Fondor"/>
+    <card blueprintId="2_145" horizontal="true" title="Imperial Holotable"/>
+    <card blueprintId="200_71" horizontal="false" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="3_82" horizontal="false" title="Admiral Ozzel"/>
+    <card blueprintId="206_9" horizontal="false" title="Boba Fett"/>
+    <card blueprintId="200_76" horizontal="false" title="Count Dooku"/>
+    <card blueprintId="200_76" horizontal="false" title="Count Dooku"/>
+    <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
+    <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
+    <card blueprintId="10_37" horizontal="false" title="Dr. Evazan &amp; Ponda Baba"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="10_40" horizontal="false" title="Grand Admiral Thrawn"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="200_86" horizontal="false" title="Mara Jade With Lightsaber"/>
+    <card blueprintId="12_114" horizontal="false" title="P-59"/>
+    <card blueprintId="201_29" horizontal="false" title="Endor Shield"/>
+    <card blueprintId="200_106" horizontal="false" title="Establish Control"/>
+    <card blueprintId="7_229" horizontal="false" title="First Strike"/>
+    <card blueprintId="112_16" horizontal="false" title="No Escape"/>
+    <card blueprintId="8_127" horizontal="false" title="Ominous Rumors"/>
+    <card blueprintId="12_139" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="12_139" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="201_34" horizontal="false" title="According To My Design"/>
+    <card blueprintId="200_116" horizontal="false" title="Close Call"/>
+    <card blueprintId="9_136" horizontal="false" title="Force Lightning"/>
+    <card blueprintId="9_136" horizontal="false" title="Force Lightning"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="1_248" horizontal="false" title="I Have You Now"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="7_257" horizontal="false" title="Masterful Move"/>
+    <card blueprintId="12_152" horizontal="false" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="12_152" horizontal="false" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="12_153" horizontal="false" title="Maul Strikes"/>
+    <card blueprintId="205_20" horizontal="false" title="Point Man"/>
+    <card blueprintId="205_20" horizontal="false" title="Point Man"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="200_123" horizontal="false" title="Sith Fury"/>
+    <card blueprintId="1_271" horizontal="false" title="The Circle Is Now Complete"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="9_156" horizontal="false" title="Emperor's Personal Shuttle"/>
+    <card blueprintId="4_167" horizontal="false" title="Executor"/>
+    <card blueprintId="201_40" horizontal="false" title="Slave I, Symbol Of Fear"/>
+</deck>
