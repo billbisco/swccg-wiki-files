@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="1_138" horizontal="true" title="Yavin 4: Massassi Throne Room"/>
+    <card blueprintId="11_39" horizontal="false" title="Podrace Prep"/>
+    <card blueprintId="11_24" horizontal="false" title="Boonta Eve Podrace"/>
+    <card blueprintId="11_47" horizontal="false" title="Anakin's Podracer"/>
+    <card blueprintId="11_44" horizontal="true" title="Tatooine: Podrace Arena"/>
+    <card blueprintId="12_77" horizontal="false" title="Malastare"/>
+    <card blueprintId="12_79" horizontal="true" title="Naboo: Battle Plains"/>
+    <card blueprintId="14_49" horizontal="true" title="Naboo: Boss Nass' Chambers"/>
+    <card blueprintId="14_50" horizontal="true" title="Naboo: Otoh Gunga Entrance"/>
+    <card blueprintId="200_1" horizontal="false" title="Aayla Secura"/>
+    <card blueprintId="14_5" horizontal="false" title="Boss Nass"/>
+    <card blueprintId="200_3" horizontal="false" title="Captain Rex, 501st Legion"/>
+    <card blueprintId="14_7" horizontal="false" title="Captain Tarpals"/>
+    <card blueprintId="14_10" horizontal="false" title="General Jar Jar"/>
+    <card blueprintId="14_12" horizontal="false" title="Gungan General"/>
+    <card blueprintId="14_12" horizontal="false" title="Gungan General"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="13_29" horizontal="false" title="Leia, Rebel Princess"/>
+    <card blueprintId="200_20" horizontal="false" title="Luke Skywalker"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="11_8" horizontal="false" title="Padme Naberrie"/>
+    <card blueprintId="11_8" horizontal="false" title="Padme Naberrie"/>
+    <card blueprintId="14_27" horizontal="false" title="Qui-Gon Jinn With Lightsaber"/>
+    <card blueprintId="14_28" horizontal="false" title="Rep Been"/>
+    <card blueprintId="11_13" horizontal="false" title="Threepio With His Parts Showing"/>
+    <card blueprintId="13_48" horizontal="false" title="Yoda, Master Of The Force"/>
+    <card blueprintId="13_48" horizontal="false" title="Yoda, Master Of The Force"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="200_62" horizontal="false" title="Gold Leader In Gold 1"/>
+    <card blueprintId="13_21" horizontal="false" title="Han, Chewie, And The Falcon"/>
+    <card blueprintId="9_74" horizontal="false" title="Home One"/>
+    <card blueprintId="7_149" horizontal="false" title="Spiral"/>
+    <card blueprintId="14_59" horizontal="false" title="Fambaa"/>
+    <card blueprintId="14_59" horizontal="false" title="Fambaa"/>
+    <card blueprintId="14_59" horizontal="false" title="Fambaa"/>
+    <card blueprintId="13_2" horizontal="false" title="A Remote Planet"/>
+    <card blueprintId="11_16" horizontal="false" title="Brisky Morning Munchen"/>
+    <card blueprintId="14_32" horizontal="false" title="Gungan Energy Shield"/>
+    <card blueprintId="14_32" horizontal="false" title="Gungan Energy Shield"/>
+    <card blueprintId="9_38" horizontal="false" title="Menace Fades"/>
+    <card blueprintId="112_7" horizontal="false" title="Seeking An Audience"/>
+    <card blueprintId="14_36" horizontal="false" title="Steady, Steady"/>
+    <card blueprintId="112_10" horizontal="false" title="Underworld Contacts"/>
+    <card blueprintId="10_4" horizontal="false" title="Control &amp; Tunnel Vision"/>
+    <card blueprintId="10_4" horizontal="false" title="Control &amp; Tunnel Vision"/>
+    <card blueprintId="12_58" horizontal="false" title="Free Ride &amp; Endor Celebration"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="2_55" horizontal="false" title="Quite A Mercenary"/>
+    <card blueprintId="9_54" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="200_56" horizontal="false" title="Starship Levitation"/>
+    <card blueprintId="12_72" horizontal="false" title="We Wish To Board At Once"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="11_25" horizontal="false" title="I Did It!"/>
+    <card blueprintId="12_37" horizontal="false" title="A Tragedy Has Occurred"/>
+    <card blueprintId="1_43" horizontal="false" title="Affect Mind"/>
+    <card blueprintId="8_34" horizontal="false" title="Aim High"/>
+    <card blueprintId="8_35" horizontal="false" title="Battle Plan"/>
+    <card blueprintId="4_21" horizontal="false" title="Do, Or Do Not"/>
+    <card blueprintId="11_17" horizontal="false" title="Don't Do That Again"/>
+    <card blueprintId="6_58" horizontal="false" title="Ultimatum"/>
+    <card blueprintId="7_80" horizontal="false" title="Weapons Display"/>
+    <card blueprintId="1_68" horizontal="false" title="Yavin Sentry"/>
+    <card blueprintId="9_47" horizontal="false" title="Your Insight Serves You Well"/>
+</deck>
