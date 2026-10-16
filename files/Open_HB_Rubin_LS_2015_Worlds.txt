@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="7_136" horizontal="false" title="Hidden Base"/>
+    <card blueprintId="7_123" horizontal="false" title="Rendezvous Point"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="201_16" horizontal="false" title="Anoat"/>
+    <card blueprintId="106_2" horizontal="false" title="Corulag"/>
+    <card blueprintId="1_126" horizontal="false" title="Kessel"/>
+    <card blueprintId="6_83" horizontal="false" title="Kiffex"/>
+    <card blueprintId="200_58" horizontal="false" title="Nar Shaddaa"/>
+    <card blueprintId="6_6" horizontal="false" title="Baragwin"/>
+    <card blueprintId="6_6" horizontal="false" title="Baragwin"/>
+    <card blueprintId="9_7" horizontal="false" title="Captain Verrack"/>
+    <card blueprintId="3_4" horizontal="false" title="Dack Ralter"/>
+    <card blueprintId="9_20" horizontal="false" title="Kin Kian"/>
+    <card blueprintId="200_20" horizontal="false" title="Luke Skywalker"/>
+    <card blueprintId="200_20" horizontal="false" title="Luke Skywalker"/>
+    <card blueprintId="201_4" horizontal="false" title="Obi-Wan Kenobi"/>
+    <card blueprintId="201_4" horizontal="false" title="Obi-Wan Kenobi"/>
+    <card blueprintId="200_59" horizontal="false" title="Acclamator-Class Assault Ship"/>
+    <card blueprintId="200_59" horizontal="false" title="Acclamator-Class Assault Ship"/>
+    <card blueprintId="200_59" horizontal="false" title="Acclamator-Class Assault Ship"/>
+    <card blueprintId="200_59" horizontal="false" title="Acclamator-Class Assault Ship"/>
+    <card blueprintId="200_59" horizontal="false" title="Acclamator-Class Assault Ship"/>
+    <card blueprintId="200_59" horizontal="false" title="Acclamator-Class Assault Ship"/>
+    <card blueprintId="200_59" horizontal="false" title="Acclamator-Class Assault Ship"/>
+    <card blueprintId="200_59" horizontal="false" title="Acclamator-Class Assault Ship"/>
+    <card blueprintId="9_87" horizontal="false" title="Concussion Missiles"/>
+    <card blueprintId="9_87" horizontal="false" title="Concussion Missiles"/>
+    <card blueprintId="9_87" horizontal="false" title="Concussion Missiles"/>
+    <card blueprintId="9_87" horizontal="false" title="Concussion Missiles"/>
+    <card blueprintId="9_87" horizontal="false" title="Concussion Missiles"/>
+    <card blueprintId="9_87" horizontal="false" title="Concussion Missiles"/>
+    <card blueprintId="9_87" horizontal="false" title="Concussion Missiles"/>
+    <card blueprintId="9_87" horizontal="false" title="Concussion Missiles"/>
+    <card blueprintId="201_8" horizontal="false" title="A New Secret Base"/>
+    <card blueprintId="14_33" horizontal="false" title="It's On Automatic Pilot!"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="9_43" horizontal="false" title="Superficial Damage"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="200_48" horizontal="false" title="Alter"/>
+    <card blueprintId="200_48" horizontal="false" title="Alter"/>
+    <card blueprintId="200_49" horizontal="false" title="Antilles Maneuver"/>
+    <card blueprintId="1_75" horizontal="false" title="Combined Attack"/>
+    <card blueprintId="1_75" horizontal="false" title="Combined Attack"/>
+    <card blueprintId="10_4" horizontal="false" title="Control &amp; Tunnel Vision"/>
+    <card blueprintId="10_4" horizontal="false" title="Control &amp; Tunnel Vision"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="7_92" horizontal="false" title="Hit And Run"/>
+    <card blueprintId="7_92" horizontal="false" title="Hit And Run"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="7_96" horizontal="false" title="On Target"/>
+    <card blueprintId="7_96" horizontal="false" title="On Target"/>
+    <card blueprintId="7_96" horizontal="false" title="On Target"/>
+    <card blueprintId="7_98" horizontal="false" title="Power Pivot"/>
+    <card blueprintId="7_98" horizontal="false" title="Power Pivot"/>
+    <card blueprintId="7_100" horizontal="false" title="Rapid Fire"/>
+    <card blueprintId="200_56" horizontal="false" title="Starship Levitation"/>
+    <card blueprintId="7_104" horizontal="false" title="Stay Sharp!"/>
+    <card blueprintId="7_104" horizontal="false" title="Stay Sharp!"/>
+    <card blueprintId="12_37" horizontal="false" title="A Tragedy Has Occurred"/>
+    <card blueprintId="8_34" horizontal="false" title="Aim High"/>
+    <card blueprintId="8_35" horizontal="false" title="Battle Plan"/>
+    <card blueprintId="4_21" horizontal="false" title="Do, Or Do Not"/>
+    <card blueprintId="11_17" horizontal="false" title="Don't Do That Again"/>
+    <card blueprintId="112_4" horizontal="false" title="Ounee Ta"/>
+    <card blueprintId="6_58" horizontal="false" title="Ultimatum"/>
+    <card blueprintId="7_81" horizontal="false" title="Wise Advice"/>
+    <card blueprintId="1_68" horizontal="false" title="Yavin Sentry"/>
+    <card blueprintId="9_47" horizontal="false" title="Your Insight Serves You Well"/>
+</deck>
