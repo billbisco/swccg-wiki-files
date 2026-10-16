@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="211_36" horizontal="false" title="The Galaxy May Need A Legend"/>
+    <card blueprintId="211_48" horizontal="false" title="Ahch-To"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="209_16" horizontal="false" title="A Brave Resistance"/>
+    <card blueprintId="7_69" horizontal="false" title="Maneuvering Flaps"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="204_4" horizontal="false" title="Chewie With Bowcaster"/>
+    <card blueprintId="204_5" horizontal="false" title="Crusher Roodown"/>
+    <card blueprintId="204_5" horizontal="false" title="Crusher Roodown"/>
+    <card blueprintId="204_11" horizontal="false" title="Solo"/>
+    <card blueprintId="204_1" horizontal="false" title="BB-8 (Beebee-Ate)"/>
+    <card blueprintId="11_13" horizontal="false" title="Threepio With His Parts Showing"/>
+    <card blueprintId="210_20" horizontal="false" title="Luke Skywalker, The Last Jedi"/>
+    <card blueprintId="209_1" horizontal="false" title="Admiral Raddus"/>
+    <card blueprintId="206_4" horizontal="false" title="Jyn Erso"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="208_1" horizontal="false" title="Admiral U.O. Statura"/>
+    <card blueprintId="204_6" horizontal="false" title="Finn"/>
+    <card blueprintId="207_5" horizontal="false" title="General Leia Organa"/>
+    <card blueprintId="204_7" horizontal="false" title="Lor San Tekka"/>
+    <card blueprintId="204_8" horizontal="false" title="Poe Dameron"/>
+    <card blueprintId="204_9" horizontal="false" title="Rey"/>
+    <card blueprintId="209_11" horizontal="false" title="Rose Tico"/>
+    <card blueprintId="209_11" horizontal="false" title="Rose Tico"/>
+    <card blueprintId="209_11" horizontal="false" title="Rose Tico"/>
+    <card blueprintId="211_55" horizontal="false" title="Vice Admiral Holdo"/>
+    <card blueprintId="205_4" horizontal="false" title="Rebel Flight Suit"/>
+    <card blueprintId="204_14" horizontal="false" title="Graveyard Of Giants"/>
+    <card blueprintId="206_6" horizontal="false" title="What Chance Do We Have?"/>
+    <card blueprintId="10_4" horizontal="false" title="Control &amp; Tunnel Vision"/>
+    <card blueprintId="8_51" horizontal="false" title="Fly Casual"/>
+    <card blueprintId="211_51" horizontal="false" title="Force Projection"/>
+    <card blueprintId="207_13" horizontal="false" title="I Think I Can Handle Myself"/>
+    <card blueprintId="207_13" horizontal="false" title="I Think I Can Handle Myself"/>
+    <card blueprintId="1_90" horizontal="false" title="It Could Be Worse"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="209_22" horizontal="false" title="Rescue In The Clouds"/>
+    <card blueprintId="209_22" horizontal="false" title="Rescue In The Clouds"/>
+    <card blueprintId="211_2" horizontal="false" title="See You Around, Kid"/>
+    <card blueprintId="210_1" horizontal="true" title="Ahch-To: Saddle"/>
+    <card blueprintId="211_46" horizontal="true" title="Ahch-To: Jedi Temple"/>
+    <card blueprintId="204_28" horizontal="true" title="Jakku: Ravager Crash Site"/>
+    <card blueprintId="204_30" horizontal="true" title="Jakku: Starship Graveyard"/>
+    <card blueprintId="204_31" horizontal="true" title="Jakku: Tuanul Village"/>
+    <card blueprintId="203_20" horizontal="false" title="Bright Hope"/>
+    <card blueprintId="1_140" horizontal="false" title="Corellian Corvette"/>
+    <card blueprintId="200_62" horizontal="false" title="Gold Leader In Gold 1"/>
+    <card blueprintId="201_19" horizontal="false" title="Tantive IV"/>
+    <card blueprintId="210_26" horizontal="false" title="V-4X-D Ski Speeder"/>
+    <card blueprintId="210_26" horizontal="false" title="V-4X-D Ski Speeder"/>
+    <card blueprintId="210_26" horizontal="false" title="V-4X-D Ski Speeder"/>
+    <card blueprintId="210_26" horizontal="false" title="V-4X-D Ski Speeder"/>
+    <card blueprintId="210_26" horizontal="false" title="V-4X-D Ski Speeder"/>
+</deck>
