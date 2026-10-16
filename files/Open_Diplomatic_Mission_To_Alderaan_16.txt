@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="203_19" horizontal="false" title="Diplomatic Mission To Alderaan"/>
+    <card blueprintId="1_127" horizontal="false" title="Tatooine"/>
+    <card blueprintId="1_130" horizontal="true" title="Tatooine: Dune Sea"/>
+    <card blueprintId="201_19" horizontal="false" title="Tantive IV"/>
+    <card blueprintId="203_11" horizontal="false" title="R2-D2 &amp; C-3PO"/>
+    <card blueprintId="203_14" horizontal="false" title="Stolen Data Tapes"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="200_12" horizontal="false" title="General Airen Cracken"/>
+    <card blueprintId="202_1" horizontal="false" title="Leia Organa"/>
+    <card blueprintId="10_18" horizontal="false" title="Owen Lars &amp; Beru Lars"/>
+    <card blueprintId="10_18" horizontal="false" title="Owen Lars &amp; Beru Lars"/>
+    <card blueprintId="200_8" horizontal="false" title="Commander Narra"/>
+    <card blueprintId="10_5" horizontal="false" title="Corran Horn"/>
+    <card blueprintId="204_2" horizontal="false" title="Bail Organa"/>
+    <card blueprintId="204_8" horizontal="false" title="Poe Dameron"/>
+    <card blueprintId="204_3" horizontal="false" title="Captain Hera Syndulla"/>
+    <card blueprintId="204_9" horizontal="false" title="Rey"/>
+    <card blueprintId="207_2" horizontal="false" title="Chirrut Imwe"/>
+    <card blueprintId="206_3" horizontal="false" title="Captain Cassian Andor"/>
+    <card blueprintId="203_6" horizontal="false" title="Kanan Jarrus"/>
+    <card blueprintId="8_14" horizontal="false" title="General Crix Madine"/>
+    <card blueprintId="9_21" horizontal="false" title="Lieutenant Blount"/>
+    <card blueprintId="204_10" horizontal="false" title="Senator Mon Mothma"/>
+    <card blueprintId="209_1" horizontal="false" title="Admiral Raddus"/>
+    <card blueprintId="206_4" horizontal="false" title="Jyn Erso"/>
+    <card blueprintId="204_11" horizontal="false" title="Solo"/>
+    <card blueprintId="203_3" horizontal="false" title="Captain Raymus Antilles"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="201_4" horizontal="false" title="Obi-Wan Kenobi"/>
+    <card blueprintId="222_29" horizontal="false" title="Young Skywalker"/>
+    <card blueprintId="222_29" horizontal="false" title="Young Skywalker"/>
+    <card blueprintId="222_29" horizontal="false" title="Young Skywalker"/>
+    <card blueprintId="10_3" horizontal="false" title="Chewbacca, Protector"/>
+    <card blueprintId="9_41" horizontal="false" title="Strike Planning"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="7_77" horizontal="false" title="Tatooine Celebration"/>
+    <card blueprintId="9_44" horizontal="false" title="The Time For Our Attack Has Come"/>
+    <card blueprintId="200_41" horizontal="false" title="I Must Be Allowed To Speak"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="209_22" horizontal="false" title="Rescue In The Clouds"/>
+    <card blueprintId="209_22" horizontal="false" title="Rescue In The Clouds"/>
+    <card blueprintId="209_22" horizontal="false" title="Rescue In The Clouds"/>
+    <card blueprintId="12_61" horizontal="false" title="Might Of The Republic"/>
+    <card blueprintId="12_61" horizontal="false" title="Might Of The Republic"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="1_128" horizontal="true" title="Tatooine: Cantina"/>
+    <card blueprintId="1_133" horizontal="true" title="Tatooine: Mos Eisley"/>
+    <card blueprintId="205_6" horizontal="true" title="Tatooine: Lars' Moisture Farm"/>
+    <card blueprintId="8_67" horizontal="false" title="Chandrila"/>
+    <card blueprintId="1_121" horizontal="false" title="Alderaan"/>
+    <card blueprintId="1_140" horizontal="false" title="Corellian Corvette"/>
+</deck>

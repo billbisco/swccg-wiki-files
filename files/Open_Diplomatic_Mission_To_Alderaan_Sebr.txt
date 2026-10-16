@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="203_19" horizontal="false" title="Diplomatic Mission To Alderaan"/>
+    <card blueprintId="200_51" horizontal="false" title="Don't Tread On Me"/>
+    <card blueprintId="203_11" horizontal="false" title="R2-D2 &amp; C-3PO"/>
+    <card blueprintId="203_14" horizontal="false" title="Stolen Data Tapes"/>
+    <card blueprintId="1_127" horizontal="false" title="Tatooine"/>
+    <card blueprintId="201_19" horizontal="false" title="Tantive IV"/>
+    <card blueprintId="1_130" horizontal="true" title="Tatooine: Dune Sea"/>
+    <card blueprintId="108_3" horizontal="false" title="Luke With Lightsaber"/>
+    <card blueprintId="108_3" horizontal="false" title="Luke With Lightsaber"/>
+    <card blueprintId="206_4" horizontal="false" title="Jyn Erso"/>
+    <card blueprintId="203_12" horizontal="false" title="Toryn Farr"/>
+    <card blueprintId="204_2" horizontal="false" title="Bail Organa"/>
+    <card blueprintId="204_11" horizontal="false" title="Solo"/>
+    <card blueprintId="6_60" horizontal="false" title="Artoo, I Have A Bad Feeling About This"/>
+    <card blueprintId="6_60" horizontal="false" title="Artoo, I Have A Bad Feeling About This"/>
+    <card blueprintId="12_61" horizontal="false" title="Might Of The Republic"/>
+    <card blueprintId="12_61" horizontal="false" title="Might Of The Republic"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="202_1" horizontal="false" title="Leia Organa"/>
+    <card blueprintId="10_18" horizontal="false" title="Owen Lars &amp; Beru Lars"/>
+    <card blueprintId="7_149" horizontal="false" title="Spiral"/>
+    <card blueprintId="7_149" horizontal="false" title="Spiral"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="1_55" horizontal="false" title="Mantellian Savrip"/>
+    <card blueprintId="203_10" horizontal="false" title="Padme Naberrie"/>
+    <card blueprintId="200_49" horizontal="false" title="Antilles Maneuver"/>
+    <card blueprintId="8_44" horizontal="false" title="Careful Planning"/>
+    <card blueprintId="8_44" horizontal="false" title="Careful Planning"/>
+    <card blueprintId="204_9" horizontal="false" title="Rey"/>
+    <card blueprintId="201_11" horizontal="false" title="Ascension Guns"/>
+    <card blueprintId="201_11" horizontal="false" title="Ascension Guns"/>
+    <card blueprintId="204_3" horizontal="false" title="Captain Hera Syndulla"/>
+    <card blueprintId="9_38" horizontal="false" title="Menace Fades"/>
+    <card blueprintId="6_82" horizontal="true" title="Jabba's Palace: Entrance Cavern"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="10_5" horizontal="false" title="Corran Horn"/>
+    <card blueprintId="200_8" horizontal="false" title="Commander Narra"/>
+    <card blueprintId="204_10" horizontal="false" title="Senator Mon Mothma"/>
+    <card blueprintId="203_20" horizontal="false" title="Bright Hope"/>
+    <card blueprintId="204_18" horizontal="false" title="Escape Pod &amp; We're Doomed"/>
+    <card blueprintId="204_18" horizontal="false" title="Escape Pod &amp; We're Doomed"/>
+    <card blueprintId="205_6" horizontal="true" title="Tatooine: Lars' Moisture Farm"/>
+    <card blueprintId="1_121" horizontal="false" title="Alderaan"/>
+    <card blueprintId="3_35" horizontal="false" title="Evacuation Control"/>
+    <card blueprintId="112_4" horizontal="false" title="Ounee Ta"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="2_49" horizontal="false" title="Grimtaash"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="9_77" horizontal="false" title="Luminous"/>
+    <card blueprintId="200_2" horizontal="false" title="Anakin Skywalker, Padawan Learner"/>
+    <card blueprintId="203_3" horizontal="false" title="Captain Raymus Antilles"/>
+    <card blueprintId="9_31" horizontal="false" title="Wedge Antilles, Red Squadron Leader"/>
+    <card blueprintId="8_67" horizontal="false" title="Chandrila"/>
+    <card blueprintId="205_10" horizontal="false" title="Tycho In Green Squadron 3"/>
+    <card blueprintId="204_8" horizontal="false" title="Poe Dameron"/>
+    <card blueprintId="204_4" horizontal="false" title="Chewie With Bowcaster"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+</deck>

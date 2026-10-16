@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="203_19" horizontal="false" title="Diplomatic Mission To Alderaan"/>
+    <card blueprintId="1_127" horizontal="false" title="Tatooine"/>
+    <card blueprintId="1_130" horizontal="true" title="Tatooine: Dune Sea"/>
+    <card blueprintId="201_19" horizontal="false" title="Tantive IV"/>
+    <card blueprintId="203_11" horizontal="false" title="R2-D2 &amp; C-3PO"/>
+    <card blueprintId="203_14" horizontal="false" title="Stolen Data Tapes"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="200_41" horizontal="false" title="I Must Be Allowed To Speak"/>
+    <card blueprintId="202_5" horizontal="false" title="Like My Father Before Me"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="301_1" horizontal="false" title="Ahsoka Tano With Lightsabers"/>
+    <card blueprintId="200_2" horizontal="false" title="Anakin Skywalker, Padawan Learner"/>
+    <card blueprintId="204_2" horizontal="false" title="Bail Organa"/>
+    <card blueprintId="204_3" horizontal="false" title="Captain Hera Syndulla"/>
+    <card blueprintId="204_4" horizontal="false" title="Chewie With Bowcaster"/>
+    <card blueprintId="203_4" horizontal="false" title="Ellorrs Madak, Pilot Instructor"/>
+    <card blueprintId="112_3" horizontal="false" title="Lando With Vibro-Ax"/>
+    <card blueprintId="202_1" horizontal="false" title="Leia Organa"/>
+    <card blueprintId="12_11" horizontal="false" title="Liana Merian"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="10_12" horizontal="false" title="Mirax Terrik"/>
+    <card blueprintId="201_4" horizontal="false" title="Obi-Wan Kenobi"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="14_27" horizontal="false" title="Qui-Gon Jinn With Lightsaber"/>
+    <card blueprintId="204_11" horizontal="false" title="Solo"/>
+    <card blueprintId="204_9" horizontal="false" title="Rey"/>
+    <card blueprintId="204_9" horizontal="false" title="Rey"/>
+    <card blueprintId="1_55" horizontal="false" title="Mantellian Savrip"/>
+    <card blueprintId="7_77" horizontal="false" title="Tatooine Celebration"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="204_18" horizontal="false" title="Escape Pod &amp; We're Doomed"/>
+    <card blueprintId="204_18" horizontal="false" title="Escape Pod &amp; We're Doomed"/>
+    <card blueprintId="204_18" horizontal="false" title="Escape Pod &amp; We're Doomed"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="1_90" horizontal="false" title="It Could Be Worse"/>
+    <card blueprintId="106_5" horizontal="false" title="It's A Hit!"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="12_61" horizontal="false" title="Might Of The Republic"/>
+    <card blueprintId="12_61" horizontal="false" title="Might Of The Republic"/>
+    <card blueprintId="12_61" horizontal="false" title="Might Of The Republic"/>
+    <card blueprintId="1_97" horizontal="false" title="Nabrun Leids"/>
+    <card blueprintId="201_14" horizontal="false" title="Perimeter Scan"/>
+    <card blueprintId="201_14" horizontal="false" title="Perimeter Scan"/>
+    <card blueprintId="6_80" horizontal="false" title="You Will Take Me To Jabba Now"/>
+    <card blueprintId="6_80" horizontal="false" title="You Will Take Me To Jabba Now"/>
+    <card blueprintId="6_80" horizontal="false" title="You Will Take Me To Jabba Now"/>
+    <card blueprintId="6_81" horizontal="true" title="Jabba's Palace: Audience Chamber"/>
+    <card blueprintId="11_42" horizontal="true" title="Tatooine: City Outskirts"/>
+    <card blueprintId="205_6" horizontal="true" title="Tatooine: Lars' Moisture Farm"/>
+    <card blueprintId="9_90" horizontal="false" title="Luke's Lightsaber"/>
+</deck>
