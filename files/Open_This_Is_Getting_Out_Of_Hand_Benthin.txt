@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="9_61" horizontal="false" title="There Is Good In Him"/>
+    <card blueprintId="8_71" horizontal="true" title="Endor: Chief Chirpa's Hut"/>
+    <card blueprintId="200_21" horizontal="false" title="Luke Skywalker, Rebel Scout"/>
+    <card blueprintId="9_90" horizontal="false" title="Luke's Lightsaber"/>
+    <card blueprintId="8_76" horizontal="true" title="Endor: Landing Platform (Docking Bay)"/>
+    <card blueprintId="9_34" horizontal="false" title="I Feel The Conflict"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="8_69" horizontal="true" title="Endor: Back Door"/>
+    <card blueprintId="8_75" horizontal="true" title="Endor: Hidden Forest Trail"/>
+    <card blueprintId="14_49" horizontal="true" title="Naboo: Boss Nass' Chambers"/>
+    <card blueprintId="10_5" horizontal="false" title="Corran Horn"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="201_2" horizontal="false" title="Mace Windu"/>
+    <card blueprintId="201_2" horizontal="false" title="Mace Windu"/>
+    <card blueprintId="200_22" horizontal="false" title="Master Qui-Gon"/>
+    <card blueprintId="200_22" horizontal="false" title="Master Qui-Gon"/>
+    <card blueprintId="201_3" horizontal="false" title="Melas"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="11_8" horizontal="false" title="Padme Naberrie"/>
+    <card blueprintId="201_5" horizontal="false" title="Princess Leia"/>
+    <card blueprintId="8_31" horizontal="false" title="Threepio"/>
+    <card blueprintId="13_21" horizontal="false" title="Han, Chewie, And The Falcon"/>
+    <card blueprintId="13_21" horizontal="false" title="Han, Chewie, And The Falcon"/>
+    <card blueprintId="7_149" horizontal="false" title="Spiral"/>
+    <card blueprintId="201_21" horizontal="false" title="Mace Windu's Lightsaber"/>
+    <card blueprintId="13_40" horizontal="false" title="Qui-Gon's Lightsaber"/>
+    <card blueprintId="9_33" horizontal="false" title="Honor Of The Jedi"/>
+    <card blueprintId="8_38" horizontal="false" title="I Hope She's All Right"/>
+    <card blueprintId="200_45" horizontal="false" title="Sai'torr Kal Fas"/>
+    <card blueprintId="200_46" horizontal="false" title="Strikeforce"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="12_51" horizontal="false" title="Your Insight Serves You Well &amp; Staging Areas"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="6_61" horizontal="false" title="Blaster Deflection"/>
+    <card blueprintId="6_61" horizontal="false" title="Blaster Deflection"/>
+    <card blueprintId="201_12" horizontal="false" title="Escape Pod"/>
+    <card blueprintId="201_12" horizontal="false" title="Escape Pod"/>
+    <card blueprintId="6_66" horizontal="false" title="Fallen Portal"/>
+    <card blueprintId="6_66" horizontal="false" title="Fallen Portal"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="10_8" horizontal="false" title="Houjix &amp; Out Of Nowhere"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="12_62" horizontal="false" title="Mindful Of The Future"/>
+    <card blueprintId="12_62" horizontal="false" title="Mindful Of The Future"/>
+    <card blueprintId="10_16" horizontal="false" title="Out Of Commission &amp; Transmission Terminated"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="2_57" horizontal="false" title="Sorry About The Mess"/>
+    <card blueprintId="2_57" horizontal="false" title="Sorry About The Mess"/>
+    <card blueprintId="10_25" horizontal="false" title="The Bith Shuffle &amp; Desperate Reach"/>
+    <card blueprintId="10_25" horizontal="false" title="The Bith Shuffle &amp; Desperate Reach"/>
+    <card blueprintId="8_64" horizontal="false" title="Were You Looking For Me?"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+</deck>
