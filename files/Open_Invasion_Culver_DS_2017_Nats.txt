@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="14_113" horizontal="false" title="Invasion"/>
+    <card blueprintId="12_169" horizontal="false" title="Naboo"/>
+    <card blueprintId="14_114" horizontal="false" title="Blockade Flagship"/>
+    <card blueprintId="12_171" horizontal="true" title="Naboo: Swamp"/>
+    <card blueprintId="14_96" horizontal="false" title="Droid Racks"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="200_114" horizontal="false" title="You'll Be Dead!"/>
+    <card blueprintId="8_116" horizontal="false" title="An Entire Legion Of My Best Troops"/>
+    <card blueprintId="9_126" horizontal="false" title="Inconsequential Losses"/>
+    <card blueprintId="9_95" horizontal="false" title="Intensify The Forward Batteries"/>
+    <card blueprintId="204_36" horizontal="false" title="B2 Battle Droid"/>
+    <card blueprintId="204_36" horizontal="false" title="B2 Battle Droid"/>
+    <card blueprintId="204_36" horizontal="false" title="B2 Battle Droid"/>
+    <card blueprintId="14_73" horizontal="false" title="Battle Droid Officer"/>
+    <card blueprintId="14_74" horizontal="false" title="Battle Droid Pilot"/>
+    <card blueprintId="10_41" horizontal="false" title="Guri"/>
+    <card blueprintId="14_83" horizontal="false" title="OOM-9"/>
+    <card blueprintId="14_84" horizontal="false" title="OWO-1 With Backup"/>
+    <card blueprintId="2_107" horizontal="false" title="U-3PO (Yoo-Threepio)"/>
+    <card blueprintId="12_103" horizontal="false" title="Daultay Dofine"/>
+    <card blueprintId="12_112" horizontal="false" title="Nute Gunray"/>
+    <card blueprintId="14_86" horizontal="false" title="Rune Haako, Legal Counsel"/>
+    <card blueprintId="12_121" horizontal="false" title="Tey How"/>
+    <card blueprintId="203_29" horizontal="false" title="Deflector Shield Generators"/>
+    <card blueprintId="7_229" horizontal="false" title="First Strike"/>
+    <card blueprintId="2_121" horizontal="false" title="Imperial Justice"/>
+    <card blueprintId="200_112" horizontal="false" title="Something Special Planned For Them"/>
+    <card blueprintId="14_101" horizontal="false" title="Cease Fire!"/>
+    <card blueprintId="14_101" horizontal="false" title="Cease Fire!"/>
+    <card blueprintId="8_136" horizontal="false" title="Combat Readiness"/>
+    <card blueprintId="8_136" horizontal="false" title="Combat Readiness"/>
+    <card blueprintId="200_118" horizontal="false" title="Defensive Fire"/>
+    <card blueprintId="200_118" horizontal="false" title="Defensive Fire"/>
+    <card blueprintId="10_39" horizontal="false" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+    <card blueprintId="10_39" horizontal="false" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+    <card blueprintId="200_122" horizontal="false" title="Imbalance &amp; Kintan Strider"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="3_130" horizontal="false" title="Oh, Switch Off"/>
+    <card blueprintId="205_20" horizontal="false" title="Point Man"/>
+    <card blueprintId="10_34" horizontal="false" title="Control &amp; Set For Stun"/>
+    <card blueprintId="200_124" horizontal="false" title="Sneak Attack"/>
+    <card blueprintId="14_107" horizontal="false" title="There They Are!"/>
+    <card blueprintId="13_76" horizontal="true" title="Naboo: Theed Palace Generator"/>
+    <card blueprintId="13_77" horizontal="true" title="Naboo: Theed Palace Generator Core"/>
+    <card blueprintId="12_174" horizontal="true" title="Naboo: Theed Palace Throne Room"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_187" horizontal="false" title="Laser Cannon Battery"/>
+    <card blueprintId="12_187" horizontal="false" title="Laser Cannon Battery"/>
+</deck>

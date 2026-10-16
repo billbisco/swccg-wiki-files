@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="14_113" horizontal="false" title="Invasion"/>
+    <card blueprintId="12_169" horizontal="false" title="Naboo"/>
+    <card blueprintId="12_171" horizontal="true" title="Naboo: Swamp"/>
+    <card blueprintId="14_114" horizontal="false" title="Blockade Flagship"/>
+    <card blueprintId="14_96" horizontal="false" title="Droid Racks"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="208_35" horizontal="false" title="Lord Sidious"/>
+    <card blueprintId="208_35" horizontal="false" title="Lord Sidious"/>
+    <card blueprintId="204_36" horizontal="false" title="B2 Battle Droid"/>
+    <card blueprintId="204_36" horizontal="false" title="B2 Battle Droid"/>
+    <card blueprintId="204_36" horizontal="false" title="B2 Battle Droid"/>
+    <card blueprintId="14_84" horizontal="false" title="OWO-1 With Backup"/>
+    <card blueprintId="200_88" horizontal="false" title="Probot"/>
+    <card blueprintId="12_103" horizontal="false" title="Daultay Dofine"/>
+    <card blueprintId="12_121" horizontal="false" title="Tey How"/>
+    <card blueprintId="208_34" horizontal="false" title="Lord Maul With Lightsaber"/>
+    <card blueprintId="208_34" horizontal="false" title="Lord Maul With Lightsaber"/>
+    <card blueprintId="208_34" horizontal="false" title="Lord Maul With Lightsaber"/>
+    <card blueprintId="14_81" horizontal="false" title="Nute Gunray, Neimoidian Viceroy"/>
+    <card blueprintId="8_116" horizontal="false" title="An Entire Legion Of My Best Troops"/>
+    <card blueprintId="2_121" horizontal="false" title="Imperial Justice"/>
+    <card blueprintId="2_121" horizontal="false" title="Imperial Justice"/>
+    <card blueprintId="9_126" horizontal="false" title="Inconsequential Losses"/>
+    <card blueprintId="112_16" horizontal="false" title="No Escape"/>
+    <card blueprintId="12_139" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="200_114" horizontal="false" title="You'll Be Dead!"/>
+    <card blueprintId="201_35" horizontal="false" title="Cold Feet"/>
+    <card blueprintId="10_39" horizontal="false" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+    <card blueprintId="10_39" horizontal="false" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+    <card blueprintId="200_122" horizontal="false" title="Imbalance &amp; Kintan Strider"/>
+    <card blueprintId="3_130" horizontal="false" title="Oh, Switch Off"/>
+    <card blueprintId="3_130" horizontal="false" title="Oh, Switch Off"/>
+    <card blueprintId="205_20" horizontal="false" title="Point Man"/>
+    <card blueprintId="205_20" horizontal="false" title="Point Man"/>
+    <card blueprintId="208_45" horizontal="false" title="Sonic Bombardment"/>
+    <card blueprintId="208_45" horizontal="false" title="Sonic Bombardment"/>
+    <card blueprintId="12_161" horizontal="false" title="They're Still Coming Through!"/>
+    <card blueprintId="14_107" horizontal="false" title="There They Are!"/>
+    <card blueprintId="14_107" horizontal="false" title="There They Are!"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="200_126" horizontal="true" title="Cloud City: Security Tower"/>
+    <card blueprintId="13_76" horizontal="true" title="Naboo: Theed Palace Generator"/>
+    <card blueprintId="12_174" horizontal="true" title="Naboo: Theed Palace Throne Room"/>
+    <card blueprintId="12_182" horizontal="false" title="Maul's Sith Infiltrator"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_187" horizontal="false" title="Laser Cannon Battery"/>
+</deck>
