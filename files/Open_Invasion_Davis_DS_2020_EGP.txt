@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="14_113" horizontal="false" title="Invasion"/>
+    <card blueprintId="12_169" horizontal="false" title="Naboo"/>
+    <card blueprintId="14_114" horizontal="false" title="Blockade Flagship"/>
+    <card blueprintId="12_171" horizontal="true" title="Naboo: Swamp"/>
+    <card blueprintId="208_39" horizontal="false" title="Droid Racks"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="8_121" horizontal="false" title="Crossfire"/>
+    <card blueprintId="208_42" horizontal="false" title="Where Are Those Droidekas?!"/>
+    <card blueprintId="210_45" horizontal="false" title="Silence Is Golden"/>
+    <card blueprintId="200_71" horizontal="false" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="12_104" horizontal="false" title="Destroyer Droid"/>
+    <card blueprintId="12_104" horizontal="false" title="Destroyer Droid"/>
+    <card blueprintId="12_104" horizontal="false" title="Destroyer Droid"/>
+    <card blueprintId="12_104" horizontal="false" title="Destroyer Droid"/>
+    <card blueprintId="12_104" horizontal="false" title="Destroyer Droid"/>
+    <card blueprintId="200_80" horizontal="false" title="Droideka"/>
+    <card blueprintId="200_80" horizontal="false" title="Droideka"/>
+    <card blueprintId="200_80" horizontal="false" title="Droideka"/>
+    <card blueprintId="200_80" horizontal="false" title="Droideka"/>
+    <card blueprintId="10_41" horizontal="false" title="Guri"/>
+    <card blueprintId="12_114" horizontal="false" title="P-59"/>
+    <card blueprintId="12_114" horizontal="false" title="P-59"/>
+    <card blueprintId="12_115" horizontal="false" title="P-60"/>
+    <card blueprintId="12_115" horizontal="false" title="P-60"/>
+    <card blueprintId="14_76" horizontal="false" title="Captain Daultay Dofine"/>
+    <card blueprintId="210_40" horizontal="false" title="Nute Gunray"/>
+    <card blueprintId="210_40" horizontal="false" title="Nute Gunray"/>
+    <card blueprintId="12_121" horizontal="false" title="Tey How"/>
+    <card blueprintId="12_133" horizontal="false" title="Enter The Bureaucrat"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="112_16" horizontal="false" title="No Escape"/>
+    <card blueprintId="201_33" horizontal="false" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="201_33" horizontal="false" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="14_104" horizontal="false" title="Master, Destroyers!"/>
+    <card blueprintId="14_104" horizontal="false" title="Master, Destroyers!"/>
+    <card blueprintId="14_104" horizontal="false" title="Master, Destroyers!"/>
+    <card blueprintId="12_152" horizontal="false" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="3_130" horizontal="false" title="Oh, Switch Off"/>
+    <card blueprintId="3_130" horizontal="false" title="Oh, Switch Off"/>
+    <card blueprintId="205_20" horizontal="false" title="Point Man"/>
+    <card blueprintId="205_20" horizontal="false" title="Point Man"/>
+    <card blueprintId="14_105" horizontal="false" title="Rolling, Rolling, Rolling"/>
+    <card blueprintId="14_105" horizontal="false" title="Rolling, Rolling, Rolling"/>
+    <card blueprintId="3_134" horizontal="false" title="Self-Destruct Mechanism"/>
+    <card blueprintId="10_47" horizontal="false" title="Sniper &amp; Dark Strike"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="8_154" horizontal="false" title="Wounded Warrior"/>
+    <card blueprintId="8_154" horizontal="false" title="Wounded Warrior"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="5_170" horizontal="true" title="Cloud City: Incinerator"/>
+    <card blueprintId="6_163" horizontal="true" title="Jabba's Palace: Droid Workshop"/>
+    <card blueprintId="13_76" horizontal="true" title="Naboo: Theed Palace Generator"/>
+    <card blueprintId="12_174" horizontal="true" title="Naboo: Theed Palace Throne Room"/>
+    <card blueprintId="12_187" horizontal="false" title="Laser Cannon Battery"/>
+</deck>
