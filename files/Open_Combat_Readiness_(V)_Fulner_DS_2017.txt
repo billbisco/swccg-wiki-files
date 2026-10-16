@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="3_143" horizontal="false" title="Hoth"/>
+    <card blueprintId="200_117" horizontal="false" title="Combat Readiness"/>
+    <card blueprintId="3_148" horizontal="true" title="Hoth: Ice Plains (5th Marker)"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="9_92" horizontal="false" title="Battle Deployment"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="3_144" horizontal="true" title="Hoth: Defensive Perimeter (3rd Marker)"/>
+    <card blueprintId="104_4" horizontal="true" title="Hoth: Mountains (6th Marker)"/>
+    <card blueprintId="9_99" horizontal="false" title="Baron Soontir Fel"/>
+    <card blueprintId="11_54" horizontal="false" title="Darth Maul"/>
+    <card blueprintId="200_78" horizontal="false" title="Darth Vader"/>
+    <card blueprintId="1_173" horizontal="false" title="DS-61-2"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="200_85" horizontal="false" title="Maarek Stele, The Emperor's Reach"/>
+    <card blueprintId="206_11" horizontal="false" title="Veers"/>
+    <card blueprintId="3_104" horizontal="false" title="Ice Storm"/>
+    <card blueprintId="200_107" horizontal="false" title="Image Of The Dark Lord"/>
+    <card blueprintId="5_120" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="112_16" horizontal="false" title="No Escape"/>
+    <card blueprintId="1_230" horizontal="false" title="Sunsdown"/>
+    <card blueprintId="11_77" horizontal="false" title="You May Start Your Landing"/>
+    <card blueprintId="10_34" horizontal="false" title="Control &amp; Set For Stun"/>
+    <card blueprintId="3_124" horizontal="false" title="Exposure"/>
+    <card blueprintId="3_124" horizontal="false" title="Exposure"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="12_152" horizontal="false" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="3_138" horizontal="false" title="Trample"/>
+    <card blueprintId="201_37" horizontal="false" title="Turn It Off! Turn It Off!"/>
+    <card blueprintId="104_7" horizontal="false" title="Walker Garrison"/>
+    <card blueprintId="104_7" horizontal="false" title="Walker Garrison"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="200_127" horizontal="false" title="Black 2"/>
+    <card blueprintId="109_10" horizontal="false" title="Dengar In Punishing One"/>
+    <card blueprintId="12_182" horizontal="false" title="Maul's Sith Infiltrator"/>
+    <card blueprintId="9_162" horizontal="false" title="Saber 1"/>
+    <card blueprintId="200_138" horizontal="false" title="Vader's Personal Shuttle"/>
+    <card blueprintId="3_154" horizontal="false" title="Blizzard 1"/>
+    <card blueprintId="200_139" horizontal="false" title="Blizzard 2"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="3_156" horizontal="false" title="Blizzard Scout 1"/>
+    <card blueprintId="3_157" horizontal="false" title="Blizzard Walker"/>
+    <card blueprintId="8_170" horizontal="false" title="Tempest 1"/>
+</deck>
