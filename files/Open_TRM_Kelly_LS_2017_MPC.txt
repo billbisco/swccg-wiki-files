@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="12_20" horizontal="false" title="Phylo Gandish"/>
+    <card blueprintId="11_4" horizontal="false" title="Jar Jar Binks"/>
+    <card blueprintId="204_11" horizontal="false" title="Solo"/>
+    <card blueprintId="204_4" horizontal="false" title="Chewie With Bowcaster"/>
+    <card blueprintId="13_48" horizontal="false" title="Yoda, Master Of The Force"/>
+    <card blueprintId="14_27" horizontal="false" title="Qui-Gon Jinn With Lightsaber"/>
+    <card blueprintId="13_29" horizontal="false" title="Leia, Rebel Princess"/>
+    <card blueprintId="10_5" horizontal="false" title="Corran Horn"/>
+    <card blueprintId="204_3" horizontal="false" title="Captain Hera Syndulla"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="203_6" horizontal="false" title="Kanan Jarrus"/>
+    <card blueprintId="201_4" horizontal="false" title="Obi-Wan Kenobi"/>
+    <card blueprintId="200_2" horizontal="false" title="Anakin Skywalker, Padawan Learner"/>
+    <card blueprintId="200_11" horizontal="false" title="Dorme"/>
+    <card blueprintId="203_10" horizontal="false" title="Padme Naberrie"/>
+    <card blueprintId="204_9" horizontal="false" title="Rey"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="12_44" horizontal="false" title="Insurrection &amp; Aim High"/>
+    <card blueprintId="202_5" horizontal="false" title="Like My Father Before Me"/>
+    <card blueprintId="3_35" horizontal="false" title="Evacuation Control"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="200_53" horizontal="false" title="Impressive, Most Impressive"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="5_38" horizontal="false" title="Clash Of Sabers"/>
+    <card blueprintId="10_4" horizontal="false" title="Control &amp; Tunnel Vision"/>
+    <card blueprintId="5_45" horizontal="false" title="Dodge"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="204_18" horizontal="false" title="Escape Pod &amp; We're Doomed"/>
+    <card blueprintId="204_18" horizontal="false" title="Escape Pod &amp; We're Doomed"/>
+    <card blueprintId="204_18" horizontal="false" title="Escape Pod &amp; We're Doomed"/>
+    <card blueprintId="10_25" horizontal="false" title="The Bith Shuffle &amp; Desperate Reach"/>
+    <card blueprintId="1_71" horizontal="false" title="Alter"/>
+    <card blueprintId="204_23" horizontal="false" title="You Do Have Your Moments"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="6_61" horizontal="false" title="Blaster Deflection"/>
+    <card blueprintId="201_14" horizontal="false" title="Perimeter Scan"/>
+    <card blueprintId="12_69" horizontal="false" title="Speak With The Jedi Council"/>
+    <card blueprintId="12_69" horizontal="false" title="Speak With The Jedi Council"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="10_23" horizontal="false" title="Sorry About The Mess &amp; Blaster Proficiency"/>
+    <card blueprintId="10_23" horizontal="false" title="Sorry About The Mess &amp; Blaster Proficiency"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="1_138" horizontal="true" title="Yavin 4: Massassi Throne Room"/>
+    <card blueprintId="9_57" horizontal="true" title="Home One: Docking Bay"/>
+    <card blueprintId="12_79" horizontal="true" title="Naboo: Battle Plains"/>
+    <card blueprintId="14_49" horizontal="true" title="Naboo: Boss Nass' Chambers"/>
+    <card blueprintId="12_76" horizontal="true" title="Coruscant: Jedi Council Chamber"/>
+    <card blueprintId="3_59" horizontal="true" title="Hoth: Echo Docking Bay"/>
+    <card blueprintId="9_90" horizontal="false" title="Luke's Lightsaber"/>
+    <card blueprintId="9_90" horizontal="false" title="Luke's Lightsaber"/>
+</deck>

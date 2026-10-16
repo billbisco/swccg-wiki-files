@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="209_29" horizontal="false" title="They Have No Idea We're Coming"/>
+    <card blueprintId="209_23" horizontal="false" title="Scarif"/>
+    <card blueprintId="209_25" horizontal="true" title="Scarif: Data Vault"/>
+    <card blueprintId="208_24" horizontal="true" title="Yavin 4: Massassi War Room"/>
+    <card blueprintId="209_18" horizontal="false" title="Stardust"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="8_40" horizontal="false" title="Insurrection"/>
+    <card blueprintId="211_29" horizontal="false" title="Make Ten Men Feel Like A Hundred"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="207_1" horizontal="false" title="Baze Malbus With Cannon"/>
+    <card blueprintId="206_1" horizontal="false" title="Bodhi Rook"/>
+    <card blueprintId="206_3" horizontal="false" title="Captain Cassian Andor"/>
+    <card blueprintId="204_3" horizontal="false" title="Captain Hera Syndulla"/>
+    <card blueprintId="207_2" horizontal="false" title="Chirrut Imwe"/>
+    <card blueprintId="209_2" horizontal="false" title="Commander Ruescott Melshi"/>
+    <card blueprintId="211_58" horizontal="false" title="Commander Vanden Willard"/>
+    <card blueprintId="10_5" horizontal="false" title="Corran Horn"/>
+    <card blueprintId="203_5" horizontal="false" title="Endor Commando Team"/>
+    <card blueprintId="205_2" horizontal="false" title="Ensign Chad Hilse"/>
+    <card blueprintId="210_14" horizontal="false" title="Ezra Bridger"/>
+    <card blueprintId="200_12" horizontal="false" title="General Airen Cracken"/>
+    <card blueprintId="3_11" horizontal="false" title="Jeroen Webb"/>
+    <card blueprintId="206_4" horizontal="false" title="Jyn Erso"/>
+    <card blueprintId="202_1" horizontal="false" title="Leia Organa"/>
+    <card blueprintId="9_21" horizontal="false" title="Lieutenant Blount"/>
+    <card blueprintId="200_20" horizontal="false" title="Luke Skywalker"/>
+    <card blueprintId="209_12" horizontal="false" title="Saw Gerrera"/>
+    <card blueprintId="209_13" horizontal="false" title="Taidu Sefla"/>
+    <card blueprintId="203_12" horizontal="false" title="Toryn Farr"/>
+    <card blueprintId="204_9" horizontal="false" title="Rey"/>
+    <card blueprintId="204_9" horizontal="false" title="Rey"/>
+    <card blueprintId="3_35" horizontal="false" title="Evacuation Control"/>
+    <card blueprintId="3_35" horizontal="false" title="Evacuation Control"/>
+    <card blueprintId="9_38" horizontal="false" title="Menace Fades"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="209_17" horizontal="false" title="Relatively Unprotected"/>
+    <card blueprintId="200_49" horizontal="false" title="Antilles Maneuver"/>
+    <card blueprintId="200_51" horizontal="false" title="Don't Tread On Me"/>
+    <card blueprintId="2_48" horizontal="false" title="Double Agent"/>
+    <card blueprintId="2_48" horizontal="false" title="Double Agent"/>
+    <card blueprintId="204_18" horizontal="false" title="Escape Pod &amp; We're Doomed"/>
+    <card blueprintId="12_58" horizontal="false" title="Free Ride &amp; Endor Celebration"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="204_20" horizontal="false" title="Keep Your Eyes Open"/>
+    <card blueprintId="209_21" horizontal="false" title="Odin Nesloor &amp; First Aid"/>
+    <card blueprintId="201_14" horizontal="false" title="Perimeter Scan"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="209_22" horizontal="false" title="Rescue In The Clouds"/>
+    <card blueprintId="9_57" horizontal="true" title="Home One: Docking Bay"/>
+    <card blueprintId="3_59" horizontal="true" title="Hoth: Echo Docking Bay"/>
+    <card blueprintId="209_24" horizontal="true" title="Scarif: Beach"/>
+    <card blueprintId="203_20" horizontal="false" title="Bright Hope"/>
+    <card blueprintId="205_7" horizontal="false" title="Han, Chewie, And The Falcon"/>
+    <card blueprintId="204_33" horizontal="false" title="Masanya"/>
+    <card blueprintId="207_18" horizontal="false" title="Profundity"/>
+    <card blueprintId="206_7" horizontal="false" title="Rogue One"/>
+    <card blueprintId="201_19" horizontal="false" title="Tantive IV"/>
+</deck>
