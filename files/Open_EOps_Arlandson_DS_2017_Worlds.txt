@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="8_167" horizontal="false" title="Endor Operations"/>
+    <card blueprintId="8_157" horizontal="false" title="Endor"/>
+    <card blueprintId="8_166" horizontal="true" title="Endor: Landing Platform (Docking Bay)"/>
+    <card blueprintId="8_160" horizontal="true" title="Endor: Bunker"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="9_92" horizontal="false" title="Battle Deployment"/>
+    <card blueprintId="9_94" horizontal="false" title="Fighters Coming In"/>
+    <card blueprintId="8_162" horizontal="true" title="Endor: Dense Forest"/>
+    <card blueprintId="8_164" horizontal="true" title="Endor: Forest Clearing"/>
+    <card blueprintId="7_282" horizontal="true" title="Executor: Docking Bay"/>
+    <card blueprintId="3_82" horizontal="false" title="Admiral Ozzel"/>
+    <card blueprintId="9_98" horizontal="false" title="Admiral Piett"/>
+    <card blueprintId="9_99" horizontal="false" title="Baron Soontir Fel"/>
+    <card blueprintId="9_101" horizontal="false" title="Captain Jonus"/>
+    <card blueprintId="9_101" horizontal="false" title="Captain Jonus"/>
+    <card blueprintId="8_97" horizontal="false" title="Corporal Drelosyn"/>
+    <card blueprintId="200_78" horizontal="false" title="Darth Vader"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="8_111" horizontal="false" title="Sergeant Barich"/>
+    <card blueprintId="8_111" horizontal="false" title="Sergeant Barich"/>
+    <card blueprintId="8_112" horizontal="false" title="Sergeant Elsek"/>
+    <card blueprintId="8_113" horizontal="false" title="Sergeant Irol"/>
+    <card blueprintId="200_103" horizontal="false" title="Aratech Corporation"/>
+    <card blueprintId="200_105" horizontal="false" title="Combat Response"/>
+    <card blueprintId="201_29" horizontal="false" title="Endor Shield"/>
+    <card blueprintId="207_25" horizontal="false" title="Establish Secret Base"/>
+    <card blueprintId="1_215" horizontal="false" title="Expand The Empire"/>
+    <card blueprintId="8_126" horizontal="false" title="Imperial Arrest Order"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="3_106" horizontal="false" title="Imperial Domination"/>
+    <card blueprintId="8_127" horizontal="false" title="Ominous Rumors"/>
+    <card blueprintId="8_130" horizontal="false" title="Relentless Tracking"/>
+    <card blueprintId="200_112" horizontal="false" title="Something Special Planned For Them"/>
+    <card blueprintId="201_33" horizontal="false" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="201_33" horizontal="false" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="10_34" horizontal="false" title="Control &amp; Set For Stun"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="200_121" horizontal="false" title="I Can't Shake Him!"/>
+    <card blueprintId="200_122" horizontal="false" title="Imbalance &amp; Kintan Strider"/>
+    <card blueprintId="200_122" horizontal="false" title="Imbalance &amp; Kintan Strider"/>
+    <card blueprintId="12_152" horizontal="false" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="200_124" horizontal="false" title="Sneak Attack"/>
+    <card blueprintId="200_124" horizontal="false" title="Sneak Attack"/>
+    <card blueprintId="200_124" horizontal="false" title="Sneak Attack"/>
+    <card blueprintId="3_138" horizontal="false" title="Trample"/>
+    <card blueprintId="3_138" horizontal="false" title="Trample"/>
+    <card blueprintId="9_162" horizontal="false" title="Saber 1"/>
+    <card blueprintId="9_167" horizontal="false" title="Scimitar 2"/>
+    <card blueprintId="200_138" horizontal="false" title="Vader's Personal Shuttle"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="200_140" horizontal="false" title="Blizzard Scout 1"/>
+    <card blueprintId="8_172" horizontal="false" title="Tempest Scout 1"/>
+    <card blueprintId="8_173" horizontal="false" title="Tempest Scout 2"/>
+    <card blueprintId="202_15" horizontal="false" title="Tempest Scout 3"/>
+    <card blueprintId="8_176" horizontal="false" title="Tempest Scout 5"/>
+</deck>
