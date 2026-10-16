@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="208_57" horizontal="false" title="I Want That Map"/>
+    <card blueprintId="204_53" horizontal="true" title="Jakku: Tuanul Village"/>
+    <card blueprintId="208_51" horizontal="false" title="Starkiller Base"/>
+    <card blueprintId="208_40" horizontal="false" title="I Will Finish What You Started"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="10_37" horizontal="false" title="Dr. Evazan &amp; Ponda Baba"/>
+    <card blueprintId="10_41" horizontal="false" title="Guri"/>
+    <card blueprintId="208_37" horizontal="false" title="Captain Peavey"/>
+    <card blueprintId="204_38" horizontal="false" title="Captain Phasma"/>
+    <card blueprintId="204_39" horizontal="false" title="FN-2003"/>
+    <card blueprintId="208_31" horizontal="false" title="FN-2199 (Nines)"/>
+    <card blueprintId="204_40" horizontal="false" title="First Order Stormtrooper"/>
+    <card blueprintId="204_40" horizontal="false" title="First Order Stormtrooper"/>
+    <card blueprintId="204_40" horizontal="false" title="First Order Stormtrooper"/>
+    <card blueprintId="204_40" horizontal="false" title="First Order Stormtrooper"/>
+    <card blueprintId="204_40" horizontal="false" title="First Order Stormtrooper"/>
+    <card blueprintId="204_40" horizontal="false" title="First Order Stormtrooper"/>
+    <card blueprintId="204_41" horizontal="false" title="General Hux"/>
+    <card blueprintId="209_37" horizontal="false" title="Kylo Ren With Lightsaber"/>
+    <card blueprintId="209_37" horizontal="false" title="Kylo Ren With Lightsaber"/>
+    <card blueprintId="209_37" horizontal="false" title="Kylo Ren With Lightsaber"/>
+    <card blueprintId="209_37" horizontal="false" title="Kylo Ren With Lightsaber"/>
+    <card blueprintId="208_33" horizontal="false" title="Lieutenant Dopheld Mitaka"/>
+    <card blueprintId="10_40" horizontal="false" title="Grand Admiral Thrawn"/>
+    <card blueprintId="200_92" horizontal="false" title="Ysanne Isard"/>
+    <card blueprintId="1_205" horizontal="false" title="Restraining Bolt"/>
+    <card blueprintId="208_38" horizontal="false" title="Alert My Star Destroyer!"/>
+    <card blueprintId="204_47" horizontal="false" title="Bow To The First Order"/>
+    <card blueprintId="2_121" horizontal="false" title="Imperial Justice"/>
+    <card blueprintId="200_111" horizontal="false" title="Kuat Drive Yards"/>
+    <card blueprintId="112_16" horizontal="false" title="No Escape"/>
+    <card blueprintId="200_112" horizontal="false" title="Something Special Planned For Them"/>
+    <card blueprintId="7_242" horizontal="false" title="Strategic Reserves"/>
+    <card blueprintId="200_114" horizontal="false" title="You'll Be Dead!"/>
+    <card blueprintId="7_247" horizontal="false" title="Blast Points"/>
+    <card blueprintId="201_35" horizontal="false" title="Cold Feet"/>
+    <card blueprintId="1_243" horizontal="false" title="Elis Helrot"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="10_47" horizontal="false" title="Sniper &amp; Dark Strike"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="5_160" horizontal="false" title="Weapon Levitation"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="8_156" horizontal="false" title="Carida"/>
+    <card blueprintId="204_51" horizontal="false" title="Jakku"/>
+    <card blueprintId="202_13" horizontal="false" title="Binder"/>
+    <card blueprintId="204_54" horizontal="false" title="Finalizer"/>
+    <card blueprintId="204_57" horizontal="false" title="F-11D Blaster Rifle"/>
+    <card blueprintId="204_57" horizontal="false" title="F-11D Blaster Rifle"/>
+    <card blueprintId="204_57" horizontal="false" title="F-11D Blaster Rifle"/>
+</deck>
