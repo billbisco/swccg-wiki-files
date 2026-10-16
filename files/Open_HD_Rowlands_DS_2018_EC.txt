@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="7_297" horizontal="false" title="Hunt Down And Destroy The Jedi"/>
+    <card blueprintId="4_161" horizontal="true" title="Executor: Holotheatre"/>
+    <card blueprintId="4_135" horizontal="false" title="Visage Of The Emperor"/>
+    <card blueprintId="4_163" horizontal="true" title="Executor: Meditation Chamber"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="13_59" horizontal="false" title="Boba Fett, Bounty Hunter"/>
+    <card blueprintId="200_79" horizontal="false" title="Dengar With Blaster Carbine"/>
+    <card blueprintId="201_25" horizontal="false" title="Jango Fett"/>
+    <card blueprintId="200_86" horizontal="false" title="Mara Jade With Lightsaber"/>
+    <card blueprintId="200_76" horizontal="false" title="Count Dooku"/>
+    <card blueprintId="200_76" horizontal="false" title="Count Dooku"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="12_114" horizontal="false" title="P-59"/>
+    <card blueprintId="7_175" horizontal="false" title="Darth Vader, Dark Lord Of The Sith"/>
+    <card blueprintId="7_175" horizontal="false" title="Darth Vader, Dark Lord Of The Sith"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="9_113" horizontal="false" title="Lord Vader"/>
+    <card blueprintId="9_113" horizontal="false" title="Lord Vader"/>
+    <card blueprintId="209_40" horizontal="false" title="Vanee"/>
+    <card blueprintId="200_92" horizontal="false" title="Ysanne Isard"/>
+    <card blueprintId="203_26" horizontal="false" title="Darth Maul, Lone Hunter"/>
+    <card blueprintId="203_26" horizontal="false" title="Darth Maul, Lone Hunter"/>
+    <card blueprintId="203_26" horizontal="false" title="Darth Maul, Lone Hunter"/>
+    <card blueprintId="200_104" horizontal="false" title="Blaster Rack"/>
+    <card blueprintId="13_62" horizontal="false" title="Conduct Your Search"/>
+    <card blueprintId="205_17" horizontal="false" title="I Am Your Father"/>
+    <card blueprintId="205_18" horizontal="false" title="Overseeing It Personally"/>
+    <card blueprintId="12_139" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="4_135" horizontal="false" title="Visage Of The Emperor"/>
+    <card blueprintId="201_33" horizontal="false" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="201_35" horizontal="false" title="Cold Feet"/>
+    <card blueprintId="200_119" horizontal="false" title="Force Field"/>
+    <card blueprintId="9_136" horizontal="false" title="Force Lightning"/>
+    <card blueprintId="9_136" horizontal="false" title="Force Lightning"/>
+    <card blueprintId="10_39" horizontal="false" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+    <card blueprintId="1_248" horizontal="false" title="I Have You Now"/>
+    <card blueprintId="1_248" horizontal="false" title="I Have You Now"/>
+    <card blueprintId="200_123" horizontal="false" title="Sith Fury"/>
+    <card blueprintId="10_47" horizontal="false" title="Sniper &amp; Dark Strike"/>
+    <card blueprintId="10_47" horizontal="false" title="Sniper &amp; Dark Strike"/>
+    <card blueprintId="12_161" horizontal="false" title="They're Still Coming Through!"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="14_111" horizontal="true" title="Blockade Flagship: Docking Bay"/>
+    <card blueprintId="8_159" horizontal="true" title="Endor: Back Door"/>
+    <card blueprintId="209_50" horizontal="true" title="Mustafar: Vader's Castle"/>
+    <card blueprintId="12_173" horizontal="true" title="Naboo: Theed Palace Docking Bay"/>
+    <card blueprintId="202_13" horizontal="false" title="Binder"/>
+    <card blueprintId="109_10" horizontal="false" title="Dengar In Punishing One"/>
+    <card blueprintId="110_12" horizontal="false" title="Zuckuss In Mist Hunter"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="200_142" horizontal="false" title="Dooku's Lightsaber"/>
+    <card blueprintId="13_75" horizontal="false" title="Maul's Double-Bladed Lightsaber"/>
+    <card blueprintId="1_324" horizontal="false" title="Vader's Lightsaber"/>
+    <card blueprintId="1_324" horizontal="false" title="Vader's Lightsaber"/>
+</deck>
