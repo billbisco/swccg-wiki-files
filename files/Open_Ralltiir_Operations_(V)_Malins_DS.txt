@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="7_300" horizontal="false" title="Ralltiir Operations"/>
+    <card blueprintId="2_148" horizontal="false" title="Ralltiir"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="109_9" horizontal="false" title="Crush The Rebellion"/>
+    <card blueprintId="200_111" horizontal="false" title="Kuat Drive Yards"/>
+    <card blueprintId="210_45" horizontal="false" title="Silence Is Golden"/>
+    <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
+    <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
+    <card blueprintId="10_37" horizontal="false" title="Dr. Evazan &amp; Ponda Baba"/>
+    <card blueprintId="10_37" horizontal="false" title="Dr. Evazan &amp; Ponda Baba"/>
+    <card blueprintId="200_81" horizontal="false" title="General Veers"/>
+    <card blueprintId="200_81" horizontal="false" title="General Veers"/>
+    <card blueprintId="10_40" horizontal="false" title="Grand Admiral Thrawn"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="209_37" horizontal="false" title="Kylo Ren With Lightsaber"/>
+    <card blueprintId="209_37" horizontal="false" title="Kylo Ren With Lightsaber"/>
+    <card blueprintId="200_86" horizontal="false" title="Mara Jade With Lightsaber"/>
+    <card blueprintId="200_86" horizontal="false" title="Mara Jade With Lightsaber"/>
+    <card blueprintId="12_114" horizontal="false" title="P-59"/>
+    <card blueprintId="12_114" horizontal="false" title="P-59"/>
+    <card blueprintId="200_92" horizontal="false" title="Ysanne Isard"/>
+    <card blueprintId="200_107" horizontal="false" title="Image Of The Dark Lord"/>
+    <card blueprintId="1_223" horizontal="false" title="Luke? Luuuuke!"/>
+    <card blueprintId="1_223" horizontal="false" title="Luke? Luuuuke!"/>
+    <card blueprintId="12_140" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="12_140" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="201_33" horizontal="false" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="3_120" horizontal="false" title="Crash Landing"/>
+    <card blueprintId="209_47" horizontal="false" title="Death Squadron Assignment"/>
+    <card blueprintId="209_47" horizontal="false" title="Death Squadron Assignment"/>
+    <card blueprintId="209_47" horizontal="false" title="Death Squadron Assignment"/>
+    <card blueprintId="200_119" horizontal="false" title="Force Field"/>
+    <card blueprintId="200_119" horizontal="false" title="Force Field"/>
+    <card blueprintId="1_248" horizontal="false" title="I Have You Now"/>
+    <card blueprintId="1_248" horizontal="false" title="I Have You Now"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="210_41" horizontal="false" title="Oo-ta Goo-ta, Solo?"/>
+    <card blueprintId="1_264" horizontal="false" title="Physical Choke"/>
+    <card blueprintId="200_123" horizontal="false" title="Sith Fury"/>
+    <card blueprintId="200_123" horizontal="false" title="Sith Fury"/>
+    <card blueprintId="200_124" horizontal="false" title="Sneak Attack"/>
+    <card blueprintId="3_138" horizontal="false" title="Trample"/>
+    <card blueprintId="3_141" horizontal="false" title="Wall Of Fire"/>
+    <card blueprintId="6_163" horizontal="true" title="Jabba's Palace: Droid Workshop"/>
+    <card blueprintId="210_39" horizontal="false" title="Mustafar"/>
+    <card blueprintId="209_50" horizontal="true" title="Mustafar: Vader's Castle"/>
+    <card blueprintId="7_290" horizontal="true" title="Spaceport Prefect's Office"/>
+    <card blueprintId="7_291" horizontal="true" title="Spaceport Street"/>
+    <card blueprintId="3_153" horizontal="false" title="Tyrant"/>
+    <card blueprintId="211_24" horizontal="false" title="Vengeance"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="210_38" horizontal="false" title="Marquand In Blizzard 6"/>
+    <card blueprintId="210_38" horizontal="false" title="Marquand In Blizzard 6"/>
+</deck>
