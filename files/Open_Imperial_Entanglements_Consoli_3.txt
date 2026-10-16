@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="201_39" horizontal="false" title="Imperial Entanglements"/>
+    <card blueprintId="203_33" horizontal="false" title="Tatooine"/>
+    <card blueprintId="112_20" horizontal="true" title="Tatooine: Desert Heart"/>
+    <card blueprintId="1_301" horizontal="false" title="Devastator"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="9_92" horizontal="false" title="Battle Deployment"/>
+    <card blueprintId="200_73" horizontal="false" title="Admiral Motti"/>
+    <card blueprintId="3_82" horizontal="false" title="Admiral Ozzel"/>
+    <card blueprintId="9_98" horizontal="false" title="Admiral Piett"/>
+    <card blueprintId="10_31" horizontal="false" title="Arica"/>
+    <card blueprintId="9_100" horizontal="false" title="Captain Godherdt"/>
+    <card blueprintId="201_22" horizontal="false" title="Colonel Wullf Yularen"/>
+    <card blueprintId="8_97" horizontal="false" title="Corporal Drelosyn"/>
+    <card blueprintId="200_77" horizontal="false" title="DS-61-5"/>
+    <card blueprintId="208_30" horizontal="false" title="Darth Vader, Emperor's Enforcer"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="200_81" horizontal="false" title="General Veers"/>
+    <card blueprintId="10_40" horizontal="false" title="Grand Admiral Thrawn"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="208_32" horizontal="false" title="Kir Kanos"/>
+    <card blueprintId="8_111" horizontal="false" title="Sergeant Barich"/>
+    <card blueprintId="8_112" horizontal="false" title="Sergeant Elsek"/>
+    <card blueprintId="8_113" horizontal="false" title="Sergeant Irol"/>
+    <card blueprintId="201_29" horizontal="false" title="Endor Shield"/>
+    <card blueprintId="8_126" horizontal="false" title="Imperial Arrest Order"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="2_121" horizontal="false" title="Imperial Justice"/>
+    <card blueprintId="9_129" horizontal="false" title="Mobilization Points"/>
+    <card blueprintId="200_112" horizontal="false" title="Something Special Planned For Them"/>
+    <card blueprintId="208_41" horizontal="false" title="Tarkin's Bounty"/>
+    <card blueprintId="7_244" horizontal="false" title="Tatooine Occupation"/>
+    <card blueprintId="201_33" horizontal="false" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="201_34" horizontal="false" title="According To My Design"/>
+    <card blueprintId="1_234" horizontal="false" title="Alter"/>
+    <card blueprintId="200_116" horizontal="false" title="Close Call"/>
+    <card blueprintId="200_116" horizontal="false" title="Close Call"/>
+    <card blueprintId="10_34" horizontal="false" title="Control &amp; Set For Stun"/>
+    <card blueprintId="3_120" horizontal="false" title="Crash Landing"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="200_121" horizontal="false" title="I Can't Shake Him!"/>
+    <card blueprintId="200_121" horizontal="false" title="I Can't Shake Him!"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="7_258" horizontal="false" title="Overwhelmed"/>
+    <card blueprintId="106_17" horizontal="false" title="Tarkin's Orders"/>
+    <card blueprintId="3_138" horizontal="false" title="Trample"/>
+    <card blueprintId="7_282" horizontal="true" title="Executor: Docking Bay"/>
+    <card blueprintId="1_295" horizontal="true" title="Tatooine: Mos Eisley"/>
+    <card blueprintId="11_93" horizontal="true" title="Tatooine: Mos Espa"/>
+    <card blueprintId="12_177" horizontal="true" title="Tatooine: Mos Espa Docking Bay"/>
+    <card blueprintId="12_178" horizontal="true" title="Tatooine: Watto's Junkyard"/>
+    <card blueprintId="9_157" horizontal="false" title="Flagship Executor"/>
+    <card blueprintId="200_139" horizontal="false" title="Blizzard 2"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="200_140" horizontal="false" title="Blizzard Scout 1"/>
+    <card blueprintId="8_170" horizontal="false" title="Tempest 1"/>
+    <card blueprintId="8_172" horizontal="false" title="Tempest Scout 1"/>
+    <card blueprintId="8_177" horizontal="false" title="Tempest Scout 6"/>
+</deck>
