@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="12_180" horizontal="false" title="No Money, No Parts, No Deal!"/>
+    <card blueprintId="12_178" horizontal="true" title="Tatooine: Watto's Junkyard"/>
+    <card blueprintId="208_56" horizontal="true" title="Tatooine: Mos Espa"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="204_47" horizontal="false" title="Bow To The First Order"/>
+    <card blueprintId="200_106" horizontal="false" title="Establish Control"/>
+    <card blueprintId="12_143" horizontal="false" title="Wipe Them Out, All Of Them"/>
+    <card blueprintId="200_74" horizontal="false" title="Arica"/>
+    <card blueprintId="10_37" horizontal="false" title="Dr. Evazan &amp; Ponda Baba"/>
+    <card blueprintId="204_42" horizontal="false" title="Greedo"/>
+    <card blueprintId="200_89" horizontal="false" title="R'tic H'weei"/>
+    <card blueprintId="11_65" horizontal="false" title="Watto"/>
+    <card blueprintId="11_65" horizontal="false" title="Watto"/>
+    <card blueprintId="11_65" horizontal="false" title="Watto"/>
+    <card blueprintId="205_12" horizontal="false" title="Emperor Palpatine, Foreseer"/>
+    <card blueprintId="209_39" horizontal="false" title="Supreme Leader Snoke"/>
+    <card blueprintId="200_71" horizontal="false" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="12_114" horizontal="false" title="P-59"/>
+    <card blueprintId="200_88" horizontal="false" title="Probot"/>
+    <card blueprintId="208_37" horizontal="false" title="Captain Peavey"/>
+    <card blueprintId="204_41" horizontal="false" title="General Hux"/>
+    <card blueprintId="209_37" horizontal="false" title="Kylo Ren With Lightsaber"/>
+    <card blueprintId="3_82" horizontal="false" title="Admiral Ozzel"/>
+    <card blueprintId="208_30" horizontal="false" title="Darth Vader, Emperor's Enforcer"/>
+    <card blueprintId="10_40" horizontal="false" title="Grand Admiral Thrawn"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="208_32" horizontal="false" title="Kir Kanos"/>
+    <card blueprintId="208_36" horizontal="false" title="Myn Kyneugh"/>
+    <card blueprintId="203_27" horizontal="false" title="General Grievous"/>
+    <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="4_118" horizontal="false" title="Broken Concentration"/>
+    <card blueprintId="7_229" horizontal="false" title="First Strike"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="2_121" horizontal="false" title="Imperial Justice"/>
+    <card blueprintId="112_16" horizontal="false" title="No Escape"/>
+    <card blueprintId="8_131" horizontal="false" title="Search And Destroy"/>
+    <card blueprintId="201_33" horizontal="false" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="201_34" horizontal="false" title="According To My Design"/>
+    <card blueprintId="201_35" horizontal="false" title="Cold Feet"/>
+    <card blueprintId="1_243" horizontal="false" title="Elis Helrot"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="10_39" horizontal="false" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="12_152" horizontal="false" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="5_149" horizontal="false" title="Projective Telepathy"/>
+    <card blueprintId="208_45" horizontal="false" title="Sonic Bombardment"/>
+    <card blueprintId="12_161" horizontal="false" title="They're Still Coming Through!"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="208_47" horizontal="false" title="You Swindled Me!"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="200_126" horizontal="true" title="Cloud City: Security Tower"/>
+    <card blueprintId="7_283" horizontal="false" title="Fondor"/>
+    <card blueprintId="4_167" horizontal="false" title="Executor"/>
+    <card blueprintId="204_54" horizontal="false" title="Finalizer"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+</deck>

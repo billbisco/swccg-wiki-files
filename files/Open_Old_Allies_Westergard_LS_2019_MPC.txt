@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="204_32" horizontal="false" title="Old Allies"/>
+    <card blueprintId="204_26" horizontal="false" title="Jakku"/>
+    <card blueprintId="204_27" horizontal="true" title="Jakku: Niima Outpost Shipyard"/>
+    <card blueprintId="204_35" horizontal="false" title="The Falcon, Junkyard Garbage"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="209_16" horizontal="false" title="A Brave Resistance"/>
+    <card blueprintId="12_44" horizontal="false" title="Insurrection &amp; Aim High"/>
+    <card blueprintId="9_41" horizontal="false" title="Strike Planning"/>
+    <card blueprintId="9_2" horizontal="false" title="Combined Fleet Action"/>
+    <card blueprintId="204_4" horizontal="false" title="Chewie With Bowcaster"/>
+    <card blueprintId="200_15" horizontal="false" title="Harc Seff"/>
+    <card blueprintId="204_11" horizontal="false" title="Solo"/>
+    <card blueprintId="204_11" horizontal="false" title="Solo"/>
+    <card blueprintId="9_6" horizontal="false" title="Admiral Ackbar"/>
+    <card blueprintId="209_1" horizontal="false" title="Admiral Raddus"/>
+    <card blueprintId="206_3" horizontal="false" title="Captain Cassian Andor"/>
+    <card blueprintId="204_3" horizontal="false" title="Captain Hera Syndulla"/>
+    <card blueprintId="10_5" horizontal="false" title="Corran Horn"/>
+    <card blueprintId="9_13" horizontal="false" title="General Calrissian"/>
+    <card blueprintId="200_2" horizontal="false" title="Anakin Skywalker, Padawan Learner"/>
+    <card blueprintId="204_6" horizontal="false" title="Finn"/>
+    <card blueprintId="204_6" horizontal="false" title="Finn"/>
+    <card blueprintId="207_5" horizontal="false" title="General Leia Organa"/>
+    <card blueprintId="204_8" horizontal="false" title="Poe Dameron"/>
+    <card blueprintId="204_8" horizontal="false" title="Poe Dameron"/>
+    <card blueprintId="209_10" horizontal="false" title="Rey With Lightsaber"/>
+    <card blueprintId="209_10" horizontal="false" title="Rey With Lightsaber"/>
+    <card blueprintId="209_10" horizontal="false" title="Rey With Lightsaber"/>
+    <card blueprintId="209_11" horizontal="false" title="Rose Tico"/>
+    <card blueprintId="209_11" horizontal="false" title="Rose Tico"/>
+    <card blueprintId="209_17" horizontal="false" title="Relatively Unprotected"/>
+    <card blueprintId="204_17" horizontal="false" title="Are You Okay?"/>
+    <card blueprintId="5_38" horizontal="false" title="Clash Of Sabers"/>
+    <card blueprintId="6_66" horizontal="false" title="Fallen Portal"/>
+    <card blueprintId="6_66" horizontal="false" title="Fallen Portal"/>
+    <card blueprintId="8_51" horizontal="false" title="Fly Casual"/>
+    <card blueprintId="207_13" horizontal="false" title="I Think I Can Handle Myself"/>
+    <card blueprintId="207_13" horizontal="false" title="I Think I Can Handle Myself"/>
+    <card blueprintId="207_13" horizontal="false" title="I Think I Can Handle Myself"/>
+    <card blueprintId="204_19" horizontal="false" title="I'm Getting Pretty Good At This"/>
+    <card blueprintId="204_20" horizontal="false" title="Keep Your Eyes Open"/>
+    <card blueprintId="204_20" horizontal="false" title="Keep Your Eyes Open"/>
+    <card blueprintId="8_57" horizontal="false" title="Lost In The Wilderness"/>
+    <card blueprintId="10_16" horizontal="false" title="Out Of Commission &amp; Transmission Terminated"/>
+    <card blueprintId="201_14" horizontal="false" title="Perimeter Scan"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="10_23" horizontal="false" title="Sorry About The Mess &amp; Blaster Proficiency"/>
+    <card blueprintId="207_16" horizontal="true" title="Jakku: Docking Bay"/>
+    <card blueprintId="204_29" horizontal="true" title="Jakku: Rey's Encampment"/>
+    <card blueprintId="204_30" horizontal="true" title="Jakku: Starship Graveyard"/>
+    <card blueprintId="209_30" horizontal="false" title="Lightmaker"/>
+    <card blueprintId="207_18" horizontal="false" title="Profundity"/>
+    <card blueprintId="201_19" horizontal="false" title="Tantive IV"/>
+    <card blueprintId="201_20" horizontal="false" title="Dash In Rogue 12"/>
+    <card blueprintId="3_68" horizontal="false" title="Rogue 3"/>
+</deck>
