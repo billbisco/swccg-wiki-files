@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="12_179" horizontal="false" title="My Lord, Is That Legal?"/>
+    <card blueprintId="12_167" horizontal="true" title="Coruscant: Galactic Senate"/>
+    <card blueprintId="211_20" horizontal="true" title="Invisible Hand: Bridge"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="12_130" horizontal="false" title="Begin Landing Your Troops"/>
+    <card blueprintId="212_1" horizontal="false" title="Evil Is Everywhere"/>
+    <card blueprintId="10_31" horizontal="false" title="Arica"/>
+    <card blueprintId="211_1" horizontal="false" title="Mitth'raw'nuruodo"/>
+    <card blueprintId="200_76" horizontal="false" title="Count Dooku"/>
+    <card blueprintId="200_76" horizontal="false" title="Count Dooku"/>
+    <card blueprintId="14_79" horizontal="false" title="Darth Sidious"/>
+    <card blueprintId="10_41" horizontal="false" title="Guri"/>
+    <card blueprintId="12_97" horizontal="false" title="Aks Moe"/>
+    <card blueprintId="12_98" horizontal="false" title="Baskol Yeesrim"/>
+    <card blueprintId="12_105" horizontal="false" title="Edcel Bar Gane"/>
+    <card blueprintId="203_27" horizontal="false" title="General Grievous"/>
+    <card blueprintId="12_110" horizontal="false" title="Lott Dod"/>
+    <card blueprintId="12_110" horizontal="false" title="Lott Dod"/>
+    <card blueprintId="210_40" horizontal="false" title="Nute Gunray"/>
+    <card blueprintId="210_40" horizontal="false" title="Nute Gunray"/>
+    <card blueprintId="12_113" horizontal="false" title="Orn Free Taa"/>
+    <card blueprintId="12_117" horizontal="false" title="Rune Haako"/>
+    <card blueprintId="14_88" horizontal="false" title="Sil Unch"/>
+    <card blueprintId="12_122" horizontal="false" title="Tikkes"/>
+    <card blueprintId="12_123" horizontal="false" title="Toonbuck Toora"/>
+    <card blueprintId="12_123" horizontal="false" title="Toonbuck Toora"/>
+    <card blueprintId="12_126" horizontal="false" title="Yeb Yeb Adem'thorn"/>
+    <card blueprintId="203_26" horizontal="false" title="Darth Maul, Lone Hunter"/>
+    <card blueprintId="203_26" horizontal="false" title="Darth Maul, Lone Hunter"/>
+    <card blueprintId="203_26" horizontal="false" title="Darth Maul, Lone Hunter"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="14_100" horizontal="false" title="Senate Hovercam"/>
+    <card blueprintId="14_100" horizontal="false" title="Senate Hovercam"/>
+    <card blueprintId="200_112" horizontal="false" title="Something Special Planned For Them"/>
+    <card blueprintId="12_140" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="200_119" horizontal="false" title="Force Field"/>
+    <card blueprintId="200_119" horizontal="false" title="Force Field"/>
+    <card blueprintId="9_136" horizontal="false" title="Force Lightning"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="200_122" horizontal="false" title="Imbalance &amp; Kintan Strider"/>
+    <card blueprintId="200_122" horizontal="false" title="Imbalance &amp; Kintan Strider"/>
+    <card blueprintId="209_48" horizontal="false" title="Lana Dobreed &amp; Sacrifice"/>
+    <card blueprintId="12_152" horizontal="false" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="10_47" horizontal="false" title="Sniper &amp; Dark Strike"/>
+    <card blueprintId="12_159" horizontal="false" title="Squabbling Delegates"/>
+    <card blueprintId="12_159" horizontal="false" title="Squabbling Delegates"/>
+    <card blueprintId="12_159" horizontal="false" title="Squabbling Delegates"/>
+    <card blueprintId="2_140" horizontal="false" title="Stunning Leader"/>
+    <card blueprintId="5_160" horizontal="false" title="Weapon Levitation"/>
+    <card blueprintId="7_276" horizontal="true" title="Coruscant: Docking Bay"/>
+    <card blueprintId="7_282" horizontal="true" title="Executor: Docking Bay"/>
+    <card blueprintId="211_22" horizontal="true" title="Invisible Hand: Hallway 328"/>
+    <card blueprintId="12_169" horizontal="false" title="Naboo"/>
+    <card blueprintId="211_23" horizontal="false" title="Invisible Hand"/>
+    <card blueprintId="200_142" horizontal="false" title="Dooku's Lightsaber"/>
+    <card blueprintId="13_75" horizontal="false" title="Maul's Double-Bladed Lightsaber"/>
+</deck>

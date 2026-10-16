@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="12_179" horizontal="false" title="My Lord, Is That Legal?"/>
+    <card blueprintId="12_167" horizontal="true" title="Coruscant: Galactic Senate"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="200_125" horizontal="false" title="Surface Defense"/>
+    <card blueprintId="10_31" horizontal="false" title="Arica"/>
+    <card blueprintId="10_41" horizontal="false" title="Guri"/>
+    <card blueprintId="14_83" horizontal="false" title="OOM-9"/>
+    <card blueprintId="200_88" horizontal="false" title="Probot"/>
+    <card blueprintId="14_92" horizontal="false" title="Tank Commander"/>
+    <card blueprintId="14_92" horizontal="false" title="Tank Commander"/>
+    <card blueprintId="14_92" horizontal="false" title="Tank Commander"/>
+    <card blueprintId="14_92" horizontal="false" title="Tank Commander"/>
+    <card blueprintId="2_107" horizontal="false" title="U-3PO (Yoo-Threepio)"/>
+    <card blueprintId="12_97" horizontal="false" title="Aks Moe"/>
+    <card blueprintId="12_98" horizontal="false" title="Baskol Yeesrim"/>
+    <card blueprintId="12_105" horizontal="false" title="Edcel Bar Gane"/>
+    <card blueprintId="12_110" horizontal="false" title="Lott Dod"/>
+    <card blueprintId="12_110" horizontal="false" title="Lott Dod"/>
+    <card blueprintId="12_110" horizontal="false" title="Lott Dod"/>
+    <card blueprintId="12_113" horizontal="false" title="Orn Free Taa"/>
+    <card blueprintId="12_121" horizontal="false" title="Tey How"/>
+    <card blueprintId="12_122" horizontal="false" title="Tikkes"/>
+    <card blueprintId="12_123" horizontal="false" title="Toonbuck Toora"/>
+    <card blueprintId="12_126" horizontal="false" title="Yeb Yeb Adem'thorn"/>
+    <card blueprintId="14_96" horizontal="false" title="Droid Racks"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="14_100" horizontal="false" title="Senate Hovercam"/>
+    <card blueprintId="200_115" horizontal="false" title="Alter"/>
+    <card blueprintId="201_35" horizontal="false" title="Cold Feet"/>
+    <card blueprintId="10_39" horizontal="false" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+    <card blueprintId="200_122" horizontal="false" title="Imbalance &amp; Kintan Strider"/>
+    <card blueprintId="12_152" horizontal="false" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="12_154" horizontal="false" title="Neimoidian Advisor"/>
+    <card blueprintId="1_261" horizontal="false" title="Nevar Yalnal"/>
+    <card blueprintId="1_261" horizontal="false" title="Nevar Yalnal"/>
+    <card blueprintId="200_123" horizontal="false" title="Sith Fury"/>
+    <card blueprintId="200_123" horizontal="false" title="Sith Fury"/>
+    <card blueprintId="208_45" horizontal="false" title="Sonic Bombardment"/>
+    <card blueprintId="12_159" horizontal="false" title="Squabbling Delegates"/>
+    <card blueprintId="12_159" horizontal="false" title="Squabbling Delegates"/>
+    <card blueprintId="12_159" horizontal="false" title="Squabbling Delegates"/>
+    <card blueprintId="201_36" horizontal="false" title="TIE Sentry Ships"/>
+    <card blueprintId="14_106" horizontal="false" title="Take Them Away"/>
+    <card blueprintId="106_17" horizontal="false" title="Tarkin's Orders"/>
+    <card blueprintId="200_126" horizontal="true" title="Cloud City: Security Tower"/>
+    <card blueprintId="2_146" horizontal="false" title="Kashyyyk"/>
+    <card blueprintId="12_169" horizontal="false" title="Naboo"/>
+    <card blueprintId="12_170" horizontal="true" title="Naboo: Battle Plains"/>
+    <card blueprintId="12_171" horizontal="true" title="Naboo: Swamp"/>
+    <card blueprintId="14_114" horizontal="false" title="Blockade Flagship"/>
+    <card blueprintId="200_130" horizontal="false" title="Boba Fett In Slave I"/>
+    <card blueprintId="200_131" horizontal="false" title="Bossk In Hound's Tooth"/>
+    <card blueprintId="10_49" horizontal="false" title="Stinger"/>
+    <card blueprintId="110_12" horizontal="false" title="Zuckuss In Mist Hunter"/>
+    <card blueprintId="14_120" horizontal="false" title="AAT Assault Leader"/>
+    <card blueprintId="14_120" horizontal="false" title="AAT Assault Leader"/>
+    <card blueprintId="14_121" horizontal="false" title="Armored Attack Tank"/>
+    <card blueprintId="14_121" horizontal="false" title="Armored Attack Tank"/>
+    <card blueprintId="14_121" horizontal="false" title="Armored Attack Tank"/>
+</deck>
