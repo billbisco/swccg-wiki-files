@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="4_125" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="1_289" horizontal="false" title="Tatooine"/>
+    <card blueprintId="200_117" horizontal="false" title="Combat Readiness"/>
+    <card blueprintId="11_92" horizontal="true" title="Tatooine: Desert Landing Site"/>
+    <card blueprintId="7_283" horizontal="false" title="Fondor"/>
+    <card blueprintId="7_289" horizontal="true" title="Spaceport Docking Bay"/>
+    <card blueprintId="1_291" horizontal="true" title="Tatooine: Docking Bay 94"/>
+    <card blueprintId="12_177" horizontal="true" title="Tatooine: Mos Espa Docking Bay"/>
+    <card blueprintId="201_22" horizontal="false" title="Colonel Wullf Yularen"/>
+    <card blueprintId="200_78" horizontal="false" title="Darth Vader"/>
+    <card blueprintId="1_173" horizontal="false" title="DS-61-2"/>
+    <card blueprintId="200_77" horizontal="false" title="DS-61-5"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="8_101" horizontal="false" title="Lieutenant Arnet"/>
+    <card blueprintId="9_112" horizontal="false" title="Lieutenant Hebsly"/>
+    <card blueprintId="8_104" horizontal="false" title="Lieutenant Watts"/>
+    <card blueprintId="8_106" horizontal="false" title="Major Marquand"/>
+    <card blueprintId="9_114" horizontal="false" title="Major Mianda"/>
+    <card blueprintId="9_116" horizontal="false" title="Major Turr Phennir"/>
+    <card blueprintId="200_127" horizontal="false" title="Black 2"/>
+    <card blueprintId="200_128" horizontal="false" title="Black 5"/>
+    <card blueprintId="106_13" horizontal="false" title="Dreadnaught-Class Heavy Cruiser"/>
+    <card blueprintId="9_163" horizontal="false" title="Saber 2"/>
+    <card blueprintId="9_169" horizontal="false" title="Scythe 1"/>
+    <card blueprintId="9_170" horizontal="false" title="Scythe 3"/>
+    <card blueprintId="200_140" horizontal="false" title="Blizzard Scout 1"/>
+    <card blueprintId="8_172" horizontal="false" title="Tempest Scout 1"/>
+    <card blueprintId="8_173" horizontal="false" title="Tempest Scout 2"/>
+    <card blueprintId="202_15" horizontal="false" title="Tempest Scout 3"/>
+    <card blueprintId="8_176" horizontal="false" title="Tempest Scout 5"/>
+    <card blueprintId="8_177" horizontal="false" title="Tempest Scout 6"/>
+    <card blueprintId="9_181" horizontal="false" title="SFS L-s7.2 TIE Cannon"/>
+    <card blueprintId="9_181" horizontal="false" title="SFS L-s7.2 TIE Cannon"/>
+    <card blueprintId="9_94" horizontal="false" title="Fighters Coming In"/>
+    <card blueprintId="9_94" horizontal="false" title="Fighters Coming In"/>
+    <card blueprintId="9_121" horizontal="false" title="Combat Response"/>
+    <card blueprintId="200_106" horizontal="false" title="Establish Control"/>
+    <card blueprintId="7_228" horizontal="false" title="Firepower"/>
+    <card blueprintId="12_135" horizontal="false" title="Imperial Arrest Order &amp; Secret Plans"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="3_106" horizontal="false" title="Imperial Domination"/>
+    <card blueprintId="2_121" horizontal="false" title="Imperial Justice"/>
+    <card blueprintId="6_148" horizontal="false" title="Sandwhirl"/>
+    <card blueprintId="8_132" horizontal="false" title="Security Precautions"/>
+    <card blueprintId="7_244" horizontal="false" title="Tatooine Occupation"/>
+    <card blueprintId="7_244" horizontal="false" title="Tatooine Occupation"/>
+    <card blueprintId="7_246" horizontal="false" title="All Power To Weapons"/>
+    <card blueprintId="7_246" horizontal="false" title="All Power To Weapons"/>
+    <card blueprintId="10_35" horizontal="false" title="Dark Maneuvers &amp; Tallon Roll"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="12_152" horizontal="false" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="200_124" horizontal="false" title="Sneak Attack"/>
+    <card blueprintId="200_124" horizontal="false" title="Sneak Attack"/>
+    <card blueprintId="201_36" horizontal="false" title="TIE Sentry Ships"/>
+    <card blueprintId="3_138" horizontal="false" title="Trample"/>
+    <card blueprintId="3_138" horizontal="false" title="Trample"/>
+    <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="12_128" horizontal="false" title="Allegations Of Corruption"/>
+    <card blueprintId="8_118" horizontal="false" title="Battle Order"/>
+    <card blueprintId="7_224" horizontal="false" title="Come Here You Big Coward"/>
+    <card blueprintId="8_121" horizontal="false" title="Crossfire"/>
+    <card blueprintId="1_213" horizontal="false" title="Death Star Sentry"/>
+    <card blueprintId="12_131" horizontal="false" title="Do They Have A Code Clearance?"/>
+    <card blueprintId="11_69" horizontal="false" title="Fanfare"/>
+    <card blueprintId="7_228" horizontal="false" title="Firepower"/>
+    <card blueprintId="7_234" horizontal="false" title="Oppressive Enforcement"/>
+    <card blueprintId="6_147" horizontal="false" title="Resistance"/>
+    <card blueprintId="4_134" horizontal="false" title="There Is No Try"/>
+    <card blueprintId="12_143" horizontal="false" title="Wipe Them Out, All Of Them"/>
+    <card blueprintId="9_133" horizontal="false" title="You Cannot Hide Forever"/>
+</deck>
