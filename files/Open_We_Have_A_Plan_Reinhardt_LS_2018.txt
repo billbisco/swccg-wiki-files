@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="14_52" horizontal="false" title="We Have A Plan"/>
+    <card blueprintId="12_81" horizontal="true" title="Naboo: Theed Palace Courtyard"/>
+    <card blueprintId="201_17" horizontal="true" title="Naboo: Theed Palace Hallway"/>
+    <card blueprintId="12_83" horizontal="true" title="Naboo: Theed Palace Throne Room"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="14_1" horizontal="false" title="I'll Try Spinning"/>
+    <card blueprintId="14_1" horizontal="false" title="I'll Try Spinning"/>
+    <card blueprintId="200_1" horizontal="false" title="Aayla Secura"/>
+    <card blueprintId="200_15" horizontal="false" title="Harc Seff"/>
+    <card blueprintId="204_11" horizontal="false" title="Solo"/>
+    <card blueprintId="206_5" horizontal="false" title="K-2SO (Kay-Tuesso)"/>
+    <card blueprintId="11_13" horizontal="false" title="Threepio With His Parts Showing"/>
+    <card blueprintId="14_27" horizontal="false" title="Qui-Gon Jinn With Lightsaber"/>
+    <card blueprintId="14_27" horizontal="false" title="Qui-Gon Jinn With Lightsaber"/>
+    <card blueprintId="301_1" horizontal="false" title="Ahsoka Tano With Lightsabers"/>
+    <card blueprintId="200_2" horizontal="false" title="Anakin Skywalker, Padawan Learner"/>
+    <card blueprintId="200_3" horizontal="false" title="Captain Rex, 501st Legion"/>
+    <card blueprintId="200_3" horizontal="false" title="Captain Rex, 501st Legion"/>
+    <card blueprintId="14_14" horizontal="false" title="Jerus Jannick"/>
+    <card blueprintId="14_17" horizontal="false" title="Lieutenant Rya Kirsch"/>
+    <card blueprintId="14_23" horizontal="false" title="Panaka, Protector Of The Queen"/>
+    <card blueprintId="14_25" horizontal="false" title="Queen Amidala"/>
+    <card blueprintId="14_25" horizontal="false" title="Queen Amidala"/>
+    <card blueprintId="14_29" horizontal="false" title="Ric Olie, Bravo Leader"/>
+    <card blueprintId="13_42" horizontal="false" title="Sio Bibble"/>
+    <card blueprintId="13_42" horizontal="false" title="Sio Bibble"/>
+    <card blueprintId="14_31" horizontal="false" title="Get To Your Ships!"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="201_10" horizontal="false" title="We'll Take The Long Way"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="11_26" horizontal="false" title="A Jedi's Concentration"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="200_48" horizontal="false" title="Alter"/>
+    <card blueprintId="2_44" horizontal="false" title="Alternatives To Fighting"/>
+    <card blueprintId="201_11" horizontal="false" title="Ascension Guns"/>
+    <card blueprintId="10_4" horizontal="false" title="Control &amp; Tunnel Vision"/>
+    <card blueprintId="204_18" horizontal="false" title="Escape Pod &amp; We're Doomed"/>
+    <card blueprintId="12_58" horizontal="false" title="Free Ride &amp; Endor Celebration"/>
+    <card blueprintId="2_49" horizontal="false" title="Grimtaash"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="1_90" horizontal="false" title="It Could Be Worse"/>
+    <card blueprintId="106_5" horizontal="false" title="It's A Hit!"/>
+    <card blueprintId="5_55" horizontal="false" title="It's A Trap!"/>
+    <card blueprintId="204_20" horizontal="false" title="Keep Your Eyes Open"/>
+    <card blueprintId="204_20" horizontal="false" title="Keep Your Eyes Open"/>
+    <card blueprintId="1_97" horizontal="false" title="Nabrun Leids"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="1_120" horizontal="false" title="We're Doomed"/>
+    <card blueprintId="8_64" horizontal="false" title="Were You Looking For Me?"/>
+    <card blueprintId="12_78" horizontal="false" title="Naboo"/>
+    <card blueprintId="202_7" horizontal="false" title="Azure Angel"/>
+    <card blueprintId="14_53" horizontal="false" title="Bravo 1"/>
+    <card blueprintId="14_56" horizontal="false" title="Bravo 4"/>
+    <card blueprintId="200_61" horizontal="false" title="Bravo Fighter"/>
+    <card blueprintId="206_8" horizontal="false" title="The Falcon"/>
+</deck>
