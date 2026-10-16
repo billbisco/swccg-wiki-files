@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="3_143" horizontal="false" title="Hoth"/>
+    <card blueprintId="200_117" horizontal="false" title="Combat Readiness"/>
+    <card blueprintId="3_148" horizontal="true" title="Hoth: Ice Plains (5th Marker)"/>
+    <card blueprintId="13_82" horizontal="false" title="Prepare For A Surface Attack"/>
+    <card blueprintId="207_26" horizontal="false" title="Security Precautions"/>
+    <card blueprintId="11_77" horizontal="false" title="You May Start Your Landing"/>
+    <card blueprintId="200_74" horizontal="false" title="Arica"/>
+    <card blueprintId="10_37" horizontal="false" title="Dr. Evazan &amp; Ponda Baba"/>
+    <card blueprintId="10_45" horizontal="false" title="Prince Xizor"/>
+    <card blueprintId="200_73" horizontal="false" title="Admiral Motti"/>
+    <card blueprintId="8_94" horizontal="false" title="Commander Igar"/>
+    <card blueprintId="200_77" horizontal="false" title="DS-61-5"/>
+    <card blueprintId="200_78" horizontal="false" title="Darth Vader"/>
+    <card blueprintId="207_20" horizontal="false" title="Director Orson Krennic"/>
+    <card blueprintId="200_81" horizontal="false" title="General Veers"/>
+    <card blueprintId="207_21" horizontal="false" title="Grand Admiral Thrawn"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="200_85" horizontal="false" title="Maarek Stele, The Emperor's Reach"/>
+    <card blueprintId="2_119" horizontal="false" title="Dark Waters"/>
+    <card blueprintId="2_119" horizontal="false" title="Dark Waters"/>
+    <card blueprintId="3_99" horizontal="false" title="Death Mark"/>
+    <card blueprintId="3_100" horizontal="false" title="Death Squadron"/>
+    <card blueprintId="200_107" horizontal="false" title="Image Of The Dark Lord"/>
+    <card blueprintId="5_120" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="2_121" horizontal="false" title="Imperial Justice"/>
+    <card blueprintId="2_121" horizontal="false" title="Imperial Justice"/>
+    <card blueprintId="2_121" horizontal="false" title="Imperial Justice"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="200_111" horizontal="false" title="Kuat Drive Yards"/>
+    <card blueprintId="2_128" horizontal="false" title="There'll Be Hell To Pay"/>
+    <card blueprintId="200_116" horizontal="false" title="Close Call"/>
+    <card blueprintId="200_116" horizontal="false" title="Close Call"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="12_152" horizontal="false" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="12_152" horizontal="false" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="200_125" horizontal="false" title="Surface Defense"/>
+    <card blueprintId="1_269" horizontal="false" title="Takeel"/>
+    <card blueprintId="1_269" horizontal="false" title="Takeel"/>
+    <card blueprintId="1_269" horizontal="false" title="Takeel"/>
+    <card blueprintId="1_269" horizontal="false" title="Takeel"/>
+    <card blueprintId="104_7" horizontal="false" title="Walker Garrison"/>
+    <card blueprintId="104_7" horizontal="false" title="Walker Garrison"/>
+    <card blueprintId="3_144" horizontal="true" title="Hoth: Defensive Perimeter (3rd Marker)"/>
+    <card blueprintId="104_4" horizontal="true" title="Hoth: Mountains (6th Marker)"/>
+    <card blueprintId="9_149" horizontal="false" title="Mon Calamari"/>
+    <card blueprintId="6_168" horizontal="false" title="Nal Hutta"/>
+    <card blueprintId="200_133" horizontal="false" title="Conquest"/>
+    <card blueprintId="201_41" horizontal="false" title="Stalker"/>
+    <card blueprintId="9_174" horizontal="false" title="Thunderflare"/>
+    <card blueprintId="3_153" horizontal="false" title="Tyrant"/>
+    <card blueprintId="200_139" horizontal="false" title="Blizzard 2"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="200_140" horizontal="false" title="Blizzard Scout 1"/>
+    <card blueprintId="3_157" horizontal="false" title="Blizzard Walker"/>
+    <card blueprintId="3_157" horizontal="false" title="Blizzard Walker"/>
+    <card blueprintId="104_5" horizontal="false" title="Imperial Walker"/>
+    <card blueprintId="104_5" horizontal="false" title="Imperial Walker"/>
+    <card blueprintId="8_170" horizontal="false" title="Tempest 1"/>
+</deck>
