@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="7_296" horizontal="false" title="Carbon Chamber Testing"/>
+    <card blueprintId="5_166" horizontal="true" title="Cloud City: Carbonite Chamber"/>
+    <card blueprintId="200_126" horizontal="true" title="Cloud City: Security Tower"/>
+    <card blueprintId="211_8" horizontal="false" title="Carbonite Chamber Console"/>
+    <card blueprintId="10_42" horizontal="false" title="Jabba's Prize"/>
+    <card blueprintId="109_7" horizontal="false" title="Any Methods Necessary"/>
+    <card blueprintId="201_28" horizontal="false" title="Despair"/>
+    <card blueprintId="206_9" horizontal="false" title="Boba Fett"/>
+    <card blueprintId="205_22" horizontal="false" title="Boba Fett's Blaster Rifle"/>
+    <card blueprintId="212_3" horizontal="false" title="Aurra Sing With Blaster Rifle"/>
+    <card blueprintId="212_3" horizontal="false" title="Aurra Sing With Blaster Rifle"/>
+    <card blueprintId="203_24" horizontal="false" title="Cad Bane"/>
+    <card blueprintId="202_9" horizontal="false" title="Daroe"/>
+    <card blueprintId="200_79" horizontal="false" title="Dengar With Blaster Carbine"/>
+    <card blueprintId="209_35" horizontal="false" title="Dr. Chelli Lona Aphra"/>
+    <card blueprintId="1_172" horizontal="false" title="Dr. Evazan"/>
+    <card blueprintId="204_42" horizontal="false" title="Greedo"/>
+    <card blueprintId="205_13" horizontal="false" title="Hondo Ohnaka"/>
+    <card blueprintId="201_25" horizontal="false" title="Jango Fett"/>
+    <card blueprintId="211_3" horizontal="false" title="Lady Proxima"/>
+    <card blueprintId="200_86" horizontal="false" title="Mara Jade With Lightsaber"/>
+    <card blueprintId="112_14" horizontal="false" title="Mighty Jabba"/>
+    <card blueprintId="203_28" horizontal="false" title="Ortugg"/>
+    <card blueprintId="10_45" horizontal="false" title="Prince Xizor"/>
+    <card blueprintId="204_46" horizontal="false" title="Zam Wesell"/>
+    <card blueprintId="109_6" horizontal="false" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="200_83" horizontal="false" title="IG-88"/>
+    <card blueprintId="12_114" horizontal="false" title="P-59"/>
+    <card blueprintId="200_88" horizontal="false" title="Probot"/>
+    <card blueprintId="2_107" horizontal="false" title="U-3PO (Yoo-Threepio)"/>
+    <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="1_214" horizontal="false" title="Disarmed"/>
+    <card blueprintId="1_214" horizontal="false" title="Disarmed"/>
+    <card blueprintId="1_214" horizontal="false" title="Disarmed"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="201_31" horizontal="false" title="Jabba's Haven"/>
+    <card blueprintId="6_149" horizontal="false" title="Scum And Villainy"/>
+    <card blueprintId="200_114" horizontal="false" title="You'll Be Dead!"/>
+    <card blueprintId="201_33" horizontal="false" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="201_35" horizontal="false" title="Cold Feet"/>
+    <card blueprintId="10_39" horizontal="false" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+    <card blueprintId="211_13" horizontal="false" title="He's All Yours, Bounty Hunter"/>
+    <card blueprintId="200_122" horizontal="false" title="Imbalance &amp; Kintan Strider"/>
+    <card blueprintId="12_148" horizontal="false" title="Imperial Artillery"/>
+    <card blueprintId="7_255" horizontal="false" title="Jabba's Through With You"/>
+    <card blueprintId="209_48" horizontal="false" title="Lana Dobreed &amp; Sacrifice"/>
+    <card blueprintId="6_157" horizontal="false" title="None Shall Pass"/>
+    <card blueprintId="210_41" horizontal="false" title="Oo-ta Goo-ta, Solo?"/>
+    <card blueprintId="5_149" horizontal="false" title="Projective Telepathy"/>
+    <card blueprintId="2_140" horizontal="false" title="Stunning Leader"/>
+    <card blueprintId="211_15" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="211_15" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="211_15" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="211_15" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="4_153" horizontal="false" title="Voyeur"/>
+    <card blueprintId="6_162" horizontal="true" title="Jabba's Palace: Audience Chamber"/>
+    <card blueprintId="6_164" horizontal="true" title="Jabba's Palace: Dungeon"/>
+    <card blueprintId="6_167" horizontal="true" title="Jabba's Sail Barge: Passenger Deck"/>
+    <card blueprintId="12_182" horizontal="false" title="Maul's Sith Infiltrator"/>
+</deck>
