@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="111_6" horizontal="false" title="Set Your Course For Alderaan"/>
+    <card blueprintId="1_281" horizontal="false" title="Alderaan"/>
+    <card blueprintId="2_143" horizontal="false" title="Death Star"/>
+    <card blueprintId="1_285" horizontal="true" title="Death Star: Docking Bay 327"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="200_73" horizontal="false" title="Admiral Motti"/>
+    <card blueprintId="3_82" horizontal="false" title="Admiral Ozzel"/>
+    <card blueprintId="200_74" horizontal="false" title="Arica"/>
+    <card blueprintId="3_84" horizontal="false" title="Captain Lennox"/>
+    <card blueprintId="204_38" horizontal="false" title="Captain Phasma"/>
+    <card blueprintId="14_78" horizontal="false" title="Darth Sidious"/>
+    <card blueprintId="7_175" horizontal="false" title="Darth Vader, Dark Lord Of The Sith"/>
+    <card blueprintId="204_41" horizontal="false" title="General Hux"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="204_43" horizontal="false" title="Kylo Ren"/>
+    <card blueprintId="2_107" horizontal="false" title="U-3PO (Yoo-Threepio)"/>
+    <card blueprintId="4_106" horizontal="false" title="Warrant Officer M'Kae"/>
+    <card blueprintId="203_29" horizontal="false" title="Deflector Shield Generators"/>
+    <card blueprintId="203_29" horizontal="false" title="Deflector Shield Generators"/>
+    <card blueprintId="203_29" horizontal="false" title="Deflector Shield Generators"/>
+    <card blueprintId="7_217" horizontal="false" title="Homing Beacon"/>
+    <card blueprintId="7_217" horizontal="false" title="Homing Beacon"/>
+    <card blueprintId="2_115" horizontal="false" title="Tractor Beam"/>
+    <card blueprintId="2_115" horizontal="false" title="Tractor Beam"/>
+    <card blueprintId="7_218" horizontal="false" title="A Bright Center To The Universe"/>
+    <card blueprintId="14_94" horizontal="false" title="After Her!"/>
+    <card blueprintId="204_47" horizontal="false" title="Bow To The First Order"/>
+    <card blueprintId="201_29" horizontal="false" title="Endor Shield"/>
+    <card blueprintId="4_124" horizontal="false" title="I Want That Ship"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="200_111" horizontal="false" title="Kuat Drive Yards"/>
+    <card blueprintId="1_222" horizontal="false" title="Lateral Damage"/>
+    <card blueprintId="1_222" horizontal="false" title="Lateral Damage"/>
+    <card blueprintId="9_132" horizontal="false" title="Something Special Planned For Them"/>
+    <card blueprintId="12_144" horizontal="false" title="You Cannot Hide Forever &amp; Mobilization Points"/>
+    <card blueprintId="7_250" horizontal="false" title="Flawless Marksmanship"/>
+    <card blueprintId="7_253" horizontal="false" title="I Can't Shake Him!"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="7_254" horizontal="false" title="In Range"/>
+    <card blueprintId="7_254" horizontal="false" title="In Range"/>
+    <card blueprintId="7_254" horizontal="false" title="In Range"/>
+    <card blueprintId="3_131" horizontal="false" title="Our First Catch Of The Day"/>
+    <card blueprintId="3_131" horizontal="false" title="Our First Catch Of The Day"/>
+    <card blueprintId="7_266" horizontal="false" title="They've Shut Down The Main Reactor"/>
+    <card blueprintId="7_266" horizontal="false" title="They've Shut Down The Main Reactor"/>
+    <card blueprintId="5_158" horizontal="false" title="TIE Sentry Ships"/>
+    <card blueprintId="1_287" horizontal="true" title="Death Star: War Room"/>
+    <card blueprintId="2_146" horizontal="false" title="Kashyyyk"/>
+    <card blueprintId="6_168" horizontal="false" title="Nal Hutta"/>
+    <card blueprintId="9_152" horizontal="false" title="Accuser"/>
+    <card blueprintId="202_13" horizontal="false" title="Binder"/>
+    <card blueprintId="202_13" horizontal="false" title="Binder"/>
+    <card blueprintId="204_54" horizontal="false" title="Finalizer"/>
+    <card blueprintId="9_157" horizontal="false" title="Flagship Executor"/>
+    <card blueprintId="3_152" horizontal="false" title="Stalker"/>
+    <card blueprintId="9_174" horizontal="false" title="Thunderflare"/>
+    <card blueprintId="3_153" horizontal="false" title="Tyrant"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="12_128" horizontal="false" title="Allegations Of Corruption"/>
+    <card blueprintId="8_118" horizontal="false" title="Battle Order"/>
+    <card blueprintId="7_224" horizontal="false" title="Come Here You Big Coward"/>
+    <card blueprintId="12_131" horizontal="false" title="Do They Have A Code Clearance?"/>
+    <card blueprintId="11_69" horizontal="false" title="Fanfare"/>
+    <card blueprintId="7_228" horizontal="false" title="Firepower"/>
+    <card blueprintId="1_217" horizontal="false" title="I Find Your Lack Of Faith Disturbing"/>
+    <card blueprintId="7_234" horizontal="false" title="Oppressive Enforcement"/>
+    <card blueprintId="6_147" horizontal="false" title="Resistance"/>
+    <card blueprintId="7_240" horizontal="false" title="Secret Plans"/>
+    <card blueprintId="4_134" horizontal="false" title="There Is No Try"/>
+    <card blueprintId="9_133" horizontal="false" title="You Cannot Hide Forever"/>
+</deck>

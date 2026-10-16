@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="9_147" horizontal="true" title="Death Star II: Throne Room"/>
+    <card blueprintId="201_34" horizontal="false" title="According To My Design"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="200_126" horizontal="true" title="Cloud City: Security Tower"/>
+    <card blueprintId="7_275" horizontal="false" title="Coruscant"/>
+    <card blueprintId="4_158" horizontal="true" title="Dagobah: Cave"/>
+    <card blueprintId="3_148" horizontal="true" title="Hoth: Ice Plains (5th Marker)"/>
+    <card blueprintId="11_92" horizontal="true" title="Tatooine: Desert Landing Site"/>
+    <card blueprintId="200_71" horizontal="false" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="200_71" horizontal="false" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="200_76" horizontal="false" title="Count Dooku"/>
+    <card blueprintId="200_76" horizontal="false" title="Count Dooku"/>
+    <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="1_168" horizontal="false" title="Darth Vader"/>
+    <card blueprintId="1_168" horizontal="false" title="Darth Vader"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="10_40" horizontal="false" title="Grand Admiral Thrawn"/>
+    <card blueprintId="10_40" horizontal="false" title="Grand Admiral Thrawn"/>
+    <card blueprintId="200_86" horizontal="false" title="Mara Jade With Lightsaber"/>
+    <card blueprintId="200_86" horizontal="false" title="Mara Jade With Lightsaber"/>
+    <card blueprintId="11_64" horizontal="false" title="Sith Probe Droid"/>
+    <card blueprintId="4_167" horizontal="false" title="Executor"/>
+    <card blueprintId="12_182" horizontal="false" title="Maul's Sith Infiltrator"/>
+    <card blueprintId="12_182" horizontal="false" title="Maul's Sith Infiltrator"/>
+    <card blueprintId="110_12" horizontal="false" title="Zuckuss In Mist Hunter"/>
+    <card blueprintId="110_12" horizontal="false" title="Zuckuss In Mist Hunter"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="5_110" horizontal="false" title="Ability, Ability, Ability"/>
+    <card blueprintId="14_94" horizontal="false" title="After Her!"/>
+    <card blueprintId="109_9" horizontal="false" title="Crush The Rebellion"/>
+    <card blueprintId="9_123" horizontal="false" title="Emperor's Power"/>
+    <card blueprintId="201_29" horizontal="false" title="Endor Shield"/>
+    <card blueprintId="12_133" horizontal="false" title="Enter The Bureaucrat"/>
+    <card blueprintId="7_229" horizontal="false" title="First Strike"/>
+    <card blueprintId="1_227" horizontal="false" title="Presence Of The Force"/>
+    <card blueprintId="1_227" horizontal="false" title="Presence Of The Force"/>
+    <card blueprintId="12_139" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="12_139" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="9_133" horizontal="false" title="You Cannot Hide Forever"/>
+    <card blueprintId="1_243" horizontal="false" title="Elis Helrot"/>
+    <card blueprintId="10_38" horizontal="false" title="Evader &amp; Monnok"/>
+    <card blueprintId="5_142" horizontal="false" title="Force Field"/>
+    <card blueprintId="5_142" horizontal="false" title="Force Field"/>
+    <card blueprintId="9_136" horizontal="false" title="Force Lightning"/>
+    <card blueprintId="9_136" horizontal="false" title="Force Lightning"/>
+    <card blueprintId="9_136" horizontal="false" title="Force Lightning"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="1_248" horizontal="false" title="I Have You Now"/>
+    <card blueprintId="1_248" horizontal="false" title="I Have You Now"/>
+    <card blueprintId="1_263" horizontal="false" title="Overload"/>
+    <card blueprintId="10_46" horizontal="false" title="Sense &amp; Uncertain Is The Future"/>
+    <card blueprintId="10_46" horizontal="false" title="Sense &amp; Uncertain Is The Future"/>
+    <card blueprintId="10_46" horizontal="false" title="Sense &amp; Uncertain Is The Future"/>
+    <card blueprintId="10_46" horizontal="false" title="Sense &amp; Uncertain Is The Future"/>
+    <card blueprintId="10_46" horizontal="false" title="Sense &amp; Uncertain Is The Future"/>
+    <card blueprintId="10_46" horizontal="false" title="Sense &amp; Uncertain Is The Future"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_128" horizontal="false" title="Allegations Of Corruption"/>
+    <card blueprintId="8_118" horizontal="false" title="Battle Order"/>
+    <card blueprintId="7_224" horizontal="false" title="Come Here You Big Coward"/>
+    <card blueprintId="1_213" horizontal="false" title="Death Star Sentry"/>
+    <card blueprintId="12_131" horizontal="false" title="Do They Have A Code Clearance?"/>
+    <card blueprintId="11_69" horizontal="false" title="Fanfare"/>
+    <card blueprintId="7_228" horizontal="false" title="Firepower"/>
+    <card blueprintId="1_217" horizontal="false" title="I Find Your Lack Of Faith Disturbing"/>
+    <card blueprintId="7_234" horizontal="false" title="Oppressive Enforcement"/>
+    <card blueprintId="6_147" horizontal="false" title="Resistance"/>
+    <card blueprintId="7_240" horizontal="false" title="Secret Plans"/>
+    <card blueprintId="9_133" horizontal="false" title="You Cannot Hide Forever"/>
+</deck>

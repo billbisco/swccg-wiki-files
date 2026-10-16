@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="7_300" horizontal="false" title="Ralltiir Operations"/>
+    <card blueprintId="2_148" horizontal="false" title="Ralltiir"/>
+    <card blueprintId="208_46" horizontal="false" title="You Know What I've Come For"/>
+    <card blueprintId="204_52" horizontal="true" title="Jakku: Landing Site"/>
+    <card blueprintId="204_47" horizontal="false" title="Bow To The First Order"/>
+    <card blueprintId="200_114" horizontal="false" title="You'll Be Dead!"/>
+    <card blueprintId="200_86" horizontal="false" title="Mara Jade With Lightsaber"/>
+    <card blueprintId="211_1" horizontal="false" title="Mitth'raw'nuruodo"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="209_39" horizontal="false" title="Supreme Leader Snoke"/>
+    <card blueprintId="208_37" horizontal="false" title="Captain Peavey"/>
+    <card blueprintId="204_38" horizontal="false" title="Captain Phasma"/>
+    <card blueprintId="204_39" horizontal="false" title="FN-2003"/>
+    <card blueprintId="208_31" horizontal="false" title="FN-2199 (Nines)"/>
+    <card blueprintId="204_40" horizontal="false" title="First Order Stormtrooper"/>
+    <card blueprintId="204_40" horizontal="false" title="First Order Stormtrooper"/>
+    <card blueprintId="204_40" horizontal="false" title="First Order Stormtrooper"/>
+    <card blueprintId="204_40" horizontal="false" title="First Order Stormtrooper"/>
+    <card blueprintId="204_40" horizontal="false" title="First Order Stormtrooper"/>
+    <card blueprintId="204_40" horizontal="false" title="First Order Stormtrooper"/>
+    <card blueprintId="204_41" horizontal="false" title="General Hux"/>
+    <card blueprintId="209_37" horizontal="false" title="Kylo Ren With Lightsaber"/>
+    <card blueprintId="208_33" horizontal="false" title="Lieutenant Dopheld Mitaka"/>
+    <card blueprintId="208_33" horizontal="false" title="Lieutenant Dopheld Mitaka"/>
+    <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="5_110" horizontal="false" title="Ability, Ability, Ability"/>
+    <card blueprintId="1_210" horizontal="false" title="Blast Door Controls"/>
+    <card blueprintId="200_112" horizontal="false" title="Something Special Planned For Them"/>
+    <card blueprintId="7_242" horizontal="false" title="Strategic Reserves"/>
+    <card blueprintId="7_247" horizontal="false" title="Blast Points"/>
+    <card blueprintId="7_247" horizontal="false" title="Blast Points"/>
+    <card blueprintId="7_247" horizontal="false" title="Blast Points"/>
+    <card blueprintId="201_35" horizontal="false" title="Cold Feet"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="10_39" horizontal="false" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="1_255" horizontal="false" title="Limited Resources"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="10_47" horizontal="false" title="Sniper &amp; Dark Strike"/>
+    <card blueprintId="3_136" horizontal="false" title="Tactical Support"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="204_51" horizontal="false" title="Jakku"/>
+    <card blueprintId="7_289" horizontal="true" title="Spaceport Docking Bay"/>
+    <card blueprintId="7_290" horizontal="true" title="Spaceport Prefect's Office"/>
+    <card blueprintId="7_291" horizontal="true" title="Spaceport Street"/>
+    <card blueprintId="9_156" horizontal="false" title="Emperor's Personal Shuttle"/>
+    <card blueprintId="204_54" horizontal="false" title="Finalizer"/>
+    <card blueprintId="204_55" horizontal="false" title="Kylo Ren's Command Shuttle"/>
+    <card blueprintId="204_57" horizontal="false" title="F-11D Blaster Rifle"/>
+    <card blueprintId="204_57" horizontal="false" title="F-11D Blaster Rifle"/>
+    <card blueprintId="204_57" horizontal="false" title="F-11D Blaster Rifle"/>
+</deck>
