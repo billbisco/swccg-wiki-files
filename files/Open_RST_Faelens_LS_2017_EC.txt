@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="8_78" horizontal="false" title="Rebel Strike Team"/>
+    <card blueprintId="204_24" horizontal="false" title="Endor"/>
+    <card blueprintId="8_77" horizontal="true" title="Endor: Rebel Landing Site (Forest)"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="203_1" horizontal="false" title="Admiral Ackbar"/>
+    <card blueprintId="204_3" horizontal="false" title="Captain Hera Syndulla"/>
+    <card blueprintId="8_7" horizontal="false" title="Corporal Kensaric"/>
+    <card blueprintId="200_12" horizontal="false" title="General Airen Cracken"/>
+    <card blueprintId="8_14" horizontal="false" title="General Crix Madine"/>
+    <card blueprintId="200_13" horizontal="false" title="General Solo"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="207_5" horizontal="false" title="General Leia Organa"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="9_21" horizontal="false" title="Lieutenant Blount"/>
+    <card blueprintId="203_8" horizontal="false" title="Major Bren Derlin"/>
+    <card blueprintId="201_4" horizontal="false" title="Obi-Wan Kenobi"/>
+    <card blueprintId="203_10" horizontal="false" title="Padme Naberrie"/>
+    <card blueprintId="204_9" horizontal="false" title="Rey"/>
+    <card blueprintId="207_9" horizontal="false" title="Sabine Wren"/>
+    <card blueprintId="203_12" horizontal="false" title="Toryn Farr"/>
+    <card blueprintId="14_27" horizontal="false" title="Qui-Gon Jinn With Lightsaber"/>
+    <card blueprintId="8_32" horizontal="false" title="Wicket"/>
+    <card blueprintId="11_13" horizontal="false" title="Threepio With His Parts Showing"/>
+    <card blueprintId="200_33" horizontal="false" title="Luke's Bionic Hand"/>
+    <card blueprintId="9_36" horizontal="false" title="Launching The Assault"/>
+    <card blueprintId="9_41" horizontal="false" title="Strike Planning"/>
+    <card blueprintId="11_22" horizontal="false" title="The Shield Is Down!"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="8_43" horizontal="false" title="Deactivate The Shield Generator"/>
+    <card blueprintId="10_4" horizontal="false" title="Control &amp; Tunnel Vision"/>
+    <card blueprintId="5_45" horizontal="false" title="Dodge"/>
+    <card blueprintId="12_58" horizontal="false" title="Free Ride &amp; Endor Celebration"/>
+    <card blueprintId="204_18" horizontal="false" title="Escape Pod &amp; We're Doomed"/>
+    <card blueprintId="9_52" horizontal="false" title="Insertion Planning"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="204_20" horizontal="false" title="Keep Your Eyes Open"/>
+    <card blueprintId="201_14" horizontal="false" title="Perimeter Scan"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="207_14" horizontal="false" title="They're Tracking Us"/>
+    <card blueprintId="8_63" horizontal="false" title="Throw Me Another Charge"/>
+    <card blueprintId="8_63" horizontal="false" title="Throw Me Another Charge"/>
+    <card blueprintId="8_63" horizontal="false" title="Throw Me Another Charge"/>
+    <card blueprintId="10_25" horizontal="false" title="The Bith Shuffle &amp; Desperate Reach"/>
+    <card blueprintId="8_64" horizontal="false" title="Were You Looking For Me?"/>
+    <card blueprintId="8_69" horizontal="true" title="Endor: Back Door"/>
+    <card blueprintId="8_70" horizontal="true" title="Endor: Bunker"/>
+    <card blueprintId="9_74" horizontal="false" title="Home One"/>
+    <card blueprintId="8_90" horizontal="false" title="Explosive Charge"/>
+    <card blueprintId="207_19" horizontal="false" title="Luke's Hunting Rifle"/>
+</deck>
