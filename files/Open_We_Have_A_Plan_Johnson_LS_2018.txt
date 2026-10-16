@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="14_52" horizontal="false" title="We Have A Plan"/>
+    <card blueprintId="12_81" horizontal="true" title="Naboo: Theed Palace Courtyard"/>
+    <card blueprintId="201_17" horizontal="true" title="Naboo: Theed Palace Hallway"/>
+    <card blueprintId="12_83" horizontal="true" title="Naboo: Theed Palace Throne Room"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="200_2" horizontal="false" title="Anakin Skywalker, Padawan Learner"/>
+    <card blueprintId="6_6" horizontal="false" title="Baragwin"/>
+    <card blueprintId="204_1" horizontal="false" title="BB-8 (Beebee-Ate)"/>
+    <card blueprintId="200_3" horizontal="false" title="Captain Rex, 501st Legion"/>
+    <card blueprintId="200_3" horizontal="false" title="Captain Rex, 501st Legion"/>
+    <card blueprintId="204_4" horizontal="false" title="Chewie With Bowcaster"/>
+    <card blueprintId="200_11" horizontal="false" title="Dorme"/>
+    <card blueprintId="209_6" horizontal="false" title="General Kenobi"/>
+    <card blueprintId="209_6" horizontal="false" title="General Kenobi"/>
+    <card blueprintId="14_14" horizontal="false" title="Jerus Jannick"/>
+    <card blueprintId="14_16" horizontal="false" title="Lieutenant Chamberlyn"/>
+    <card blueprintId="201_2" horizontal="false" title="Mace Windu"/>
+    <card blueprintId="14_23" horizontal="false" title="Panaka, Protector Of The Queen"/>
+    <card blueprintId="14_25" horizontal="false" title="Queen Amidala"/>
+    <card blueprintId="14_25" horizontal="false" title="Queen Amidala"/>
+    <card blueprintId="14_27" horizontal="false" title="Qui-Gon Jinn With Lightsaber"/>
+    <card blueprintId="14_27" horizontal="false" title="Qui-Gon Jinn With Lightsaber"/>
+    <card blueprintId="13_42" horizontal="false" title="Sio Bibble"/>
+    <card blueprintId="204_11" horizontal="false" title="Solo"/>
+    <card blueprintId="11_13" horizontal="false" title="Threepio With His Parts Showing"/>
+    <card blueprintId="13_48" horizontal="false" title="Yoda, Master Of The Force"/>
+    <card blueprintId="4_11" horizontal="false" title="Landing Claw"/>
+    <card blueprintId="200_34" horizontal="false" title="A Good Blaster At Your Side"/>
+    <card blueprintId="12_39" horizontal="false" title="Another Pathetic Lifeform"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="200_46" horizontal="false" title="Strikeforce"/>
+    <card blueprintId="201_10" horizontal="false" title="We'll Take The Long Way"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="201_11" horizontal="false" title="Ascension Guns"/>
+    <card blueprintId="10_4" horizontal="false" title="Control &amp; Tunnel Vision"/>
+    <card blueprintId="201_12" horizontal="false" title="Escape Pod"/>
+    <card blueprintId="2_49" horizontal="false" title="Grimtaash"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="208_20" horizontal="false" title="Mandalorian Mishap"/>
+    <card blueprintId="209_21" horizontal="false" title="Odin Nesloor &amp; First Aid"/>
+    <card blueprintId="2_55" horizontal="false" title="Quite A Mercenary"/>
+    <card blueprintId="209_22" horizontal="false" title="Rescue In The Clouds"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="2_57" horizontal="false" title="Sorry About The Mess"/>
+    <card blueprintId="207_14" horizontal="false" title="They're Tracking Us"/>
+    <card blueprintId="1_120" horizontal="false" title="We're Doomed"/>
+    <card blueprintId="8_64" horizontal="false" title="Were You Looking For Me?"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_49" horizontal="true" title="Naboo: Boss Nass' Chambers"/>
+    <card blueprintId="200_61" horizontal="false" title="Bravo Fighter"/>
+    <card blueprintId="14_62" horizontal="false" title="Amidala's Blaster"/>
+    <card blueprintId="200_69" horizontal="false" title="Blaster Rifle"/>
+    <card blueprintId="1_157" horizontal="false" title="Obi-Wan's Lightsaber"/>
+</deck>

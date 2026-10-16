@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="10_26" horizontal="false" title="Watch Your Step"/>
+    <card blueprintId="1_127" horizontal="false" title="Tatooine"/>
+    <card blueprintId="1_129" horizontal="true" title="Tatooine: Docking Bay 94"/>
+    <card blueprintId="1_128" horizontal="true" title="Tatooine: Cantina"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="9_39" horizontal="false" title="Squadron Assignments"/>
+    <card blueprintId="200_41" horizontal="false" title="I Must Be Allowed To Speak"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="9_4" horizontal="false" title="I'll Take The Leader"/>
+    <card blueprintId="9_4" horizontal="false" title="I'll Take The Leader"/>
+    <card blueprintId="201_1" horizontal="false" title="Lando Calrissian"/>
+    <card blueprintId="12_18" horizontal="false" title="Murr Danod"/>
+    <card blueprintId="203_7" horizontal="false" title="Leslomy Tacema"/>
+    <card blueprintId="203_4" horizontal="false" title="Ellorrs Madak, Pilot Instructor"/>
+    <card blueprintId="201_3" horizontal="false" title="Melas"/>
+    <card blueprintId="10_6" horizontal="false" title="Dash Rendar"/>
+    <card blueprintId="10_24" horizontal="false" title="Talon Karrde"/>
+    <card blueprintId="10_12" horizontal="false" title="Mirax Terrik"/>
+    <card blueprintId="204_4" horizontal="false" title="Chewie With Bowcaster"/>
+    <card blueprintId="201_4" horizontal="false" title="Obi-Wan Kenobi"/>
+    <card blueprintId="201_4" horizontal="false" title="Obi-Wan Kenobi"/>
+    <card blueprintId="200_20" horizontal="false" title="Luke Skywalker"/>
+    <card blueprintId="200_20" horizontal="false" title="Luke Skywalker"/>
+    <card blueprintId="13_9" horizontal="false" title="Chewie, Enraged"/>
+    <card blueprintId="202_3" horizontal="false" title="Wedge Antilles"/>
+    <card blueprintId="108_1" horizontal="false" title="Han With Heavy Blaster Pistol"/>
+    <card blueprintId="108_1" horizontal="false" title="Han With Heavy Blaster Pistol"/>
+    <card blueprintId="7_77" horizontal="false" title="Tatooine Celebration"/>
+    <card blueprintId="3_32" horizontal="false" title="Bacta Tank"/>
+    <card blueprintId="1_100" horizontal="false" title="Old Ben"/>
+    <card blueprintId="10_4" horizontal="false" title="Control &amp; Tunnel Vision"/>
+    <card blueprintId="10_4" horizontal="false" title="Control &amp; Tunnel Vision"/>
+    <card blueprintId="5_45" horizontal="false" title="Dodge"/>
+    <card blueprintId="2_44" horizontal="false" title="Alternatives To Fighting"/>
+    <card blueprintId="4_57" horizontal="false" title="Moving To Attack Position"/>
+    <card blueprintId="6_70" horizontal="false" title="Life Debt"/>
+    <card blueprintId="1_101" horizontal="false" title="On The Edge"/>
+    <card blueprintId="204_18" horizontal="false" title="Escape Pod &amp; We're Doomed"/>
+    <card blueprintId="1_88" horizontal="false" title="Hyper Escape"/>
+    <card blueprintId="1_97" horizontal="false" title="Nabrun Leids"/>
+    <card blueprintId="12_58" horizontal="false" title="Free Ride &amp; Endor Celebration"/>
+    <card blueprintId="12_59" horizontal="false" title="Inconsequential Barriers"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="5_55" horizontal="false" title="It's A Trap!"/>
+    <card blueprintId="106_5" horizontal="false" title="It's A Hit!"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="10_8" horizontal="false" title="Houjix &amp; Out Of Nowhere"/>
+    <card blueprintId="1_133" horizontal="true" title="Tatooine: Mos Eisley"/>
+    <card blueprintId="205_6" horizontal="true" title="Tatooine: Lars' Moisture Farm"/>
+    <card blueprintId="1_126" horizontal="false" title="Kessel"/>
+    <card blueprintId="203_21" horizontal="false" title="Wild Karrde"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="10_17" horizontal="false" title="Outrider"/>
+    <card blueprintId="1_143" horizontal="false" title="Millennium Falcon"/>
+    <card blueprintId="10_20" horizontal="false" title="Pulsar Skate"/>
+    <card blueprintId="1_157" horizontal="false" title="Obi-Wan's Lightsaber"/>
+</deck>
