@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="208_25" horizontal="false" title="He Is The Chosen One"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="9_34" horizontal="false" title="I Feel The Conflict"/>
+    <card blueprintId="208_14" horizontal="false" title="Prophecy Of The Force"/>
+    <card blueprintId="12_76" horizontal="true" title="Coruscant: Jedi Council Chamber"/>
+    <card blueprintId="208_23" horizontal="true" title="Endor: Ewok Village"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="13_48" horizontal="false" title="Yoda, Master Of The Force"/>
+    <card blueprintId="203_1" horizontal="false" title="Admiral Ackbar"/>
+    <card blueprintId="204_3" horizontal="false" title="Captain Hera Syndulla"/>
+    <card blueprintId="9_12" horizontal="false" title="First Officer Thaneespi"/>
+    <card blueprintId="108_1" horizontal="false" title="Han With Heavy Blaster Pistol"/>
+    <card blueprintId="203_6" horizontal="false" title="Kanan Jarrus"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="13_29" horizontal="false" title="Leia, Rebel Princess"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="201_4" horizontal="false" title="Obi-Wan Kenobi"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="222_29" horizontal="false" title="Young Skywalker"/>
+    <card blueprintId="222_29" horizontal="false" title="Young Skywalker"/>
+    <card blueprintId="203_10" horizontal="false" title="Padme Naberrie"/>
+    <card blueprintId="204_9" horizontal="false" title="Rey"/>
+    <card blueprintId="204_9" horizontal="false" title="Rey"/>
+    <card blueprintId="200_33" horizontal="false" title="Luke's Bionic Hand"/>
+    <card blueprintId="9_36" horizontal="false" title="Launching The Assault"/>
+    <card blueprintId="202_5" horizontal="false" title="Like My Father Before Me"/>
+    <card blueprintId="207_11" horizontal="false" title="Rebellions Are Built On Hope"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="11_26" horizontal="false" title="A Jedi's Concentration"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="6_61" horizontal="false" title="Blaster Deflection"/>
+    <card blueprintId="5_38" horizontal="false" title="Clash Of Sabers"/>
+    <card blueprintId="10_4" horizontal="false" title="Control &amp; Tunnel Vision"/>
+    <card blueprintId="204_18" horizontal="false" title="Escape Pod &amp; We're Doomed"/>
+    <card blueprintId="12_58" horizontal="false" title="Free Ride &amp; Endor Celebration"/>
+    <card blueprintId="1_82" horizontal="false" title="Gift Of The Mentor"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="1_97" horizontal="false" title="Nabrun Leids"/>
+    <card blueprintId="1_97" horizontal="false" title="Nabrun Leids"/>
+    <card blueprintId="1_97" horizontal="false" title="Nabrun Leids"/>
+    <card blueprintId="2_55" horizontal="false" title="Quite A Mercenary"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="10_21" horizontal="false" title="Sense &amp; Recoil In Fear"/>
+    <card blueprintId="10_25" horizontal="false" title="The Bith Shuffle &amp; Desperate Reach"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="9_59" horizontal="false" title="Mon Calamari"/>
+    <card blueprintId="12_79" horizontal="true" title="Naboo: Battle Plains"/>
+    <card blueprintId="14_49" horizontal="true" title="Naboo: Boss Nass' Chambers"/>
+    <card blueprintId="203_20" horizontal="false" title="Bright Hope"/>
+    <card blueprintId="9_74" horizontal="false" title="Home One"/>
+</deck>
