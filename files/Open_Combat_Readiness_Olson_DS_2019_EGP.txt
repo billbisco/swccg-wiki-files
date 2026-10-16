@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_86" horizontal="false" title="Mara Jade With Lightsaber"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="209_39" horizontal="false" title="Supreme Leader Snoke"/>
+    <card blueprintId="12_114" horizontal="false" title="P-59"/>
+    <card blueprintId="2_107" horizontal="false" title="U-3PO (Yoo-Threepio)"/>
+    <card blueprintId="208_37" horizontal="false" title="Captain Peavey"/>
+    <card blueprintId="204_38" horizontal="false" title="Captain Phasma"/>
+    <card blueprintId="204_41" horizontal="false" title="General Hux"/>
+    <card blueprintId="209_37" horizontal="false" title="Kylo Ren With Lightsaber"/>
+    <card blueprintId="209_37" horizontal="false" title="Kylo Ren With Lightsaber"/>
+    <card blueprintId="208_33" horizontal="false" title="Lieutenant Dopheld Mitaka"/>
+    <card blueprintId="208_33" horizontal="false" title="Lieutenant Dopheld Mitaka"/>
+    <card blueprintId="208_33" horizontal="false" title="Lieutenant Dopheld Mitaka"/>
+    <card blueprintId="208_33" horizontal="false" title="Lieutenant Dopheld Mitaka"/>
+    <card blueprintId="208_33" horizontal="false" title="Lieutenant Dopheld Mitaka"/>
+    <card blueprintId="208_33" horizontal="false" title="Lieutenant Dopheld Mitaka"/>
+    <card blueprintId="7_175" horizontal="false" title="Darth Vader, Dark Lord Of The Sith"/>
+    <card blueprintId="203_27" horizontal="false" title="General Grievous"/>
+    <card blueprintId="13_74" horizontal="false" title="Lord Maul"/>
+    <card blueprintId="13_74" horizontal="false" title="Lord Maul"/>
+    <card blueprintId="13_74" horizontal="false" title="Lord Maul"/>
+    <card blueprintId="13_74" horizontal="false" title="Lord Maul"/>
+    <card blueprintId="204_47" horizontal="false" title="Bow To The First Order"/>
+    <card blueprintId="200_107" horizontal="false" title="Image Of The Dark Lord"/>
+    <card blueprintId="2_121" horizontal="false" title="Imperial Justice"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="112_16" horizontal="false" title="No Escape"/>
+    <card blueprintId="12_139" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="12_139" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="209_44" horizontal="false" title="They Will Be No Match For You"/>
+    <card blueprintId="13_65" horizontal="false" title="Deep Hatred"/>
+    <card blueprintId="200_119" horizontal="false" title="Force Field"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="7_257" horizontal="false" title="Masterful Move"/>
+    <card blueprintId="12_152" horizontal="false" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="12_153" horizontal="false" title="Maul Strikes"/>
+    <card blueprintId="12_153" horizontal="false" title="Maul Strikes"/>
+    <card blueprintId="10_44" horizontal="false" title="Ommni Box &amp; It's Worse"/>
+    <card blueprintId="200_123" horizontal="false" title="Sith Fury"/>
+    <card blueprintId="2_140" horizontal="false" title="Stunning Leader"/>
+    <card blueprintId="7_264" horizontal="false" title="Tauntaun Skull"/>
+    <card blueprintId="7_264" horizontal="false" title="Tauntaun Skull"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="208_46" horizontal="false" title="You Know What I've Come For"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="204_51" horizontal="false" title="Jakku"/>
+    <card blueprintId="204_52" horizontal="true" title="Jakku: Landing Site"/>
+    <card blueprintId="13_76" horizontal="true" title="Naboo: Theed Palace Generator"/>
+    <card blueprintId="13_77" horizontal="true" title="Naboo: Theed Palace Generator Core"/>
+    <card blueprintId="13_73" horizontal="false" title="Let Them Make The First Move"/>
+    <card blueprintId="204_54" horizontal="false" title="Finalizer"/>
+    <card blueprintId="12_187" horizontal="false" title="Laser Cannon Battery"/>
+    <card blueprintId="13_75" horizontal="false" title="Maul's Double-Bladed Lightsaber"/>
+</deck>

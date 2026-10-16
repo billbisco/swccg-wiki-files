@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="1_289" horizontal="false" title="Tatooine"/>
+    <card blueprintId="6_171" horizontal="true" title="Tatooine: Jabba's Palace"/>
+    <card blueprintId="200_117" horizontal="false" title="Combat Readiness"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="200_75" horizontal="false" title="Bossk"/>
+    <card blueprintId="109_11" horizontal="false" title="IG-88 With Riot Gun"/>
+    <card blueprintId="203_24" horizontal="false" title="Cad Bane"/>
+    <card blueprintId="203_24" horizontal="false" title="Cad Bane"/>
+    <card blueprintId="6_109" horizontal="false" title="Jabba The Hutt"/>
+    <card blueprintId="6_130" horizontal="false" title="Weequay Guard"/>
+    <card blueprintId="6_130" horizontal="false" title="Weequay Guard"/>
+    <card blueprintId="6_130" horizontal="false" title="Weequay Guard"/>
+    <card blueprintId="204_46" horizontal="false" title="Zam Wesell"/>
+    <card blueprintId="204_46" horizontal="false" title="Zam Wesell"/>
+    <card blueprintId="207_24" horizontal="false" title="Sidon Ithano"/>
+    <card blueprintId="207_24" horizontal="false" title="Sidon Ithano"/>
+    <card blueprintId="6_133" horizontal="false" title="Weequay Skiff Master"/>
+    <card blueprintId="6_133" horizontal="false" title="Weequay Skiff Master"/>
+    <card blueprintId="6_133" horizontal="false" title="Weequay Skiff Master"/>
+    <card blueprintId="204_36" horizontal="false" title="B2 Battle Droid"/>
+    <card blueprintId="204_36" horizontal="false" title="B2 Battle Droid"/>
+    <card blueprintId="204_36" horizontal="false" title="B2 Battle Droid"/>
+    <card blueprintId="106_11" horizontal="false" title="Chall Bekan"/>
+    <card blueprintId="207_22" horizontal="false" title="Quiggold"/>
+    <card blueprintId="200_88" horizontal="false" title="Probot"/>
+    <card blueprintId="201_25" horizontal="false" title="Jango Fett"/>
+    <card blueprintId="205_13" horizontal="false" title="Hondo Ohnaka"/>
+    <card blueprintId="205_13" horizontal="false" title="Hondo Ohnaka"/>
+    <card blueprintId="108_5" horizontal="false" title="Boba Fett With Blaster Rifle"/>
+    <card blueprintId="108_5" horizontal="false" title="Boba Fett With Blaster Rifle"/>
+    <card blueprintId="10_37" horizontal="false" title="Dr. Evazan &amp; Ponda Baba"/>
+    <card blueprintId="5_110" horizontal="false" title="Ability, Ability, Ability"/>
+    <card blueprintId="12_132" horizontal="false" title="Drop!"/>
+    <card blueprintId="201_31" horizontal="false" title="Jabba's Haven"/>
+    <card blueprintId="6_149" horizontal="false" title="Scum And Villainy"/>
+    <card blueprintId="6_150" horizontal="false" title="Well Guarded"/>
+    <card blueprintId="6_150" horizontal="false" title="Well Guarded"/>
+    <card blueprintId="112_11" horizontal="false" title="Hutt Influence"/>
+    <card blueprintId="112_16" horizontal="false" title="No Escape"/>
+    <card blueprintId="200_123" horizontal="false" title="Sith Fury"/>
+    <card blueprintId="7_261" horizontal="false" title="Sacrifice"/>
+    <card blueprintId="1_255" horizontal="false" title="Limited Resources"/>
+    <card blueprintId="1_255" horizontal="false" title="Limited Resources"/>
+    <card blueprintId="1_252" horizontal="false" title="It's Worse"/>
+    <card blueprintId="1_252" horizontal="false" title="It's Worse"/>
+    <card blueprintId="1_252" horizontal="false" title="It's Worse"/>
+    <card blueprintId="6_152" horizontal="false" title="Bantha Fodder"/>
+    <card blueprintId="6_152" horizontal="false" title="Bantha Fodder"/>
+    <card blueprintId="6_157" horizontal="false" title="None Shall Pass"/>
+    <card blueprintId="6_157" horizontal="false" title="None Shall Pass"/>
+    <card blueprintId="1_260" horizontal="false" title="Moment Of Triumph"/>
+    <card blueprintId="6_161" horizontal="false" title="Wounded Wookiee"/>
+    <card blueprintId="6_161" horizontal="false" title="Wounded Wookiee"/>
+    <card blueprintId="6_162" horizontal="true" title="Jabba's Palace: Audience Chamber"/>
+    <card blueprintId="6_164" horizontal="true" title="Jabba's Palace: Dungeon"/>
+    <card blueprintId="112_12" horizontal="true" title="Jabba's Palace: Lower Passages"/>
+    <card blueprintId="1_294" horizontal="true" title="Tatooine: Lars' Moisture Farm"/>
+    <card blueprintId="1_295" horizontal="true" title="Tatooine: Mos Eisley"/>
+    <card blueprintId="6_168" horizontal="false" title="Nal Hutta"/>
+    <card blueprintId="203_35" horizontal="false" title="Falleen's Fist"/>
+</deck>

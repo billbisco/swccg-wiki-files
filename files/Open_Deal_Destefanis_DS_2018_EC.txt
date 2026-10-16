@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="109_12" horizontal="false" title="This Deal Is Getting Worse All The Time"/>
+    <card blueprintId="7_273" horizontal="true" title="Cloud City: Upper Walkway"/>
+    <card blueprintId="12_135" horizontal="false" title="Imperial Arrest Order &amp; Secret Plans"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="9_92" horizontal="false" title="Battle Deployment"/>
+    <card blueprintId="200_71" horizontal="false" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="9_98" horizontal="false" title="Admiral Piett"/>
+    <card blueprintId="9_97" horizontal="false" title="Admiral Chiraneau"/>
+    <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
+    <card blueprintId="200_81" horizontal="false" title="General Veers"/>
+    <card blueprintId="200_81" horizontal="false" title="General Veers"/>
+    <card blueprintId="10_40" horizontal="false" title="Grand Admiral Thrawn"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="200_85" horizontal="false" title="Maarek Stele, The Emperor's Reach"/>
+    <card blueprintId="200_86" horizontal="false" title="Mara Jade With Lightsaber"/>
+    <card blueprintId="2_107" horizontal="false" title="U-3PO (Yoo-Threepio)"/>
+    <card blueprintId="203_29" horizontal="false" title="Deflector Shield Generators"/>
+    <card blueprintId="14_94" horizontal="false" title="After Her!"/>
+    <card blueprintId="201_29" horizontal="false" title="Endor Shield"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="9_129" horizontal="false" title="Mobilization Points"/>
+    <card blueprintId="200_112" horizontal="false" title="Something Special Planned For Them"/>
+    <card blueprintId="208_41" horizontal="false" title="Tarkin's Bounty"/>
+    <card blueprintId="12_139" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="12_139" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="13_91" horizontal="false" title="They Must Never Again Leave This City"/>
+    <card blueprintId="13_91" horizontal="false" title="They Must Never Again Leave This City"/>
+    <card blueprintId="13_91" horizontal="false" title="They Must Never Again Leave This City"/>
+    <card blueprintId="13_91" horizontal="false" title="They Must Never Again Leave This City"/>
+    <card blueprintId="13_91" horizontal="false" title="They Must Never Again Leave This City"/>
+    <card blueprintId="13_91" horizontal="false" title="They Must Never Again Leave This City"/>
+    <card blueprintId="10_34" horizontal="false" title="Control &amp; Set For Stun"/>
+    <card blueprintId="3_120" horizontal="false" title="Crash Landing"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="12_152" horizontal="false" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="10_47" horizontal="false" title="Sniper &amp; Dark Strike"/>
+    <card blueprintId="106_17" horizontal="false" title="Tarkin's Orders"/>
+    <card blueprintId="7_266" horizontal="false" title="They've Shut Down The Main Reactor"/>
+    <card blueprintId="7_266" horizontal="false" title="They've Shut Down The Main Reactor"/>
+    <card blueprintId="3_138" horizontal="false" title="Trample"/>
+    <card blueprintId="5_160" horizontal="false" title="Weapon Levitation"/>
+    <card blueprintId="5_164" horizontal="false" title="Bespin"/>
+    <card blueprintId="5_165" horizontal="false" title="Bespin: Cloud City"/>
+    <card blueprintId="5_169" horizontal="true" title="Cloud City: East Platform (Docking Bay)"/>
+    <card blueprintId="7_276" horizontal="true" title="Coruscant: Docking Bay"/>
+    <card blueprintId="7_282" horizontal="true" title="Executor: Docking Bay"/>
+    <card blueprintId="4_167" horizontal="false" title="Executor"/>
+    <card blueprintId="12_182" horizontal="false" title="Maul's Sith Infiltrator"/>
+    <card blueprintId="200_139" horizontal="false" title="Blizzard 2"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="8_170" horizontal="false" title="Tempest 1"/>
+    <card blueprintId="12_187" horizontal="false" title="Laser Cannon Battery"/>
+</deck>
