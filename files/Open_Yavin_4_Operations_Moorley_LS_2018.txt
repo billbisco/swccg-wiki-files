@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="208_26" horizontal="false" title="Yavin 4 Base Operations"/>
+    <card blueprintId="1_135" horizontal="false" title="Yavin 4"/>
+    <card blueprintId="208_24" horizontal="true" title="Yavin 4: Massassi War Room"/>
+    <card blueprintId="208_17" horizontal="false" title="Restore Freedom To The Galaxy"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="9_39" horizontal="false" title="Squadron Assignments"/>
+    <card blueprintId="9_41" horizontal="false" title="Strike Planning"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="204_24" horizontal="false" title="Endor"/>
+    <card blueprintId="14_49" horizontal="true" title="Naboo: Boss Nass' Chambers"/>
+    <card blueprintId="200_58" horizontal="false" title="Nar Shaddaa"/>
+    <card blueprintId="204_11" horizontal="false" title="Solo"/>
+    <card blueprintId="11_13" horizontal="false" title="Threepio With His Parts Showing"/>
+    <card blueprintId="206_4" horizontal="false" title="Jyn Erso"/>
+    <card blueprintId="200_20" horizontal="false" title="Luke Skywalker"/>
+    <card blueprintId="1_29" horizontal="false" title="Red Leader"/>
+    <card blueprintId="1_29" horizontal="false" title="Red Leader"/>
+    <card blueprintId="200_2" horizontal="false" title="Anakin Skywalker, Padawan Learner"/>
+    <card blueprintId="207_5" horizontal="false" title="General Leia Organa"/>
+    <card blueprintId="204_8" horizontal="false" title="Poe Dameron"/>
+    <card blueprintId="204_8" horizontal="false" title="Poe Dameron"/>
+    <card blueprintId="204_9" horizontal="false" title="Rey"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="202_8" horizontal="false" title="Corran Horn In Rogue 9"/>
+    <card blueprintId="200_62" horizontal="false" title="Gold Leader In Gold 1"/>
+    <card blueprintId="201_18" horizontal="false" title="Green Leader In Green Squadron 1"/>
+    <card blueprintId="200_65" horizontal="false" title="Red 1"/>
+    <card blueprintId="200_65" horizontal="false" title="Red 1"/>
+    <card blueprintId="200_66" horizontal="false" title="Red 8"/>
+    <card blueprintId="208_28" horizontal="false" title="Red Squadron 6"/>
+    <card blueprintId="206_8" horizontal="false" title="The Falcon"/>
+    <card blueprintId="205_10" horizontal="false" title="Tycho In Green Squadron 3"/>
+    <card blueprintId="200_67" horizontal="false" title="Wedge In Red Squadron 1"/>
+    <card blueprintId="7_162" horizontal="false" title="X-wing Laser Cannon"/>
+    <card blueprintId="7_162" horizontal="false" title="X-wing Laser Cannon"/>
+    <card blueprintId="7_162" horizontal="false" title="X-wing Laser Cannon"/>
+    <card blueprintId="5_24" horizontal="false" title="Haven"/>
+    <card blueprintId="5_24" horizontal="false" title="Haven"/>
+    <card blueprintId="7_68" horizontal="false" title="Legendary Starfighter"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="200_48" horizontal="false" title="Alter"/>
+    <card blueprintId="12_58" horizontal="false" title="Free Ride &amp; Endor Celebration"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="7_97" horizontal="false" title="Organized Attack"/>
+    <card blueprintId="7_97" horizontal="false" title="Organized Attack"/>
+    <card blueprintId="7_98" horizontal="false" title="Power Pivot"/>
+    <card blueprintId="7_98" horizontal="false" title="Power Pivot"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="200_56" horizontal="false" title="Starship Levitation"/>
+    <card blueprintId="8_64" horizontal="false" title="Were You Looking For Me?"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+</deck>

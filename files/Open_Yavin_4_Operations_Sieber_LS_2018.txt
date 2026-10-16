@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="208_26" horizontal="false" title="Yavin 4 Base Operations"/>
+    <card blueprintId="1_135" horizontal="false" title="Yavin 4"/>
+    <card blueprintId="208_24" horizontal="true" title="Yavin 4: Massassi War Room"/>
+    <card blueprintId="208_17" horizontal="false" title="Restore Freedom To The Galaxy"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="9_4" horizontal="false" title="I'll Take The Leader"/>
+    <card blueprintId="9_4" horizontal="false" title="I'll Take The Leader"/>
+    <card blueprintId="200_2" horizontal="false" title="Anakin Skywalker, Padawan Learner"/>
+    <card blueprintId="5_1" horizontal="false" title="Captain Han Solo"/>
+    <card blueprintId="204_3" horizontal="false" title="Captain Hera Syndulla"/>
+    <card blueprintId="10_6" horizontal="false" title="Dash Rendar"/>
+    <card blueprintId="200_10" horizontal="false" title="Derek 'Hobbie' Klivian"/>
+    <card blueprintId="206_4" horizontal="false" title="Jyn Erso"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="200_20" horizontal="false" title="Luke Skywalker"/>
+    <card blueprintId="208_8" horizontal="false" title="Luke Skywalker, The Rebellion's Hope"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="204_8" horizontal="false" title="Poe Dameron"/>
+    <card blueprintId="14_27" horizontal="false" title="Qui-Gon Jinn With Lightsaber"/>
+    <card blueprintId="204_9" horizontal="false" title="Rey"/>
+    <card blueprintId="9_31" horizontal="false" title="Wedge Antilles, Red Squadron Leader"/>
+    <card blueprintId="205_4" horizontal="false" title="Rebel Flight Suit"/>
+    <card blueprintId="5_24" horizontal="false" title="Haven"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="209_17" horizontal="false" title="Relatively Unprotected"/>
+    <card blueprintId="9_39" horizontal="false" title="Squadron Assignments"/>
+    <card blueprintId="14_38" horizontal="false" title="We Didn't Hit It"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="209_19" horizontal="false" title="Effective Repairs &amp; Starship Levitation"/>
+    <card blueprintId="209_19" horizontal="false" title="Effective Repairs &amp; Starship Levitation"/>
+    <card blueprintId="10_8" horizontal="false" title="Houjix &amp; Out Of Nowhere"/>
+    <card blueprintId="1_88" horizontal="false" title="Hyper Escape"/>
+    <card blueprintId="106_5" horizontal="false" title="It's A Hit!"/>
+    <card blueprintId="106_5" horizontal="false" title="It's A Hit!"/>
+    <card blueprintId="8_57" horizontal="false" title="Lost In The Wilderness"/>
+    <card blueprintId="7_97" horizontal="false" title="Organized Attack"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="209_22" horizontal="false" title="Rescue In The Clouds"/>
+    <card blueprintId="209_22" horizontal="false" title="Rescue In The Clouds"/>
+    <card blueprintId="10_25" horizontal="false" title="The Bith Shuffle &amp; Desperate Reach"/>
+    <card blueprintId="7_116" horizontal="false" title="Coruscant"/>
+    <card blueprintId="200_58" horizontal="false" title="Nar Shaddaa"/>
+    <card blueprintId="1_127" horizontal="false" title="Tatooine"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="202_7" horizontal="false" title="Azure Angel"/>
+    <card blueprintId="201_18" horizontal="false" title="Green Leader In Green Squadron 1"/>
+    <card blueprintId="200_62" horizontal="false" title="Gold Leader In Gold 1"/>
+    <card blueprintId="1_143" horizontal="false" title="Millennium Falcon"/>
+    <card blueprintId="10_17" horizontal="false" title="Outrider"/>
+    <card blueprintId="209_31" horizontal="false" title="Red 5"/>
+    <card blueprintId="9_81" horizontal="false" title="Red Squadron 1"/>
+    <card blueprintId="9_82" horizontal="false" title="Red Squadron 4"/>
+    <card blueprintId="7_162" horizontal="false" title="X-wing Laser Cannon"/>
+    <card blueprintId="7_162" horizontal="false" title="X-wing Laser Cannon"/>
+</deck>

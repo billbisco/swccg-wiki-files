@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="110_4" horizontal="false" title="You Can Either Profit By This..."/>
+    <card blueprintId="7_131" horizontal="true" title="Tatooine: Jabba's Palace"/>
+    <card blueprintId="6_81" horizontal="true" title="Jabba's Palace: Audience Chamber"/>
+    <card blueprintId="204_11" horizontal="false" title="Solo"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="200_41" horizontal="false" title="I Must Be Allowed To Speak"/>
+    <card blueprintId="200_45" horizontal="false" title="Sai'torr Kal Fas"/>
+    <card blueprintId="201_9" horizontal="false" title="Seeking An Audience"/>
+    <card blueprintId="203_1" horizontal="false" title="Admiral Ackbar"/>
+    <card blueprintId="200_2" horizontal="false" title="Anakin Skywalker, Padawan Learner"/>
+    <card blueprintId="204_4" horizontal="false" title="Chewie With Bowcaster"/>
+    <card blueprintId="207_5" horizontal="false" title="General Leia Organa"/>
+    <card blueprintId="207_5" horizontal="false" title="General Leia Organa"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="112_3" horizontal="false" title="Lando With Vibro-Ax"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="9_25" horizontal="false" title="Major Haash'n"/>
+    <card blueprintId="110_2" horizontal="false" title="Master Luke"/>
+    <card blueprintId="110_2" horizontal="false" title="Master Luke"/>
+    <card blueprintId="200_22" horizontal="false" title="Master Qui-Gon"/>
+    <card blueprintId="200_22" horizontal="false" title="Master Qui-Gon"/>
+    <card blueprintId="201_4" horizontal="false" title="Obi-Wan Kenobi"/>
+    <card blueprintId="10_18" horizontal="false" title="Owen Lars &amp; Beru Lars"/>
+    <card blueprintId="203_10" horizontal="false" title="Padme Naberrie"/>
+    <card blueprintId="204_9" horizontal="false" title="Rey"/>
+    <card blueprintId="11_13" horizontal="false" title="Threepio With His Parts Showing"/>
+    <card blueprintId="6_52" horizontal="false" title="A Gift"/>
+    <card blueprintId="200_49" horizontal="false" title="Antilles Maneuver"/>
+    <card blueprintId="209_19" horizontal="false" title="Effective Repairs &amp; Starship Levitation"/>
+    <card blueprintId="204_18" horizontal="false" title="Escape Pod &amp; We're Doomed"/>
+    <card blueprintId="7_90" horizontal="false" title="Harvest"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="204_20" horizontal="false" title="Keep Your Eyes Open"/>
+    <card blueprintId="1_97" horizontal="false" title="Nabrun Leids"/>
+    <card blueprintId="209_21" horizontal="false" title="Odin Nesloor &amp; First Aid"/>
+    <card blueprintId="1_100" horizontal="false" title="Old Ben"/>
+    <card blueprintId="2_55" horizontal="false" title="Quite A Mercenary"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="6_75" horizontal="false" title="Someone Who Loves You"/>
+    <card blueprintId="10_23" horizontal="false" title="Sorry About The Mess &amp; Blaster Proficiency"/>
+    <card blueprintId="12_69" horizontal="false" title="Speak With The Jedi Council"/>
+    <card blueprintId="12_69" horizontal="false" title="Speak With The Jedi Council"/>
+    <card blueprintId="207_14" horizontal="false" title="They're Tracking Us"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="12_76" horizontal="true" title="Coruscant: Jedi Council Chamber"/>
+    <card blueprintId="9_58" horizontal="true" title="Home One: War Room"/>
+    <card blueprintId="14_49" horizontal="true" title="Naboo: Boss Nass' Chambers"/>
+    <card blueprintId="205_6" horizontal="true" title="Tatooine: Lars' Moisture Farm"/>
+    <card blueprintId="9_74" horizontal="false" title="Home One"/>
+    <card blueprintId="3_71" horizontal="false" title="Anakin's Lightsaber"/>
+    <card blueprintId="7_161" horizontal="false" title="Leia's Blaster Rifle"/>
+    <card blueprintId="207_19" horizontal="false" title="Luke's Hunting Rifle"/>
+    <card blueprintId="9_90" horizontal="false" title="Luke's Lightsaber"/>
+    <card blueprintId="11_49" horizontal="false" title="Qui-Gon Jinn's Lightsaber"/>
+</deck>
