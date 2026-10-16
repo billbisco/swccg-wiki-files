@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="7_136" horizontal="false" title="Hidden Base"/>
+    <card blueprintId="7_123" horizontal="false" title="Rendezvous Point"/>
+    <card blueprintId="11_39" horizontal="false" title="Podrace Prep"/>
+    <card blueprintId="11_44" horizontal="true" title="Tatooine: Podrace Arena"/>
+    <card blueprintId="11_24" horizontal="false" title="Boonta Eve Podrace"/>
+    <card blueprintId="11_47" horizontal="false" title="Anakin's Podracer"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="200_21" horizontal="false" title="Luke Skywalker, Rebel Scout"/>
+    <card blueprintId="204_11" horizontal="false" title="Solo"/>
+    <card blueprintId="201_8" horizontal="false" title="A New Secret Base"/>
+    <card blueprintId="7_73" horizontal="false" title="Rebel Fleet"/>
+    <card blueprintId="7_73" horizontal="false" title="Rebel Fleet"/>
+    <card blueprintId="11_25" horizontal="false" title="I Did It!"/>
+    <card blueprintId="7_82" horizontal="false" title="All Wings Report In"/>
+    <card blueprintId="7_82" horizontal="false" title="All Wings Report In"/>
+    <card blueprintId="7_82" horizontal="false" title="All Wings Report In"/>
+    <card blueprintId="200_48" horizontal="false" title="Alter"/>
+    <card blueprintId="204_18" horizontal="false" title="Escape Pod &amp; We're Doomed"/>
+    <card blueprintId="204_18" horizontal="false" title="Escape Pod &amp; We're Doomed"/>
+    <card blueprintId="2_49" horizontal="false" title="Grimtaash"/>
+    <card blueprintId="7_92" horizontal="false" title="Hit And Run"/>
+    <card blueprintId="7_92" horizontal="false" title="Hit And Run"/>
+    <card blueprintId="7_92" horizontal="false" title="Hit And Run"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="3_44" horizontal="false" title="It Can Wait"/>
+    <card blueprintId="3_44" horizontal="false" title="It Can Wait"/>
+    <card blueprintId="3_44" horizontal="false" title="It Can Wait"/>
+    <card blueprintId="5_55" horizontal="false" title="It's A Trap!"/>
+    <card blueprintId="5_55" horizontal="false" title="It's A Trap!"/>
+    <card blueprintId="5_55" horizontal="false" title="It's A Trap!"/>
+    <card blueprintId="1_90" horizontal="false" title="It Could Be Worse"/>
+    <card blueprintId="7_100" horizontal="false" title="Rapid Fire"/>
+    <card blueprintId="7_100" horizontal="false" title="Rapid Fire"/>
+    <card blueprintId="7_100" horizontal="false" title="Rapid Fire"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="7_105" horizontal="false" title="Steady Aim"/>
+    <card blueprintId="7_105" horizontal="false" title="Steady Aim"/>
+    <card blueprintId="7_105" horizontal="false" title="Steady Aim"/>
+    <card blueprintId="1_126" horizontal="false" title="Kessel"/>
+    <card blueprintId="6_83" horizontal="false" title="Kiffex"/>
+    <card blueprintId="12_77" horizontal="false" title="Malastare"/>
+    <card blueprintId="200_58" horizontal="false" title="Nar Shaddaa"/>
+    <card blueprintId="1_127" horizontal="false" title="Tatooine"/>
+    <card blueprintId="6_87" horizontal="false" title="Tibrin"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="9_88" horizontal="false" title="Enhanced Proton Torpedoes"/>
+    <card blueprintId="9_88" horizontal="false" title="Enhanced Proton Torpedoes"/>
+    <card blueprintId="7_162" horizontal="false" title="X-wing Laser Cannon"/>
+    <card blueprintId="7_162" horizontal="false" title="X-wing Laser Cannon"/>
+    <card blueprintId="7_162" horizontal="false" title="X-wing Laser Cannon"/>
+    <card blueprintId="12_37" horizontal="false" title="A Tragedy Has Occurred"/>
+    <card blueprintId="8_34" horizontal="false" title="Aim High"/>
+    <card blueprintId="8_35" horizontal="false" title="Battle Plan"/>
+    <card blueprintId="4_21" horizontal="false" title="Do, Or Do Not"/>
+    <card blueprintId="11_17" horizontal="false" title="Don't Do That Again"/>
+    <card blueprintId="6_58" horizontal="false" title="Ultimatum"/>
+    <card blueprintId="7_80" horizontal="false" title="Weapons Display"/>
+    <card blueprintId="7_81" horizontal="false" title="Wise Advice"/>
+    <card blueprintId="1_68" horizontal="false" title="Yavin Sentry"/>
+    <card blueprintId="9_47" horizontal="false" title="Your Insight Serves You Well"/>
+</deck>

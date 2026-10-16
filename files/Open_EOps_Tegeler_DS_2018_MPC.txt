@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="8_167" horizontal="false" title="Endor Operations"/>
+    <card blueprintId="8_157" horizontal="false" title="Endor"/>
+    <card blueprintId="8_160" horizontal="true" title="Endor: Bunker"/>
+    <card blueprintId="8_166" horizontal="true" title="Endor: Landing Platform (Docking Bay)"/>
+    <card blueprintId="109_7" horizontal="false" title="Any Methods Necessary"/>
+    <card blueprintId="206_9" horizontal="false" title="Boba Fett"/>
+    <card blueprintId="201_40" horizontal="false" title="Slave I, Symbol Of Fear"/>
+    <card blueprintId="200_126" horizontal="true" title="Cloud City: Security Tower"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="10_32" horizontal="false" title="Black Sun Fleet"/>
+    <card blueprintId="10_32" horizontal="false" title="Black Sun Fleet"/>
+    <card blueprintId="200_79" horizontal="false" title="Dengar With Blaster Carbine"/>
+    <card blueprintId="10_37" horizontal="false" title="Dr. Evazan &amp; Ponda Baba"/>
+    <card blueprintId="200_86" horizontal="false" title="Mara Jade With Lightsaber"/>
+    <card blueprintId="200_76" horizontal="false" title="Count Dooku"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="3_82" horizontal="false" title="Admiral Ozzel"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
+    <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
+    <card blueprintId="10_40" horizontal="false" title="Grand Admiral Thrawn"/>
+    <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="207_25" horizontal="false" title="Establish Secret Base"/>
+    <card blueprintId="8_127" horizontal="false" title="Ominous Rumors"/>
+    <card blueprintId="201_29" horizontal="false" title="Endor Shield"/>
+    <card blueprintId="208_41" horizontal="false" title="Tarkin's Bounty"/>
+    <card blueprintId="8_131" horizontal="false" title="Search And Destroy"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="1_222" horizontal="false" title="Lateral Damage"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="10_47" horizontal="false" title="Sniper &amp; Dark Strike"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="12_152" horizontal="false" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="201_37" horizontal="false" title="Turn It Off! Turn It Off!"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="14_101" horizontal="false" title="Cease Fire!"/>
+    <card blueprintId="9_136" horizontal="false" title="Force Lightning"/>
+    <card blueprintId="205_20" horizontal="false" title="Point Man"/>
+    <card blueprintId="12_154" horizontal="false" title="Neimoidian Advisor"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="8_164" horizontal="true" title="Endor: Forest Clearing"/>
+    <card blueprintId="2_146" horizontal="false" title="Kashyyyk"/>
+    <card blueprintId="110_12" horizontal="false" title="Zuckuss In Mist Hunter"/>
+    <card blueprintId="200_134" horizontal="false" title="Elis In Hinthra"/>
+    <card blueprintId="208_58" horizontal="false" title="Mara Jade In VT-49 Decimator"/>
+    <card blueprintId="9_156" horizontal="false" title="Emperor's Personal Shuttle"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="200_140" horizontal="false" title="Blizzard Scout 1"/>
+</deck>
