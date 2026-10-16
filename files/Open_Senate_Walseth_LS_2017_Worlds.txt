@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="12_88" horizontal="false" title="Plead My Case To The Senate"/>
+    <card blueprintId="12_75" horizontal="true" title="Coruscant: Galactic Senate"/>
+    <card blueprintId="12_76" horizontal="true" title="Coruscant: Jedi Council Chamber"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="9_4" horizontal="false" title="I'll Take The Leader"/>
+    <card blueprintId="13_48" horizontal="false" title="Yoda, Master Of The Force"/>
+    <card blueprintId="14_27" horizontal="false" title="Qui-Gon Jinn With Lightsaber"/>
+    <card blueprintId="10_12" horizontal="false" title="Mirax Terrik"/>
+    <card blueprintId="200_5" horizontal="false" title="Chewie"/>
+    <card blueprintId="5_1" horizontal="false" title="Captain Han Solo"/>
+    <card blueprintId="200_20" horizontal="false" title="Luke Skywalker"/>
+    <card blueprintId="2_1" horizontal="false" title="Arcona"/>
+    <card blueprintId="2_1" horizontal="false" title="Arcona"/>
+    <card blueprintId="12_8" horizontal="false" title="Horox Ryyder"/>
+    <card blueprintId="12_8" horizontal="false" title="Horox Ryyder"/>
+    <card blueprintId="12_15" horizontal="false" title="Mas Amedda"/>
+    <card blueprintId="12_15" horizontal="false" title="Mas Amedda"/>
+    <card blueprintId="12_34" horizontal="false" title="Yarua"/>
+    <card blueprintId="12_34" horizontal="false" title="Yarua"/>
+    <card blueprintId="201_8" horizontal="false" title="A New Secret Base"/>
+    <card blueprintId="11_22" horizontal="false" title="The Shield Is Down!"/>
+    <card blueprintId="14_31" horizontal="false" title="Get To Your Ships!"/>
+    <card blueprintId="5_17" horizontal="false" title="All My Urchins"/>
+    <card blueprintId="5_17" horizontal="false" title="All My Urchins"/>
+    <card blueprintId="4_30" horizontal="false" title="Order To Engage"/>
+    <card blueprintId="4_30" horizontal="false" title="Order To Engage"/>
+    <card blueprintId="12_43" horizontal="false" title="I Will Not Defer"/>
+    <card blueprintId="9_33" horizontal="false" title="Honor Of The Jedi"/>
+    <card blueprintId="9_47" horizontal="false" title="Your Insight Serves You Well"/>
+    <card blueprintId="12_52" horizontal="false" title="You've Got A Lot Of Guts Coming Here"/>
+    <card blueprintId="12_58" horizontal="false" title="Free Ride &amp; Endor Celebration"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="8_57" horizontal="false" title="Lost In The Wilderness"/>
+    <card blueprintId="8_57" horizontal="false" title="Lost In The Wilderness"/>
+    <card blueprintId="6_66" horizontal="false" title="Fallen Portal"/>
+    <card blueprintId="6_66" horizontal="false" title="Fallen Portal"/>
+    <card blueprintId="12_61" horizontal="false" title="Might Of The Republic"/>
+    <card blueprintId="12_61" horizontal="false" title="Might Of The Republic"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="1_120" horizontal="false" title="We're Doomed"/>
+    <card blueprintId="200_48" horizontal="false" title="Alter"/>
+    <card blueprintId="8_76" horizontal="true" title="Endor: Landing Platform (Docking Bay)"/>
+    <card blueprintId="8_69" horizontal="true" title="Endor: Back Door"/>
+    <card blueprintId="200_58" horizontal="false" title="Nar Shaddaa"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="1_143" horizontal="false" title="Millennium Falcon"/>
+    <card blueprintId="10_20" horizontal="false" title="Pulsar Skate"/>
+</deck>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="12_179" horizontal="false" title="My Lord, Is That Legal?"/>
+    <card blueprintId="12_167" horizontal="true" title="Coruscant: Galactic Senate"/>
+    <card blueprintId="12_169" horizontal="false" title="Naboo"/>
+    <card blueprintId="200_125" horizontal="false" title="Surface Defense"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="201_27" horizontal="false" title="Wooof"/>
+    <card blueprintId="200_87" horizontal="false" title="Ponda Baba"/>
+    <card blueprintId="200_71" horizontal="false" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="200_81" horizontal="false" title="General Veers"/>
+    <card blueprintId="12_122" horizontal="false" title="Tikkes"/>
+    <card blueprintId="12_123" horizontal="false" title="Toonbuck Toora"/>
+    <card blueprintId="12_105" horizontal="false" title="Edcel Bar Gane"/>
+    <card blueprintId="12_100" horizontal="false" title="Coruscant Guard"/>
+    <card blueprintId="12_98" horizontal="false" title="Baskol Yeesrim"/>
+    <card blueprintId="12_110" horizontal="false" title="Lott Dod"/>
+    <card blueprintId="12_110" horizontal="false" title="Lott Dod"/>
+    <card blueprintId="12_113" horizontal="false" title="Orn Free Taa"/>
+    <card blueprintId="12_116" horizontal="false" title="Passel Argente"/>
+    <card blueprintId="12_97" horizontal="false" title="Aks Moe"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="200_107" horizontal="false" title="Image Of The Dark Lord"/>
+    <card blueprintId="7_227" horizontal="false" title="Dreaded Imperial Starfleet"/>
+    <card blueprintId="200_112" horizontal="false" title="Something Special Planned For Them"/>
+    <card blueprintId="14_100" horizontal="false" title="Senate Hovercam"/>
+    <card blueprintId="14_100" horizontal="false" title="Senate Hovercam"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="10_34" horizontal="false" title="Control &amp; Set For Stun"/>
+    <card blueprintId="10_34" horizontal="false" title="Control &amp; Set For Stun"/>
+    <card blueprintId="10_34" horizontal="false" title="Control &amp; Set For Stun"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="3_138" horizontal="false" title="Trample"/>
+    <card blueprintId="12_159" horizontal="false" title="Squabbling Delegates"/>
+    <card blueprintId="12_159" horizontal="false" title="Squabbling Delegates"/>
+    <card blueprintId="12_159" horizontal="false" title="Squabbling Delegates"/>
+    <card blueprintId="12_159" horizontal="false" title="Squabbling Delegates"/>
+    <card blueprintId="7_262" horizontal="false" title="Short Range Fighters"/>
+    <card blueprintId="7_251" horizontal="false" title="Heavy Fire Zone"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="12_152" horizontal="false" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="5_174" horizontal="false" title="Clouds"/>
+    <card blueprintId="5_174" horizontal="false" title="Clouds"/>
+    <card blueprintId="5_174" horizontal="false" title="Clouds"/>
+    <card blueprintId="5_174" horizontal="false" title="Clouds"/>
+    <card blueprintId="200_133" horizontal="false" title="Conquest"/>
+    <card blueprintId="200_131" horizontal="false" title="Bossk In Hound's Tooth"/>
+    <card blueprintId="200_132" horizontal="false" title="Colonel Jendon In Onyx 1"/>
+    <card blueprintId="9_175" horizontal="false" title="TIE Interceptor"/>
+    <card blueprintId="9_175" horizontal="false" title="TIE Interceptor"/>
+    <card blueprintId="9_175" horizontal="false" title="TIE Interceptor"/>
+    <card blueprintId="9_175" horizontal="false" title="TIE Interceptor"/>
+    <card blueprintId="9_175" horizontal="false" title="TIE Interceptor"/>
+    <card blueprintId="9_175" horizontal="false" title="TIE Interceptor"/>
+    <card blueprintId="200_136" horizontal="false" title="Onyx 2"/>
+    <card blueprintId="109_10" horizontal="false" title="Dengar In Punishing One"/>
+    <card blueprintId="200_134" horizontal="false" title="Elis In Hinthra"/>
+    <card blueprintId="200_139" horizontal="false" title="Blizzard 2"/>
+    <card blueprintId="7_324" horizontal="false" title="SFS L-s9.3 Laser Cannons"/>
+    <card blueprintId="7_324" horizontal="false" title="SFS L-s9.3 Laser Cannons"/>
+</deck>
