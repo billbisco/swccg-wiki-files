@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="9_151" horizontal="false" title="Bring Him Before Me"/>
+    <card blueprintId="9_147" horizontal="true" title="Death Star II: Throne Room"/>
+    <card blueprintId="9_127" horizontal="false" title="Insignificant Rebellion"/>
+    <card blueprintId="9_134" horizontal="false" title="Your Destiny"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="3_82" horizontal="false" title="Admiral Ozzel"/>
+    <card blueprintId="9_99" horizontal="false" title="Baron Soontir Fel"/>
+    <card blueprintId="9_101" horizontal="false" title="Captain Jonus"/>
+    <card blueprintId="208_30" horizontal="false" title="Darth Vader, Emperor's Enforcer"/>
+    <card blueprintId="208_30" horizontal="false" title="Darth Vader, Emperor's Enforcer"/>
+    <card blueprintId="208_30" horizontal="false" title="Darth Vader, Emperor's Enforcer"/>
+    <card blueprintId="205_12" horizontal="false" title="Emperor Palpatine, Foreseer"/>
+    <card blueprintId="207_21" horizontal="false" title="Grand Admiral Thrawn"/>
+    <card blueprintId="11_64" horizontal="false" title="Sith Probe Droid"/>
+    <card blueprintId="13_87" horizontal="false" title="Stormtrooper Garrison"/>
+    <card blueprintId="13_87" horizontal="false" title="Stormtrooper Garrison"/>
+    <card blueprintId="13_87" horizontal="false" title="Stormtrooper Garrison"/>
+    <card blueprintId="13_87" horizontal="false" title="Stormtrooper Garrison"/>
+    <card blueprintId="13_87" horizontal="false" title="Stormtrooper Garrison"/>
+    <card blueprintId="200_101" horizontal="false" title="A Day Long Remembered"/>
+    <card blueprintId="200_105" horizontal="false" title="Combat Response"/>
+    <card blueprintId="9_123" horizontal="false" title="Emperor's Power"/>
+    <card blueprintId="201_29" horizontal="false" title="Endor Shield"/>
+    <card blueprintId="7_229" horizontal="false" title="First Strike"/>
+    <card blueprintId="200_111" horizontal="false" title="Kuat Drive Yards"/>
+    <card blueprintId="112_16" horizontal="false" title="No Escape"/>
+    <card blueprintId="205_18" horizontal="false" title="Overseeing It Personally"/>
+    <card blueprintId="1_227" horizontal="false" title="Presence Of The Force"/>
+    <card blueprintId="1_227" horizontal="false" title="Presence Of The Force"/>
+    <card blueprintId="12_144" horizontal="false" title="You Cannot Hide Forever &amp; Mobilization Points"/>
+    <card blueprintId="201_33" horizontal="false" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="201_34" horizontal="false" title="According To My Design"/>
+    <card blueprintId="7_246" horizontal="false" title="All Power To Weapons"/>
+    <card blueprintId="7_246" horizontal="false" title="All Power To Weapons"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="10_44" horizontal="false" title="Ommni Box &amp; It's Worse"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="200_124" horizontal="false" title="Sneak Attack"/>
+    <card blueprintId="200_124" horizontal="false" title="Sneak Attack"/>
+    <card blueprintId="200_124" horizontal="false" title="Sneak Attack"/>
+    <card blueprintId="200_124" horizontal="false" title="Sneak Attack"/>
+    <card blueprintId="200_124" horizontal="false" title="Sneak Attack"/>
+    <card blueprintId="208_45" horizontal="false" title="Sonic Bombardment"/>
+    <card blueprintId="208_45" horizontal="false" title="Sonic Bombardment"/>
+    <card blueprintId="208_45" horizontal="false" title="Sonic Bombardment"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="8_156" horizontal="false" title="Carida"/>
+    <card blueprintId="7_270" horizontal="true" title="Cloud City: Downtown Plaza"/>
+    <card blueprintId="200_126" horizontal="true" title="Cloud City: Security Tower"/>
+    <card blueprintId="9_162" horizontal="false" title="Saber 1"/>
+    <card blueprintId="9_167" horizontal="false" title="Scimitar 2"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+</deck>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="9_151" horizontal="false" title="Bring Him Before Me"/>
+    <card blueprintId="9_147" horizontal="true" title="Death Star II: Throne Room"/>
+    <card blueprintId="9_127" horizontal="false" title="Insignificant Rebellion"/>
+    <card blueprintId="9_134" horizontal="false" title="Your Destiny"/>
+    <card blueprintId="208_46" horizontal="false" title="You Know What I've Come For"/>
+    <card blueprintId="204_52" horizontal="true" title="Jakku: Landing Site"/>
+    <card blueprintId="204_47" horizontal="false" title="Bow To The First Order"/>
+    <card blueprintId="205_17" horizontal="false" title="I Am Your Father"/>
+    <card blueprintId="10_37" horizontal="false" title="Dr. Evazan &amp; Ponda Baba"/>
+    <card blueprintId="200_86" horizontal="false" title="Mara Jade With Lightsaber"/>
+    <card blueprintId="205_12" horizontal="false" title="Emperor Palpatine, Foreseer"/>
+    <card blueprintId="209_39" horizontal="false" title="Supreme Leader Snoke"/>
+    <card blueprintId="200_71" horizontal="false" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="11_64" horizontal="false" title="Sith Probe Droid"/>
+    <card blueprintId="11_64" horizontal="false" title="Sith Probe Droid"/>
+    <card blueprintId="208_37" horizontal="false" title="Captain Peavey"/>
+    <card blueprintId="204_41" horizontal="false" title="General Hux"/>
+    <card blueprintId="209_37" horizontal="false" title="Kylo Ren With Lightsaber"/>
+    <card blueprintId="209_37" horizontal="false" title="Kylo Ren With Lightsaber"/>
+    <card blueprintId="208_33" horizontal="false" title="Lieutenant Dopheld Mitaka"/>
+    <card blueprintId="208_33" horizontal="false" title="Lieutenant Dopheld Mitaka"/>
+    <card blueprintId="208_33" horizontal="false" title="Lieutenant Dopheld Mitaka"/>
+    <card blueprintId="208_33" horizontal="false" title="Lieutenant Dopheld Mitaka"/>
+    <card blueprintId="208_33" horizontal="false" title="Lieutenant Dopheld Mitaka"/>
+    <card blueprintId="208_33" horizontal="false" title="Lieutenant Dopheld Mitaka"/>
+    <card blueprintId="208_30" horizontal="false" title="Darth Vader, Emperor's Enforcer"/>
+    <card blueprintId="208_30" horizontal="false" title="Darth Vader, Emperor's Enforcer"/>
+    <card blueprintId="208_30" horizontal="false" title="Darth Vader, Emperor's Enforcer"/>
+    <card blueprintId="207_21" horizontal="false" title="Grand Admiral Thrawn"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="209_40" horizontal="false" title="Vanee"/>
+    <card blueprintId="200_92" horizontal="false" title="Ysanne Isard"/>
+    <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="9_123" horizontal="false" title="Emperor's Power"/>
+    <card blueprintId="109_9" horizontal="false" title="Crush The Rebellion"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="1_248" horizontal="false" title="I Have You Now"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="10_46" horizontal="false" title="Sense &amp; Uncertain Is The Future"/>
+    <card blueprintId="10_46" horizontal="false" title="Sense &amp; Uncertain Is The Future"/>
+    <card blueprintId="200_123" horizontal="false" title="Sith Fury"/>
+    <card blueprintId="208_45" horizontal="false" title="Sonic Bombardment"/>
+    <card blueprintId="208_45" horizontal="false" title="Sonic Bombardment"/>
+    <card blueprintId="208_45" horizontal="false" title="Sonic Bombardment"/>
+    <card blueprintId="7_264" horizontal="false" title="Tauntaun Skull"/>
+    <card blueprintId="7_264" horizontal="false" title="Tauntaun Skull"/>
+    <card blueprintId="7_264" horizontal="false" title="Tauntaun Skull"/>
+    <card blueprintId="7_264" horizontal="false" title="Tauntaun Skull"/>
+    <card blueprintId="7_270" horizontal="true" title="Cloud City: Downtown Plaza"/>
+    <card blueprintId="200_126" horizontal="true" title="Cloud City: Security Tower"/>
+    <card blueprintId="204_51" horizontal="false" title="Jakku"/>
+    <card blueprintId="209_50" horizontal="true" title="Mustafar: Vader's Castle"/>
+    <card blueprintId="204_54" horizontal="false" title="Finalizer"/>
+    <card blueprintId="204_55" horizontal="false" title="Kylo Ren's Command Shuttle"/>
+    <card blueprintId="12_182" horizontal="false" title="Maul's Sith Infiltrator"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="1_324" horizontal="false" title="Vader's Lightsaber"/>
+</deck>
