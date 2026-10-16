@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="1_289" horizontal="false" title="Tatooine"/>
+    <card blueprintId="200_117" horizontal="false" title="Combat Readiness"/>
+    <card blueprintId="112_20" horizontal="true" title="Tatooine: Desert Heart"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="9_96" horizontal="false" title="We're In Attack Position Now"/>
+    <card blueprintId="9_96" horizontal="false" title="We're In Attack Position Now"/>
+    <card blueprintId="9_96" horizontal="false" title="We're In Attack Position Now"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="7_276" horizontal="true" title="Coruscant: Docking Bay"/>
+    <card blueprintId="9_145" horizontal="true" title="Death Star II: Docking Bay"/>
+    <card blueprintId="6_171" horizontal="true" title="Tatooine: Jabba's Palace"/>
+    <card blueprintId="1_295" horizontal="true" title="Tatooine: Mos Eisley"/>
+    <card blueprintId="11_93" horizontal="true" title="Tatooine: Mos Espa"/>
+    <card blueprintId="9_97" horizontal="false" title="Admiral Chiraneau"/>
+    <card blueprintId="1_164" horizontal="false" title="Admiral Motti"/>
+    <card blueprintId="3_82" horizontal="false" title="Admiral Ozzel"/>
+    <card blueprintId="9_98" horizontal="false" title="Admiral Piett"/>
+    <card blueprintId="4_95" horizontal="false" title="Commander Brandei"/>
+    <card blueprintId="5_96" horizontal="false" title="Commander Desanne"/>
+    <card blueprintId="4_96" horizontal="false" title="Commander Gherant"/>
+    <card blueprintId="4_97" horizontal="false" title="Commander Nemet"/>
+    <card blueprintId="1_167" horizontal="false" title="Commander Praji"/>
+    <card blueprintId="200_78" horizontal="false" title="Darth Vader"/>
+    <card blueprintId="204_41" horizontal="false" title="General Hux"/>
+    <card blueprintId="202_10" horizontal="false" title="General Nevar"/>
+    <card blueprintId="200_81" horizontal="false" title="General Veers"/>
+    <card blueprintId="10_40" horizontal="false" title="Grand Admiral Thrawn"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="204_47" horizontal="false" title="Bow To The First Order"/>
+    <card blueprintId="12_132" horizontal="false" title="Drop!"/>
+    <card blueprintId="8_126" horizontal="false" title="Imperial Arrest Order"/>
+    <card blueprintId="6_148" horizontal="false" title="Sandwhirl"/>
+    <card blueprintId="6_148" horizontal="false" title="Sandwhirl"/>
+    <card blueprintId="6_148" horizontal="false" title="Sandwhirl"/>
+    <card blueprintId="7_244" horizontal="false" title="Tatooine Occupation"/>
+    <card blueprintId="7_244" horizontal="false" title="Tatooine Occupation"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="12_154" horizontal="false" title="Neimoidian Advisor"/>
+    <card blueprintId="12_154" horizontal="false" title="Neimoidian Advisor"/>
+    <card blueprintId="12_154" horizontal="false" title="Neimoidian Advisor"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="202_13" horizontal="false" title="Binder"/>
+    <card blueprintId="9_154" horizontal="false" title="Chimaera"/>
+    <card blueprintId="204_54" horizontal="false" title="Finalizer"/>
+    <card blueprintId="3_154" horizontal="false" title="Blizzard 1"/>
+    <card blueprintId="200_139" horizontal="false" title="Blizzard 2"/>
+    <card blueprintId="3_157" horizontal="false" title="Blizzard Walker"/>
+    <card blueprintId="3_157" horizontal="false" title="Blizzard Walker"/>
+    <card blueprintId="3_157" horizontal="false" title="Blizzard Walker"/>
+    <card blueprintId="7_313" horizontal="false" title="Dune Walker"/>
+    <card blueprintId="7_313" horizontal="false" title="Dune Walker"/>
+    <card blueprintId="7_313" horizontal="false" title="Dune Walker"/>
+    <card blueprintId="8_170" horizontal="false" title="Tempest 1"/>
+</deck>
