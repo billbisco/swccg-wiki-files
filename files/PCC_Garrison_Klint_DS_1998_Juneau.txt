@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="3_82" horizontal="false" title="Admiral Ozzel"/>
+    <card blueprintId="2_85" horizontal="false" title="Danz Borin"/>
+    <card blueprintId="1_168" horizontal="false" title="Darth Vader"/>
+    <card blueprintId="4_107" horizontal="false" title="Zuckuss"/>
+    <card blueprintId="1_173" horizontal="false" title="DS-61-2"/>
+    <card blueprintId="1_174" horizontal="false" title="DS-61-3"/>
+    <card blueprintId="2_88" horizontal="false" title="DS-61-4"/>
+    <card blueprintId="3_87" horizontal="false" title="General Veers"/>
+    <card blueprintId="3_87" horizontal="false" title="General Veers"/>
+    <card blueprintId="3_89" horizontal="false" title="Lieutenant Cabbel"/>
+    <card blueprintId="2_97" horizontal="false" title="Mosep"/>
+    <card blueprintId="3_91" horizontal="false" title="Snowtrooper"/>
+    <card blueprintId="3_91" horizontal="false" title="Snowtrooper"/>
+    <card blueprintId="3_91" horizontal="false" title="Snowtrooper"/>
+    <card blueprintId="3_91" horizontal="false" title="Snowtrooper"/>
+    <card blueprintId="3_91" horizontal="false" title="Snowtrooper"/>
+    <card blueprintId="3_91" horizontal="false" title="Snowtrooper"/>
+    <card blueprintId="3_92" horizontal="false" title="Snowtrooper Officer"/>
+    <card blueprintId="3_92" horizontal="false" title="Snowtrooper Officer"/>
+    <card blueprintId="3_92" horizontal="false" title="Snowtrooper Officer"/>
+    <card blueprintId="5_120" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="5_120" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="1_228" horizontal="false" title="Reactor Terminal"/>
+    <card blueprintId="4_134" horizontal="false" title="There Is No Try"/>
+    <card blueprintId="5_110" horizontal="false" title="Ability, Ability, Ability"/>
+    <card blueprintId="5_110" horizontal="false" title="Ability, Ability, Ability"/>
+    <card blueprintId="3_115" horizontal="false" title="Target The Main Generator"/>
+    <card blueprintId="3_115" horizontal="false" title="Target The Main Generator"/>
+    <card blueprintId="1_235" horizontal="false" title="Boring Conversation Anyway"/>
+    <card blueprintId="1_235" horizontal="false" title="Boring Conversation Anyway"/>
+    <card blueprintId="1_243" horizontal="false" title="Elis Helrot"/>
+    <card blueprintId="1_243" horizontal="false" title="Elis Helrot"/>
+    <card blueprintId="2_140" horizontal="false" title="Stunning Leader"/>
+    <card blueprintId="2_140" horizontal="false" title="Stunning Leader"/>
+    <card blueprintId="3_136" horizontal="false" title="Tactical Support"/>
+    <card blueprintId="3_138" horizontal="false" title="Trample"/>
+    <card blueprintId="3_138" horizontal="false" title="Trample"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="104_7" horizontal="false" title="Walker Garrison"/>
+    <card blueprintId="104_7" horizontal="false" title="Walker Garrison"/>
+    <card blueprintId="104_7" horizontal="false" title="Walker Garrison"/>
+    <card blueprintId="104_7" horizontal="false" title="Walker Garrison"/>
+    <card blueprintId="104_7" horizontal="false" title="Walker Garrison"/>
+    <card blueprintId="3_144" horizontal="true" title="Hoth: Defensive Perimeter (3rd Marker)"/>
+    <card blueprintId="3_144" horizontal="true" title="Hoth: Defensive Perimeter (3rd Marker)"/>
+    <card blueprintId="3_146" horizontal="true" title="Hoth: Echo Corridor"/>
+    <card blueprintId="3_147" horizontal="true" title="Hoth: Echo Docking Bay"/>
+    <card blueprintId="3_148" horizontal="true" title="Hoth: Ice Plains (5th Marker)"/>
+    <card blueprintId="3_148" horizontal="true" title="Hoth: Ice Plains (5th Marker)"/>
+    <card blueprintId="104_4" horizontal="true" title="Hoth: Mountains (6th Marker)"/>
+    <card blueprintId="4_158" horizontal="true" title="Dagobah: Cave"/>
+    <card blueprintId="3_154" horizontal="false" title="Blizzard 1"/>
+    <card blueprintId="3_155" horizontal="false" title="Blizzard 2"/>
+    <card blueprintId="3_157" horizontal="false" title="Blizzard Walker"/>
+    <card blueprintId="3_157" horizontal="false" title="Blizzard Walker"/>
+    <card blueprintId="3_157" horizontal="false" title="Blizzard Walker"/>
+    <card blueprintId="3_158" horizontal="false" title="AT-AT Cannon"/>
+    <card blueprintId="3_158" horizontal="false" title="AT-AT Cannon"/>
+</deck>

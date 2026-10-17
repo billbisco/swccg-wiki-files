@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="4_84" horizontal="false" title="Dagobah"/>
+    <card blueprintId="4_86" horizontal="true" title="Dagobah: Jungle"/>
+    <card blueprintId="4_87" horizontal="true" title="Dagobah: Swamp"/>
+    <card blueprintId="4_88" horizontal="true" title="Dagobah: Training Area"/>
+    <card blueprintId="4_89" horizontal="true" title="Dagobah: Yoda's Hut"/>
+    <card blueprintId="3_55" horizontal="false" title="Hoth"/>
+    <card blueprintId="3_56" horizontal="true" title="Hoth: Defensive Perimeter (3rd Marker)"/>
+    <card blueprintId="3_56" horizontal="true" title="Hoth: Defensive Perimeter (3rd Marker)"/>
+    <card blueprintId="3_57" horizontal="true" title="Hoth: Echo Command Center (War Room)"/>
+    <card blueprintId="3_57" horizontal="true" title="Hoth: Echo Command Center (War Room)"/>
+    <card blueprintId="3_63" horizontal="true" title="Hoth: Snow Trench (2nd Marker)"/>
+    <card blueprintId="1_126" horizontal="false" title="Kessel"/>
+    <card blueprintId="1_3" horizontal="false" title="Biggs Darklighter"/>
+    <card blueprintId="1_4" horizontal="false" title="BoShek"/>
+    <card blueprintId="1_4" horizontal="false" title="BoShek"/>
+    <card blueprintId="2_4" horizontal="false" title="Commander Evram Lajaie"/>
+    <card blueprintId="2_5" horizontal="false" title="Commander Vanden Willard"/>
+    <card blueprintId="7_12" horizontal="false" title="Commander Wedge Antilles"/>
+    <card blueprintId="3_6" horizontal="false" title="Echo Base Trooper"/>
+    <card blueprintId="3_6" horizontal="false" title="Echo Base Trooper"/>
+    <card blueprintId="3_7" horizontal="false" title="Echo Base Trooper Officer"/>
+    <card blueprintId="1_9" horizontal="false" title="Figrin D'an"/>
+    <card blueprintId="107_2" horizontal="false" title="Mon Mothma"/>
+    <card blueprintId="2_14" horizontal="false" title="R2-D2 (Artoo-Detoo)"/>
+    <card blueprintId="3_15" horizontal="false" title="R5-M2 (Arfive-Emmtoo)"/>
+    <card blueprintId="3_16" horizontal="false" title="Rebel Scout"/>
+    <card blueprintId="4_1" horizontal="false" title="Son Of Skywalker"/>
+    <card blueprintId="4_2" horizontal="false" title="Yoda"/>
+    <card blueprintId="3_27" horizontal="false" title="Zev Senesca"/>
+    <card blueprintId="3_67" horizontal="false" title="Rogue 2"/>
+    <card blueprintId="3_68" horizontal="false" title="Rogue 3"/>
+    <card blueprintId="103_1" horizontal="false" title="Gold Leader In Gold 1"/>
+    <card blueprintId="107_1" horizontal="false" title="Mon Calamari Star Cruiser"/>
+    <card blueprintId="1_145" horizontal="false" title="Red 3"/>
+    <card blueprintId="103_2" horizontal="false" title="Red Leader In Red 1"/>
+    <card blueprintId="2_73" horizontal="false" title="Tantive IV"/>
+    <card blueprintId="4_75" horizontal="false" title="A Jedi's Strength"/>
+    <card blueprintId="4_76" horizontal="false" title="Domain Of Evil"/>
+    <card blueprintId="4_77" horizontal="false" title="Great Warrior"/>
+    <card blueprintId="1_70" horizontal="false" title="A Few Maneuvers"/>
+    <card blueprintId="4_45" horizontal="false" title="Away Put Your Weapon"/>
+    <card blueprintId="4_48" horizontal="false" title="Control"/>
+    <card blueprintId="4_48" horizontal="false" title="Control"/>
+    <card blueprintId="6_64" horizontal="false" title="Don't Forget The Droids"/>
+    <card blueprintId="4_53" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="1_95" horizontal="false" title="Luke's Back"/>
+    <card blueprintId="1_95" horizontal="false" title="Luke's Back"/>
+    <card blueprintId="1_102" horizontal="false" title="Out Of Nowhere"/>
+    <card blueprintId="5_68" horizontal="false" title="Shocking Information"/>
+    <card blueprintId="5_68" horizontal="false" title="Shocking Information"/>
+    <card blueprintId="1_113" horizontal="false" title="Surprise Assault"/>
+    <card blueprintId="1_113" horizontal="false" title="Surprise Assault"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="4_67" horizontal="false" title="Tunnel Vision"/>
+    <card blueprintId="4_19" horizontal="false" title="At Peace"/>
+    <card blueprintId="4_21" horizontal="false" title="Do, Or Do Not"/>
+    <card blueprintId="4_44" horizontal="false" title="Yoda's Hope"/>
+    <card blueprintId="4_44" horizontal="false" title="Yoda's Hope"/>
+    <card blueprintId="1_155" horizontal="false" title="Jedi Lightsaber"/>
+    <card blueprintId="3_30" horizontal="false" title="Hoth Survival Gear"/>
+</deck>
