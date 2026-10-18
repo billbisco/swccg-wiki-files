@@ -23,11 +23,8 @@
     <card blueprintId="2_86" horizontal="false" title="Death Star Gunner"/>
     <card blueprintId="2_86" horizontal="false" title="Death Star Gunner"/>
     <card blueprintId="2_86" horizontal="false" title="Death Star Gunner"/>
-    <card blueprintId="2_161" horizontal="false" title="Superlaser"/>
-    <card blueprintId="1_155" horizontal="false" title="Jedi Lightsaber"/>
-    <card blueprintId="1_155" horizontal="false" title="Jedi Lightsaber"/>
-    <card blueprintId="1_155" horizontal="false" title="Jedi Lightsaber"/>
     <card blueprintId="6_140" horizontal="false" title="Jet Pack"/>
+    <card blueprintId="2_161" horizontal="false" title="Superlaser"/>
     <card blueprintId="4_180" horizontal="false" title="Zuckuss' Snare Rifle"/>
     <card blueprintId="4_178" horizontal="false" title="IG-88's Pulse Cannon"/>
     <card blueprintId="8_180" horizontal="false" title="Speeder Bike Cannon"/>
@@ -36,10 +33,10 @@
     <card blueprintId="1_323" horizontal="false" title="Turbolaser Battery"/>
     <card blueprintId="2_152" horizontal="false" title="Conquest"/>
     <card blueprintId="5_177" horizontal="false" title="Slave I"/>
-    <card blueprintId="8_169" horizontal="false" title="Speeder Bike"/>
-    <card blueprintId="8_170" horizontal="false" title="Tempest 1"/>
     <card blueprintId="10_49" horizontal="false" title="Stinger"/>
     <card blueprintId="9_167" horizontal="false" title="Scimitar 2"/>
+    <card blueprintId="8_169" horizontal="false" title="Speeder Bike"/>
+    <card blueprintId="8_170" horizontal="false" title="Tempest 1"/>
     <card blueprintId="2_143" horizontal="false" title="Death Star"/>
     <card blueprintId="5_169" horizontal="true" title="Cloud City: East Platform (Docking Bay)"/>
     <card blueprintId="3_145" horizontal="true" title="Hoth: Echo Command Center (War Room)"/>
@@ -50,14 +47,14 @@
     <card blueprintId="2_144" horizontal="true" title="Death Star: Conference Room"/>
     <card blueprintId="9_126" horizontal="false" title="Inconsequential Losses"/>
     <card blueprintId="1_215" horizontal="false" title="Expand The Empire"/>
-    <card blueprintId="1_263" horizontal="false" title="Overload"/>
     <card blueprintId="7_218" horizontal="false" title="A Bright Center To The Universe"/>
     <card blueprintId="1_232" horizontal="false" title="Wrong Turn"/>
     <card blueprintId="5_110" horizontal="false" title="Ability, Ability, Ability"/>
-    <card blueprintId="1_259" horizontal="false" title="Look Sir, Droids"/>
     <card blueprintId="4_123" horizontal="false" title="He Is Not Ready"/>
     <card blueprintId="2_122" horizontal="false" title="Krayt Dragon Bones"/>
-    <card blueprintId="1_273" horizontal="false" title="Trinto Duaba"/>
     <card blueprintId="6_141" horizontal="false" title="All Wrapped Up"/>
+    <card blueprintId="1_263" horizontal="false" title="Overload"/>
+    <card blueprintId="1_259" horizontal="false" title="Look Sir, Droids"/>
+    <card blueprintId="1_273" horizontal="false" title="Trinto Duaba"/>
     <card blueprintId="2_130" horizontal="false" title="Commence Primary Ignition"/>
 </deck>

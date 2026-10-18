@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <deck>
-    <card blueprintId="1_127" horizontal="false" title="Tatooine"/>
-    <card blueprintId="6_85" horizontal="true" title="Tatooine: Desert"/>
-    <card blueprintId="106_8" horizontal="true" title="Tatooine: Jundland Wastes"/>
-    <card blueprintId="9_41" horizontal="false" title="Strike Planning"/>
-    <card blueprintId="6_59" horizontal="false" title="Yarna d'al' Gargan"/>
-    <card blueprintId="3_57" horizontal="true" title="Hoth: Echo Command Center (War Room)"/>
-    <card blueprintId="6_82" horizontal="true" title="Jabba's Palace: Entrance Cavern"/>
-    <card blueprintId="1_132" horizontal="true" title="Tatooine: Lars' Moisture Farm"/>
-    <card blueprintId="7_120" horizontal="true" title="Farm"/>
+    <card blueprintId="6_2" horizontal="false" title="Ardon &quot;Vapor&quot; Crell"/>
+    <card blueprintId="6_2" horizontal="false" title="Ardon &quot;Vapor&quot; Crell"/>
     <card blueprintId="7_3" horizontal="false" title="ASP-707 (Ayesspee)"/>
     <card blueprintId="7_3" horizontal="false" title="ASP-707 (Ayesspee)"/>
     <card blueprintId="7_12" horizontal="false" title="Commander Wedge Antilles"/>
@@ -18,6 +11,9 @@
     <card blueprintId="6_15" horizontal="false" title="Geezum"/>
     <card blueprintId="7_22" horizontal="false" title="Incom Engineer"/>
     <card blueprintId="3_27" horizontal="false" title="Zev Senesca"/>
+    <card blueprintId="1_41" horizontal="false" title="Vaporator"/>
+    <card blueprintId="1_41" horizontal="false" title="Vaporator"/>
+    <card blueprintId="1_41" horizontal="false" title="Vaporator"/>
     <card blueprintId="9_63" horizontal="false" title="Blue Squadron 5"/>
     <card blueprintId="10_17" horizontal="false" title="Outrider"/>
     <card blueprintId="3_66" horizontal="false" title="Rogue 1"/>
@@ -30,9 +26,15 @@
     <card blueprintId="7_156" horizontal="false" title="Sandspeeder"/>
     <card blueprintId="7_156" horizontal="false" title="Sandspeeder"/>
     <card blueprintId="7_156" horizontal="false" title="Sandspeeder"/>
-    <card blueprintId="1_41" horizontal="false" title="Vaporator"/>
-    <card blueprintId="1_41" horizontal="false" title="Vaporator"/>
-    <card blueprintId="1_41" horizontal="false" title="Vaporator"/>
+    <card blueprintId="1_127" horizontal="false" title="Tatooine"/>
+    <card blueprintId="6_85" horizontal="true" title="Tatooine: Desert"/>
+    <card blueprintId="106_8" horizontal="true" title="Tatooine: Jundland Wastes"/>
+    <card blueprintId="3_57" horizontal="true" title="Hoth: Echo Command Center (War Room)"/>
+    <card blueprintId="6_82" horizontal="true" title="Jabba's Palace: Entrance Cavern"/>
+    <card blueprintId="1_132" horizontal="true" title="Tatooine: Lars' Moisture Farm"/>
+    <card blueprintId="7_120" horizontal="true" title="Farm"/>
+    <card blueprintId="9_41" horizontal="false" title="Strike Planning"/>
+    <card blueprintId="6_59" horizontal="false" title="Yarna d'al' Gargan"/>
     <card blueprintId="111_3" horizontal="false" title="Echo Base Garrison"/>
     <card blueprintId="7_62" horizontal="false" title="Goo Nee Tay"/>
     <card blueprintId="7_62" horizontal="false" title="Goo Nee Tay"/>

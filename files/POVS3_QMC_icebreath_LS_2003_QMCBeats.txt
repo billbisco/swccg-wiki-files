@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <deck>
-    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
     <card blueprintId="109_4" horizontal="false" title="Quiet Mining Colony"/>
-    <card blueprintId="11_20" horizontal="false" title="Keeping The Empire Out Forever"/>
-    <card blueprintId="9_39" horizontal="false" title="Squadron Assignments"/>
-    <card blueprintId="5_80" horizontal="true" title="Cloud City: Guest Quarters"/>
-    <card blueprintId="5_76" horizontal="false" title="Bespin"/>
-    <card blueprintId="5_77" horizontal="false" title="Bespin: Cloud City"/>
-    <card blueprintId="5_169" horizontal="true" title="Cloud City: East Platform (Docking Bay)"/>
-    <card blueprintId="7_115" horizontal="true" title="Cloud City: West Gallery"/>
     <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
     <card blueprintId="4_1" horizontal="false" title="Son Of Skywalker"/>
     <card blueprintId="1_21" horizontal="false" title="Obi-Wan Kenobi"/>
@@ -44,6 +36,17 @@
     <card blueprintId="9_82" horizontal="false" title="Red Squadron 4"/>
     <card blueprintId="9_81" horizontal="false" title="Red Squadron 1"/>
     <card blueprintId="10_20" horizontal="false" title="Pulsar Skate"/>
+    <card blueprintId="5_80" horizontal="true" title="Cloud City: Guest Quarters"/>
+    <card blueprintId="5_76" horizontal="false" title="Bespin"/>
+    <card blueprintId="5_77" horizontal="false" title="Bespin: Cloud City"/>
+    <card blueprintId="7_115" horizontal="true" title="Cloud City: West Gallery"/>
+    <card blueprintId="11_20" horizontal="false" title="Keeping The Empire Out Forever"/>
+    <card blueprintId="9_39" horizontal="false" title="Squadron Assignments"/>
+    <card blueprintId="3_32" horizontal="false" title="Bacta Tank"/>
+    <card blueprintId="7_55" horizontal="false" title="Cloud City Celebration"/>
+    <card blueprintId="1_54" horizontal="false" title="Lightsaber Proficiency"/>
+    <card blueprintId="4_43" horizontal="false" title="Yoda's Gimer Stick"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
     <card blueprintId="5_38" horizontal="false" title="Clash Of Sabers"/>
     <card blueprintId="5_38" horizontal="false" title="Clash Of Sabers"/>
     <card blueprintId="10_19" horizontal="false" title="Path Of Least Resistance &amp; Revealed"/>
@@ -52,8 +55,4 @@
     <card blueprintId="4_54" horizontal="false" title="Levitation"/>
     <card blueprintId="4_54" horizontal="false" title="Levitation"/>
     <card blueprintId="4_54" horizontal="false" title="Levitation"/>
-    <card blueprintId="3_32" horizontal="false" title="Bacta Tank"/>
-    <card blueprintId="7_55" horizontal="false" title="Cloud City Celebration"/>
-    <card blueprintId="1_54" horizontal="false" title="Lightsaber Proficiency"/>
-    <card blueprintId="4_43" horizontal="false" title="Yoda's Gimer Stick"/>
 </deck>

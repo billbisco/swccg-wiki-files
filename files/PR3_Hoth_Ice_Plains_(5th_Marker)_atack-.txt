@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <deck>
-    <card blueprintId="3_148" horizontal="true" title="Hoth: Ice Plains (5th Marker)"/>
-    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
-    <card blueprintId="12_139" horizontal="false" title="The Phantom Menace"/>
-    <card blueprintId="11_77" horizontal="false" title="You May Start Your Landing"/>
-    <card blueprintId="12_135" horizontal="false" title="Imperial Arrest Order &amp; Secret Plans"/>
     <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
     <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
     <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
@@ -27,16 +22,6 @@
     <card blueprintId="14_126" horizontal="false" title="AAT Laser Cannon"/>
     <card blueprintId="14_128" horizontal="false" title="Energy Shell Launchers"/>
     <card blueprintId="14_128" horizontal="false" title="Energy Shell Launchers"/>
-    <card blueprintId="104_4" horizontal="true" title="Hoth: Mountains (6th Marker)"/>
-    <card blueprintId="3_150" horizontal="true" title="Hoth: Wampa Cave (7th Marker)"/>
-    <card blueprintId="3_144" horizontal="true" title="Hoth: Defensive Perimeter (3rd Marker)"/>
-    <card blueprintId="3_149" horizontal="true" title="Hoth: North Ridge (4th Marker)"/>
-    <card blueprintId="12_170" horizontal="true" title="Naboo: Battle Plains"/>
-    <card blueprintId="3_147" horizontal="true" title="Hoth: Echo Docking Bay"/>
-    <card blueprintId="12_173" horizontal="true" title="Naboo: Theed Palace Docking Bay"/>
-    <card blueprintId="9_92" horizontal="false" title="Battle Deployment"/>
-    <card blueprintId="14_96" horizontal="false" title="Droid Racks"/>
-    <card blueprintId="14_99" horizontal="false" title="Open Fire!"/>
     <card blueprintId="3_157" horizontal="false" title="Blizzard Walker"/>
     <card blueprintId="3_157" horizontal="false" title="Blizzard Walker"/>
     <card blueprintId="104_5" horizontal="false" title="Imperial Walker"/>
@@ -44,12 +29,26 @@
     <card blueprintId="3_154" horizontal="false" title="Blizzard 1"/>
     <card blueprintId="3_155" horizontal="false" title="Blizzard 2"/>
     <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
-    <card blueprintId="8_170" horizontal="false" title="Tempest 1"/>
+    <card blueprintId="8_172" horizontal="false" title="Tempest Scout 1"/>
     <card blueprintId="14_124" horizontal="false" title="TT-6"/>
     <card blueprintId="14_120" horizontal="false" title="AAT Assault Leader"/>
     <card blueprintId="14_121" horizontal="false" title="Armored Attack Tank"/>
     <card blueprintId="14_121" horizontal="false" title="Armored Attack Tank"/>
     <card blueprintId="14_121" horizontal="false" title="Armored Attack Tank"/>
+    <card blueprintId="3_148" horizontal="true" title="Hoth: Ice Plains (5th Marker)"/>
+    <card blueprintId="104_4" horizontal="true" title="Hoth: Mountains (6th Marker)"/>
+    <card blueprintId="3_150" horizontal="true" title="Hoth: Wampa Cave (7th Marker)"/>
+    <card blueprintId="3_144" horizontal="true" title="Hoth: Defensive Perimeter (3rd Marker)"/>
+    <card blueprintId="3_149" horizontal="true" title="Hoth: North Ridge (4th Marker)"/>
+    <card blueprintId="12_170" horizontal="true" title="Naboo: Battle Plains"/>
+    <card blueprintId="3_147" horizontal="true" title="Hoth: Echo Docking Bay"/>
+    <card blueprintId="12_173" horizontal="true" title="Naboo: Theed Palace Docking Bay"/>
+    <card blueprintId="12_139" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="11_77" horizontal="false" title="You May Start Your Landing"/>
+    <card blueprintId="12_135" horizontal="false" title="Imperial Arrest Order &amp; Secret Plans"/>
+    <card blueprintId="14_96" horizontal="false" title="Droid Racks"/>
+    <card blueprintId="14_99" horizontal="false" title="Open Fire!"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
     <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
     <card blueprintId="104_7" horizontal="false" title="Walker Garrison"/>
     <card blueprintId="104_7" horizontal="false" title="Walker Garrison"/>
@@ -60,4 +59,5 @@
     <card blueprintId="3_121" horizontal="false" title="Debris Zone"/>
     <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
     <card blueprintId="4_139" horizontal="false" title="Control"/>
+    <card blueprintId="9_92" horizontal="false" title="Battle Deployment"/>
 </deck>

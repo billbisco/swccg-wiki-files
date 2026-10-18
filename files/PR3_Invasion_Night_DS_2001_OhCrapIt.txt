@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <deck>
     <card blueprintId="14_113" horizontal="false" title="Invasion"/>
-    <card blueprintId="12_169" horizontal="false" title="Naboo"/>
-    <card blueprintId="12_171" horizontal="true" title="Naboo: Swamp"/>
-    <card blueprintId="14_114" horizontal="false" title="Blockade Flagship"/>
-    <card blueprintId="14_96" horizontal="false" title="Droid Racks"/>
-    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
-    <card blueprintId="14_97" horizontal="false" title="Fighters Straight Ahead"/>
-    <card blueprintId="12_139" horizontal="false" title="The Phantom Menace"/>
-    <card blueprintId="14_98" horizontal="false" title="Naboo Occupation"/>
     <card blueprintId="14_78" horizontal="false" title="Darth Sidious"/>
     <card blueprintId="11_54" horizontal="false" title="Darth Maul"/>
     <card blueprintId="11_54" horizontal="false" title="Darth Maul"/>
@@ -30,33 +22,42 @@
     <card blueprintId="14_80" horizontal="false" title="Infantry Battle Droid"/>
     <card blueprintId="14_73" horizontal="false" title="Battle Droid Officer"/>
     <card blueprintId="14_73" horizontal="false" title="Battle Droid Officer"/>
-    <card blueprintId="14_93" horizontal="false" title="Activate The Droids"/>
-    <card blueprintId="14_94" horizontal="false" title="After Her!"/>
-    <card blueprintId="12_141" horizontal="false" title="They Will Be No Match For You"/>
-    <card blueprintId="14_101" horizontal="false" title="Cease Fire!"/>
-    <card blueprintId="14_101" horizontal="false" title="Cease Fire!"/>
-    <card blueprintId="14_107" horizontal="false" title="There They Are!"/>
-    <card blueprintId="14_107" horizontal="false" title="There They Are!"/>
-    <card blueprintId="14_108" horizontal="false" title="This Is Not Good"/>
-    <card blueprintId="14_108" horizontal="false" title="This Is Not Good"/>
-    <card blueprintId="14_109" horizontal="false" title="Trade Federation Tactics"/>
-    <card blueprintId="14_109" horizontal="false" title="Trade Federation Tactics"/>
-    <card blueprintId="12_153" horizontal="false" title="Maul Strikes"/>
-    <card blueprintId="12_153" horizontal="false" title="Maul Strikes"/>
-    <card blueprintId="1_234" horizontal="false" title="Alter"/>
-    <card blueprintId="1_234" horizontal="false" title="Alter"/>
-    <card blueprintId="3_130" horizontal="false" title="Oh, Switch Off"/>
-    <card blueprintId="3_130" horizontal="false" title="Oh, Switch Off"/>
+    <card blueprintId="14_71" horizontal="false" title="3B3-21"/>
     <card blueprintId="13_75" horizontal="false" title="Maul's Double-Bladed Lightsaber"/>
     <card blueprintId="13_75" horizontal="false" title="Maul's Double-Bladed Lightsaber"/>
+    <card blueprintId="14_114" horizontal="false" title="Blockade Flagship"/>
     <card blueprintId="14_117" horizontal="false" title="DFS-1308"/>
     <card blueprintId="14_116" horizontal="false" title="DFS-1015"/>
     <card blueprintId="14_118" horizontal="false" title="DFS-327"/>
     <card blueprintId="12_185" horizontal="false" title="Trade Federation Droid Control Ship"/>
     <card blueprintId="14_124" horizontal="false" title="TT-6"/>
+    <card blueprintId="12_169" horizontal="false" title="Naboo"/>
+    <card blueprintId="12_171" horizontal="true" title="Naboo: Swamp"/>
     <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
     <card blueprintId="14_112" horizontal="true" title="Naboo: Theed Palace Hallway"/>
     <card blueprintId="12_174" horizontal="true" title="Naboo: Theed Palace Throne Room"/>
     <card blueprintId="13_77" horizontal="true" title="Naboo: Theed Palace Generator Core"/>
     <card blueprintId="13_76" horizontal="true" title="Naboo: Theed Palace Generator"/>
+    <card blueprintId="14_96" horizontal="false" title="Droid Racks"/>
+    <card blueprintId="14_97" horizontal="false" title="Fighters Straight Ahead"/>
+    <card blueprintId="12_139" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="14_98" horizontal="false" title="Naboo Occupation"/>
+    <card blueprintId="14_93" horizontal="false" title="Activate The Droids"/>
+    <card blueprintId="14_94" horizontal="false" title="After Her!"/>
+    <card blueprintId="12_141" horizontal="false" title="They Will Be No Match For You"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="14_101" horizontal="false" title="Cease Fire!"/>
+    <card blueprintId="14_101" horizontal="false" title="Cease Fire!"/>
+    <card blueprintId="14_107" horizontal="false" title="There They Are!"/>
+    <card blueprintId="14_107" horizontal="false" title="There They Are!"/>
+    <card blueprintId="14_108" horizontal="false" title="This Is Not Good"/>
+    <card blueprintId="14_108" horizontal="false" title="This Is Not Good"/>
+    <card blueprintId="14_109" horizontal="false" title="Trade Federation Tactics"/>
+    <card blueprintId="14_109" horizontal="false" title="Trade Federation Tactics"/>
+    <card blueprintId="12_153" horizontal="false" title="Maul Strikes"/>
+    <card blueprintId="12_153" horizontal="false" title="Maul Strikes"/>
+    <card blueprintId="1_234" horizontal="false" title="Alter"/>
+    <card blueprintId="1_234" horizontal="false" title="Alter"/>
+    <card blueprintId="3_130" horizontal="false" title="Oh, Switch Off"/>
+    <card blueprintId="3_130" horizontal="false" title="Oh, Switch Off"/>
 </deck>

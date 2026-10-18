@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <deck>
-    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
-    <card blueprintId="8_116" horizontal="false" title="An Entire Legion Of My Best Troops"/>
-    <card blueprintId="8_119" horizontal="false" title="Biker Scout Gear"/>
-    <card blueprintId="8_121" horizontal="false" title="Crossfire"/>
-    <card blueprintId="8_157" horizontal="false" title="Endor"/>
     <card blueprintId="9_98" horizontal="false" title="Admiral Piett"/>
     <card blueprintId="8_91" horizontal="false" title="AT-ST Pilot"/>
     <card blueprintId="8_92" horizontal="false" title="Biker Scout Trooper"/>
@@ -23,17 +18,6 @@
     <card blueprintId="8_103" horizontal="false" title="Lieutenant Renz"/>
     <card blueprintId="8_111" horizontal="false" title="Sergeant Barich"/>
     <card blueprintId="8_112" horizontal="false" title="Sergeant Elsek"/>
-    <card blueprintId="8_134" horizontal="false" title="Accelerate"/>
-    <card blueprintId="8_134" horizontal="false" title="Accelerate"/>
-    <card blueprintId="8_133" horizontal="false" title="Go For Help!"/>
-    <card blueprintId="8_147" horizontal="false" title="Imperial Tyranny"/>
-    <card blueprintId="8_150" horizontal="false" title="Outflank"/>
-    <card blueprintId="8_153" horizontal="false" title="Sneak Attack"/>
-    <card blueprintId="8_153" horizontal="false" title="Sneak Attack"/>
-    <card blueprintId="8_153" horizontal="false" title="Sneak Attack"/>
-    <card blueprintId="8_124" horizontal="false" title="Establish Secret Base"/>
-    <card blueprintId="8_125" horizontal="false" title="Imperial Academy Training"/>
-    <card blueprintId="8_131" horizontal="false" title="Search And Destroy"/>
     <card blueprintId="8_179" horizontal="false" title="Scout Blaster"/>
     <card blueprintId="8_179" horizontal="false" title="Scout Blaster"/>
     <card blueprintId="8_179" horizontal="false" title="Scout Blaster"/>
@@ -53,6 +37,7 @@
     <card blueprintId="8_170" horizontal="false" title="Tempest 1"/>
     <card blueprintId="8_171" horizontal="false" title="Tempest Scout"/>
     <card blueprintId="8_174" horizontal="false" title="Tempest Scout 3"/>
+    <card blueprintId="8_157" horizontal="false" title="Endor"/>
     <card blueprintId="5_164" horizontal="false" title="Bespin"/>
     <card blueprintId="5_165" horizontal="false" title="Bespin: Cloud City"/>
     <card blueprintId="8_166" horizontal="true" title="Endor: Landing Platform (Docking Bay)"/>
@@ -60,4 +45,19 @@
     <card blueprintId="8_159" horizontal="true" title="Endor: Back Door"/>
     <card blueprintId="8_165" horizontal="true" title="Endor: Great Forest"/>
     <card blueprintId="8_158" horizontal="true" title="Endor: Ancient Forest"/>
+    <card blueprintId="8_116" horizontal="false" title="An Entire Legion Of My Best Troops"/>
+    <card blueprintId="8_119" horizontal="false" title="Biker Scout Gear"/>
+    <card blueprintId="8_121" horizontal="false" title="Crossfire"/>
+    <card blueprintId="8_124" horizontal="false" title="Establish Secret Base"/>
+    <card blueprintId="8_125" horizontal="false" title="Imperial Academy Training"/>
+    <card blueprintId="8_131" horizontal="false" title="Search And Destroy"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="8_134" horizontal="false" title="Accelerate"/>
+    <card blueprintId="8_134" horizontal="false" title="Accelerate"/>
+    <card blueprintId="8_144" horizontal="false" title="Go For Help!"/>
+    <card blueprintId="8_147" horizontal="false" title="Imperial Tyranny"/>
+    <card blueprintId="8_150" horizontal="false" title="Outflank"/>
+    <card blueprintId="8_153" horizontal="false" title="Sneak Attack"/>
+    <card blueprintId="8_153" horizontal="false" title="Sneak Attack"/>
+    <card blueprintId="8_153" horizontal="false" title="Sneak Attack"/>
 </deck>

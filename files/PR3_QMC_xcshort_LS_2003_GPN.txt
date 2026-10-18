@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <deck>
     <card blueprintId="109_4" horizontal="false" title="Quiet Mining Colony"/>
-    <card blueprintId="5_76" horizontal="false" title="Bespin"/>
-    <card blueprintId="5_80" horizontal="true" title="Cloud City: Guest Quarters"/>
-    <card blueprintId="13_5" horizontal="false" title="An Unusual Amount Of Fear"/>
-    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
-    <card blueprintId="11_20" horizontal="false" title="Keeping The Empire Out Forever"/>
-    <card blueprintId="6_58" horizontal="false" title="Ultimatum"/>
-    <card blueprintId="12_44" horizontal="false" title="Insurrection &amp; Aim High"/>
     <card blueprintId="6_33" horizontal="false" title="Pucumir Thryss"/>
     <card blueprintId="6_33" horizontal="false" title="Pucumir Thryss"/>
     <card blueprintId="6_33" horizontal="false" title="Pucumir Thryss"/>
@@ -23,9 +16,20 @@
     <card blueprintId="108_1" horizontal="false" title="Han With Heavy Blaster Pistol"/>
     <card blueprintId="109_1" horizontal="false" title="Chewie With Blaster Rifle"/>
     <card blueprintId="109_1" horizontal="false" title="Chewie With Blaster Rifle"/>
+    <card blueprintId="225_49" horizontal="false" title="Lando With Blaster Rifle"/>
+    <card blueprintId="225_49" horizontal="false" title="Lando With Blaster Rifle"/>
     <card blueprintId="10_24" horizontal="false" title="Talon Karrde"/>
     <card blueprintId="10_24" horizontal="false" title="Talon Karrde"/>
     <card blueprintId="10_6" horizontal="false" title="Dash Rendar"/>
+    <card blueprintId="1_143" horizontal="false" title="Millennium Falcon"/>
+    <card blueprintId="1_143" horizontal="false" title="Millennium Falcon"/>
+    <card blueprintId="10_17" horizontal="false" title="Outrider"/>
+    <card blueprintId="109_5" horizontal="false" title="Z-95 Bespin Defense Fighter"/>
+    <card blueprintId="109_5" horizontal="false" title="Z-95 Bespin Defense Fighter"/>
+    <card blueprintId="109_5" horizontal="false" title="Z-95 Bespin Defense Fighter"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="5_76" horizontal="false" title="Bespin"/>
+    <card blueprintId="5_80" horizontal="true" title="Cloud City: Guest Quarters"/>
     <card blueprintId="5_82" horizontal="true" title="Cloud City: Lower Corridor"/>
     <card blueprintId="5_83" horizontal="true" title="Cloud City: Platform 327 (Docking Bay)"/>
     <card blueprintId="5_78" horizontal="true" title="Cloud City: Carbonite Chamber"/>
@@ -34,6 +38,13 @@
     <card blueprintId="7_114" horizontal="true" title="Cloud City: North Corridor"/>
     <card blueprintId="7_126" horizontal="true" title="Spaceport Docking Bay"/>
     <card blueprintId="7_126" horizontal="true" title="Spaceport Docking Bay"/>
+    <card blueprintId="13_5" horizontal="false" title="An Unusual Amount Of Fear"/>
+    <card blueprintId="11_20" horizontal="false" title="Keeping The Empire Out Forever"/>
+    <card blueprintId="6_58" horizontal="false" title="Ultimatum"/>
+    <card blueprintId="12_44" horizontal="false" title="Insurrection &amp; Aim High"/>
+    <card blueprintId="7_55" horizontal="false" title="Cloud City Celebration"/>
+    <card blueprintId="7_55" horizontal="false" title="Cloud City Celebration"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
     <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
     <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
     <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
@@ -49,13 +60,4 @@
     <card blueprintId="10_19" horizontal="false" title="Path Of Least Resistance &amp; Revealed"/>
     <card blueprintId="10_19" horizontal="false" title="Path Of Least Resistance &amp; Revealed"/>
     <card blueprintId="10_19" horizontal="false" title="Path Of Least Resistance &amp; Revealed"/>
-    <card blueprintId="1_143" horizontal="false" title="Millennium Falcon"/>
-    <card blueprintId="1_143" horizontal="false" title="Millennium Falcon"/>
-    <card blueprintId="10_17" horizontal="false" title="Outrider"/>
-    <card blueprintId="109_5" horizontal="false" title="Z-95 Bespin Defense Fighter"/>
-    <card blueprintId="109_5" horizontal="false" title="Z-95 Bespin Defense Fighter"/>
-    <card blueprintId="109_5" horizontal="false" title="Z-95 Bespin Defense Fighter"/>
-    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
-    <card blueprintId="7_55" horizontal="false" title="Cloud City Celebration"/>
-    <card blueprintId="7_55" horizontal="false" title="Cloud City Celebration"/>
 </deck>

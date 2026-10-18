@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <deck>
+    <card blueprintId="10_29" horizontal="false" title="Agents Of Black Sun"/>
     <card blueprintId="4_101" horizontal="false" title="IG-88"/>
     <card blueprintId="109_11" horizontal="false" title="IG-88 With Riot Gun"/>
     <card blueprintId="5_91" horizontal="false" title="Boba Fett"/>
@@ -13,16 +14,6 @@
     <card blueprintId="1_168" horizontal="false" title="Darth Vader"/>
     <card blueprintId="101_5" horizontal="false" title="Vader"/>
     <card blueprintId="7_175" horizontal="false" title="Darth Vader, Dark Lord Of The Sith"/>
-    <card blueprintId="1_152" horizontal="false" title="Blaster"/>
-    <card blueprintId="1_152" horizontal="false" title="Blaster"/>
-    <card blueprintId="1_152" horizontal="false" title="Blaster"/>
-    <card blueprintId="1_152" horizontal="false" title="Blaster"/>
-    <card blueprintId="1_152" horizontal="false" title="Blaster"/>
-    <card blueprintId="1_152" horizontal="false" title="Blaster"/>
-    <card blueprintId="1_152" horizontal="false" title="Blaster"/>
-    <card blueprintId="1_152" horizontal="false" title="Blaster"/>
-    <card blueprintId="1_152" horizontal="false" title="Blaster"/>
-    <card blueprintId="1_152" horizontal="false" title="Blaster"/>
     <card blueprintId="9_178" horizontal="false" title="Darth Vader's Lightsaber"/>
     <card blueprintId="1_324" horizontal="false" title="Vader's Lightsaber"/>
     <card blueprintId="4_178" horizontal="false" title="IG-88's Pulse Cannon"/>
@@ -54,10 +45,9 @@
     <card blueprintId="7_308" horizontal="false" title="TIE Defender Mark I"/>
     <card blueprintId="7_308" horizontal="false" title="TIE Defender Mark I"/>
     <card blueprintId="7_308" horizontal="false" title="TIE Defender Mark I"/>
-    <card blueprintId="10_29" horizontal="false" title="Agents Of Black Sun"/>
+    <card blueprintId="1_221" horizontal="false" title="Ket Maliss"/>
+    <card blueprintId="1_221" horizontal="false" title="Ket Maliss"/>
+    <card blueprintId="1_221" horizontal="false" title="Ket Maliss"/>
     <card blueprintId="10_32" horizontal="false" title="Black Sun Fleet"/>
     <card blueprintId="9_92" horizontal="false" title="Battle Deployment"/>
-    <card blueprintId="1_221" horizontal="false" title="Ket Maliss"/>
-    <card blueprintId="1_221" horizontal="false" title="Ket Maliss"/>
-    <card blueprintId="1_221" horizontal="false" title="Ket Maliss"/>
 </deck>

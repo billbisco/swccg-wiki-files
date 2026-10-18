@@ -21,7 +21,6 @@
     <card blueprintId="1_154" horizontal="false" title="Han's Heavy Blaster Pistol"/>
     <card blueprintId="14_62" horizontal="false" title="Amidala's Blaster"/>
     <card blueprintId="12_96" horizontal="false" title="Panaka's Blaster"/>
-    <card blueprintId="12_188" horizontal="false" title="Naboo Blaster"/>
     <card blueprintId="8_86" horizontal="false" title="Chewbacca's Bowcaster"/>
     <card blueprintId="7_161" horizontal="false" title="Leia's Blaster Rifle"/>
     <card blueprintId="7_160" horizontal="false" title="Lando's Blaster Rifle"/>
@@ -34,24 +33,24 @@
     <card blueprintId="7_131" horizontal="true" title="Tatooine: Jabba's Palace"/>
     <card blueprintId="1_128" horizontal="true" title="Tatooine: Cantina"/>
     <card blueprintId="12_44" horizontal="false" title="Insurrection &amp; Aim High"/>
+    <card blueprintId="8_41" horizontal="false" title="That's One"/>
+    <card blueprintId="1_57" horizontal="false" title="Obi-Wan's Cape"/>
+    <card blueprintId="1_54" horizontal="false" title="Lightsaber Proficiency"/>
+    <card blueprintId="7_71" horizontal="false" title="Meditation"/>
     <card blueprintId="10_16" horizontal="false" title="Out Of Commission &amp; Transmission Terminated"/>
     <card blueprintId="9_52" horizontal="false" title="Insertion Planning"/>
     <card blueprintId="14_45" horizontal="false" title="We Don't Have Time For This"/>
     <card blueprintId="5_75" horizontal="false" title="Wookiee Strangle"/>
     <card blueprintId="5_75" horizontal="false" title="Wookiee Strangle"/>
     <card blueprintId="11_27" horizontal="false" title="A Jedi's Focus"/>
-    <card blueprintId="8_41" horizontal="false" title="That's One"/>
     <card blueprintId="5_69" horizontal="false" title="Smoke Screen"/>
     <card blueprintId="1_109" horizontal="false" title="Sense"/>
-    <card blueprintId="1_57" horizontal="false" title="Obi-Wan's Cape"/>
     <card blueprintId="5_63" horizontal="false" title="Protector"/>
     <card blueprintId="1_92" horizontal="false" title="Jedi Presence"/>
     <card blueprintId="1_92" horizontal="false" title="Jedi Presence"/>
     <card blueprintId="6_61" horizontal="false" title="Blaster Deflection"/>
     <card blueprintId="7_90" horizontal="false" title="Harvest"/>
     <card blueprintId="1_76" horizontal="false" title="Don't Get Cocky"/>
-    <card blueprintId="1_54" horizontal="false" title="Lightsaber Proficiency"/>
-    <card blueprintId="7_71" horizontal="false" title="Meditation"/>
     <card blueprintId="1_110" horizontal="false" title="Skywalkers"/>
     <card blueprintId="1_71" horizontal="false" title="Alter"/>
     <card blueprintId="6_70" horizontal="false" title="Life Debt"/>

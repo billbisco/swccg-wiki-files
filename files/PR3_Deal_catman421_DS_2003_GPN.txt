@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <deck>
-    <card blueprintId="5_115" horizontal="false" title="Dark Deal"/>
     <card blueprintId="109_12" horizontal="false" title="This Deal Is Getting Worse All The Time"/>
     <card blueprintId="7_175" horizontal="false" title="Darth Vader, Dark Lord Of The Sith"/>
     <card blueprintId="10_40" horizontal="false" title="Grand Admiral Thrawn"/>
@@ -12,6 +11,10 @@
     <card blueprintId="5_105" horizontal="false" title="Ugnaught"/>
     <card blueprintId="5_105" horizontal="false" title="Ugnaught"/>
     <card blueprintId="5_91" horizontal="false" title="Boba Fett"/>
+    <card blueprintId="4_178" horizontal="false" title="IG-88's Pulse Cannon"/>
+    <card blueprintId="1_314" horizontal="false" title="Dark Jedi Lightsaber"/>
+    <card blueprintId="1_314" horizontal="false" title="Dark Jedi Lightsaber"/>
+    <card blueprintId="5_179" horizontal="false" title="Boba Fett's Blaster Rifle"/>
     <card blueprintId="109_10" horizontal="false" title="Dengar In Punishing One"/>
     <card blueprintId="9_157" horizontal="false" title="Flagship Executor"/>
     <card blueprintId="7_301" horizontal="false" title="Bossk In Hound's Tooth"/>
@@ -29,12 +32,25 @@
     <card blueprintId="7_273" horizontal="true" title="Cloud City: Upper Walkway"/>
     <card blueprintId="5_172" horizontal="true" title="Cloud City: Security Tower"/>
     <card blueprintId="5_166" horizontal="true" title="Cloud City: Carbonite Chamber"/>
+    <card blueprintId="5_115" horizontal="false" title="Dark Deal"/>
+    <card blueprintId="5_115" horizontal="false" title="Dark Deal"/>
+    <card blueprintId="5_115" horizontal="false" title="Dark Deal"/>
+    <card blueprintId="5_112" horizontal="false" title="All Too Easy"/>
+    <card blueprintId="5_112" horizontal="false" title="All Too Easy"/>
+    <card blueprintId="6_141" horizontal="false" title="All Wrapped Up"/>
+    <card blueprintId="7_223" horizontal="false" title="Cloud City Occupation"/>
+    <card blueprintId="7_223" horizontal="false" title="Cloud City Occupation"/>
+    <card blueprintId="109_9" horizontal="false" title="Crush The Rebellion"/>
+    <card blueprintId="13_69" horizontal="false" title="Fear Is My Ally"/>
+    <card blueprintId="4_116" horizontal="false" title="Bad Feeling Have I"/>
+    <card blueprintId="1_228" horizontal="false" title="Reactor Terminal"/>
+    <card blueprintId="5_113" horizontal="false" title="Bounty"/>
+    <card blueprintId="5_113" horizontal="false" title="Bounty"/>
+    <card blueprintId="13_91" horizontal="false" title="They Must Never Again Leave This City"/>
     <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
     <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
     <card blueprintId="7_245" horizontal="false" title="A Real Hero"/>
     <card blueprintId="5_130" horizontal="false" title="Aiiii! Aaa! Agggggggggg!"/>
-    <card blueprintId="5_112" horizontal="false" title="All Too Easy"/>
-    <card blueprintId="5_112" horizontal="false" title="All Too Easy"/>
     <card blueprintId="109_7" horizontal="false" title="Any Methods Necessary"/>
     <card blueprintId="10_38" horizontal="false" title="Evader &amp; Monnok"/>
     <card blueprintId="10_39" horizontal="false" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
@@ -42,20 +58,4 @@
     <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
     <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
     <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
-    <card blueprintId="6_141" horizontal="false" title="All Wrapped Up"/>
-    <card blueprintId="5_115" horizontal="false" title="Dark Deal"/>
-    <card blueprintId="5_115" horizontal="false" title="Dark Deal"/>
-    <card blueprintId="7_223" horizontal="false" title="Cloud City Occupation"/>
-    <card blueprintId="7_223" horizontal="false" title="Cloud City Occupation"/>
-    <card blueprintId="14_52_BACK" horizontal="false" title="They Will Be Lost And Confused"/>
-    <card blueprintId="109_9" horizontal="false" title="Crush The Rebellion"/>
-    <card blueprintId="13_69" horizontal="false" title="Fear Is My Ally"/>
-    <card blueprintId="4_116" horizontal="false" title="Bad Feeling Have I"/>
-    <card blueprintId="1_228" horizontal="false" title="Reactor Terminal"/>
-    <card blueprintId="5_113" horizontal="false" title="Bounty"/>
-    <card blueprintId="5_113" horizontal="false" title="Bounty"/>
-    <card blueprintId="4_178" horizontal="false" title="IG-88's Pulse Cannon"/>
-    <card blueprintId="1_314" horizontal="false" title="Dark Jedi Lightsaber"/>
-    <card blueprintId="1_314" horizontal="false" title="Dark Jedi Lightsaber"/>
-    <card blueprintId="5_179" horizontal="false" title="Boba Fett's Blaster Rifle"/>
 </deck>

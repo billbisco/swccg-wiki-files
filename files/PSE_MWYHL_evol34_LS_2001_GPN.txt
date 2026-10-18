@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <deck>
     <card blueprintId="7_138" horizontal="false" title="Mind What You Have Learned"/>
-    <card blueprintId="4_84" horizontal="false" title="Dagobah"/>
-    <card blueprintId="4_89" horizontal="true" title="Dagobah: Yoda's Hut"/>
-    <card blueprintId="4_85" horizontal="true" title="Dagobah: Bog Clearing"/>
-    <card blueprintId="4_87" horizontal="true" title="Dagobah: Swamp"/>
-    <card blueprintId="4_86" horizontal="true" title="Dagobah: Jungle"/>
-    <card blueprintId="4_88" horizontal="true" title="Dagobah: Training Area"/>
-    <card blueprintId="5_80" horizontal="true" title="Cloud City: Guest Quarters"/>
-    <card blueprintId="5_82" horizontal="true" title="Cloud City: Lower Corridor"/>
-    <card blueprintId="1_126" horizontal="false" title="Kessel"/>
     <card blueprintId="1_21" horizontal="false" title="Obi-Wan Kenobi"/>
     <card blueprintId="1_21" horizontal="false" title="Obi-Wan Kenobi"/>
     <card blueprintId="1_17" horizontal="false" title="Leia Organa"/>
@@ -24,9 +15,18 @@
     <card blueprintId="2_3" horizontal="false" title="Chewbacca"/>
     <card blueprintId="2_3" horizontal="false" title="Chewbacca"/>
     <card blueprintId="5_5" horizontal="false" title="Lando Calrissian"/>
+    <card blueprintId="4_12" horizontal="false" title="Luke's Backpack"/>
+    <card blueprintId="3_71" horizontal="false" title="Anakin's Lightsaber"/>
+    <card blueprintId="1_157" horizontal="false" title="Obi-Wan's Lightsaber"/>
+    <card blueprintId="2_77" horizontal="false" title="Bowcaster"/>
+    <card blueprintId="7_161" horizontal="false" title="Leia's Blaster Rifle"/>
     <card blueprintId="1_143" horizontal="false" title="Millennium Falcon"/>
     <card blueprintId="103_2" horizontal="false" title="Red Leader In Red 1"/>
     <card blueprintId="103_1" horizontal="false" title="Gold Leader In Gold 1"/>
+    <card blueprintId="4_84" horizontal="false" title="Dagobah"/>
+    <card blueprintId="5_80" horizontal="true" title="Cloud City: Guest Quarters"/>
+    <card blueprintId="5_82" horizontal="true" title="Cloud City: Lower Corridor"/>
+    <card blueprintId="1_126" horizontal="false" title="Kessel"/>
     <card blueprintId="4_33" horizontal="false" title="Reflection"/>
     <card blueprintId="4_16" horizontal="false" title="Anger, Fear, Aggression"/>
     <card blueprintId="4_16" horizontal="false" title="Anger, Fear, Aggression"/>
@@ -39,11 +39,6 @@
     <card blueprintId="7_81" horizontal="false" title="Wise Advice"/>
     <card blueprintId="4_44" horizontal="false" title="Yoda's Hope"/>
     <card blueprintId="3_32" horizontal="false" title="Bacta Tank"/>
-    <card blueprintId="3_71" horizontal="false" title="Anakin's Lightsaber"/>
-    <card blueprintId="1_157" horizontal="false" title="Obi-Wan's Lightsaber"/>
-    <card blueprintId="2_77" horizontal="false" title="Bowcaster"/>
-    <card blueprintId="7_161" horizontal="false" title="Leia's Blaster Rifle"/>
-    <card blueprintId="4_12" horizontal="false" title="Luke's Backpack"/>
     <card blueprintId="6_77" horizontal="false" title="The Signal"/>
     <card blueprintId="4_54" horizontal="false" title="Levitation"/>
     <card blueprintId="1_99" horizontal="false" title="Noble Sacrifice"/>

@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <deck>
-    <card blueprintId="14_67" horizontal="false" title="Nothing Can Get Through Our Shield"/>
+    <card blueprintId="14_69" horizontal="false" title="3B3-10"/>
+    <card blueprintId="14_76" horizontal="false" title="Captain Daultay Dofine"/>
+    <card blueprintId="14_78" horizontal="false" title="Darth Sidious"/>
+    <card blueprintId="12_110" horizontal="false" title="Lott Dod"/>
+    <card blueprintId="12_110" horizontal="false" title="Lott Dod"/>
+    <card blueprintId="12_110" horizontal="false" title="Lott Dod"/>
+    <card blueprintId="14_81" horizontal="false" title="Nute Gunray, Neimoidian Viceroy"/>
+    <card blueprintId="14_83" horizontal="false" title="OOM-9"/>
+    <card blueprintId="14_84" horizontal="false" title="OWO-1 With Backup"/>
+    <card blueprintId="14_86" horizontal="false" title="Rune Haako, Legal Counsel"/>
+    <card blueprintId="14_90" horizontal="false" title="SSA-306"/>
+    <card blueprintId="14_91" horizontal="false" title="SSA-719"/>
+    <card blueprintId="14_89" horizontal="false" title="SSA-1015"/>
+    <card blueprintId="14_92" horizontal="false" title="Tank Commander"/>
+    <card blueprintId="14_71" horizontal="false" title="3B3-21"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="14_127" horizontal="false" title="Droid Starfighter Laser Cannons"/>
+    <card blueprintId="14_127" horizontal="false" title="Droid Starfighter Laser Cannons"/>
+    <card blueprintId="14_114" horizontal="false" title="Blockade Flagship"/>
+    <card blueprintId="14_118" horizontal="false" title="DFS-327"/>
+    <card blueprintId="14_116" horizontal="false" title="DFS-1015"/>
+    <card blueprintId="14_117" horizontal="false" title="DFS-1308"/>
+    <card blueprintId="14_120" horizontal="false" title="AAT Assault Leader"/>
+    <card blueprintId="14_121" horizontal="false" title="Armored Attack Tank"/>
+    <card blueprintId="14_124" horizontal="false" title="TT-6"/>
     <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
     <card blueprintId="14_111" horizontal="true" title="Blockade Flagship: Docking Bay"/>
     <card blueprintId="7_276" horizontal="true" title="Coruscant: Docking Bay"/>
@@ -33,29 +58,5 @@
     <card blueprintId="14_108" horizontal="false" title="This Is Not Good"/>
     <card blueprintId="14_109" horizontal="false" title="Trade Federation Tactics"/>
     <card blueprintId="14_110" horizontal="false" title="We're Hit, Artoo"/>
-    <card blueprintId="14_69" horizontal="false" title="3B3-10"/>
-    <card blueprintId="14_76" horizontal="false" title="Captain Daultay Dofine"/>
-    <card blueprintId="14_78" horizontal="false" title="Darth Sidious"/>
-    <card blueprintId="12_110" horizontal="false" title="Lott Dod"/>
-    <card blueprintId="12_110" horizontal="false" title="Lott Dod"/>
-    <card blueprintId="12_110" horizontal="false" title="Lott Dod"/>
-    <card blueprintId="14_81" horizontal="false" title="Nute Gunray, Neimoidian Viceroy"/>
-    <card blueprintId="14_83" horizontal="false" title="OOM-9"/>
-    <card blueprintId="14_84" horizontal="false" title="OWO-1 With Backup"/>
-    <card blueprintId="14_86" horizontal="false" title="Rune Haako, Legal Counsel"/>
-    <card blueprintId="14_90" horizontal="false" title="SSA-306"/>
-    <card blueprintId="14_91" horizontal="false" title="SSA-719"/>
-    <card blueprintId="14_89" horizontal="false" title="SSA-1015"/>
-    <card blueprintId="14_92" horizontal="false" title="Tank Commander"/>
-    <card blueprintId="14_120" horizontal="false" title="AAT Assault Leader"/>
-    <card blueprintId="14_121" horizontal="false" title="Armored Attack Tank"/>
-    <card blueprintId="14_114" horizontal="false" title="Blockade Flagship"/>
-    <card blueprintId="14_118" horizontal="false" title="DFS-327"/>
-    <card blueprintId="14_116" horizontal="false" title="DFS-1015"/>
-    <card blueprintId="14_117" horizontal="false" title="DFS-1308"/>
-    <card blueprintId="14_124" horizontal="false" title="TT-6"/>
-    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
-    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
-    <card blueprintId="14_127" horizontal="false" title="Droid Starfighter Laser Cannons"/>
-    <card blueprintId="14_127" horizontal="false" title="Droid Starfighter Laser Cannons"/>
+    <card blueprintId="14_67" horizontal="false" title="Nothing Can Get Through Our Shield"/>
 </deck>
