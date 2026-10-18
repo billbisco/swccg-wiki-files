@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <deck>
-    <card blueprintId="9_149" horizontal="false" title="Mon Calamari"/>
-    <card blueprintId="6_171" horizontal="true" title="Tatooine: Jabba's Palace"/>
-    <card blueprintId="6_165" horizontal="true" title="Jabba's Palace: Entrance Cavern"/>
-    <card blueprintId="6_163" horizontal="true" title="Jabba's Palace: Droid Workshop"/>
-    <card blueprintId="11_92" horizontal="true" title="Tatooine: Desert Landing Site"/>
     <card blueprintId="6_102" horizontal="false" title="EV-9D9"/>
     <card blueprintId="6_102" horizontal="false" title="EV-9D9"/>
-    <card blueprintId="1_6" horizontal="false" title="CZ-3 (Seezee-Three)"/>
-    <card blueprintId="1_6" horizontal="false" title="CZ-3 (Seezee-Three)"/>
     <card blueprintId="7_163" horizontal="false" title="2X-7KPR (Tooex)"/>
     <card blueprintId="2_93" horizontal="false" title="IT-O (Eyetee-Oh)"/>
     <card blueprintId="2_109" horizontal="false" title="WED15-l7 'Septoid' Droid"/>
@@ -54,6 +47,11 @@
     <card blueprintId="9_174" horizontal="false" title="Thunderflare"/>
     <card blueprintId="1_301" horizontal="false" title="Devastator"/>
     <card blueprintId="9_176" horizontal="false" title="Visage"/>
+    <card blueprintId="9_149" horizontal="false" title="Mon Calamari"/>
+    <card blueprintId="6_171" horizontal="true" title="Tatooine: Jabba's Palace"/>
+    <card blueprintId="6_165" horizontal="true" title="Jabba's Palace: Entrance Cavern"/>
+    <card blueprintId="6_163" horizontal="true" title="Jabba's Palace: Droid Workshop"/>
+    <card blueprintId="11_92" horizontal="true" title="Tatooine: Desert Landing Site"/>
     <card blueprintId="1_228" horizontal="false" title="Reactor Terminal"/>
     <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
     <card blueprintId="2_131" horizontal="false" title="Evader"/>

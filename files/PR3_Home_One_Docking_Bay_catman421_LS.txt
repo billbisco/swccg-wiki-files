@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <deck>
-    <card blueprintId="9_57" horizontal="true" title="Home One: Docking Bay"/>
-    <card blueprintId="13_69" horizontal="false" title="Fear Is My Ally"/>
-    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
-    <card blueprintId="9_40" horizontal="false" title="Staging Areas"/>
-    <card blueprintId="9_47" horizontal="false" title="Your Insight Serves You Well"/>
-    <card blueprintId="8_34" horizontal="false" title="Aim High"/>
     <card blueprintId="108_3" horizontal="false" title="Luke With Lightsaber"/>
     <card blueprintId="108_3" horizontal="false" title="Luke With Lightsaber"/>
     <card blueprintId="108_2" horizontal="false" title="Leia With Blaster Rifle"/>
@@ -17,11 +11,20 @@
     <card blueprintId="109_3" horizontal="false" title="Lando With Blaster Pistol"/>
     <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
     <card blueprintId="14_27" horizontal="false" title="Qui-Gon Jinn With Lightsaber"/>
+    <card blueprintId="9_57" horizontal="true" title="Home One: Docking Bay"/>
     <card blueprintId="7_126" horizontal="true" title="Spaceport Docking Bay"/>
     <card blueprintId="12_86" horizontal="true" title="Tatooine: Mos Espa Docking Bay"/>
     <card blueprintId="1_129" horizontal="true" title="Tatooine: Docking Bay 94"/>
     <card blueprintId="1_124" horizontal="true" title="Death Star: Docking Bay 327"/>
     <card blueprintId="1_136" horizontal="true" title="Yavin 4: Docking Bay"/>
+    <card blueprintId="9_40" horizontal="false" title="Staging Areas"/>
+    <card blueprintId="9_47" horizontal="false" title="Your Insight Serves You Well"/>
+    <card blueprintId="8_34" horizontal="false" title="Aim High"/>
+    <card blueprintId="9_35" horizontal="false" title="I'm With You Too"/>
+    <card blueprintId="8_37" horizontal="false" title="Count Me In"/>
+    <card blueprintId="8_41" horizontal="false" title="That's One"/>
+    <card blueprintId="8_39" horizontal="false" title="I Wonder Who They Found"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
     <card blueprintId="1_76" horizontal="false" title="Don't Get Cocky"/>
     <card blueprintId="3_49" horizontal="false" title="Rug Hug"/>
     <card blueprintId="6_70" horizontal="false" title="Life Debt"/>
@@ -54,9 +57,4 @@
     <card blueprintId="1_71" horizontal="false" title="Alter"/>
     <card blueprintId="1_71" horizontal="false" title="Alter"/>
     <card blueprintId="1_71" horizontal="false" title="Alter"/>
-    <card blueprintId="1_228" horizontal="false" title="Reactor Terminal"/>
-    <card blueprintId="9_35" horizontal="false" title="I'm With You Too"/>
-    <card blueprintId="8_37" horizontal="false" title="Count Me In"/>
-    <card blueprintId="8_41" horizontal="false" title="That's One"/>
-    <card blueprintId="8_39" horizontal="false" title="I Wonder Who They Found"/>
 </deck>

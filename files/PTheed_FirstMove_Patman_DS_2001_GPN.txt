@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <deck>
-    <card blueprintId="13_69" horizontal="false" title="Fear Is My Ally"/>
     <card blueprintId="13_73" horizontal="false" title="Let Them Make The First Move"/>
-    <card blueprintId="13_76" horizontal="true" title="Naboo: Theed Palace Generator"/>
-    <card blueprintId="13_77" horizontal="true" title="Naboo: Theed Palace Generator Core"/>
-    <card blueprintId="13_65" horizontal="false" title="Deep Hatred"/>
-    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
-    <card blueprintId="9_126" horizontal="false" title="Inconsequential Losses"/>
-    <card blueprintId="10_52" horizontal="false" title="There Is No Try &amp; Oppressive Enforcement"/>
-    <card blueprintId="5_111" horizontal="false" title="Abyss"/>
-    <card blueprintId="4_158" horizontal="true" title="Dagobah: Cave"/>
-    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="11_54" horizontal="false" title="Darth Maul"/>
     <card blueprintId="11_54" horizontal="false" title="Darth Maul"/>
     <card blueprintId="12_101" horizontal="false" title="Darth Maul, Young Apprentice"/>
-    <card blueprintId="11_54" horizontal="false" title="Darth Maul"/>
     <card blueprintId="1_168" horizontal="false" title="Darth Vader"/>
     <card blueprintId="7_175" horizontal="false" title="Darth Vader, Dark Lord Of The Sith"/>
     <card blueprintId="9_113" horizontal="false" title="Lord Vader"/>
@@ -37,18 +27,9 @@
     <card blueprintId="12_118" horizontal="false" title="Security Battle Droid"/>
     <card blueprintId="12_118" horizontal="false" title="Security Battle Droid"/>
     <card blueprintId="12_118" horizontal="false" title="Security Battle Droid"/>
-    <card blueprintId="12_182" horizontal="false" title="Maul's Sith Infiltrator"/>
-    <card blueprintId="7_301" horizontal="false" title="Bossk In Hound's Tooth"/>
-    <card blueprintId="110_12" horizontal="false" title="Zuckuss In Mist Hunter"/>
-    <card blueprintId="12_132" horizontal="false" title="Drop!"/>
-    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
-    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
-    <card blueprintId="3_130" horizontal="false" title="Oh, Switch Off"/>
-    <card blueprintId="3_130" horizontal="false" title="Oh, Switch Off"/>
-    <card blueprintId="3_134" horizontal="false" title="Self-Destruct Mechanism"/>
-    <card blueprintId="5_160" horizontal="false" title="Weapon Levitation"/>
-    <card blueprintId="12_153" horizontal="false" title="Maul Strikes"/>
-    <card blueprintId="13_58" horizontal="false" title="Blow Parried"/>
+    <card blueprintId="11_97" horizontal="false" title="Sebulba's Podracer"/>
+    <card blueprintId="13_88" horizontal="false" title="The Ebb Of Battle"/>
+    <card blueprintId="1_205" horizontal="false" title="Restraining Bolt"/>
     <card blueprintId="1_324" horizontal="false" title="Vader's Lightsaber"/>
     <card blueprintId="110_11" horizontal="false" title="Mara Jade's Lightsaber"/>
     <card blueprintId="13_75" horizontal="false" title="Maul's Double-Bladed Lightsaber"/>
@@ -57,6 +38,26 @@
     <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
     <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
     <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
-    <card blueprintId="1_205" horizontal="false" title="Restraining Bolt"/>
-    <card blueprintId="11_97" horizontal="false" title="Sebulba's Podracer"/>
+    <card blueprintId="12_182" horizontal="false" title="Maul's Sith Infiltrator"/>
+    <card blueprintId="7_301" horizontal="false" title="Bossk In Hound's Tooth"/>
+    <card blueprintId="110_12" horizontal="false" title="Zuckuss In Mist Hunter"/>
+    <card blueprintId="13_76" horizontal="true" title="Naboo: Theed Palace Generator"/>
+    <card blueprintId="13_77" horizontal="true" title="Naboo: Theed Palace Generator Core"/>
+    <card blueprintId="4_158" horizontal="true" title="Dagobah: Cave"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="13_69" horizontal="false" title="Fear Is My Ally"/>
+    <card blueprintId="9_126" horizontal="false" title="Inconsequential Losses"/>
+    <card blueprintId="10_52" horizontal="false" title="There Is No Try &amp; Oppressive Enforcement"/>
+    <card blueprintId="5_111" horizontal="false" title="Abyss"/>
+    <card blueprintId="12_132" horizontal="false" title="Drop!"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="3_130" horizontal="false" title="Oh, Switch Off"/>
+    <card blueprintId="3_130" horizontal="false" title="Oh, Switch Off"/>
+    <card blueprintId="3_134" horizontal="false" title="Self-Destruct Mechanism"/>
+    <card blueprintId="5_160" horizontal="false" title="Weapon Levitation"/>
+    <card blueprintId="12_153" horizontal="false" title="Maul Strikes"/>
+    <card blueprintId="13_58" horizontal="false" title="Blow Parried"/>
+    <card blueprintId="13_65" horizontal="false" title="Deep Hatred"/>
 </deck>

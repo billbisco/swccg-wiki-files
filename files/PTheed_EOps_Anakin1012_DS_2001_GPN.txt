@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <deck>
-    <card blueprintId="13_69" horizontal="false" title="Fear Is My Ally"/>
     <card blueprintId="8_167" horizontal="false" title="Endor Operations"/>
-    <card blueprintId="8_157" horizontal="false" title="Endor"/>
-    <card blueprintId="8_160" horizontal="true" title="Endor: Bunker"/>
-    <card blueprintId="8_166" horizontal="true" title="Endor: Landing Platform (Docking Bay)"/>
-    <card blueprintId="9_138" horizontal="false" title="Operational As Planned"/>
-    <card blueprintId="9_142" horizontal="false" title="Death Star II"/>
     <card blueprintId="9_117" horizontal="false" title="Moff Jerjerrod"/>
-    <card blueprintId="9_122" horizontal="false" title="Desperate Counter"/>
-    <card blueprintId="9_144" horizontal="false" title="Death Star II: Coolant Shaft"/>
-    <card blueprintId="9_143" horizontal="false" title="Death Star II: Capacitors"/>
-    <card blueprintId="9_146" horizontal="false" title="Death Star II: Reactor Core"/>
-    <card blueprintId="9_145" horizontal="true" title="Death Star II: Docking Bay"/>
-    <card blueprintId="2_146" horizontal="false" title="Kashyyyk"/>
-    <card blueprintId="9_150" horizontal="false" title="Sullust"/>
     <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
     <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
     <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
@@ -27,7 +14,6 @@
     <card blueprintId="9_106" horizontal="false" title="Commander Merrejk"/>
     <card blueprintId="9_114" horizontal="false" title="Major Mianda"/>
     <card blueprintId="9_112" horizontal="false" title="Lieutenant Hebsly"/>
-    <card blueprintId="9_135" horizontal="false" title="That Thing's Operational"/>
     <card blueprintId="9_181" horizontal="false" title="SFS L-s7.2 TIE Cannon"/>
     <card blueprintId="9_181" horizontal="false" title="SFS L-s7.2 TIE Cannon"/>
     <card blueprintId="4_167" horizontal="false" title="Executor"/>
@@ -39,9 +25,21 @@
     <card blueprintId="110_12" horizontal="false" title="Zuckuss In Mist Hunter"/>
     <card blueprintId="7_301" horizontal="false" title="Bossk In Hound's Tooth"/>
     <card blueprintId="12_182" horizontal="false" title="Maul's Sith Infiltrator"/>
-    <card blueprintId="8_170" horizontal="false" title="Tempest 1"/>
+    <card blueprintId="8_172" horizontal="false" title="Tempest Scout 1"/>
     <card blueprintId="3_155" horizontal="false" title="Blizzard 2"/>
     <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="8_157" horizontal="false" title="Endor"/>
+    <card blueprintId="8_160" horizontal="true" title="Endor: Bunker"/>
+    <card blueprintId="8_166" horizontal="true" title="Endor: Landing Platform (Docking Bay)"/>
+    <card blueprintId="9_142" horizontal="false" title="Death Star II"/>
+    <card blueprintId="9_144" horizontal="false" title="Death Star II: Coolant Shaft"/>
+    <card blueprintId="9_143" horizontal="false" title="Death Star II: Capacitors"/>
+    <card blueprintId="9_146" horizontal="false" title="Death Star II: Reactor Core"/>
+    <card blueprintId="9_145" horizontal="true" title="Death Star II: Docking Bay"/>
+    <card blueprintId="2_146" horizontal="false" title="Kashyyyk"/>
+    <card blueprintId="9_150" horizontal="false" title="Sullust"/>
+    <card blueprintId="13_69" horizontal="false" title="Fear Is My Ally"/>
+    <card blueprintId="9_122" horizontal="false" title="Desperate Counter"/>
     <card blueprintId="11_76" horizontal="false" title="We Shall Double Our Efforts!"/>
     <card blueprintId="12_135" horizontal="false" title="Imperial Arrest Order &amp; Secret Plans"/>
     <card blueprintId="9_121" horizontal="false" title="Combat Response"/>
@@ -49,6 +47,7 @@
     <card blueprintId="112_16" horizontal="false" title="No Escape"/>
     <card blueprintId="7_234" horizontal="false" title="Oppressive Enforcement"/>
     <card blueprintId="4_116" horizontal="false" title="Bad Feeling Have I"/>
+    <card blueprintId="9_138" horizontal="false" title="Operational As Planned"/>
     <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
     <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
     <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
@@ -60,4 +59,5 @@
     <card blueprintId="5_160" horizontal="false" title="Weapon Levitation"/>
     <card blueprintId="10_35" horizontal="false" title="Dark Maneuvers &amp; Tallon Roll"/>
     <card blueprintId="10_35" horizontal="false" title="Dark Maneuvers &amp; Tallon Roll"/>
+    <card blueprintId="9_135" horizontal="false" title="That Thing's Operational"/>
 </deck>

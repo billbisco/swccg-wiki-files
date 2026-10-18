@@ -1,34 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <deck>
     <card blueprintId="7_298" horizontal="false" title="Imperial Occupation"/>
-    <card blueprintId="13_82" horizontal="false" title="Prepare For A Surface Attack"/>
-    <card blueprintId="3_143" horizontal="false" title="Hoth"/>
-    <card blueprintId="3_148" horizontal="true" title="Hoth: Ice Plains (5th Marker)"/>
-    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
-    <card blueprintId="8_121" horizontal="false" title="Crossfire"/>
-    <card blueprintId="9_126" horizontal="false" title="Inconsequential Losses"/>
-    <card blueprintId="4_134" horizontal="false" title="There Is No Try"/>
-    <card blueprintId="3_121" horizontal="false" title="Debris Zone"/>
-    <card blueprintId="3_121" horizontal="false" title="Debris Zone"/>
-    <card blueprintId="3_121" horizontal="false" title="Debris Zone"/>
-    <card blueprintId="3_120" horizontal="false" title="Crash Landing"/>
-    <card blueprintId="3_120" horizontal="false" title="Crash Landing"/>
-    <card blueprintId="3_120" horizontal="false" title="Crash Landing"/>
-    <card blueprintId="1_228" horizontal="false" title="Reactor Terminal"/>
-    <card blueprintId="3_115" horizontal="false" title="Target The Main Generator"/>
-    <card blueprintId="3_146" horizontal="true" title="Hoth: Echo Corridor"/>
-    <card blueprintId="3_147" horizontal="true" title="Hoth: Echo Docking Bay"/>
-    <card blueprintId="3_144" horizontal="true" title="Hoth: Defensive Perimeter (3rd Marker)"/>
-    <card blueprintId="3_149" horizontal="true" title="Hoth: North Ridge (4th Marker)"/>
-    <card blueprintId="104_4" horizontal="true" title="Hoth: Mountains (6th Marker)"/>
-    <card blueprintId="3_150" horizontal="true" title="Hoth: Wampa Cave (7th Marker)"/>
-    <card blueprintId="3_95" horizontal="false" title="Electro-Rangefinder"/>
-    <card blueprintId="13_75" horizontal="false" title="Maul's Double-Bladed Lightsaber"/>
-    <card blueprintId="9_178" horizontal="false" title="Darth Vader's Lightsaber"/>
-    <card blueprintId="110_11" horizontal="false" title="Mara Jade's Lightsaber"/>
-    <card blueprintId="14_128" horizontal="false" title="Energy Shell Launchers"/>
-    <card blueprintId="3_158" horizontal="false" title="AT-AT Cannon"/>
-    <card blueprintId="3_158" horizontal="false" title="AT-AT Cannon"/>
     <card blueprintId="9_113" horizontal="false" title="Lord Vader"/>
     <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
     <card blueprintId="3_87" horizontal="false" title="General Veers"/>
@@ -49,6 +21,13 @@
     <card blueprintId="14_72" horizontal="false" title="3B3-888"/>
     <card blueprintId="3_93" horizontal="false" title="Wampa"/>
     <card blueprintId="3_93" horizontal="false" title="Wampa"/>
+    <card blueprintId="3_95" horizontal="false" title="Electro-Rangefinder"/>
+    <card blueprintId="13_75" horizontal="false" title="Maul's Double-Bladed Lightsaber"/>
+    <card blueprintId="9_178" horizontal="false" title="Darth Vader's Lightsaber"/>
+    <card blueprintId="110_11" horizontal="false" title="Mara Jade's Lightsaber"/>
+    <card blueprintId="14_128" horizontal="false" title="Energy Shell Launchers"/>
+    <card blueprintId="3_158" horizontal="false" title="AT-AT Cannon"/>
+    <card blueprintId="3_158" horizontal="false" title="AT-AT Cannon"/>
     <card blueprintId="3_154" horizontal="false" title="Blizzard 1"/>
     <card blueprintId="3_155" horizontal="false" title="Blizzard 2"/>
     <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
@@ -60,4 +39,26 @@
     <card blueprintId="14_120" horizontal="false" title="AAT Assault Leader"/>
     <card blueprintId="14_121" horizontal="false" title="Armored Attack Tank"/>
     <card blueprintId="14_121" horizontal="false" title="Armored Attack Tank"/>
+    <card blueprintId="3_143" horizontal="false" title="Hoth"/>
+    <card blueprintId="3_148" horizontal="true" title="Hoth: Ice Plains (5th Marker)"/>
+    <card blueprintId="222_9" horizontal="true" title="Hoth: Main Power Generators (1st Marker)"/>
+    <card blueprintId="3_146" horizontal="true" title="Hoth: Echo Corridor"/>
+    <card blueprintId="3_147" horizontal="true" title="Hoth: Echo Docking Bay"/>
+    <card blueprintId="3_144" horizontal="true" title="Hoth: Defensive Perimeter (3rd Marker)"/>
+    <card blueprintId="3_149" horizontal="true" title="Hoth: North Ridge (4th Marker)"/>
+    <card blueprintId="104_4" horizontal="true" title="Hoth: Mountains (6th Marker)"/>
+    <card blueprintId="3_150" horizontal="true" title="Hoth: Wampa Cave (7th Marker)"/>
+    <card blueprintId="13_82" horizontal="false" title="Prepare For A Surface Attack"/>
+    <card blueprintId="8_121" horizontal="false" title="Crossfire"/>
+    <card blueprintId="9_126" horizontal="false" title="Inconsequential Losses"/>
+    <card blueprintId="4_134" horizontal="false" title="There Is No Try"/>
+    <card blueprintId="1_228" horizontal="false" title="Reactor Terminal"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="3_121" horizontal="false" title="Debris Zone"/>
+    <card blueprintId="3_121" horizontal="false" title="Debris Zone"/>
+    <card blueprintId="3_121" horizontal="false" title="Debris Zone"/>
+    <card blueprintId="3_120" horizontal="false" title="Crash Landing"/>
+    <card blueprintId="3_120" horizontal="false" title="Crash Landing"/>
+    <card blueprintId="3_120" horizontal="false" title="Crash Landing"/>
+    <card blueprintId="3_115" horizontal="false" title="Target The Main Generator"/>
 </deck>

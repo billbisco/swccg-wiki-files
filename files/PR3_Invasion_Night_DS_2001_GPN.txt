@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <deck>
     <card blueprintId="14_113" horizontal="false" title="Invasion"/>
-    <card blueprintId="12_169" horizontal="false" title="Naboo"/>
-    <card blueprintId="12_171" horizontal="true" title="Naboo: Swamp"/>
-    <card blueprintId="14_114" horizontal="false" title="Blockade Flagship"/>
-    <card blueprintId="14_96" horizontal="false" title="Droid Racks"/>
-    <card blueprintId="12_154" horizontal="false" title="Neimoidian Advisor"/>
     <card blueprintId="14_78" horizontal="false" title="Darth Sidious"/>
     <card blueprintId="14_78" horizontal="false" title="Darth Sidious"/>
     <card blueprintId="11_54" horizontal="false" title="Darth Maul"/>
@@ -41,6 +36,34 @@
     <card blueprintId="14_73" horizontal="false" title="Battle Droid Officer"/>
     <card blueprintId="14_73" horizontal="false" title="Battle Droid Officer"/>
     <card blueprintId="14_73" horizontal="false" title="Battle Droid Officer"/>
+    <card blueprintId="14_71" horizontal="false" title="3B3-21"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
+    <card blueprintId="13_75" horizontal="false" title="Maul's Double-Bladed Lightsaber"/>
+    <card blueprintId="13_75" horizontal="false" title="Maul's Double-Bladed Lightsaber"/>
+    <card blueprintId="14_114" horizontal="false" title="Blockade Flagship"/>
+    <card blueprintId="14_117" horizontal="false" title="DFS-1308"/>
+    <card blueprintId="14_116" horizontal="false" title="DFS-1015"/>
+    <card blueprintId="14_118" horizontal="false" title="DFS-327"/>
+    <card blueprintId="14_115" horizontal="false" title="DFS Squadron Starfighter"/>
+    <card blueprintId="14_115" horizontal="false" title="DFS Squadron Starfighter"/>
+    <card blueprintId="14_115" horizontal="false" title="DFS Squadron Starfighter"/>
+    <card blueprintId="12_185" horizontal="false" title="Trade Federation Droid Control Ship"/>
+    <card blueprintId="12_185" horizontal="false" title="Trade Federation Droid Control Ship"/>
+    <card blueprintId="14_120" horizontal="false" title="AAT Assault Leader"/>
+    <card blueprintId="14_124" horizontal="false" title="TT-6"/>
+    <card blueprintId="12_169" horizontal="false" title="Naboo"/>
+    <card blueprintId="12_171" horizontal="true" title="Naboo: Swamp"/>
+    <card blueprintId="13_57" horizontal="true" title="Blockade Flagship: Hallway"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="14_111" horizontal="true" title="Blockade Flagship: Docking Bay"/>
+    <card blueprintId="14_112" horizontal="true" title="Naboo: Theed Palace Hallway"/>
+    <card blueprintId="12_174" horizontal="true" title="Naboo: Theed Palace Throne Room"/>
+    <card blueprintId="13_77" horizontal="true" title="Naboo: Theed Palace Generator Core"/>
+    <card blueprintId="14_96" horizontal="false" title="Droid Racks"/>
     <card blueprintId="14_98" horizontal="false" title="Naboo Occupation"/>
     <card blueprintId="14_93" horizontal="false" title="Activate The Droids"/>
     <card blueprintId="14_94" horizontal="false" title="After Her!"/>
@@ -51,6 +74,9 @@
     <card blueprintId="12_139" horizontal="false" title="The Phantom Menace"/>
     <card blueprintId="12_139" horizontal="false" title="The Phantom Menace"/>
     <card blueprintId="12_141" horizontal="false" title="They Will Be No Match For You"/>
+    <card blueprintId="13_83" horizontal="false" title="Qui-Gon's End"/>
+    <card blueprintId="13_83" horizontal="false" title="Qui-Gon's End"/>
+    <card blueprintId="12_154" horizontal="false" title="Neimoidian Advisor"/>
     <card blueprintId="14_104" horizontal="false" title="Master, Destroyers!"/>
     <card blueprintId="14_104" horizontal="false" title="Master, Destroyers!"/>
     <card blueprintId="14_101" horizontal="false" title="Cease Fire!"/>
@@ -75,31 +101,6 @@
     <card blueprintId="12_153" horizontal="false" title="Maul Strikes"/>
     <card blueprintId="12_153" horizontal="false" title="Maul Strikes"/>
     <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
-    <card blueprintId="13_83" horizontal="false" title="Qui-Gon's End"/>
-    <card blueprintId="13_83" horizontal="false" title="Qui-Gon's End"/>
-    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
-    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
-    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
-    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
-    <card blueprintId="12_186" horizontal="false" title="Battle Droid Blaster Rifle"/>
-    <card blueprintId="13_75" horizontal="false" title="Maul's Double-Bladed Lightsaber"/>
-    <card blueprintId="13_75" horizontal="false" title="Maul's Double-Bladed Lightsaber"/>
-    <card blueprintId="14_117" horizontal="false" title="DFS-1308"/>
-    <card blueprintId="14_116" horizontal="false" title="DFS-1015"/>
-    <card blueprintId="14_118" horizontal="false" title="DFS-327"/>
-    <card blueprintId="14_115" horizontal="false" title="DFS Squadron Starfighter"/>
-    <card blueprintId="14_115" horizontal="false" title="DFS Squadron Starfighter"/>
-    <card blueprintId="14_115" horizontal="false" title="DFS Squadron Starfighter"/>
-    <card blueprintId="12_185" horizontal="false" title="Trade Federation Droid Control Ship"/>
-    <card blueprintId="12_185" horizontal="false" title="Trade Federation Droid Control Ship"/>
-    <card blueprintId="14_120" horizontal="false" title="AAT Assault Leader"/>
-    <card blueprintId="14_124" horizontal="false" title="TT-6"/>
-    <card blueprintId="13_57" horizontal="true" title="Blockade Flagship: Hallway"/>
-    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
-    <card blueprintId="14_111" horizontal="true" title="Blockade Flagship: Docking Bay"/>
-    <card blueprintId="14_112" horizontal="true" title="Naboo: Theed Palace Hallway"/>
-    <card blueprintId="12_174" horizontal="true" title="Naboo: Theed Palace Throne Room"/>
-    <card blueprintId="13_77" horizontal="true" title="Naboo: Theed Palace Generator Core"/>
     <card blueprintId="14_67" horizontal="false" title="Nothing Can Get Through Our Shield"/>
     <card blueprintId="14_68" horizontal="false" title="The Deflector Shield Is Too Strong"/>
 </deck>

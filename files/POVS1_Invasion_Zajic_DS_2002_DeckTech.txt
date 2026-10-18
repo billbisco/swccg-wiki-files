@@ -35,6 +35,7 @@
     <card blueprintId="11_64" horizontal="false" title="Sith Probe Droid"/>
     <card blueprintId="12_170" horizontal="true" title="Naboo: Battle Plains"/>
     <card blueprintId="12_174" horizontal="true" title="Naboo: Theed Palace Throne Room"/>
+    <card blueprintId="12_165" horizontal="false" title="Coruscant"/>
     <card blueprintId="14_126" horizontal="false" title="AAT Laser Cannon"/>
     <card blueprintId="14_126" horizontal="false" title="AAT Laser Cannon"/>
     <card blueprintId="14_126" horizontal="false" title="AAT Laser Cannon"/>

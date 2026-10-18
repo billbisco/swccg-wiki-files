@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <deck>
-    <card blueprintId="5_169" horizontal="true" title="Cloud City: East Platform (Docking Bay)"/>
-    <card blueprintId="7_114" horizontal="true" title="Cloud City: North Corridor"/>
-    <card blueprintId="7_115" horizontal="true" title="Cloud City: West Gallery"/>
     <card blueprintId="8_2" horizontal="false" title="Chewbacca Of Kashyyyk"/>
     <card blueprintId="8_2" horizontal="false" title="Chewbacca Of Kashyyyk"/>
     <card blueprintId="10_5" horizontal="false" title="Corran Horn"/>
@@ -18,6 +15,21 @@
     <card blueprintId="5_1" horizontal="false" title="Captain Han Solo"/>
     <card blueprintId="14_20" horizontal="false" title="Officer Dolphe"/>
     <card blueprintId="10_6" horizontal="false" title="Dash Rendar"/>
+    <card blueprintId="7_161" horizontal="false" title="Leia's Blaster Rifle"/>
+    <card blueprintId="7_162" horizontal="false" title="X-wing Laser Cannon"/>
+    <card blueprintId="1_143" horizontal="false" title="Millennium Falcon"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="9_81" horizontal="false" title="Red Squadron 1"/>
+    <card blueprintId="10_17" horizontal="false" title="Outrider"/>
+    <card blueprintId="14_54" horizontal="false" title="Bravo 2"/>
+    <card blueprintId="7_114" horizontal="true" title="Cloud City: North Corridor"/>
+    <card blueprintId="7_115" horizontal="true" title="Cloud City: West Gallery"/>
+    <card blueprintId="4_23" horizontal="false" title="Flash Of Insight"/>
+    <card blueprintId="7_65" horizontal="false" title="Imperial Atrocity"/>
+    <card blueprintId="7_65" horizontal="false" title="Imperial Atrocity"/>
+    <card blueprintId="7_55" horizontal="false" title="Cloud City Celebration"/>
+    <card blueprintId="9_38" horizontal="false" title="Menace Fades"/>
+    <card blueprintId="7_74" horizontal="false" title="Scrambled Transmission"/>
     <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
     <card blueprintId="5_54" horizontal="false" title="Into The Ventilation Shaft, Lefty"/>
     <card blueprintId="5_54" horizontal="false" title="Into The Ventilation Shaft, Lefty"/>
@@ -41,18 +53,5 @@
     <card blueprintId="5_62" horizontal="false" title="Path Of Least Resistance"/>
     <card blueprintId="5_62" horizontal="false" title="Path Of Least Resistance"/>
     <card blueprintId="5_62" horizontal="false" title="Path Of Least Resistance"/>
-    <card blueprintId="4_23" horizontal="false" title="Flash Of Insight"/>
-    <card blueprintId="7_65" horizontal="false" title="Imperial Atrocity"/>
-    <card blueprintId="7_65" horizontal="false" title="Imperial Atrocity"/>
-    <card blueprintId="7_55" horizontal="false" title="Cloud City Celebration"/>
-    <card blueprintId="9_38" horizontal="false" title="Menace Fades"/>
-    <card blueprintId="7_74" horizontal="false" title="Scrambled Transmission"/>
-    <card blueprintId="1_143" horizontal="false" title="Millennium Falcon"/>
-    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
-    <card blueprintId="9_81" horizontal="false" title="Red Squadron 1"/>
-    <card blueprintId="10_17" horizontal="false" title="Outrider"/>
-    <card blueprintId="14_54" horizontal="false" title="Bravo 2"/>
-    <card blueprintId="7_161" horizontal="false" title="Leia's Blaster Rifle"/>
-    <card blueprintId="7_162" horizontal="false" title="X-wing Laser Cannon"/>
     <card blueprintId="9_4" horizontal="false" title="I'll Take The Leader"/>
 </deck>

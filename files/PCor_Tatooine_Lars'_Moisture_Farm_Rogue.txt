@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <deck>
-    <card blueprintId="7_275" horizontal="false" title="Coruscant"/>
-    <card blueprintId="12_168" horizontal="false" title="Malastare"/>
-    <card blueprintId="1_289" horizontal="false" title="Tatooine"/>
-    <card blueprintId="1_294" horizontal="true" title="Tatooine: Lars' Moisture Farm"/>
-    <card blueprintId="4_157" horizontal="true" title="Big One: Asteroid Cave Or Space Slug Belly"/>
-    <card blueprintId="4_157" horizontal="true" title="Big One: Asteroid Cave Or Space Slug Belly"/>
-    <card blueprintId="4_157" horizontal="true" title="Big One: Asteroid Cave Or Space Slug Belly"/>
     <card blueprintId="12_104" horizontal="false" title="Destroyer Droid"/>
     <card blueprintId="12_104" horizontal="false" title="Destroyer Droid"/>
     <card blueprintId="12_104" horizontal="false" title="Destroyer Droid"/>
@@ -19,6 +12,10 @@
     <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
     <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
     <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
+    <card blueprintId="4_179" horizontal="false" title="Proton Bombs"/>
+    <card blueprintId="4_179" horizontal="false" title="Proton Bombs"/>
+    <card blueprintId="9_177" horizontal="false" title="Concussion Missiles"/>
+    <card blueprintId="9_177" horizontal="false" title="Concussion Missiles"/>
     <card blueprintId="4_173" horizontal="false" title="TIE Bomber"/>
     <card blueprintId="4_173" horizontal="false" title="TIE Bomber"/>
     <card blueprintId="4_173" horizontal="false" title="TIE Bomber"/>
@@ -30,6 +27,13 @@
     <card blueprintId="9_168" horizontal="false" title="Scimitar Squadron TIE"/>
     <card blueprintId="110_12" horizontal="false" title="Zuckuss In Mist Hunter"/>
     <card blueprintId="110_12" horizontal="false" title="Zuckuss In Mist Hunter"/>
+    <card blueprintId="7_275" horizontal="false" title="Coruscant"/>
+    <card blueprintId="12_168" horizontal="false" title="Malastare"/>
+    <card blueprintId="1_289" horizontal="false" title="Tatooine"/>
+    <card blueprintId="1_294" horizontal="true" title="Tatooine: Lars' Moisture Farm"/>
+    <card blueprintId="4_157" horizontal="true" title="Big One: Asteroid Cave Or Space Slug Belly"/>
+    <card blueprintId="4_157" horizontal="true" title="Big One: Asteroid Cave Or Space Slug Belly"/>
+    <card blueprintId="4_157" horizontal="true" title="Big One: Asteroid Cave Or Space Slug Belly"/>
     <card blueprintId="2_124" horizontal="false" title="Program Trap"/>
     <card blueprintId="2_124" horizontal="false" title="Program Trap"/>
     <card blueprintId="2_124" horizontal="false" title="Program Trap"/>
@@ -55,9 +59,5 @@
     <card blueprintId="12_154" horizontal="false" title="Neimoidian Advisor"/>
     <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
     <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
-    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
-    <card blueprintId="4_179" horizontal="false" title="Proton Bombs"/>
-    <card blueprintId="4_179" horizontal="false" title="Proton Bombs"/>
-    <card blueprintId="9_177" horizontal="false" title="Concussion Missiles"/>
-    <card blueprintId="9_177" horizontal="false" title="Concussion Missiles"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
 </deck>

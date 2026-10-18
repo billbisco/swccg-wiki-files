@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <deck>
-    <card blueprintId="13_69" horizontal="false" title="Fear Is My Ally"/>
     <card blueprintId="109_12" horizontal="false" title="This Deal Is Getting Worse All The Time"/>
-    <card blueprintId="12_135" horizontal="false" title="Imperial Arrest Order &amp; Secret Plans"/>
-    <card blueprintId="5_166" horizontal="true" title="Cloud City: Carbonite Chamber"/>
-    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
-    <card blueprintId="5_123" horizontal="false" title="Special Delivery"/>
-    <card blueprintId="9_121" horizontal="false" title="Combat Response"/>
-    <card blueprintId="11_72" horizontal="false" title="I'm Sorry"/>
-    <card blueprintId="5_169" horizontal="true" title="Cloud City: East Platform (Docking Bay)"/>
-    <card blueprintId="7_274" horizontal="true" title="Cloud City: West Gallery"/>
-    <card blueprintId="5_171" horizontal="true" title="Cloud City: Lower Corridor"/>
-    <card blueprintId="5_165" horizontal="false" title="Bespin: Cloud City"/>
-    <card blueprintId="5_164" horizontal="false" title="Bespin"/>
     <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
     <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
     <card blueprintId="11_54" horizontal="false" title="Darth Maul"/>
@@ -28,6 +16,8 @@
     <card blueprintId="10_40" horizontal="false" title="Grand Admiral Thrawn"/>
     <card blueprintId="9_99" horizontal="false" title="Baron Soontir Fel"/>
     <card blueprintId="9_116" horizontal="false" title="Major Turr Phennir"/>
+    <card blueprintId="7_215" horizontal="false" title="Womp Rat"/>
+    <card blueprintId="5_107" horizontal="false" title="Carbonite Chamber Console"/>
     <card blueprintId="4_167" horizontal="false" title="Executor"/>
     <card blueprintId="9_162" horizontal="false" title="Saber 1"/>
     <card blueprintId="9_163" horizontal="false" title="Saber 2"/>
@@ -35,6 +25,29 @@
     <card blueprintId="4_171" horizontal="false" title="Punishing One"/>
     <card blueprintId="7_301" horizontal="false" title="Bossk In Hound's Tooth"/>
     <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="5_166" horizontal="true" title="Cloud City: Carbonite Chamber"/>
+    <card blueprintId="5_169" horizontal="true" title="Cloud City: East Platform (Docking Bay)"/>
+    <card blueprintId="7_274" horizontal="true" title="Cloud City: West Gallery"/>
+    <card blueprintId="5_171" horizontal="true" title="Cloud City: Lower Corridor"/>
+    <card blueprintId="5_165" horizontal="false" title="Bespin: Cloud City"/>
+    <card blueprintId="5_164" horizontal="false" title="Bespin"/>
+    <card blueprintId="13_69" horizontal="false" title="Fear Is My Ally"/>
+    <card blueprintId="12_135" horizontal="false" title="Imperial Arrest Order &amp; Secret Plans"/>
+    <card blueprintId="5_123" horizontal="false" title="Special Delivery"/>
+    <card blueprintId="9_121" horizontal="false" title="Combat Response"/>
+    <card blueprintId="11_72" horizontal="false" title="I'm Sorry"/>
+    <card blueprintId="5_110" horizontal="false" title="Ability, Ability, Ability"/>
+    <card blueprintId="5_112" horizontal="false" title="All Too Easy"/>
+    <card blueprintId="1_222" horizontal="false" title="Lateral Damage"/>
+    <card blueprintId="4_116" horizontal="false" title="Bad Feeling Have I"/>
+    <card blueprintId="5_115" horizontal="false" title="Dark Deal"/>
+    <card blueprintId="7_223" horizontal="false" title="Cloud City Occupation"/>
+    <card blueprintId="7_223" horizontal="false" title="Cloud City Occupation"/>
+    <card blueprintId="9_129" horizontal="false" title="Mobilization Points"/>
+    <card blueprintId="2_116" horizontal="false" title="Astromech Shortage"/>
+    <card blueprintId="2_122" horizontal="false" title="Krayt Dragon Bones"/>
+    <card blueprintId="13_91" horizontal="false" title="They Must Never Again Leave This City"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
     <card blueprintId="1_244" horizontal="false" title="Emergency Deployment"/>
     <card blueprintId="1_244" horizontal="false" title="Emergency Deployment"/>
     <card blueprintId="1_244" horizontal="false" title="Emergency Deployment"/>
@@ -46,18 +59,5 @@
     <card blueprintId="1_267" horizontal="false" title="Sense"/>
     <card blueprintId="1_267" horizontal="false" title="Sense"/>
     <card blueprintId="10_39" horizontal="false" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
-    <card blueprintId="5_110" horizontal="false" title="Ability, Ability, Ability"/>
-    <card blueprintId="5_112" horizontal="false" title="All Too Easy"/>
-    <card blueprintId="1_222" horizontal="false" title="Lateral Damage"/>
-    <card blueprintId="4_116" horizontal="false" title="Bad Feeling Have I"/>
-    <card blueprintId="5_115" horizontal="false" title="Dark Deal"/>
-    <card blueprintId="7_223" horizontal="false" title="Cloud City Occupation"/>
-    <card blueprintId="7_223" horizontal="false" title="Cloud City Occupation"/>
-    <card blueprintId="9_129" horizontal="false" title="Mobilization Points"/>
-    <card blueprintId="14_52_BACK" horizontal="false" title="They Will Be Lost And Confused"/>
-    <card blueprintId="2_116" horizontal="false" title="Astromech Shortage"/>
-    <card blueprintId="2_122" horizontal="false" title="Krayt Dragon Bones"/>
     <card blueprintId="9_92" horizontal="false" title="Battle Deployment"/>
-    <card blueprintId="7_215" horizontal="false" title="Womp Rat"/>
-    <card blueprintId="5_107" horizontal="false" title="Carbonite Chamber Console"/>
 </deck>
