@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="13_46" horizontal="false" title="We'll Handle This"/>
+    <card blueprintId="13_24" horizontal="false" title="Inner Strength"/>
+    <card blueprintId="13_32" horizontal="true" title="Naboo: Theed Palace Generator Core"/>
+    <card blueprintId="13_31" horizontal="true" title="Naboo: Theed Palace Generator"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="200_46" horizontal="false" title="Strikeforce"/>
+    <card blueprintId="12_49" horizontal="false" title="Thrown Back"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="12_76" horizontal="true" title="Coruscant: Jedi Council Chamber"/>
+    <card blueprintId="204_20" horizontal="false" title="Keep Your Eyes Open"/>
+    <card blueprintId="2_45" horizontal="false" title="Blast The Door, Kid!"/>
+    <card blueprintId="2_45" horizontal="false" title="Blast The Door, Kid!"/>
+    <card blueprintId="2_55" horizontal="false" title="Quite A Mercenary"/>
+    <card blueprintId="101_3" horizontal="false" title="Run Luke, Run!"/>
+    <card blueprintId="13_39" horizontal="false" title="Qui-Gon Jinn, Jedi Master"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="11_31" horizontal="false" title="Changing The Odds"/>
+    <card blueprintId="200_53" horizontal="false" title="Impressive, Most Impressive"/>
+    <card blueprintId="7_48" horizontal="false" title="TK-422"/>
+    <card blueprintId="11_49" horizontal="false" title="Qui-Gon Jinn's Lightsaber"/>
+    <card blueprintId="12_69" horizontal="false" title="Speak With The Jedi Council"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="6_61" horizontal="false" title="Blaster Deflection"/>
+    <card blueprintId="13_48" horizontal="false" title="Yoda, Master Of The Force"/>
+    <card blueprintId="5_55" horizontal="false" title="It's A Trap!"/>
+    <card blueprintId="13_39" horizontal="false" title="Qui-Gon Jinn, Jedi Master"/>
+    <card blueprintId="13_39" horizontal="false" title="Qui-Gon Jinn, Jedi Master"/>
+    <card blueprintId="108_3" horizontal="false" title="Luke With Lightsaber"/>
+    <card blueprintId="1_92" horizontal="false" title="Jedi Presence"/>
+    <card blueprintId="12_66" horizontal="false" title="Rebel Artillery"/>
+    <card blueprintId="200_52" horizontal="false" title="Found Someone You Have"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="10_25" horizontal="false" title="The Bith Shuffle &amp; Desperate Reach"/>
+    <card blueprintId="13_9" horizontal="false" title="Chewie, Enraged"/>
+    <card blueprintId="1_92" horizontal="false" title="Jedi Presence"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="11_49" horizontal="false" title="Qui-Gon Jinn's Lightsaber"/>
+    <card blueprintId="5_55" horizontal="false" title="It's A Trap!"/>
+    <card blueprintId="1_113" horizontal="false" title="Surprise Assault"/>
+    <card blueprintId="13_48" horizontal="false" title="Yoda, Master Of The Force"/>
+    <card blueprintId="1_113" horizontal="false" title="Surprise Assault"/>
+    <card blueprintId="12_66" horizontal="false" title="Rebel Artillery"/>
+    <card blueprintId="6_61" horizontal="false" title="Blaster Deflection"/>
+    <card blueprintId="7_103" horizontal="false" title="Star Destroyer!"/>
+    <card blueprintId="7_103" horizontal="false" title="Star Destroyer!"/>
+    <card blueprintId="13_29" horizontal="false" title="Leia, Rebel Princess"/>
+    <card blueprintId="203_5" horizontal="false" title="Endor Commando Team"/>
+    <card blueprintId="204_3" horizontal="false" title="Captain Hera Syndulla"/>
+    <card blueprintId="1_96" horizontal="false" title="Move Along..."/>
+    <card blueprintId="1_21" horizontal="false" title="Obi-Wan Kenobi"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="108_3" horizontal="false" title="Luke With Lightsaber"/>
+    <card blueprintId="12_69" horizontal="false" title="Speak With The Jedi Council"/>
+    <card blueprintId="101_3" horizontal="false" title="Run Luke, Run!"/>
+    <card blueprintId="1_47" horizontal="false" title="Demotion"/>
+    <card blueprintId="1_47" horizontal="false" title="Demotion"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="1_96" horizontal="false" title="Move Along..."/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="112_4" horizontal="false" title="Ounee Ta"/>
+    <card blueprintId="12_39" horizontal="false" title="Another Pathetic Lifeform"/>
+    <card blueprintId="9_37" horizontal="false" title="Let's Keep A Little Optimism Here"/>
+    <card blueprintId="12_37" horizontal="false" title="A Tragedy Has Occurred"/>
+    <card blueprintId="8_34" horizontal="false" title="Aim High"/>
+    <card blueprintId="11_17" horizontal="false" title="Don't Do That Again"/>
+    <card blueprintId="8_35" horizontal="false" title="Battle Plan"/>
+    <card blueprintId="7_80" horizontal="false" title="Weapons Display"/>
+    <card blueprintId="6_58" horizontal="false" title="Ultimatum"/>
+    <card blueprintId="4_21" horizontal="false" title="Do, Or Do Not"/>
+</deck>

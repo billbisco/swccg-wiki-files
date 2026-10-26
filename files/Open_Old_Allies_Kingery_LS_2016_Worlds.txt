@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="204_32" horizontal="false" title="Old Allies"/>
+    <card blueprintId="1_78" horizontal="false" title="Droid Shutdown"/>
+    <card blueprintId="1_78" horizontal="false" title="Droid Shutdown"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="4_57" horizontal="false" title="Moving To Attack Position"/>
+    <card blueprintId="4_57" horizontal="false" title="Moving To Attack Position"/>
+    <card blueprintId="6_3" horizontal="false" title="Artoo"/>
+    <card blueprintId="6_3" horizontal="false" title="Artoo"/>
+    <card blueprintId="6_3" horizontal="false" title="Artoo"/>
+    <card blueprintId="5_25" horizontal="false" title="Hero Of A Thousand Devices"/>
+    <card blueprintId="200_51" horizontal="false" title="Don't Tread On Me"/>
+    <card blueprintId="2_25" horizontal="false" title="Fire Extinguisher"/>
+    <card blueprintId="2_25" horizontal="false" title="Fire Extinguisher"/>
+    <card blueprintId="2_25" horizontal="false" title="Fire Extinguisher"/>
+    <card blueprintId="204_26" horizontal="false" title="Jakku"/>
+    <card blueprintId="204_28" horizontal="true" title="Jakku: Ravager Crash Site"/>
+    <card blueprintId="204_29" horizontal="true" title="Jakku: Rey's Encampment"/>
+    <card blueprintId="204_27" horizontal="true" title="Jakku: Niima Outpost Shipyard"/>
+    <card blueprintId="5_64" horizontal="false" title="Punch It!"/>
+    <card blueprintId="6_6" horizontal="false" title="Baragwin"/>
+    <card blueprintId="6_6" horizontal="false" title="Baragwin"/>
+    <card blueprintId="6_6" horizontal="false" title="Baragwin"/>
+    <card blueprintId="11_13" horizontal="false" title="Threepio With His Parts Showing"/>
+    <card blueprintId="204_11" horizontal="false" title="Solo"/>
+    <card blueprintId="204_11" horizontal="false" title="Solo"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="5_55" horizontal="false" title="It's A Trap!"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="200_2" horizontal="false" title="Anakin Skywalker, Padawan Learner"/>
+    <card blueprintId="200_2" horizontal="false" title="Anakin Skywalker, Padawan Learner"/>
+    <card blueprintId="202_7" horizontal="false" title="Azure Angel"/>
+    <card blueprintId="202_7" horizontal="false" title="Azure Angel"/>
+    <card blueprintId="217_36" horizontal="false" title="Grakchawwaa"/>
+    <card blueprintId="12_59" horizontal="false" title="Inconsequential Barriers"/>
+    <card blueprintId="12_59" horizontal="false" title="Inconsequential Barriers"/>
+    <card blueprintId="204_19" horizontal="false" title="I'm Getting Pretty Good At This"/>
+    <card blueprintId="204_19" horizontal="false" title="I'm Getting Pretty Good At This"/>
+    <card blueprintId="204_35" horizontal="false" title="The Falcon, Junkyard Garbage"/>
+    <card blueprintId="1_90" horizontal="false" title="It Could Be Worse"/>
+    <card blueprintId="1_90" horizontal="false" title="It Could Be Worse"/>
+    <card blueprintId="106_5" horizontal="false" title="It's A Hit!"/>
+    <card blueprintId="106_5" horizontal="false" title="It's A Hit!"/>
+    <card blueprintId="1_70" horizontal="false" title="A Few Maneuvers"/>
+    <card blueprintId="1_18" horizontal="false" title="LIN-V8K (Elleyein-Veeatekay)"/>
+    <card blueprintId="1_162" horizontal="false" title="Timer Mine"/>
+    <card blueprintId="1_162" horizontal="false" title="Timer Mine"/>
+    <card blueprintId="200_33" horizontal="false" title="Luke's Bionic Hand"/>
+    <card blueprintId="5_12" horizontal="false" title="Bionic Hand"/>
+    <card blueprintId="9_38" horizontal="false" title="Menace Fades"/>
+    <card blueprintId="7_159" horizontal="false" title="Intruder Missile"/>
+    <card blueprintId="204_6" horizontal="false" title="Finn"/>
+    <card blueprintId="204_6" horizontal="false" title="Finn"/>
+    <card blueprintId="200_5" horizontal="false" title="Chewie"/>
+    <card blueprintId="204_9" horizontal="false" title="Rey"/>
+    <card blueprintId="1_120" horizontal="false" title="We're Doomed"/>
+    <card blueprintId="204_14" horizontal="false" title="Graveyard Of Giants"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="12_39" horizontal="false" title="Another Pathetic Lifeform"/>
+    <card blueprintId="9_37" horizontal="false" title="Let's Keep A Little Optimism Here"/>
+    <card blueprintId="6_58" horizontal="false" title="Ultimatum"/>
+    <card blueprintId="11_17" horizontal="false" title="Don't Do That Again"/>
+    <card blueprintId="7_81" horizontal="false" title="Wise Advice"/>
+    <card blueprintId="4_21" horizontal="false" title="Do, Or Do Not"/>
+    <card blueprintId="8_35" horizontal="false" title="Battle Plan"/>
+    <card blueprintId="9_47" horizontal="false" title="Your Insight Serves You Well"/>
+    <card blueprintId="12_37" horizontal="false" title="A Tragedy Has Occurred"/>
+</deck>

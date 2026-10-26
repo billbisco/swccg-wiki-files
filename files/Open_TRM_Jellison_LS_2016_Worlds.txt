@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="1_138" horizontal="true" title="Yavin 4: Massassi Throne Room"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="12_44" horizontal="false" title="Insurrection &amp; Aim High"/>
+    <card blueprintId="200_43" horizontal="false" title="Maneuvering Flaps"/>
+    <card blueprintId="3_59" horizontal="true" title="Hoth: Echo Docking Bay"/>
+    <card blueprintId="200_58" horizontal="false" title="Nar Shaddaa"/>
+    <card blueprintId="9_57" horizontal="true" title="Home One: Docking Bay"/>
+    <card blueprintId="12_79" horizontal="true" title="Naboo: Battle Plains"/>
+    <card blueprintId="9_58" horizontal="true" title="Home One: War Room"/>
+    <card blueprintId="14_49" horizontal="true" title="Naboo: Boss Nass' Chambers"/>
+    <card blueprintId="4_89" horizontal="true" title="Dagobah: Yoda's Hut"/>
+    <card blueprintId="111_3" horizontal="false" title="Echo Base Garrison"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="5_20" horizontal="false" title="Civil Disorder"/>
+    <card blueprintId="9_38" horizontal="false" title="Menace Fades"/>
+    <card blueprintId="9_36" horizontal="false" title="Launching The Assault"/>
+    <card blueprintId="111_3" horizontal="false" title="Echo Base Garrison"/>
+    <card blueprintId="9_74" horizontal="false" title="Home One"/>
+    <card blueprintId="203_20" horizontal="false" title="Bright Hope"/>
+    <card blueprintId="13_21" horizontal="false" title="Han, Chewie, And The Falcon"/>
+    <card blueprintId="8_79" horizontal="false" title="Tydirium"/>
+    <card blueprintId="201_20" horizontal="false" title="Dash In Rogue 12"/>
+    <card blueprintId="3_66" horizontal="false" title="Rogue 1"/>
+    <card blueprintId="3_66" horizontal="false" title="Rogue 1"/>
+    <card blueprintId="3_67" horizontal="false" title="Rogue 2"/>
+    <card blueprintId="3_68" horizontal="false" title="Rogue 3"/>
+    <card blueprintId="3_79" horizontal="false" title="Power Harpoon"/>
+    <card blueprintId="200_7" horizontal="false" title="Commander Luke Skywalker"/>
+    <card blueprintId="200_7" horizontal="false" title="Commander Luke Skywalker"/>
+    <card blueprintId="9_31" horizontal="false" title="Wedge Antilles, Red Squadron Leader"/>
+    <card blueprintId="9_31" horizontal="false" title="Wedge Antilles, Red Squadron Leader"/>
+    <card blueprintId="3_27" horizontal="false" title="Zev Senesca"/>
+    <card blueprintId="10_5" horizontal="false" title="Corran Horn"/>
+    <card blueprintId="9_48" horizontal="false" title="Anakin Skywalker"/>
+    <card blueprintId="204_8" horizontal="false" title="Poe Dameron"/>
+    <card blueprintId="203_1" horizontal="false" title="Admiral Ackbar"/>
+    <card blueprintId="204_3" horizontal="false" title="Captain Hera Syndulla"/>
+    <card blueprintId="204_9" horizontal="false" title="Rey"/>
+    <card blueprintId="9_25" horizontal="false" title="Major Haash'n"/>
+    <card blueprintId="204_12" horizontal="false" title="Theron Nett"/>
+    <card blueprintId="203_12" horizontal="false" title="Toryn Farr"/>
+    <card blueprintId="11_13" horizontal="false" title="Threepio With His Parts Showing"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="8_64" horizontal="false" title="Were You Looking For Me?"/>
+    <card blueprintId="8_64" horizontal="false" title="Were You Looking For Me?"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="200_49" horizontal="false" title="Antilles Maneuver"/>
+    <card blueprintId="200_49" horizontal="false" title="Antilles Maneuver"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="1_120" horizontal="false" title="We're Doomed"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="201_12" horizontal="false" title="Escape Pod"/>
+    <card blueprintId="10_4" horizontal="false" title="Control &amp; Tunnel Vision"/>
+    <card blueprintId="12_59" horizontal="false" title="Inconsequential Barriers"/>
+    <card blueprintId="4_16" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="12_37" horizontal="false" title="A Tragedy Has Occurred"/>
+    <card blueprintId="4_21" horizontal="false" title="Do, Or Do Not"/>
+    <card blueprintId="6_58" horizontal="false" title="Ultimatum"/>
+    <card blueprintId="1_68" horizontal="false" title="Yavin Sentry"/>
+    <card blueprintId="9_47" horizontal="false" title="Your Insight Serves You Well"/>
+    <card blueprintId="7_81" horizontal="false" title="Wise Advice"/>
+    <card blueprintId="7_80" horizontal="false" title="Weapons Display"/>
+    <card blueprintId="8_34" horizontal="false" title="Aim High"/>
+    <card blueprintId="8_35" horizontal="false" title="Battle Plan"/>
+    <card blueprintId="1_43" horizontal="false" title="Affect Mind"/>
+    <card blueprintId="112_4" horizontal="false" title="Ounee Ta"/>
+</deck>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="7_136" horizontal="false" title="Hidden Base"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="9_43" horizontal="false" title="Superficial Damage"/>
+    <card blueprintId="201_8" horizontal="false" title="A New Secret Base"/>
+    <card blueprintId="7_123" horizontal="false" title="Rendezvous Point"/>
+    <card blueprintId="204_9" horizontal="false" title="Rey"/>
+    <card blueprintId="12_59" horizontal="false" title="Inconsequential Barriers"/>
+    <card blueprintId="1_71" horizontal="false" title="Alter"/>
+    <card blueprintId="9_33" horizontal="false" title="Honor Of The Jedi"/>
+    <card blueprintId="9_5" horizontal="false" title="Taking Them With Us"/>
+    <card blueprintId="200_46" horizontal="false" title="Strikeforce"/>
+    <card blueprintId="6_83" horizontal="false" title="Kiffex"/>
+    <card blueprintId="1_159" horizontal="false" title="Quad Laser Cannon"/>
+    <card blueprintId="1_159" horizontal="false" title="Quad Laser Cannon"/>
+    <card blueprintId="7_149" horizontal="false" title="Spiral"/>
+    <card blueprintId="1_159" horizontal="false" title="Quad Laser Cannon"/>
+    <card blueprintId="1_140" horizontal="false" title="Corellian Corvette"/>
+    <card blueprintId="1_140" horizontal="false" title="Corellian Corvette"/>
+    <card blueprintId="200_20" horizontal="false" title="Luke Skywalker"/>
+    <card blueprintId="1_140" horizontal="false" title="Corellian Corvette"/>
+    <card blueprintId="200_56" horizontal="false" title="Starship Levitation"/>
+    <card blueprintId="7_98" horizontal="false" title="Power Pivot"/>
+    <card blueprintId="9_5" horizontal="false" title="Taking Them With Us"/>
+    <card blueprintId="200_58" horizontal="false" title="Nar Shaddaa"/>
+    <card blueprintId="10_4" horizontal="false" title="Control &amp; Tunnel Vision"/>
+    <card blueprintId="1_159" horizontal="false" title="Quad Laser Cannon"/>
+    <card blueprintId="1_88" horizontal="false" title="Hyper Escape"/>
+    <card blueprintId="9_5" horizontal="false" title="Taking Them With Us"/>
+    <card blueprintId="201_19" horizontal="false" title="Tantive IV"/>
+    <card blueprintId="7_100" horizontal="false" title="Rapid Fire"/>
+    <card blueprintId="7_96" horizontal="false" title="On Target"/>
+    <card blueprintId="7_149" horizontal="false" title="Spiral"/>
+    <card blueprintId="202_4" horizontal="false" title="Yoda, Keeper Of The Peace"/>
+    <card blueprintId="9_5" horizontal="false" title="Taking Them With Us"/>
+    <card blueprintId="200_20" horizontal="false" title="Luke Skywalker"/>
+    <card blueprintId="7_56" horizontal="false" title="Corellian Engineering Corporation"/>
+    <card blueprintId="200_53" horizontal="false" title="Impressive, Most Impressive"/>
+    <card blueprintId="201_16" horizontal="false" title="Anoat"/>
+    <card blueprintId="7_98" horizontal="false" title="Power Pivot"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="7_102" horizontal="false" title="Slight Weapons Malfunction"/>
+    <card blueprintId="10_8" horizontal="false" title="Houjix &amp; Out Of Nowhere"/>
+    <card blueprintId="7_83" horizontal="false" title="Antilles Maneuver"/>
+    <card blueprintId="1_159" horizontal="false" title="Quad Laser Cannon"/>
+    <card blueprintId="10_16" horizontal="false" title="Out Of Commission &amp; Transmission Terminated"/>
+    <card blueprintId="9_5" horizontal="false" title="Taking Them With Us"/>
+    <card blueprintId="7_105" horizontal="false" title="Steady Aim"/>
+    <card blueprintId="205_7" horizontal="false" title="Han, Chewie, And The Falcon"/>
+    <card blueprintId="204_33" horizontal="false" title="Masanya"/>
+    <card blueprintId="1_126" horizontal="false" title="Kessel"/>
+    <card blueprintId="2_61" horizontal="false" title="Corellia"/>
+    <card blueprintId="7_98" horizontal="false" title="Power Pivot"/>
+    <card blueprintId="1_159" horizontal="false" title="Quad Laser Cannon"/>
+    <card blueprintId="12_72" horizontal="false" title="We Wish To Board At Once"/>
+    <card blueprintId="7_96" horizontal="false" title="On Target"/>
+    <card blueprintId="7_96" horizontal="false" title="On Target"/>
+    <card blueprintId="7_83" horizontal="false" title="Antilles Maneuver"/>
+    <card blueprintId="213_49" horizontal="false" title="Anakin Skywalker"/>
+</deck>
