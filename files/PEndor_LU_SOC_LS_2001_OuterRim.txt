@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="7_137" horizontal="false" title="Local Uprising"/>
+    <card blueprintId="7_110" horizontal="false" title="Bothawui"/>
+    <card blueprintId="7_119" horizontal="true" title="Desert"/>
+    <card blueprintId="7_120" horizontal="true" title="Farm"/>
+    <card blueprintId="7_121" horizontal="true" title="Forest"/>
+    <card blueprintId="4_86" horizontal="true" title="Dagobah: Jungle"/>
+    <card blueprintId="4_87" horizontal="true" title="Dagobah: Swamp"/>
+    <card blueprintId="7_5" horizontal="false" title="Bothan Spy"/>
+    <card blueprintId="7_5" horizontal="false" title="Bothan Spy"/>
+    <card blueprintId="7_5" horizontal="false" title="Bothan Spy"/>
+    <card blueprintId="7_5" horizontal="false" title="Bothan Spy"/>
+    <card blueprintId="7_5" horizontal="false" title="Bothan Spy"/>
+    <card blueprintId="7_5" horizontal="false" title="Bothan Spy"/>
+    <card blueprintId="7_5" horizontal="false" title="Bothan Spy"/>
+    <card blueprintId="7_5" horizontal="false" title="Bothan Spy"/>
+    <card blueprintId="7_5" horizontal="false" title="Bothan Spy"/>
+    <card blueprintId="7_5" horizontal="false" title="Bothan Spy"/>
+    <card blueprintId="7_6" horizontal="false" title="Bothawui Operative"/>
+    <card blueprintId="7_6" horizontal="false" title="Bothawui Operative"/>
+    <card blueprintId="7_6" horizontal="false" title="Bothawui Operative"/>
+    <card blueprintId="7_6" horizontal="false" title="Bothawui Operative"/>
+    <card blueprintId="7_6" horizontal="false" title="Bothawui Operative"/>
+    <card blueprintId="7_6" horizontal="false" title="Bothawui Operative"/>
+    <card blueprintId="7_6" horizontal="false" title="Bothawui Operative"/>
+    <card blueprintId="7_6" horizontal="false" title="Bothawui Operative"/>
+    <card blueprintId="7_6" horizontal="false" title="Bothawui Operative"/>
+    <card blueprintId="7_6" horizontal="false" title="Bothawui Operative"/>
+    <card blueprintId="7_6" horizontal="false" title="Bothawui Operative"/>
+    <card blueprintId="7_6" horizontal="false" title="Bothawui Operative"/>
+    <card blueprintId="7_6" horizontal="false" title="Bothawui Operative"/>
+    <card blueprintId="7_6" horizontal="false" title="Bothawui Operative"/>
+    <card blueprintId="1_20" horizontal="false" title="Momaw Nadon"/>
+    <card blueprintId="1_20" horizontal="false" title="Momaw Nadon"/>
+    <card blueprintId="1_33" horizontal="false" title="Wioslea"/>
+    <card blueprintId="1_33" horizontal="false" title="Wioslea"/>
+    <card blueprintId="1_1" horizontal="false" title="2X-3KPR (Tooex)"/>
+    <card blueprintId="1_1" horizontal="false" title="2X-3KPR (Tooex)"/>
+    <card blueprintId="108_1" horizontal="false" title="Han With Heavy Blaster Pistol"/>
+    <card blueprintId="108_1" horizontal="false" title="Han With Heavy Blaster Pistol"/>
+    <card blueprintId="108_2" horizontal="false" title="Leia With Blaster Rifle"/>
+    <card blueprintId="108_2" horizontal="false" title="Leia With Blaster Rifle"/>
+    <card blueprintId="108_3" horizontal="false" title="Luke With Lightsaber"/>
+    <card blueprintId="108_3" horizontal="false" title="Luke With Lightsaber"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="6_53" horizontal="false" title="Bargaining Table"/>
+    <card blueprintId="6_53" horizontal="false" title="Bargaining Table"/>
+    <card blueprintId="1_56" horizontal="false" title="Nightfall"/>
+    <card blueprintId="1_56" horizontal="false" title="Nightfall"/>
+    <card blueprintId="1_56" horizontal="false" title="Nightfall"/>
+    <card blueprintId="1_56" horizontal="false" title="Nightfall"/>
+    <card blueprintId="6_59" horizontal="false" title="Yarna d'al' Gargan"/>
+</deck>
