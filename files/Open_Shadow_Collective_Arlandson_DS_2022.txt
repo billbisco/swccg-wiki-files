@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="109_6" horizontal="false" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="301_3" horizontal="false" title="Asajj Ventress With Lightsabers"/>
+    <card blueprintId="212_3" horizontal="false" title="Aurra Sing With Blaster Rifle"/>
+    <card blueprintId="212_3" horizontal="false" title="Aurra Sing With Blaster Rifle"/>
+    <card blueprintId="217_2" horizontal="false" title="BB-9E"/>
+    <card blueprintId="209_33" horizontal="false" title="Bala-Tik"/>
+    <card blueprintId="203_24" horizontal="false" title="Cad Bane"/>
+    <card blueprintId="200_79" horizontal="false" title="Dengar With Blaster Carbine"/>
+    <card blueprintId="10_37" horizontal="false" title="Dr. Evazan &amp; Ponda Baba"/>
+    <card blueprintId="10_37" horizontal="false" title="Dr. Evazan &amp; Ponda Baba"/>
+    <card blueprintId="213_4" horizontal="false" title="Dryden Vos"/>
+    <card blueprintId="217_10" horizontal="false" title="Gar Saxon"/>
+    <card blueprintId="205_13" horizontal="false" title="Hondo Ohnaka"/>
+    <card blueprintId="205_13" horizontal="false" title="Hondo Ohnaka"/>
+    <card blueprintId="109_11" horizontal="false" title="IG-88 With Riot Gun"/>
+    <card blueprintId="200_84" horizontal="false" title="Jabba The Hutt"/>
+    <card blueprintId="201_25" horizontal="false" title="Jango Fett"/>
+    <card blueprintId="211_3" horizontal="false" title="Lady Proxima"/>
+    <card blueprintId="213_10" horizontal="false" title="Maul"/>
+    <card blueprintId="10_45" horizontal="false" title="Prince Xizor"/>
+    <card blueprintId="217_19" horizontal="false" title="Qi'ra, Top Lieutenant"/>
+    <card blueprintId="204_46" horizontal="false" title="Zam Wesell"/>
+    <card blueprintId="7_229" horizontal="false" title="First Strike"/>
+    <card blueprintId="9_126" horizontal="false" title="Inconsequential Losses"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="12_136" horizontal="false" title="Mind Tricks Don't Work On Me"/>
+    <card blueprintId="112_16" horizontal="false" title="No Escape"/>
+    <card blueprintId="12_140" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="12_140" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="12_140" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="200_114" horizontal="false" title="You'll Be Dead!"/>
+    <card blueprintId="201_33" horizontal="false" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="213_17" horizontal="false" title="A Lawless Time"/>
+    <card blueprintId="213_17" horizontal="false" title="A Lawless Time"/>
+    <card blueprintId="201_35" horizontal="false" title="Cold Feet"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="200_122" horizontal="false" title="Imbalance &amp; Kintan Strider"/>
+    <card blueprintId="7_256" horizontal="false" title="Jabba's Twerps"/>
+    <card blueprintId="7_256" horizontal="false" title="Jabba's Twerps"/>
+    <card blueprintId="7_257" horizontal="false" title="Masterful Move"/>
+    <card blueprintId="7_257" horizontal="false" title="Masterful Move"/>
+    <card blueprintId="12_153" horizontal="false" title="Maul Strikes"/>
+    <card blueprintId="205_20" horizontal="false" title="Point Man"/>
+    <card blueprintId="205_20" horizontal="false" title="Point Man"/>
+    <card blueprintId="200_123" horizontal="false" title="Sith Fury"/>
+    <card blueprintId="200_123" horizontal="false" title="Sith Fury"/>
+    <card blueprintId="212_4" horizontal="false" title="Slip Sliding Away"/>
+    <card blueprintId="8_154" horizontal="false" title="Wounded Warrior"/>
+    <card blueprintId="213_23" horizontal="true" title="Dathomir: Maul's Chambers"/>
+    <card blueprintId="213_25" horizontal="true" title="First Light: Bar"/>
+    <card blueprintId="213_26" horizontal="true" title="First Light: Dryden's Study"/>
+    <card blueprintId="213_27" horizontal="true" title="First Light: Reception Area"/>
+    <card blueprintId="3_144" horizontal="true" title="Hoth: Defensive Perimeter (3rd Marker)"/>
+    <card blueprintId="213_32" horizontal="false" title="Shadow Collective"/>
+    <card blueprintId="213_33" horizontal="false" title="Black Sun Blaster"/>
+    <card blueprintId="213_33" horizontal="false" title="Black Sun Blaster"/>
+    <card blueprintId="213_34" horizontal="false" title="Crimson Dawn Blaster"/>
+    <card blueprintId="213_34" horizontal="false" title="Crimson Dawn Blaster"/>
+    <card blueprintId="213_34" horizontal="false" title="Crimson Dawn Blaster"/>
+</deck>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_2" title="Anakin Skywalker, Padawan Learner"/>
+    <card blueprintId="6_6" title="Baragwin"/>
+    <card blueprintId="204_1" title="BB-8 (Beebee-Ate)"/>
+    <card blueprintId="204_4" title="Chewie With Bowcaster"/>
+    <card blueprintId="209_6" title="General Kenobi"/>
+    <card blueprintId="207_5" title="General Leia Organa"/>
+    <card blueprintId="11_4" title="Jar Jar Binks"/>
+    <card blueprintId="210_20" title="Luke Skywalker, The Last Jedi"/>
+    <card blueprintId="210_20" title="Luke Skywalker, The Last Jedi"/>
+    <card blueprintId="210_20" title="Luke Skywalker, The Last Jedi"/>
+    <card blueprintId="210_20" title="Luke Skywalker, The Last Jedi"/>
+    <card blueprintId="201_2" title="Mace Windu (V)"/>
+    <card blueprintId="201_2" title="Mace Windu (V)"/>
+    <card blueprintId="216_37" title="Master Qui-Gon Jinn, An Old Friend"/>
+    <card blueprintId="203_10" title="Padme Naberrie (V)"/>
+    <card blueprintId="204_9" title="Rey"/>
+    <card blueprintId="204_9" title="Rey"/>
+    <card blueprintId="204_11" title="Solo"/>
+    <card blueprintId="213_44" title="Yoda, Master Of The Force (V)"/>
+    <card blueprintId="213_44" title="Yoda, Master Of The Force (V)"/>
+    <card blueprintId="200_33" title="Luke&#x27;s Bionic Hand"/>
+    <card blueprintId="10_15" title="Obi-Wan&#x27;s Journal"/>
+    <card blueprintId="12_38" title="A Vergence In The Force"/>
+    <card blueprintId="200_35" title="Anger, Fear, Aggression (V)"/>
+    <card blueprintId="200_39" title="I Don&#x27;t Like Sand"/>
+    <card blueprintId="8_38" title="I Hope She&#x27;s All Right"/>
+    <card blueprintId="200_45" title="Sai&#x27;torr Kal Fas (V)"/>
+    <card blueprintId="12_50" title="We&#x27;re Leaving"/>
+    <card blueprintId="200_47" title="Wokling (V)"/>
+    <card blueprintId="9_47" title="Your Insight Serves You Well"/>
+    <card blueprintId="216_24" title="Communing"/>
+    <card blueprintId="12_76" title="Coruscant: Jedi Council Chamber"/>
+    <card blueprintId="216_25" title="Coruscant: Jedi Temple Meditation Room"/>
+    <card blueprintId="12_79" title="Naboo: Battle Plains"/>
+    <card blueprintId="14_49" title="Naboo: Boss Nass&#x27; Chambers"/>
+    <card blueprintId="13_31" title="Naboo: Theed Palace Generator"/>
+    <card blueprintId="210_3" title="Anakin&#x27;s Lightsaber (V)"/>
+    <card blueprintId="7_161" title="Leia&#x27;s Blaster Rifle"/>
+    <card blueprintId="9_90" title="Luke&#x27;s Lightsaber"/>
+    <card blueprintId="201_21" title="Mace Windu&#x27;s Lightsaber"/>
+    <card blueprintId="12_55" title="Are You Brain Dead?!"/>
+    <card blueprintId="6_61" title="Blaster Deflection"/>
+    <card blueprintId="5_38" title="Clash Of Sabers"/>
+    <card blueprintId="5_45" title="Dodge"/>
+    <card blueprintId="201_13" title="Hear Me Baby, Hold Together (V)"/>
+    <card blueprintId="216_39" title="I Am Part Of The Living Force"/>
+    <card blueprintId="200_53" title="Impressive, Most Impressive (V)"/>
+    <card blueprintId="200_54" title="Jedi Levitation (V)"/>
+    <card blueprintId="209_21" title="Odin Nesloor &amp; First Aid"/>
+    <card blueprintId="203_17" title="Rebel Leadership (V)"/>
+    <card blueprintId="101_3" title="Run Luke, Run!"/>
+    <card blueprintId="10_23" title="Sorry About The Mess &amp; Blaster Proficiency"/>
+    <card blueprintId="10_23" title="Sorry About The Mess &amp; Blaster Proficiency"/>
+    <card blueprintId="12_69" title="Speak With The Jedi Council"/>
+    <card blueprintId="12_69" title="Speak With The Jedi Council"/>
+    <card blueprintId="12_69" title="Speak With The Jedi Council"/>
+    <card blueprintId="14_46" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" title="Wesa Gotta Grand Army"/>
+</deck>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="9_95" horizontal="false" title="Intensify The Forward Batteries"/>
+    <card blueprintId="200_71" horizontal="false" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="200_73" horizontal="false" title="Admiral Motti"/>
+    <card blueprintId="3_82" horizontal="false" title="Admiral Ozzel"/>
+    <card blueprintId="203_29" horizontal="false" title="Deflector Shield Generators"/>
+    <card blueprintId="203_29" horizontal="false" title="Deflector Shield Generators"/>
+    <card blueprintId="1_205" horizontal="false" title="Restraining Bolt"/>
+    <card blueprintId="11_68" horizontal="false" title="A Million Voices Crying Out"/>
+    <card blueprintId="217_1" horizontal="false" title="An Effective Demonstration"/>
+    <card blueprintId="1_210" horizontal="false" title="Blast Door Controls"/>
+    <card blueprintId="200_109" horizontal="false" title="Coarse And Rough And Irritating"/>
+    <card blueprintId="2_119" horizontal="false" title="Dark Waters"/>
+    <card blueprintId="12_133" horizontal="false" title="Enter The Bureaucrat"/>
+    <card blueprintId="200_107" horizontal="false" title="Image Of The Dark Lord"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="200_111" horizontal="false" title="Kuat Drive Yards"/>
+    <card blueprintId="1_222" horizontal="false" title="Lateral Damage"/>
+    <card blueprintId="1_222" horizontal="false" title="Lateral Damage"/>
+    <card blueprintId="200_113" horizontal="false" title="Tarkin Doctrine"/>
+    <card blueprintId="200_113" horizontal="false" title="Tarkin Doctrine"/>
+    <card blueprintId="2_130" horizontal="false" title="Commence Primary Ignition"/>
+    <card blueprintId="201_35" horizontal="false" title="Cold Feet"/>
+    <card blueprintId="10_34" horizontal="false" title="Control &amp; Set For Stun"/>
+    <card blueprintId="209_47" horizontal="false" title="Death Squadron Assignment"/>
+    <card blueprintId="209_47" horizontal="false" title="Death Squadron Assignment"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="102_8" horizontal="false" title="Gravity Shadow"/>
+    <card blueprintId="102_8" horizontal="false" title="Gravity Shadow"/>
+    <card blueprintId="12_148" horizontal="false" title="Imperial Artillery"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="7_258" horizontal="false" title="Overwhelmed"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="201_36" horizontal="false" title="TIE Sentry Ships"/>
+    <card blueprintId="201_36" horizontal="false" title="TIE Sentry Ships"/>
+    <card blueprintId="106_17" horizontal="false" title="Tarkin's Orders"/>
+    <card blueprintId="7_266" horizontal="false" title="They've Shut Down The Main Reactor"/>
+    <card blueprintId="1_281" horizontal="false" title="Alderaan"/>
+    <card blueprintId="8_156" horizontal="false" title="Carida"/>
+    <card blueprintId="2_143" horizontal="false" title="Death Star"/>
+    <card blueprintId="1_285" horizontal="true" title="Death Star: Docking Bay 327"/>
+    <card blueprintId="208_48" horizontal="true" title="Death Star: War Room"/>
+    <card blueprintId="208_50" horizontal="false" title="Jedha"/>
+    <card blueprintId="7_287" horizontal="false" title="Rendili"/>
+    <card blueprintId="111_6" horizontal="false" title="Set Your Course For Alderaan"/>
+    <card blueprintId="200_133" horizontal="false" title="Conquest"/>
+    <card blueprintId="216_8" horizontal="false" title="Devastator"/>
+    <card blueprintId="214_5" horizontal="false" title="Intimidator &amp; Persecutor"/>
+    <card blueprintId="9_158" horizontal="false" title="Judicator"/>
+    <card blueprintId="201_41" horizontal="false" title="Stalker"/>
+    <card blueprintId="9_174" horizontal="false" title="Thunderflare"/>
+    <card blueprintId="3_153" horizontal="false" title="Tyrant"/>
+    <card blueprintId="211_24" horizontal="false" title="Vengeance"/>
+    <card blueprintId="9_176" horizontal="false" title="Visage"/>
+    <card blueprintId="12_187" horizontal="false" title="Laser Cannon Battery"/>
+    <card blueprintId="12_187" horizontal="false" title="Laser Cannon Battery"/>
+    <card blueprintId="12_187" horizontal="false" title="Laser Cannon Battery"/>
+    <card blueprintId="216_19" horizontal="false" title="Superlaser"/>
+</deck>

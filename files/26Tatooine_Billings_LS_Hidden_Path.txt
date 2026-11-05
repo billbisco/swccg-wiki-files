@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="206_3" horizontal="false" title="Captain Cassian Andor"/>
+    <card blueprintId="225_38" horizontal="false" title="Captain Han Solo"/>
+    <card blueprintId="225_38" horizontal="false" title="Captain Han Solo"/>
+    <card blueprintId="204_3" horizontal="false" title="Captain Hera Syndulla"/>
+    <card blueprintId="13_9" horizontal="false" title="Chewie, Enraged"/>
+    <card blueprintId="210_14" horizontal="false" title="Ezra Bridger"/>
+    <card blueprintId="207_5" horizontal="false" title="General Leia Organa"/>
+    <card blueprintId="207_5" horizontal="false" title="General Leia Organa"/>
+    <card blueprintId="206_4" horizontal="false" title="Jyn Erso"/>
+    <card blueprintId="226_18" horizontal="false" title="Kelleran Beq"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="200_17" horizontal="false" title="Leesub Sirln"/>
+    <card blueprintId="218_25" horizontal="false" title="Master Luke"/>
+    <card blueprintId="226_24" horizontal="false" title="Obi-Wan Kenobi, Jedi In Exile"/>
+    <card blueprintId="204_8" horizontal="false" title="Poe Dameron"/>
+    <card blueprintId="226_26" horizontal="false" title="Quinlan Vos"/>
+    <card blueprintId="209_10" horizontal="false" title="Rey With Lightsaber"/>
+    <card blueprintId="209_10" horizontal="false" title="Rey With Lightsaber"/>
+    <card blueprintId="11_14" horizontal="false" title="Threepio With His Parts Showing"/>
+    <card blueprintId="216_31" horizontal="false" title="Jedi Holocron"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="221_64" horizontal="false" title="Grappling Hook"/>
+    <card blueprintId="13_36" horizontal="false" title="Opee Sea Killer"/>
+    <card blueprintId="218_26" horizontal="false" title="Ounee Ta"/>
+    <card blueprintId="209_17" horizontal="false" title="Relatively Unprotected"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="226_14" horizontal="false" title="Fallen Order"/>
+    <card blueprintId="11_26" horizontal="false" title="A Jedi's Concentration"/>
+    <card blueprintId="6_61" horizontal="false" title="Blaster Deflection"/>
+    <card blueprintId="209_19" horizontal="false" title="Effective Repairs &amp; Starship Levitation"/>
+    <card blueprintId="218_19" horizontal="false" title="Fall Of The Legend"/>
+    <card blueprintId="200_52" horizontal="false" title="Found Someone You Have"/>
+    <card blueprintId="216_28" horizontal="false" title="Free Ride &amp; Endor Celebration"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="207_12" horizontal="false" title="Help Me Obi-Wan Kenobi"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="225_8" horizontal="false" title="I Don't Need Their Scum, Either"/>
+    <card blueprintId="1_90" horizontal="false" title="It Could Be Worse"/>
+    <card blueprintId="5_55" horizontal="false" title="It's A Trap!"/>
+    <card blueprintId="5_55" horizontal="false" title="It's A Trap!"/>
+    <card blueprintId="210_18" horizontal="false" title="Jedi Mind Trick"/>
+    <card blueprintId="204_20" horizontal="false" title="Keep Your Eyes Open"/>
+    <card blueprintId="218_24" horizontal="false" title="Local Defense &amp; Put That Down"/>
+    <card blueprintId="1_101" horizontal="false" title="On The Edge"/>
+    <card blueprintId="210_24" horizontal="false" title="Quite A Mercenary"/>
+    <card blueprintId="5_69" horizontal="false" title="Smoke Screen"/>
+    <card blueprintId="7_103" horizontal="false" title="Star Destroyer!"/>
+    <card blueprintId="11_40" horizontal="false" title="Too Close For Comfort"/>
+    <card blueprintId="8_64" horizontal="false" title="Were You Looking For Me?"/>
+    <card blueprintId="226_15" horizontal="true" title="Jabiim: Path Operations Center"/>
+    <card blueprintId="226_16" horizontal="true" title="Jabiim: Starship Hangar"/>
+    <card blueprintId="226_21" horizontal="true" title="Mapuzo: Mining Village"/>
+    <card blueprintId="226_22" horizontal="true" title="Mapuzo: Safehouse"/>
+    <card blueprintId="226_23" horizontal="true" title="Mapuzo: Underground Corridor"/>
+    <card blueprintId="226_28" horizontal="false" title="The Hidden Path"/>
+    <card blueprintId="207_18" horizontal="false" title="Profundity"/>
+    <card blueprintId="203_21" horizontal="false" title="Wild Karrde"/>
+    <card blueprintId="211_33" horizontal="false" title="Jedi Lightsaber"/>
+    <card blueprintId="1_157" horizontal="false" title="Obi-Wan's Lightsaber"/>
+</deck>

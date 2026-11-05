@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="110_6" horizontal="false" title="Court Of The Vile Gangster"/>
+    <card blueprintId="6_162" horizontal="true" title="Jabba's Palace: Audience Chamber"/>
+    <card blueprintId="6_164" horizontal="true" title="Jabba's Palace: Dungeon"/>
+    <card blueprintId="6_170" horizontal="true" title="Tatooine: Great Pit Of Carkoon"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="12_129" horizontal="false" title="Battle Order &amp; First Strike"/>
+    <card blueprintId="201_31" horizontal="false" title="Jabba's Haven"/>
+    <card blueprintId="112_17" horizontal="false" title="Power Of The Hutt"/>
+    <card blueprintId="7_164" horizontal="false" title="Ak-rev"/>
+    <card blueprintId="7_164" horizontal="false" title="Ak-rev"/>
+    <card blueprintId="200_74" horizontal="false" title="Arica"/>
+    <card blueprintId="200_74" horizontal="false" title="Arica"/>
+    <card blueprintId="7_166" horizontal="false" title="Barquin D'an"/>
+    <card blueprintId="13_59" horizontal="false" title="Boba Fett, Bounty Hunter"/>
+    <card blueprintId="7_168" horizontal="false" title="Boelo"/>
+    <card blueprintId="201_24" horizontal="false" title="Djas Puhr"/>
+    <card blueprintId="6_101" horizontal="false" title="Ephant Mon"/>
+    <card blueprintId="6_104" horizontal="false" title="Gailid"/>
+    <card blueprintId="7_179" horizontal="false" title="Greeata"/>
+    <card blueprintId="7_179" horizontal="false" title="Greeata"/>
+    <card blueprintId="204_42" horizontal="false" title="Greedo"/>
+    <card blueprintId="200_84" horizontal="false" title="Jabba The Hutt"/>
+    <card blueprintId="201_25" horizontal="false" title="Jango Fett"/>
+    <card blueprintId="211_3" horizontal="false" title="Lady Proxima"/>
+    <card blueprintId="2_94" horizontal="false" title="Lirin Car'n"/>
+    <card blueprintId="2_94" horizontal="false" title="Lirin Car'n"/>
+    <card blueprintId="7_188" horizontal="false" title="Lyn Me"/>
+    <card blueprintId="7_188" horizontal="false" title="Lyn Me"/>
+    <card blueprintId="6_116" horizontal="false" title="Nizuc Bek"/>
+    <card blueprintId="6_116" horizontal="false" title="Nizuc Bek"/>
+    <card blueprintId="7_198" horizontal="false" title="Rappertunie"/>
+    <card blueprintId="7_198" horizontal="false" title="Rappertunie"/>
+    <card blueprintId="7_200" horizontal="false" title="Rystall"/>
+    <card blueprintId="7_200" horizontal="false" title="Rystall"/>
+    <card blueprintId="7_208" horizontal="false" title="Sy Snootles"/>
+    <card blueprintId="2_105" horizontal="false" title="Tech Mo'r"/>
+    <card blueprintId="7_209" horizontal="false" title="Umpass-stay"/>
+    <card blueprintId="7_209" horizontal="false" title="Umpass-stay"/>
+    <card blueprintId="201_27" horizontal="false" title="Wooof"/>
+    <card blueprintId="112_11" horizontal="false" title="Hutt Influence"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="6_149" horizontal="false" title="Scum And Villainy"/>
+    <card blueprintId="6_149" horizontal="false" title="Scum And Villainy"/>
+    <card blueprintId="8_131" horizontal="false" title="Search And Destroy"/>
+    <card blueprintId="201_35" horizontal="false" title="Cold Feet"/>
+    <card blueprintId="1_243" horizontal="false" title="Elis Helrot"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="200_122" horizontal="false" title="Imbalance &amp; Kintan Strider"/>
+    <card blueprintId="209_48" horizontal="false" title="Lana Dobreed &amp; Sacrifice"/>
+    <card blueprintId="10_44" horizontal="false" title="Ommni Box &amp; It's Worse"/>
+    <card blueprintId="210_41" horizontal="false" title="Oo-ta Goo-ta, Solo?"/>
+    <card blueprintId="210_41" horizontal="false" title="Oo-ta Goo-ta, Solo?"/>
+    <card blueprintId="211_15" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="7_276" horizontal="true" title="Coruscant: Docking Bay"/>
+    <card blueprintId="9_145" horizontal="true" title="Death Star II: Docking Bay"/>
+    <card blueprintId="6_167" horizontal="true" title="Jabba's Sail Barge: Passenger Deck"/>
+    <card blueprintId="6_168" horizontal="false" title="Nal Hutta"/>
+    <card blueprintId="200_134" horizontal="false" title="Elis In Hinthra"/>
+    <card blueprintId="210_34" horizontal="false" title="Jabba's Space Cruiser"/>
+</deck>

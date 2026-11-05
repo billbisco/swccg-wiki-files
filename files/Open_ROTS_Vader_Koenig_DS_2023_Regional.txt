@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_71" horizontal="false" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="222_2" horizontal="false" title="Ap'lek"/>
+    <card blueprintId="222_2" horizontal="false" title="Ap'lek"/>
+    <card blueprintId="221_8" horizontal="false" title="Asajj Ventress"/>
+    <card blueprintId="212_3" horizontal="false" title="Aurra Sing With Blaster Rifle"/>
+    <card blueprintId="222_5" horizontal="false" title="Boba Fett With Blaster Rifle"/>
+    <card blueprintId="7_175" horizontal="false" title="Darth Vader, Dark Lord Of The Sith"/>
+    <card blueprintId="208_30" horizontal="false" title="Darth Vader, Emperor's Enforcer"/>
+    <card blueprintId="10_37" horizontal="false" title="Dr. Evazan &amp; Ponda Baba"/>
+    <card blueprintId="10_37" horizontal="false" title="Dr. Evazan &amp; Ponda Baba"/>
+    <card blueprintId="203_27" horizontal="false" title="General Grievous"/>
+    <card blueprintId="207_21" horizontal="false" title="Grand Admiral Thrawn"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="222_10" horizontal="false" title="Kylo, Master Of The Knights Of Ren"/>
+    <card blueprintId="208_35" horizontal="false" title="Lord Sidious"/>
+    <card blueprintId="9_113" horizontal="false" title="Lord Vader"/>
+    <card blueprintId="200_86" horizontal="false" title="Mara Jade With Lightsaber"/>
+    <card blueprintId="213_11" horizontal="false" title="Ninth Sister"/>
+    <card blueprintId="207_23" horizontal="false" title="Savage Opress"/>
+    <card blueprintId="200_109" horizontal="false" title="Coarse And Rough And Irritating"/>
+    <card blueprintId="7_229" horizontal="false" title="First Strike"/>
+    <card blueprintId="205_17" horizontal="false" title="I Am Your Father"/>
+    <card blueprintId="200_107" horizontal="false" title="Image Of The Dark Lord"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="219_16" horizontal="false" title="No Escape"/>
+    <card blueprintId="222_16" horizontal="false" title="Vader's Machination"/>
+    <card blueprintId="221_40" horizontal="false" title="Vader's Malediction"/>
+    <card blueprintId="217_20" horizontal="false" title="Revenge Of The Sith"/>
+    <card blueprintId="221_13" horizontal="false" title="ComScan Detection"/>
+    <card blueprintId="208_43" horizontal="false" title="Double Back"/>
+    <card blueprintId="200_119" horizontal="false" title="Force Field"/>
+    <card blueprintId="200_119" horizontal="false" title="Force Field"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="3_125" horizontal="false" title="Furry Fury"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="218_11" horizontal="false" title="I Have You Now"/>
+    <card blueprintId="218_11" horizontal="false" title="I Have You Now"/>
+    <card blueprintId="209_48" horizontal="false" title="Lana Dobreed &amp; Sacrifice"/>
+    <card blueprintId="12_152" horizontal="false" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="205_20" horizontal="false" title="Point Man"/>
+    <card blueprintId="217_21" horizontal="false" title="Rise Of The Sith"/>
+    <card blueprintId="10_47" horizontal="false" title="Sniper &amp; Dark Strike"/>
+    <card blueprintId="211_16" horizontal="false" title="Vader's Anger"/>
+    <card blueprintId="221_41" horizontal="false" title="Vader's Obsession"/>
+    <card blueprintId="221_41" horizontal="false" title="Vader's Obsession"/>
+    <card blueprintId="221_41" horizontal="false" title="Vader's Obsession"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="222_18" horizontal="false" title="Your Powers Are Weak, Old Man"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="221_11" horizontal="true" title="Cloud City: Chasm Walkway"/>
+    <card blueprintId="216_4" horizontal="true" title="Coruscant: The Works"/>
+    <card blueprintId="210_39" horizontal="false" title="Mustafar"/>
+    <card blueprintId="216_9" horizontal="true" title="Mustafar: Private Platform (Docking Bay)"/>
+    <card blueprintId="209_50" horizontal="true" title="Mustafar: Vader's Castle"/>
+    <card blueprintId="221_1" horizontal="false" title="Colonel Jendon In Vader's Personal Shuttle"/>
+    <card blueprintId="222_11" horizontal="false" title="Night Buzzard"/>
+    <card blueprintId="211_25" horizontal="false" title="Dark Jedi Lightsaber"/>
+    <card blueprintId="208_59" horizontal="false" title="Darth Vader's Lightsaber"/>
+</deck>

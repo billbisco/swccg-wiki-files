@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="203_22" title="Agent Kallus"/>
+    <card blueprintId="10_33" title="Captain Gilad Pellaeon"/>
+    <card blueprintId="3_85" title="Captain Piett"/>
+    <card blueprintId="8_94" title="Commander Igar"/>
+    <card blueprintId="14_77" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="208_30" title="Darth Vader, Emperor&#x27;s Enforcer"/>
+    <card blueprintId="207_20" title="Director Orson Krennic"/>
+    <card blueprintId="10_40" title="Grand Admiral Thrawn"/>
+    <card blueprintId="200_85" title="Maarek Stele, The Emperor&#x27;s Reach"/>
+    <card blueprintId="200_109" title="Coarse And Rough And Irritating"/>
+    <card blueprintId="5_120" title="Imperial Decree"/>
+    <card blueprintId="112_16" title="No Escape"/>
+    <card blueprintId="11_77" title="You May Start Your Landing"/>
+    <card blueprintId="12_164" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="3_144" title="Hoth: Defensive Perimeter (3rd Marker)"/>
+    <card blueprintId="104_4" title="Hoth: Mountains (6th Marker)"/>
+    <card blueprintId="13_56" title="Blizzard 4"/>
+    <card blueprintId="215_23" title="Blizzard 8"/>
+    <card blueprintId="104_5" title="Imperial Walker"/>
+    <card blueprintId="104_5" title="Imperial Walker"/>
+    <card blueprintId="210_38" title="Marquand In Blizzard 6"/>
+    <card blueprintId="8_170" title="Tempest 1"/>
+    <card blueprintId="209_47" title="Death Squadron Assignment"/>
+    <card blueprintId="209_47" title="Death Squadron Assignment"/>
+    <card blueprintId="2_132" title="Ghhhk"/>
+    <card blueprintId="9_137" title="Imperial Command"/>
+    <card blueprintId="9_137" title="Imperial Command"/>
+    <card blueprintId="9_137" title="Imperial Command"/>
+    <card blueprintId="9_137" title="Imperial Command"/>
+    <card blueprintId="12_152" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="12_152" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="3_138" title="Trample"/>
+    <card blueprintId="3_138" title="Trample"/>
+    <card blueprintId="104_7" title="Walker Garrison"/>
+    <card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_131" title="Do They Have A Code Clearance?"/>
+    <card blueprintId="216_3" title="Avenger (V)"/>
+    <card blueprintId="217_4" title="Blizzard 1 (V)"/>
+    <card blueprintId="200_139" title="Blizzard 2 (V)"/>
+    <card blueprintId="200_140" title="Blizzard Scout 1 (V)"/>
+    <card blueprintId="217_6" title="Captain Needa (V)"/>
+    <card blueprintId="200_120" title="Force Push (V)"/>
+    <card blueprintId="200_81" title="General Veers (V)"/>
+    <card blueprintId="200_82" title="Grand Moff Tarkin (V)"/>
+    <card blueprintId="208_49" title="Hoth: Ice Plains (5th Marker) (V)"/>
+    <card blueprintId="217_12" title="Hoth: North Ridge (4th Marker) (V)"/>
+    <card blueprintId="200_107" title="Image Of The Dark Lord (V)"/>
+    <card blueprintId="213_21" title="Imperial Code Cylinder (V)"/>
+    <card blueprintId="200_108" title="Imperial Decree (V)"/>
+    <card blueprintId="200_110" title="Knowledge And Defense (V)"/>
+    <card blueprintId="208_36" title="Myn Kyneugh (V)"/>
+    <card blueprintId="207_26" title="Security Precautions (V)"/>
+    <card blueprintId="212_4" title="Slip Sliding Away (V)"/>
+    <card blueprintId="200_112" title="Something Special Planned For Them (V)"/>
+    <card blueprintId="208_41" title="Tarkin&#x27;s Bounty (V)"/>
+    <card blueprintId="206_11" title="Veers (V)"/>
+    <card blueprintId="211_24" title="Vengeance (V)"/>
+</deck>

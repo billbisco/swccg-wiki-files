@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="1_175" horizontal="false" title="EG-6 (Eegee-Six)"/>
+    <card blueprintId="1_175" horizontal="false" title="EG-6 (Eegee-Six)"/>
+    <card blueprintId="1_175" horizontal="false" title="EG-6 (Eegee-Six)"/>
+    <card blueprintId="1_175" horizontal="false" title="EG-6 (Eegee-Six)"/>
+    <card blueprintId="1_175" horizontal="false" title="EG-6 (Eegee-Six)"/>
+    <card blueprintId="1_175" horizontal="false" title="EG-6 (Eegee-Six)"/>
+    <card blueprintId="1_175" horizontal="false" title="EG-6 (Eegee-Six)"/>
+    <card blueprintId="1_175" horizontal="false" title="EG-6 (Eegee-Six)"/>
+    <card blueprintId="1_175" horizontal="false" title="EG-6 (Eegee-Six)"/>
+    <card blueprintId="1_175" horizontal="false" title="EG-6 (Eegee-Six)"/>
+    <card blueprintId="1_175" horizontal="false" title="EG-6 (Eegee-Six)"/>
+    <card blueprintId="1_175" horizontal="false" title="EG-6 (Eegee-Six)"/>
+    <card blueprintId="6_102" horizontal="false" title="EV-9D9"/>
+    <card blueprintId="6_102" horizontal="false" title="EV-9D9"/>
+    <card blueprintId="6_102" horizontal="false" title="EV-9D9"/>
+    <card blueprintId="6_102" horizontal="false" title="EV-9D9"/>
+    <card blueprintId="6_102" horizontal="false" title="EV-9D9"/>
+    <card blueprintId="6_102" horizontal="false" title="EV-9D9"/>
+    <card blueprintId="200_88" horizontal="false" title="Probot"/>
+    <card blueprintId="200_88" horizontal="false" title="Probot"/>
+    <card blueprintId="1_193" horizontal="false" title="R4-M9 (Arfour-Emmnine)"/>
+    <card blueprintId="1_193" horizontal="false" title="R4-M9 (Arfour-Emmnine)"/>
+    <card blueprintId="1_193" horizontal="false" title="R4-M9 (Arfour-Emmnine)"/>
+    <card blueprintId="1_193" horizontal="false" title="R4-M9 (Arfour-Emmnine)"/>
+    <card blueprintId="1_193" horizontal="false" title="R4-M9 (Arfour-Emmnine)"/>
+    <card blueprintId="1_193" horizontal="false" title="R4-M9 (Arfour-Emmnine)"/>
+    <card blueprintId="1_193" horizontal="false" title="R4-M9 (Arfour-Emmnine)"/>
+    <card blueprintId="1_193" horizontal="false" title="R4-M9 (Arfour-Emmnine)"/>
+    <card blueprintId="1_193" horizontal="false" title="R4-M9 (Arfour-Emmnine)"/>
+    <card blueprintId="11_64" horizontal="false" title="Sith Probe Droid"/>
+    <card blueprintId="11_64" horizontal="false" title="Sith Probe Droid"/>
+    <card blueprintId="11_64" horizontal="false" title="Sith Probe Droid"/>
+    <card blueprintId="11_64" horizontal="false" title="Sith Probe Droid"/>
+    <card blueprintId="11_64" horizontal="false" title="Sith Probe Droid"/>
+    <card blueprintId="11_64" horizontal="false" title="Sith Probe Droid"/>
+    <card blueprintId="11_64" horizontal="false" title="Sith Probe Droid"/>
+    <card blueprintId="11_64" horizontal="false" title="Sith Probe Droid"/>
+    <card blueprintId="11_64" horizontal="false" title="Sith Probe Droid"/>
+    <card blueprintId="11_64" horizontal="false" title="Sith Probe Droid"/>
+    <card blueprintId="1_227" horizontal="false" title="Presence Of The Force"/>
+    <card blueprintId="1_227" horizontal="false" title="Presence Of The Force"/>
+    <card blueprintId="1_227" horizontal="false" title="Presence Of The Force"/>
+    <card blueprintId="1_227" horizontal="false" title="Presence Of The Force"/>
+    <card blueprintId="1_227" horizontal="false" title="Presence Of The Force"/>
+    <card blueprintId="1_227" horizontal="false" title="Presence Of The Force"/>
+    <card blueprintId="10_34" horizontal="false" title="Control &amp; Set For Stun"/>
+    <card blueprintId="10_34" horizontal="false" title="Control &amp; Set For Stun"/>
+    <card blueprintId="1_243" horizontal="false" title="Elis Helrot"/>
+    <card blueprintId="1_243" horizontal="false" title="Elis Helrot"/>
+    <card blueprintId="1_243" horizontal="false" title="Elis Helrot"/>
+</deck>
