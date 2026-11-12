@@ -13,7 +13,6 @@
     <card blueprintId="112_5" horizontal="false" title="Palace Raider"/>
     <card blueprintId="112_5" horizontal="false" title="Palace Raider"/>
     <card blueprintId="10_12" horizontal="false" title="Mirax Terrik"/>
-    <card blueprintId="101_2" horizontal="false" title="Luke"/>
     <card blueprintId="5_1" horizontal="false" title="Captain Han Solo"/>
     <card blueprintId="10_6" horizontal="false" title="Dash Rendar"/>
     <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>

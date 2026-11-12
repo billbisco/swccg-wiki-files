@@ -10,7 +10,6 @@
     <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
     <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
     <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
-    <card blueprintId="101_2" horizontal="false" title="Luke"/>
     <card blueprintId="9_31" horizontal="false" title="Wedge Antilles, Red Squadron Leader"/>
     <card blueprintId="5_1" horizontal="false" title="Captain Han Solo"/>
     <card blueprintId="14_20" horizontal="false" title="Officer Dolphe"/>

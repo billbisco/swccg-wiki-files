@@ -35,7 +35,6 @@
     <card blueprintId="1_122" horizontal="false" title="Dantooine"/>
     <card blueprintId="1_121" horizontal="false" title="Alderaan"/>
     <card blueprintId="7_17" horizontal="false" title="Firin Morett"/>
-    <card blueprintId="101_2" horizontal="false" title="Luke"/>
     <card blueprintId="2_3" horizontal="false" title="Chewbacca"/>
     <card blueprintId="1_11" horizontal="false" title="Han Solo"/>
     <card blueprintId="1_3" horizontal="false" title="Biggs Darklighter"/>

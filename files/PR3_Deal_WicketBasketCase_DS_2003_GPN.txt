@@ -14,7 +14,6 @@
     <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
     <card blueprintId="10_48" horizontal="false" title="Snoova"/>
     <card blueprintId="10_37" horizontal="false" title="Dr. Evazan &amp; Ponda Baba"/>
-    <card blueprintId="101_5" horizontal="false" title="Vader"/>
     <card blueprintId="7_175" horizontal="false" title="Darth Vader, Dark Lord Of The Sith"/>
     <card blueprintId="12_188" horizontal="false" title="Naboo Blaster"/>
     <card blueprintId="12_188" horizontal="false" title="Naboo Blaster"/>
