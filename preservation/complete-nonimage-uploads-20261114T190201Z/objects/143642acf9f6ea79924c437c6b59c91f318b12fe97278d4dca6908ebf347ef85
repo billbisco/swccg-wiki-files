@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="13_73" horizontal="false" title="Let Them Make The First Move"/>
+    <card blueprintId="13_65" horizontal="false" title="Deep Hatred"/>
+    <card blueprintId="13_76" horizontal="true" title="Naboo: Theed Palace Generator"/>
+    <card blueprintId="13_77" horizontal="true" title="Naboo: Theed Palace Generator Core"/>
+    <card blueprintId="109_7" horizontal="false" title="Any Methods Necessary"/>
+    <card blueprintId="200_71" horizontal="false" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="200_126" horizontal="true" title="Cloud City: Security Tower"/>
+    <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
+    <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
+    <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
+    <card blueprintId="13_74" horizontal="false" title="Lord Maul"/>
+    <card blueprintId="13_74" horizontal="false" title="Lord Maul"/>
+    <card blueprintId="13_74" horizontal="false" title="Lord Maul"/>
+    <card blueprintId="13_74" horizontal="false" title="Lord Maul"/>
+    <card blueprintId="14_78" horizontal="false" title="Darth Sidious"/>
+    <card blueprintId="14_78" horizontal="false" title="Darth Sidious"/>
+    <card blueprintId="200_76" horizontal="false" title="Count Dooku"/>
+    <card blueprintId="200_76" horizontal="false" title="Count Dooku"/>
+    <card blueprintId="200_76" horizontal="false" title="Count Dooku"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="200_86" horizontal="false" title="Mara Jade With Lightsaber"/>
+    <card blueprintId="200_86" horizontal="false" title="Mara Jade With Lightsaber"/>
+    <card blueprintId="8_131" horizontal="false" title="Search And Destroy"/>
+    <card blueprintId="12_139" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="12_139" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="12_139" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="12_139" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="9_136" horizontal="false" title="Force Lightning"/>
+    <card blueprintId="9_136" horizontal="false" title="Force Lightning"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="1_248" horizontal="false" title="I Have You Now"/>
+    <card blueprintId="11_83" horizontal="false" title="Lightsaber Parry"/>
+    <card blueprintId="11_83" horizontal="false" title="Lightsaber Parry"/>
+    <card blueprintId="200_119" horizontal="false" title="Force Field"/>
+    <card blueprintId="7_257" horizontal="false" title="Masterful Move"/>
+    <card blueprintId="7_257" horizontal="false" title="Masterful Move"/>
+    <card blueprintId="12_152" horizontal="false" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="12_153" horizontal="false" title="Maul Strikes"/>
+    <card blueprintId="12_153" horizontal="false" title="Maul Strikes"/>
+    <card blueprintId="12_153" horizontal="false" title="Maul Strikes"/>
+    <card blueprintId="200_123" horizontal="false" title="Sith Fury"/>
+    <card blueprintId="200_123" horizontal="false" title="Sith Fury"/>
+    <card blueprintId="200_123" horizontal="false" title="Sith Fury"/>
+    <card blueprintId="2_140" horizontal="false" title="Stunning Leader"/>
+    <card blueprintId="2_140" horizontal="false" title="Stunning Leader"/>
+    <card blueprintId="2_140" horizontal="false" title="Stunning Leader"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="5_160" horizontal="false" title="Weapon Levitation"/>
+    <card blueprintId="200_104" horizontal="false" title="Blaster Rack"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="13_75" horizontal="false" title="Maul's Double-Bladed Lightsaber"/>
+    <card blueprintId="13_75" horizontal="false" title="Maul's Double-Bladed Lightsaber"/>
+    <card blueprintId="200_142" horizontal="false" title="Dooku's Lightsaber"/>
+    <card blueprintId="13_53" horizontal="false" title="Aurra Sing's Blaster Rifle"/>
+    <card blueprintId="7_322" horizontal="false" title="Intruder Missile"/>
+    <card blueprintId="12_128" horizontal="false" title="Allegations Of Corruption"/>
+    <card blueprintId="8_118" horizontal="false" title="Battle Order"/>
+    <card blueprintId="7_224" horizontal="false" title="Come Here You Big Coward"/>
+    <card blueprintId="1_213" horizontal="false" title="Death Star Sentry"/>
+    <card blueprintId="12_131" horizontal="false" title="Do They Have A Code Clearance?"/>
+    <card blueprintId="11_69" horizontal="false" title="Fanfare"/>
+    <card blueprintId="7_228" horizontal="false" title="Firepower"/>
+    <card blueprintId="1_217" horizontal="false" title="I Find Your Lack Of Faith Disturbing"/>
+    <card blueprintId="6_147" horizontal="false" title="Resistance"/>
+    <card blueprintId="7_240" horizontal="false" title="Secret Plans"/>
+    <card blueprintId="4_134" horizontal="false" title="There Is No Try"/>
+    <card blueprintId="9_133" horizontal="false" title="You Cannot Hide Forever"/>
+</deck>

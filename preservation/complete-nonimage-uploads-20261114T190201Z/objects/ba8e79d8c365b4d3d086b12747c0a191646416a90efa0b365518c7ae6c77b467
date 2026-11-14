@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="1_127" horizontal="false" title="Tatooine"/>
+    <card blueprintId="1_127" horizontal="false" title="Tatooine"/>
+    <card blueprintId="1_34" horizontal="false" title="Caller"/>
+    <card blueprintId="1_38" horizontal="false" title="Restraining Bolt"/>
+    <card blueprintId="1_38" horizontal="false" title="Restraining Bolt"/>
+    <card blueprintId="1_37" horizontal="false" title="Hydroponics Station"/>
+    <card blueprintId="1_41" horizontal="false" title="Vaporator"/>
+    <card blueprintId="1_40" horizontal="false" title="Tatooine Utility Belt"/>
+    <card blueprintId="1_40" horizontal="false" title="Tatooine Utility Belt"/>
+    <card blueprintId="1_40" horizontal="false" title="Tatooine Utility Belt"/>
+    <card blueprintId="1_35" horizontal="false" title="Electrobinoculars"/>
+    <card blueprintId="1_162" horizontal="false" title="Timer Mine"/>
+    <card blueprintId="1_162" horizontal="false" title="Timer Mine"/>
+    <card blueprintId="1_162" horizontal="false" title="Timer Mine"/>
+    <card blueprintId="1_157" horizontal="false" title="Obi-Wan's Lightsaber"/>
+    <card blueprintId="1_154" horizontal="false" title="Han's Heavy Blaster Pistol"/>
+    <card blueprintId="101_2" horizontal="false" title="Luke"/>
+    <card blueprintId="1_1" horizontal="false" title="2X-3KPR (Tooex)"/>
+    <card blueprintId="1_22" horizontal="false" title="Owen Lars"/>
+    <card blueprintId="1_2" horizontal="false" title="Beru Lars"/>
+    <card blueprintId="1_4" horizontal="false" title="BoShek"/>
+    <card blueprintId="1_9" horizontal="false" title="Figrin D'an"/>
+    <card blueprintId="1_14" horizontal="false" title="Kabe"/>
+    <card blueprintId="1_33" horizontal="false" title="Wioslea"/>
+    <card blueprintId="1_12" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_12" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_12" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_18" horizontal="false" title="LIN-V8K (Elleyein-Veeatekay)"/>
+    <card blueprintId="1_25" horizontal="false" title="R4-E1 (Arfour-Eeone)"/>
+    <card blueprintId="1_25" horizontal="false" title="R4-E1 (Arfour-Eeone)"/>
+    <card blueprintId="1_25" horizontal="false" title="R4-E1 (Arfour-Eeone)"/>
+    <card blueprintId="1_30" horizontal="false" title="Shistavanen Wolfman"/>
+    <card blueprintId="1_30" horizontal="false" title="Shistavanen Wolfman"/>
+    <card blueprintId="1_30" horizontal="false" title="Shistavanen Wolfman"/>
+    <card blueprintId="1_31" horizontal="false" title="Talz"/>
+    <card blueprintId="1_31" horizontal="false" title="Talz"/>
+    <card blueprintId="1_31" horizontal="false" title="Talz"/>
+    <card blueprintId="1_6" horizontal="false" title="CZ-3 (Seezee-Three)"/>
+    <card blueprintId="1_6" horizontal="false" title="CZ-3 (Seezee-Three)"/>
+    <card blueprintId="1_151" horizontal="false" title="SoroSuub V-35 Landspeeder"/>
+    <card blueprintId="1_151" horizontal="false" title="SoroSuub V-35 Landspeeder"/>
+    <card blueprintId="1_151" horizontal="false" title="SoroSuub V-35 Landspeeder"/>
+    <card blueprintId="1_143" horizontal="false" title="Millennium Falcon"/>
+</deck>

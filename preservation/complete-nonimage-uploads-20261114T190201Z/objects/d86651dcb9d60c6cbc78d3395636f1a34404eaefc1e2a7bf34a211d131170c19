@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="3_143" horizontal="false" title="Hoth"/>
+    <card blueprintId="200_117" horizontal="false" title="Combat Readiness"/>
+    <card blueprintId="3_148" horizontal="true" title="Hoth: Ice Plains (5th Marker)"/>
+    <card blueprintId="9_95" horizontal="false" title="Intensify The Forward Batteries"/>
+    <card blueprintId="200_73" horizontal="false" title="Admiral Motti"/>
+    <card blueprintId="3_82" horizontal="false" title="Admiral Ozzel"/>
+    <card blueprintId="200_74" horizontal="false" title="Arica"/>
+    <card blueprintId="3_84" horizontal="false" title="Captain Lennox"/>
+    <card blueprintId="201_22" horizontal="false" title="Colonel Wullf Yularen"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="200_81" horizontal="false" title="General Veers"/>
+    <card blueprintId="10_40" horizontal="false" title="Grand Admiral Thrawn"/>
+    <card blueprintId="4_106" horizontal="false" title="Warrant Officer M'Kae"/>
+    <card blueprintId="2_115" horizontal="false" title="Tractor Beam"/>
+    <card blueprintId="2_115" horizontal="false" title="Tractor Beam"/>
+    <card blueprintId="2_117" horizontal="false" title="Besieged"/>
+    <card blueprintId="200_107" horizontal="false" title="Image Of The Dark Lord"/>
+    <card blueprintId="5_120" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="207_26" horizontal="false" title="Security Precautions"/>
+    <card blueprintId="12_144" horizontal="false" title="You Cannot Hide Forever &amp; Mobilization Points"/>
+    <card blueprintId="11_77" horizontal="false" title="You May Start Your Landing"/>
+    <card blueprintId="209_46" horizontal="false" title="Apology Accepted"/>
+    <card blueprintId="209_46" horizontal="false" title="Apology Accepted"/>
+    <card blueprintId="201_35" horizontal="false" title="Cold Feet"/>
+    <card blueprintId="209_47" horizontal="false" title="Death Squadron Assignment"/>
+    <card blueprintId="209_47" horizontal="false" title="Death Squadron Assignment"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="200_121" horizontal="false" title="I Can't Shake Him!"/>
+    <card blueprintId="200_121" horizontal="false" title="I Can't Shake Him!"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="7_254" horizontal="false" title="In Range"/>
+    <card blueprintId="7_254" horizontal="false" title="In Range"/>
+    <card blueprintId="7_254" horizontal="false" title="In Range"/>
+    <card blueprintId="3_131" horizontal="false" title="Our First Catch Of The Day"/>
+    <card blueprintId="3_131" horizontal="false" title="Our First Catch Of The Day"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="7_266" horizontal="false" title="They've Shut Down The Main Reactor"/>
+    <card blueprintId="7_266" horizontal="false" title="They've Shut Down The Main Reactor"/>
+    <card blueprintId="3_138" horizontal="false" title="Trample"/>
+    <card blueprintId="201_37" horizontal="false" title="Turn It Off! Turn It Off!"/>
+    <card blueprintId="104_7" horizontal="false" title="Walker Garrison"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="3_144" horizontal="true" title="Hoth: Defensive Perimeter (3rd Marker)"/>
+    <card blueprintId="7_287" horizontal="false" title="Rendili"/>
+    <card blueprintId="202_13" horizontal="false" title="Binder"/>
+    <card blueprintId="200_133" horizontal="false" title="Conquest"/>
+    <card blueprintId="201_41" horizontal="false" title="Stalker"/>
+    <card blueprintId="3_153" horizontal="false" title="Tyrant"/>
+    <card blueprintId="200_139" horizontal="false" title="Blizzard 2"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="200_140" horizontal="false" title="Blizzard Scout 1"/>
+    <card blueprintId="12_187" horizontal="false" title="Laser Cannon Battery"/>
+    <card blueprintId="12_187" horizontal="false" title="Laser Cannon Battery"/>
+</deck>

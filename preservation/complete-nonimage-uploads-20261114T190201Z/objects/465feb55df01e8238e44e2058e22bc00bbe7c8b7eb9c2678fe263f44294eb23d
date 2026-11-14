@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_71" horizontal="false" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="9_98" horizontal="false" title="Admiral Piett"/>
+    <card blueprintId="212_5" horizontal="false" title="Admiral Trench"/>
+    <card blueprintId="212_3" horizontal="false" title="Aurra Sing With Blaster Rifle"/>
+    <card blueprintId="217_2" horizontal="false" title="BB-9E"/>
+    <card blueprintId="9_106" horizontal="false" title="Commander Merrejk"/>
+    <card blueprintId="203_26" horizontal="false" title="Darth Maul, Lone Hunter"/>
+    <card blueprintId="203_26" horizontal="false" title="Darth Maul, Lone Hunter"/>
+    <card blueprintId="203_26" horizontal="false" title="Darth Maul, Lone Hunter"/>
+    <card blueprintId="216_6" horizontal="false" title="Darth Vader, Betrayer Of The Jedi"/>
+    <card blueprintId="10_37" horizontal="false" title="Dr. Evazan &amp; Ponda Baba"/>
+    <card blueprintId="203_27" horizontal="false" title="General Grievous"/>
+    <card blueprintId="203_27" horizontal="false" title="General Grievous"/>
+    <card blueprintId="209_37" horizontal="false" title="Kylo Ren With Lightsaber"/>
+    <card blueprintId="208_35" horizontal="false" title="Lord Sidious"/>
+    <card blueprintId="211_1" horizontal="false" title="Mitth'raw'nuruodo"/>
+    <card blueprintId="208_36" horizontal="false" title="Myn Kyneugh"/>
+    <card blueprintId="210_40" horizontal="false" title="Nute Gunray"/>
+    <card blueprintId="12_114" horizontal="false" title="P-59"/>
+    <card blueprintId="12_121" horizontal="false" title="Tey How"/>
+    <card blueprintId="109_9" horizontal="false" title="Crush The Rebellion"/>
+    <card blueprintId="212_1" horizontal="false" title="Evil Is Everywhere"/>
+    <card blueprintId="12_135" horizontal="false" title="Imperial Arrest Order &amp; Secret Plans"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="1_227" horizontal="false" title="Presence Of The Force"/>
+    <card blueprintId="12_140" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="214_1" horizontal="false" title="Alter &amp; Collateral Damage"/>
+    <card blueprintId="200_117" horizontal="false" title="Combat Readiness"/>
+    <card blueprintId="208_43" horizontal="false" title="Double Back"/>
+    <card blueprintId="10_38" horizontal="false" title="Evader &amp; Monnok"/>
+    <card blueprintId="200_119" horizontal="false" title="Force Field"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="10_39" horizontal="false" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+    <card blueprintId="200_122" horizontal="false" title="Imbalance &amp; Kintan Strider"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="218_1" horizontal="false" title="Imperial Command &amp; In Range"/>
+    <card blueprintId="209_48" horizontal="false" title="Lana Dobreed &amp; Sacrifice"/>
+    <card blueprintId="218_2" horizontal="false" title="Seal Off The Bridge"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="200_123" horizontal="false" title="Sith Fury"/>
+    <card blueprintId="10_47" horizontal="false" title="Sniper &amp; Dark Strike"/>
+    <card blueprintId="211_14" horizontal="false" title="Trade Federation Tactics"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="7_282" horizontal="true" title="Executor: Docking Bay"/>
+    <card blueprintId="211_22" horizontal="true" title="Invisible Hand: Hallway 328"/>
+    <card blueprintId="2_146" horizontal="false" title="Kashyyyk"/>
+    <card blueprintId="210_39" horizontal="false" title="Mustafar"/>
+    <card blueprintId="216_9" horizontal="true" title="Mustafar: Private Platform (Docking Bay)"/>
+    <card blueprintId="209_50" horizontal="true" title="Mustafar: Vader's Castle"/>
+    <card blueprintId="200_129" horizontal="false" title="Blockade Support Ship"/>
+    <card blueprintId="211_23" horizontal="false" title="Invisible Hand"/>
+    <card blueprintId="208_58" horizontal="false" title="Mara Jade In VT-49 Decimator"/>
+    <card blueprintId="200_138" horizontal="false" title="Vader's Personal Shuttle"/>
+    <card blueprintId="110_12" horizontal="false" title="Zuckuss In Mist Hunter"/>
+    <card blueprintId="211_25" horizontal="false" title="Dark Jedi Lightsaber"/>
+    <card blueprintId="13_75" horizontal="false" title="Maul's Double-Bladed Lightsaber"/>
+</deck>

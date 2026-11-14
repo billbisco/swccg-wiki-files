@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="4_75" horizontal="false" title="A Jedi's Strength"/>
+    <card blueprintId="6_6" horizontal="false" title="Baragwin"/>
+    <card blueprintId="6_6" horizontal="false" title="Baragwin"/>
+    <card blueprintId="6_53" horizontal="false" title="Bargaining Table"/>
+    <card blueprintId="8_35" horizontal="false" title="Battle Plan"/>
+    <card blueprintId="7_5" horizontal="false" title="Bothan Spy"/>
+    <card blueprintId="109_1" horizontal="false" title="Chewie With Blaster Rifle"/>
+    <card blueprintId="1_140" horizontal="false" title="Corellian Corvette"/>
+    <card blueprintId="2_47" horizontal="false" title="Corellian Slip"/>
+    <card blueprintId="4_84" horizontal="false" title="Dagobah"/>
+    <card blueprintId="4_85" horizontal="true" title="Dagobah: Bog Clearing"/>
+    <card blueprintId="4_88" horizontal="true" title="Dagobah: Training Area"/>
+    <card blueprintId="4_89" horizontal="true" title="Dagobah: Yoda's Hut"/>
+    <card blueprintId="1_122" horizontal="false" title="Dantooine"/>
+    <card blueprintId="8_8" horizontal="false" title="Daughter Of Skywalker"/>
+    <card blueprintId="103_1" horizontal="false" title="Gold Leader In Gold 1"/>
+    <card blueprintId="4_77" horizontal="false" title="Great Warrior"/>
+    <card blueprintId="108_1" horizontal="false" title="Han With Heavy Blaster Pistol"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="1_88" horizontal="false" title="Hyper Escape"/>
+    <card blueprintId="7_159" horizontal="false" title="Intruder Missile"/>
+    <card blueprintId="7_159" horizontal="false" title="Intruder Missile"/>
+    <card blueprintId="3_11" horizontal="false" title="Jeroen Webb"/>
+    <card blueprintId="1_126" horizontal="false" title="Kessel"/>
+    <card blueprintId="6_83" horizontal="false" title="Kiffex"/>
+    <card blueprintId="4_11" horizontal="false" title="Landing Claw"/>
+    <card blueprintId="109_2" horizontal="false" title="Lando In Millennium Falcon"/>
+    <card blueprintId="108_3" horizontal="false" title="Luke With Lightsaber"/>
+    <card blueprintId="7_32" horizontal="false" title="Melas"/>
+    <card blueprintId="7_138" horizontal="false" title="Mind What You Have Learned"/>
+    <card blueprintId="1_20" horizontal="false" title="Momaw Nadon"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="4_30" horizontal="false" title="Order To Engage"/>
+    <card blueprintId="1_102" horizontal="false" title="Out Of Nowhere"/>
+    <card blueprintId="1_159" horizontal="false" title="Quad Laser Cannon"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="7_73" horizontal="false" title="Rebel Fleet"/>
+    <card blueprintId="103_2" horizontal="false" title="Red Leader In Red 1"/>
+    <card blueprintId="7_123" horizontal="false" title="Rendezvous Point"/>
+    <card blueprintId="7_149" horizontal="false" title="Spiral"/>
+    <card blueprintId="2_73" horizontal="false" title="Tantive IV"/>
+    <card blueprintId="1_127" horizontal="false" title="Tatooine"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="1_66" horizontal="false" title="Traffic Control"/>
+    <card blueprintId="2_40" horizontal="false" title="Undercover"/>
+    <card blueprintId="7_80" horizontal="false" title="Weapons Display"/>
+    <card blueprintId="2_23" horizontal="false" title="Wedge Antilles"/>
+    <card blueprintId="7_81" horizontal="false" title="Wise Advice"/>
+    <card blueprintId="7_162" horizontal="false" title="X-wing Laser Cannon"/>
+    <card blueprintId="4_2" horizontal="false" title="Yoda"/>
+    <card blueprintId="8_80" horizontal="false" title="YT-1300 Transport"/>
+    <card blueprintId="8_80" horizontal="false" title="YT-1300 Transport"/>
+    <card blueprintId="7_150" horizontal="false" title="X-wing Assault Squadron"/>
+    <card blueprintId="7_150" horizontal="false" title="X-wing Assault Squadron"/>
+    <card blueprintId="2_74" horizontal="false" title="Y-wing Assault Squadron"/>
+    <card blueprintId="2_74" horizontal="false" title="Y-wing Assault Squadron"/>
+</deck>

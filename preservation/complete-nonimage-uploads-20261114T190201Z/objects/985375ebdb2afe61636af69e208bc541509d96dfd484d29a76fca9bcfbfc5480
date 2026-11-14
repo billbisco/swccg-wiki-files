@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="5_1" horizontal="false" title="Captain Han Solo"/>
+    <card blueprintId="2_3" horizontal="false" title="Chewbacca"/>
+    <card blueprintId="1_9" horizontal="false" title="Figrin D'an"/>
+    <card blueprintId="1_9" horizontal="false" title="Figrin D'an"/>
+    <card blueprintId="1_17" horizontal="false" title="Leia Organa"/>
+    <card blueprintId="1_21" horizontal="false" title="Obi-Wan Kenobi"/>
+    <card blueprintId="2_14" horizontal="false" title="R2-D2 (Artoo-Detoo)"/>
+    <card blueprintId="4_1" horizontal="false" title="Son Of Skywalker"/>
+    <card blueprintId="4_1" horizontal="false" title="Son Of Skywalker"/>
+    <card blueprintId="5_8" horizontal="false" title="Tibanna Gas Miner"/>
+    <card blueprintId="5_8" horizontal="false" title="Tibanna Gas Miner"/>
+    <card blueprintId="4_2" horizontal="false" title="Yoda"/>
+    <card blueprintId="4_2" horizontal="false" title="Yoda"/>
+    <card blueprintId="4_11" horizontal="false" title="Landing Claw"/>
+    <card blueprintId="1_157" horizontal="false" title="Obi-Wan's Lightsaber"/>
+    <card blueprintId="103_1" horizontal="false" title="Gold Leader In Gold 1"/>
+    <card blueprintId="1_143" horizontal="false" title="Millennium Falcon"/>
+    <card blueprintId="103_2" horizontal="false" title="Red Leader In Red 1"/>
+    <card blueprintId="103_2" horizontal="false" title="Red Leader In Red 1"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_147" horizontal="false" title="Y-wing"/>
+    <card blueprintId="1_147" horizontal="false" title="Y-wing"/>
+    <card blueprintId="1_147" horizontal="false" title="Y-wing"/>
+    <card blueprintId="5_85" horizontal="false" title="Clouds"/>
+    <card blueprintId="5_85" horizontal="false" title="Clouds"/>
+    <card blueprintId="5_85" horizontal="false" title="Clouds"/>
+    <card blueprintId="5_85" horizontal="false" title="Clouds"/>
+    <card blueprintId="4_84" horizontal="false" title="Dagobah"/>
+    <card blueprintId="4_85" horizontal="true" title="Dagobah: Bog Clearing"/>
+    <card blueprintId="4_86" horizontal="true" title="Dagobah: Jungle"/>
+    <card blueprintId="4_87" horizontal="true" title="Dagobah: Swamp"/>
+    <card blueprintId="4_88" horizontal="true" title="Dagobah: Training Area"/>
+    <card blueprintId="4_89" horizontal="true" title="Dagobah: Yoda's Hut"/>
+    <card blueprintId="1_126" horizontal="false" title="Kessel"/>
+    <card blueprintId="4_16" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="4_21" horizontal="false" title="Do, Or Do Not"/>
+    <card blueprintId="4_29" horizontal="false" title="Obi-Wan's Apparition"/>
+    <card blueprintId="4_39" horizontal="false" title="Stone Pile"/>
+    <card blueprintId="4_39" horizontal="false" title="Stone Pile"/>
+    <card blueprintId="1_71" horizontal="false" title="Alter"/>
+    <card blueprintId="2_46" horizontal="false" title="Blue Milk"/>
+    <card blueprintId="4_48" horizontal="false" title="Control"/>
+    <card blueprintId="1_76" horizontal="false" title="Don't Get Cocky"/>
+    <card blueprintId="2_49" horizontal="false" title="Grimtaash"/>
+    <card blueprintId="1_102" horizontal="false" title="Out Of Nowhere"/>
+    <card blueprintId="5_68" horizontal="false" title="Shocking Information"/>
+    <card blueprintId="5_68" horizontal="false" title="Shocking Information"/>
+    <card blueprintId="4_68" horizontal="false" title="Visored Vision"/>
+    <card blueprintId="4_68" horizontal="false" title="Visored Vision"/>
+    <card blueprintId="4_68" horizontal="false" title="Visored Vision"/>
+    <card blueprintId="4_68" horizontal="false" title="Visored Vision"/>
+    <card blueprintId="4_68" horizontal="false" title="Visored Vision"/>
+    <card blueprintId="1_120" horizontal="false" title="We're Doomed"/>
+    <card blueprintId="1_120" horizontal="false" title="We're Doomed"/>
+    <card blueprintId="4_72" horizontal="false" title="Yoda Stew"/>
+    <card blueprintId="4_77" horizontal="false" title="Great Warrior"/>
+    <card blueprintId="4_77" horizontal="false" title="Great Warrior"/>
+    <card blueprintId="4_77" horizontal="false" title="Great Warrior"/>
+</deck>

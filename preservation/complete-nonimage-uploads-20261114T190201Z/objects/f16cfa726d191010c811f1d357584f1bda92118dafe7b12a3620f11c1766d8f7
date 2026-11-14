@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="211_59" horizontal="false" title="Ahsoka Tano"/>
+    <card blueprintId="200_2" horizontal="false" title="Anakin Skywalker, Padawan Learner"/>
+    <card blueprintId="204_1" horizontal="false" title="BB-8 (Beebee-Ate)"/>
+    <card blueprintId="1_5" horizontal="false" title="C-3PO (See-Threepio)"/>
+    <card blueprintId="8_8" horizontal="false" title="Daughter Of Skywalker"/>
+    <card blueprintId="209_6" horizontal="false" title="General Kenobi"/>
+    <card blueprintId="200_21" horizontal="false" title="Luke Skywalker, Rebel Scout"/>
+    <card blueprintId="200_21" horizontal="false" title="Luke Skywalker, Rebel Scout"/>
+    <card blueprintId="217_40" horizontal="false" title="Mara Jade"/>
+    <card blueprintId="211_57" horizontal="false" title="Maz Kanata"/>
+    <card blueprintId="203_10" horizontal="false" title="Padme Naberrie"/>
+    <card blueprintId="213_40" horizontal="false" title="Qui-Gon Jinn, Serene Jedi"/>
+    <card blueprintId="2_14" horizontal="false" title="R2-D2 (Artoo-Detoo)"/>
+    <card blueprintId="214_22" horizontal="false" title="Rey, All Of The Jedi"/>
+    <card blueprintId="209_11" horizontal="false" title="Rose Tico"/>
+    <card blueprintId="204_11" horizontal="false" title="Solo"/>
+    <card blueprintId="207_10" horizontal="false" title="Yoda"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="9_33" horizontal="false" title="Honor Of The Jedi"/>
+    <card blueprintId="200_39" horizontal="false" title="I Don't Like Sand"/>
+    <card blueprintId="213_47" horizontal="false" title="Meditation"/>
+    <card blueprintId="209_17" horizontal="false" title="Relatively Unprotected"/>
+    <card blueprintId="9_45" horizontal="false" title="The Way Of Things"/>
+    <card blueprintId="7_81" horizontal="false" title="Wise Advice"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="4_44" horizontal="false" title="Yoda's Hope"/>
+    <card blueprintId="9_47" horizontal="false" title="Your Insight Serves You Well"/>
+    <card blueprintId="6_61" horizontal="false" title="Blaster Deflection"/>
+    <card blueprintId="11_31" horizontal="false" title="Changing The Odds"/>
+    <card blueprintId="5_38" horizontal="false" title="Clash Of Sabers"/>
+    <card blueprintId="204_18" horizontal="false" title="Escape Pod &amp; We're Doomed"/>
+    <card blueprintId="216_28" horizontal="false" title="Free Ride &amp; Endor Celebration"/>
+    <card blueprintId="216_28" horizontal="false" title="Free Ride &amp; Endor Celebration"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="1_90" horizontal="false" title="It Could Be Worse"/>
+    <card blueprintId="1_90" horizontal="false" title="It Could Be Worse"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="204_20" horizontal="false" title="Keep Your Eyes Open"/>
+    <card blueprintId="209_21" horizontal="false" title="Odin Nesloor &amp; First Aid"/>
+    <card blueprintId="210_24" horizontal="false" title="Quite A Mercenary"/>
+    <card blueprintId="2_57" horizontal="false" title="Sorry About The Mess"/>
+    <card blueprintId="10_25" horizontal="false" title="The Bith Shuffle &amp; Desperate Reach"/>
+    <card blueprintId="207_14" horizontal="false" title="They're Tracking Us"/>
+    <card blueprintId="1_120" horizontal="false" title="We're Doomed"/>
+    <card blueprintId="4_75" horizontal="false" title="A Jedi's Strength"/>
+    <card blueprintId="4_76" horizontal="false" title="Domain Of Evil"/>
+    <card blueprintId="4_77" horizontal="false" title="Great Warrior"/>
+    <card blueprintId="217_33" horizontal="false" title="Dagobah"/>
+    <card blueprintId="4_85" horizontal="true" title="Dagobah: Bog Clearing"/>
+    <card blueprintId="4_86" horizontal="true" title="Dagobah: Jungle"/>
+    <card blueprintId="4_87" horizontal="true" title="Dagobah: Swamp"/>
+    <card blueprintId="216_26" horizontal="true" title="Dagobah: Yoda's Hut"/>
+    <card blueprintId="213_56" horizontal="true" title="Death Star II: Chasm Walkway"/>
+    <card blueprintId="7_138" horizontal="false" title="Mind What You Have Learned"/>
+    <card blueprintId="203_21" horizontal="false" title="Wild Karrde"/>
+    <card blueprintId="210_3" horizontal="false" title="Anakin's Lightsaber"/>
+    <card blueprintId="211_33" horizontal="false" title="Jedi Lightsaber"/>
+    <card blueprintId="13_40" horizontal="false" title="Qui-Gon's Lightsaber"/>
+</deck>

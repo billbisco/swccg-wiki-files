@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_1" horizontal="false" title="Aayla Secura"/>
+    <card blueprintId="217_26" horizontal="false" title="Admiral Kilian"/>
+    <card blueprintId="221_45" horizontal="false" title="Admiral Yularen"/>
+    <card blueprintId="200_2" horizontal="false" title="Anakin Skywalker, Padawan Learner"/>
+    <card blueprintId="200_2" horizontal="false" title="Anakin Skywalker, Padawan Learner"/>
+    <card blueprintId="209_3" horizontal="false" title="CT-5385 (Tup)"/>
+    <card blueprintId="203_2" horizontal="false" title="CT-5555 (Fives)"/>
+    <card blueprintId="200_3" horizontal="false" title="Captain Rex, 501st Legion"/>
+    <card blueprintId="221_55" horizontal="false" title="Clone Pilot"/>
+    <card blueprintId="210_9" horizontal="false" title="Clone Trooper"/>
+    <card blueprintId="210_9" horizontal="false" title="Clone Trooper"/>
+    <card blueprintId="210_9" horizontal="false" title="Clone Trooper"/>
+    <card blueprintId="200_6" horizontal="false" title="Commander Cody"/>
+    <card blueprintId="200_6" horizontal="false" title="Commander Cody"/>
+    <card blueprintId="209_6" horizontal="false" title="General Kenobi"/>
+    <card blueprintId="209_6" horizontal="false" title="General Kenobi"/>
+    <card blueprintId="203_10" horizontal="false" title="Padme Naberrie"/>
+    <card blueprintId="203_10" horizontal="false" title="Padme Naberrie"/>
+    <card blueprintId="213_44" horizontal="false" title="Yoda, Master Of The Force"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="211_53" horizontal="false" title="Cloning Cylinders"/>
+    <card blueprintId="221_60" horizontal="false" title="Galactic Republic Navy"/>
+    <card blueprintId="221_64" horizontal="false" title="Grappling Hook"/>
+    <card blueprintId="221_65" horizontal="false" title="Grievous Will Run And Hide"/>
+    <card blueprintId="9_38" horizontal="false" title="Menace Fades"/>
+    <card blueprintId="221_73" horizontal="false" title="Security Control"/>
+    <card blueprintId="9_43" horizontal="false" title="Superficial Damage"/>
+    <card blueprintId="11_26" horizontal="false" title="A Jedi's Concentration"/>
+    <card blueprintId="210_2" horizontal="false" title="Ambush"/>
+    <card blueprintId="218_19" horizontal="false" title="Fall Of The Legend"/>
+    <card blueprintId="218_19" horizontal="false" title="Fall Of The Legend"/>
+    <card blueprintId="221_61" horizontal="false" title="Generation One Armor Always Holds Up"/>
+    <card blueprintId="221_61" horizontal="false" title="Generation One Armor Always Holds Up"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="209_21" horizontal="false" title="Odin Nesloor &amp; First Aid"/>
+    <card blueprintId="209_21" horizontal="false" title="Odin Nesloor &amp; First Aid"/>
+    <card blueprintId="7_101" horizontal="false" title="Rebel Ambush"/>
+    <card blueprintId="7_101" horizontal="false" title="Rebel Ambush"/>
+    <card blueprintId="7_101" horizontal="false" title="Rebel Ambush"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="7_102" horizontal="false" title="Slight Weapons Malfunction"/>
+    <card blueprintId="7_102" horizontal="false" title="Slight Weapons Malfunction"/>
+    <card blueprintId="10_23" horizontal="false" title="Sorry About The Mess &amp; Blaster Proficiency"/>
+    <card blueprintId="207_14" horizontal="false" title="They're Tracking Us"/>
+    <card blueprintId="221_48" horizontal="true" title="Assembly Area"/>
+    <card blueprintId="221_54" horizontal="true" title="Clone Command Center"/>
+    <card blueprintId="221_62" horizontal="false" title="Geonosis"/>
+    <card blueprintId="221_63" horizontal="true" title="Geonosis: Badlands Of N'g'zi"/>
+    <card blueprintId="211_42" horizontal="true" title="Kamino: Clone Birthing Center"/>
+    <card blueprintId="221_67" horizontal="false" title="Hunt For The Droid General"/>
+    <card blueprintId="202_7" horizontal="false" title="Azure Angel"/>
+    <card blueprintId="221_71" horizontal="false" title="Resolute"/>
+    <card blueprintId="200_69" horizontal="false" title="Blaster Rifle"/>
+    <card blueprintId="200_69" horizontal="false" title="Blaster Rifle"/>
+    <card blueprintId="200_69" horizontal="false" title="Blaster Rifle"/>
+    <card blueprintId="211_33" horizontal="false" title="Jedi Lightsaber"/>
+    <card blueprintId="211_33" horizontal="false" title="Jedi Lightsaber"/>
+</deck>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="10_29" horizontal="false" title="Agents Of Black Sun"/>
+    <card blueprintId="7_275" horizontal="false" title="Coruscant"/>
+    <card blueprintId="201_38" horizontal="true" title="Coruscant: Imperial City"/>
+    <card blueprintId="10_45" horizontal="false" title="Prince Xizor"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="211_10" horizontal="false" title="Quietly Observing"/>
+    <card blueprintId="209_43" horizontal="false" title="Shadows Of The Empire"/>
+    <card blueprintId="12_143" horizontal="false" title="Wipe Them Out, All Of Them"/>
+    <card blueprintId="212_3" horizontal="false" title="Aurra Sing With Blaster Rifle"/>
+    <card blueprintId="212_3" horizontal="false" title="Aurra Sing With Blaster Rifle"/>
+    <card blueprintId="212_3" horizontal="false" title="Aurra Sing With Blaster Rifle"/>
+    <card blueprintId="13_59" horizontal="false" title="Boba Fett, Bounty Hunter"/>
+    <card blueprintId="203_24" horizontal="false" title="Cad Bane"/>
+    <card blueprintId="203_24" horizontal="false" title="Cad Bane"/>
+    <card blueprintId="200_79" horizontal="false" title="Dengar With Blaster Carbine"/>
+    <card blueprintId="209_35" horizontal="false" title="Dr. Chelli Lona Aphra"/>
+    <card blueprintId="209_35" horizontal="false" title="Dr. Chelli Lona Aphra"/>
+    <card blueprintId="201_25" horizontal="false" title="Jango Fett"/>
+    <card blueprintId="200_86" horizontal="false" title="Mara Jade With Lightsaber"/>
+    <card blueprintId="200_86" horizontal="false" title="Mara Jade With Lightsaber"/>
+    <card blueprintId="211_1" horizontal="false" title="Mitth'raw'nuruodo"/>
+    <card blueprintId="200_91" horizontal="false" title="Vigo"/>
+    <card blueprintId="204_46" horizontal="false" title="Zam Wesell"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="204_36" horizontal="false" title="B2 Battle Droid"/>
+    <card blueprintId="109_11" horizontal="false" title="IG-88 With Riot Gun"/>
+    <card blueprintId="12_114" horizontal="false" title="P-59"/>
+    <card blueprintId="200_88" horizontal="false" title="Probot"/>
+    <card blueprintId="2_107" horizontal="false" title="U-3PO (Yoo-Threepio)"/>
+    <card blueprintId="2_107" horizontal="false" title="U-3PO (Yoo-Threepio)"/>
+    <card blueprintId="7_229" horizontal="false" title="First Strike"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="112_16" horizontal="false" title="No Escape"/>
+    <card blueprintId="206_12" horizontal="false" title="Xizor's Bounty"/>
+    <card blueprintId="201_33" horizontal="false" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="201_33" horizontal="false" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="201_34" horizontal="false" title="According To My Design"/>
+    <card blueprintId="201_35" horizontal="false" title="Cold Feet"/>
+    <card blueprintId="9_136" horizontal="false" title="Force Lightning"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="200_122" horizontal="false" title="Imbalance &amp; Kintan Strider"/>
+    <card blueprintId="200_122" horizontal="false" title="Imbalance &amp; Kintan Strider"/>
+    <card blueprintId="7_257" horizontal="false" title="Masterful Move"/>
+    <card blueprintId="12_152" horizontal="false" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="2_135" horizontal="false" title="Monnok"/>
+    <card blueprintId="1_261" horizontal="false" title="Nevar Yalnal"/>
+    <card blueprintId="1_261" horizontal="false" title="Nevar Yalnal"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="4_153" horizontal="false" title="Voyeur"/>
+    <card blueprintId="7_278" horizontal="true" title="Coruscant: Imperial Square"/>
+    <card blueprintId="203_32" horizontal="true" title="Coruscant: Xizor's Palace"/>
+    <card blueprintId="209_51" horizontal="true" title="Xizor's Palace: Sewer"/>
+    <card blueprintId="203_34" horizontal="true" title="Xizor's Palace: Uplink Station"/>
+    <card blueprintId="210_34" horizontal="false" title="Jabba's Space Cruiser"/>
+</deck>

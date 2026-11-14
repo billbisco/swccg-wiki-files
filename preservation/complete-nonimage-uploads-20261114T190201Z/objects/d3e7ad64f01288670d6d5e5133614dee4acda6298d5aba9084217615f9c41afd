@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="12_78" horizontal="false" title="Naboo"/>
+    <card blueprintId="12_80" horizontal="true" title="Naboo: Swamp"/>
+    <card blueprintId="13_11" horizontal="false" title="Colo Claw Fish"/>
+</deck>

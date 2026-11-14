@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="8_68" horizontal="false" title="Endor"/>
+    <card blueprintId="8_77" horizontal="true" title="Endor: Rebel Landing Site (Forest)"/>
+    <card blueprintId="8_69" horizontal="true" title="Endor: Back Door"/>
+    <card blueprintId="8_69" horizontal="true" title="Endor: Back Door"/>
+    <card blueprintId="8_75" horizontal="true" title="Endor: Hidden Forest Trail"/>
+    <card blueprintId="8_72" horizontal="true" title="Endor: Dense Forest"/>
+    <card blueprintId="8_70" horizontal="true" title="Endor: Bunker"/>
+    <card blueprintId="8_76" horizontal="true" title="Endor: Landing Platform (Docking Bay)"/>
+    <card blueprintId="8_15" horizontal="false" title="General Solo"/>
+    <card blueprintId="8_15" horizontal="false" title="General Solo"/>
+    <card blueprintId="8_2" horizontal="false" title="Chewbacca Of Kashyyyk"/>
+    <card blueprintId="8_2" horizontal="false" title="Chewbacca Of Kashyyyk"/>
+    <card blueprintId="8_8" horizontal="false" title="Daughter Of Skywalker"/>
+    <card blueprintId="8_8" horizontal="false" title="Daughter Of Skywalker"/>
+    <card blueprintId="8_14" horizontal="false" title="General Crix Madine"/>
+    <card blueprintId="9_6" horizontal="false" title="Admiral Ackbar"/>
+    <card blueprintId="8_23" horizontal="false" title="Orrimaarko"/>
+    <card blueprintId="8_19" horizontal="false" title="Lieutenant Page"/>
+    <card blueprintId="8_18" horizontal="false" title="Lieutenant Greeve"/>
+    <card blueprintId="8_6" horizontal="false" title="Corporal Janse"/>
+    <card blueprintId="9_13" horizontal="false" title="General Calrissian"/>
+    <card blueprintId="9_28" horizontal="false" title="Nien Nunb"/>
+    <card blueprintId="9_8" horizontal="false" title="Colonel Cracken"/>
+    <card blueprintId="9_11" horizontal="false" title="Corporal Midge"/>
+    <card blueprintId="9_27" horizontal="false" title="Major Panno"/>
+    <card blueprintId="8_31" horizontal="false" title="Threepio"/>
+    <card blueprintId="9_68" horizontal="false" title="Gold Squadron 1"/>
+    <card blueprintId="9_76" horizontal="false" title="Liberty"/>
+    <card blueprintId="9_75" horizontal="false" title="Independence"/>
+    <card blueprintId="9_78" horizontal="false" title="Masanya"/>
+    <card blueprintId="9_62" horizontal="false" title="A-wing"/>
+    <card blueprintId="9_62" horizontal="false" title="A-wing"/>
+    <card blueprintId="9_62" horizontal="false" title="A-wing"/>
+    <card blueprintId="9_62" horizontal="false" title="A-wing"/>
+    <card blueprintId="9_73" horizontal="false" title="Green Squadron A-wing"/>
+    <card blueprintId="9_73" horizontal="false" title="Green Squadron A-wing"/>
+    <card blueprintId="9_73" horizontal="false" title="Green Squadron A-wing"/>
+    <card blueprintId="8_90" horizontal="false" title="Explosive Charge"/>
+    <card blueprintId="8_90" horizontal="false" title="Explosive Charge"/>
+    <card blueprintId="8_90" horizontal="false" title="Explosive Charge"/>
+    <card blueprintId="8_40" horizontal="false" title="Insurrection"/>
+    <card blueprintId="9_41" horizontal="false" title="Strike Planning"/>
+    <card blueprintId="9_33" horizontal="false" title="Honor Of The Jedi"/>
+    <card blueprintId="9_40" horizontal="false" title="Staging Areas"/>
+    <card blueprintId="8_35" horizontal="false" title="Battle Plan"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="9_52" horizontal="false" title="Insertion Planning"/>
+    <card blueprintId="9_52" horizontal="false" title="Insertion Planning"/>
+    <card blueprintId="9_54" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="9_54" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="9_54" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="8_63" horizontal="false" title="Throw Me Another Charge"/>
+    <card blueprintId="8_63" horizontal="false" title="Throw Me Another Charge"/>
+    <card blueprintId="8_61" horizontal="false" title="Take the Initiative"/>
+    <card blueprintId="8_61" horizontal="false" title="Take the Initiative"/>
+    <card blueprintId="8_62" horizontal="false" title="This Is Absolutely Right"/>
+    <card blueprintId="8_65" horizontal="false" title="Wookiee Guide"/>
+    <card blueprintId="2_135" horizontal="false" title="Monnok"/>
+    <card blueprintId="8_43" horizontal="false" title="Deactivate The Shield Generator"/>
+    <card blueprintId="8_78" horizontal="false" title="Rebel Strike Team"/>
+</deck>

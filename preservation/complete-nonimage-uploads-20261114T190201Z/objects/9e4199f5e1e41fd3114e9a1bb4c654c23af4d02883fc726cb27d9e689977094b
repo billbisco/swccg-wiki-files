@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="9_4" horizontal="false" title="I'll Take The Leader"/>
+    <card blueprintId="9_8" horizontal="false" title="Colonel Cracken"/>
+    <card blueprintId="8_5" horizontal="false" title="Corporal Delevar"/>
+    <card blueprintId="8_7" horizontal="false" title="Corporal Kensaric"/>
+    <card blueprintId="7_16" horizontal="false" title="Elyhek Rue"/>
+    <card blueprintId="9_13" horizontal="false" title="General Calrissian"/>
+    <card blueprintId="8_14" horizontal="false" title="General Crix Madine"/>
+    <card blueprintId="8_15" horizontal="false" title="General Solo"/>
+    <card blueprintId="7_25" horizontal="false" title="Ketwol"/>
+    <card blueprintId="9_20" horizontal="false" title="Kin Kian"/>
+    <card blueprintId="9_21" horizontal="false" title="Lieutenant Blount"/>
+    <card blueprintId="1_19" horizontal="false" title="Luke Skywalker"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="7_32" horizontal="false" title="Melas"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="2_19" horizontal="false" title="Rebel Tech"/>
+    <card blueprintId="2_19" horizontal="false" title="Rebel Tech"/>
+    <card blueprintId="8_27" horizontal="false" title="Sergeant Brooks Carlson"/>
+    <card blueprintId="9_31" horizontal="false" title="Wedge Antilles, Red Squadron Leader"/>
+    <card blueprintId="2_33" horizontal="false" title="Grappling Hook"/>
+    <card blueprintId="9_33" horizontal="false" title="Honor Of The Jedi"/>
+    <card blueprintId="7_70" horizontal="false" title="Mechanical Failure"/>
+    <card blueprintId="9_39" horizontal="false" title="Squadron Assignments"/>
+    <card blueprintId="9_41" horizontal="false" title="Strike Planning"/>
+    <card blueprintId="9_47" horizontal="false" title="Your Insight Serves You Well"/>
+    <card blueprintId="2_42" horizontal="false" title="Attack Run"/>
+    <card blueprintId="1_70" horizontal="false" title="A Few Maneuvers"/>
+    <card blueprintId="5_44" horizontal="false" title="Desperate Reach"/>
+    <card blueprintId="6_66" horizontal="false" title="Fallen Portal"/>
+    <card blueprintId="8_51" horizontal="false" title="Fly Casual"/>
+    <card blueprintId="8_51" horizontal="false" title="Fly Casual"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="1_88" horizontal="false" title="Hyper Escape"/>
+    <card blueprintId="9_52" horizontal="false" title="Insertion Planning"/>
+    <card blueprintId="9_52" horizontal="false" title="Insertion Planning"/>
+    <card blueprintId="7_97" horizontal="false" title="Organized Attack"/>
+    <card blueprintId="2_54" horizontal="false" title="Out Of Commission"/>
+    <card blueprintId="7_98" horizontal="false" title="Power Pivot"/>
+    <card blueprintId="9_54" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="1_115" horizontal="false" title="The Bith Shuffle"/>
+    <card blueprintId="4_67" horizontal="false" title="Tunnel Vision"/>
+    <card blueprintId="7_117" horizontal="false" title="Death Star"/>
+    <card blueprintId="2_62" horizontal="true" title="Death Star: Trench"/>
+    <card blueprintId="1_126" horizontal="false" title="Kessel"/>
+    <card blueprintId="1_135" horizontal="false" title="Yavin 4"/>
+    <card blueprintId="2_67" horizontal="true" title="Yavin 4: Briefing Room"/>
+    <card blueprintId="1_136" horizontal="true" title="Yavin 4: Docking Bay"/>
+    <card blueprintId="1_137" horizontal="true" title="Yavin 4: Jungle"/>
+    <card blueprintId="1_138" horizontal="true" title="Yavin 4: Massassi Throne Room"/>
+    <card blueprintId="1_139" horizontal="true" title="Yavin 4: Massassi War Room"/>
+    <card blueprintId="111_4" horizontal="false" title="Massassi Base Operations"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="9_69" horizontal="false" title="Gray Squadron 1"/>
+    <card blueprintId="1_143" horizontal="false" title="Millennium Falcon"/>
+    <card blueprintId="7_146" horizontal="false" title="Red 7"/>
+    <card blueprintId="9_81" horizontal="false" title="Red Squadron 1"/>
+    <card blueprintId="1_158" horizontal="false" title="Proton Torpedoes"/>
+    <card blueprintId="1_158" horizontal="false" title="Proton Torpedoes"/>
+    <card blueprintId="1_158" horizontal="false" title="Proton Torpedoes"/>
+    <card blueprintId="7_162" horizontal="false" title="X-wing Laser Cannon"/>
+    <cardOutsideDeck blueprintId="2_1" horizontal="false" title="Arcona"/>
+    <cardOutsideDeck blueprintId="7_8" horizontal="false" title="Bron Burs"/>
+    <cardOutsideDeck blueprintId="8_2" horizontal="false" title="Chewbacca Of Kashyyyk"/>
+    <cardOutsideDeck blueprintId="109_1" horizontal="false" title="Chewie With Blaster Rifle"/>
+    <cardOutsideDeck blueprintId="1_10" horizontal="false" title="General Dodonna"/>
+    <cardOutsideDeck blueprintId="108_2" horizontal="false" title="Leia With Blaster Rifle"/>
+    <cardOutsideDeck blueprintId="9_27" horizontal="false" title="Major Panno"/>
+    <cardOutsideDeck blueprintId="8_23" horizontal="false" title="Orrimaarko"/>
+    <cardOutsideDeck blueprintId="7_44" horizontal="false" title="Tawss Khaa"/>
+    <cardOutsideDeck blueprintId="9_29" horizontal="false" title="Ten Numb"/>
+    <cardOutsideDeck blueprintId="6_53" horizontal="false" title="Bargaining Table"/>
+    <cardOutsideDeck blueprintId="7_61" horizontal="false" title="Entrenchment"/>
+    <cardOutsideDeck blueprintId="7_70" horizontal="false" title="Mechanical Failure"/>
+    <cardOutsideDeck blueprintId="9_39" horizontal="false" title="Squadron Assignments"/>
+    <cardOutsideDeck blueprintId="5_47" horizontal="false" title="Fall Of The Legend"/>
+    <cardOutsideDeck blueprintId="7_105" horizontal="false" title="Steady Aim"/>
+    <cardOutsideDeck blueprintId="9_63" horizontal="false" title="Blue Squadron 5"/>
+</deck>

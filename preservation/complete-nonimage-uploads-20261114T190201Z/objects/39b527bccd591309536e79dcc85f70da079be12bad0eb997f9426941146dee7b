@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="13_73" horizontal="false" title="Let Them Make The First Move"/>
+    <card blueprintId="13_65" horizontal="false" title="Deep Hatred"/>
+    <card blueprintId="13_76" horizontal="true" title="Naboo: Theed Palace Generator"/>
+    <card blueprintId="13_77" horizontal="true" title="Naboo: Theed Palace Generator Core"/>
+    <card blueprintId="11_87" horizontal="false" title="Start Your Engines!"/>
+    <card blueprintId="11_94" horizontal="true" title="Tatooine: Podrace Arena"/>
+    <card blueprintId="11_79" horizontal="false" title="Boonta Eve Podrace"/>
+    <card blueprintId="11_97" horizontal="false" title="Sebulba's Podracer"/>
+    <card blueprintId="200_76" horizontal="false" title="Count Dooku"/>
+    <card blueprintId="14_78" horizontal="false" title="Darth Sidious"/>
+    <card blueprintId="7_175" horizontal="false" title="Darth Vader, Dark Lord Of The Sith"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="13_74" horizontal="false" title="Lord Maul"/>
+    <card blueprintId="13_74" horizontal="false" title="Lord Maul"/>
+    <card blueprintId="13_74" horizontal="false" title="Lord Maul"/>
+    <card blueprintId="9_113" horizontal="false" title="Lord Vader"/>
+    <card blueprintId="110_10" horizontal="false" title="Mara Jade, The Emperor's Hand"/>
+    <card blueprintId="200_104" horizontal="false" title="Blaster Rack"/>
+    <card blueprintId="200_107" horizontal="false" title="Image Of The Dark Lord"/>
+    <card blueprintId="12_135" horizontal="false" title="Imperial Arrest Order &amp; Secret Plans"/>
+    <card blueprintId="112_16" horizontal="false" title="No Escape"/>
+    <card blueprintId="8_132" horizontal="false" title="Security Precautions"/>
+    <card blueprintId="12_139" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="12_139" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="12_139" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="200_115" horizontal="false" title="Alter"/>
+    <card blueprintId="8_135" horizontal="false" title="Always Thinking With Your Stomach"/>
+    <card blueprintId="201_35" horizontal="false" title="Cold Feet"/>
+    <card blueprintId="200_119" horizontal="false" title="Force Field"/>
+    <card blueprintId="200_119" horizontal="false" title="Force Field"/>
+    <card blueprintId="9_136" horizontal="false" title="Force Lightning"/>
+    <card blueprintId="9_136" horizontal="false" title="Force Lightning"/>
+    <card blueprintId="1_248" horizontal="false" title="I Have You Now"/>
+    <card blueprintId="1_248" horizontal="false" title="I Have You Now"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="12_152" horizontal="false" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="12_152" horizontal="false" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="12_153" horizontal="false" title="Maul Strikes"/>
+    <card blueprintId="10_44" horizontal="false" title="Ommni Box &amp; It's Worse"/>
+    <card blueprintId="2_137" horizontal="false" title="Oo-ta Goo-ta, Solo?"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="11_86" horizontal="false" title="Sith Fury"/>
+    <card blueprintId="2_140" horizontal="false" title="Stunning Leader"/>
+    <card blueprintId="1_271" horizontal="false" title="The Circle Is Now Complete"/>
+    <card blueprintId="13_88" horizontal="false" title="The Ebb Of Battle"/>
+    <card blueprintId="201_37" horizontal="false" title="Turn It Off! Turn It Off!"/>
+    <card blueprintId="101_6" horizontal="false" title="Vader's Obsession"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="9_141" horizontal="false" title="Young Fool"/>
+    <card blueprintId="1_280" horizontal="false" title="Your Powers Are Weak, Old Man"/>
+    <card blueprintId="9_156" horizontal="false" title="Emperor's Personal Shuttle"/>
+    <card blueprintId="12_182" horizontal="false" title="Maul's Sith Infiltrator"/>
+    <card blueprintId="12_182" horizontal="false" title="Maul's Sith Infiltrator"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="200_142" horizontal="false" title="Dooku's Lightsaber"/>
+    <card blueprintId="13_75" horizontal="false" title="Maul's Double-Bladed Lightsaber"/>
+    <card blueprintId="1_324" horizontal="false" title="Vader's Lightsaber"/>
+</deck>
