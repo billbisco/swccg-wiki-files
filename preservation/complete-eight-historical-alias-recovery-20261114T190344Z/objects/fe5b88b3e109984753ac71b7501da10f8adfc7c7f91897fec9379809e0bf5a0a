@@ -1,0 +1,319 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-11-14T19:04:51.401917+00:00",
+  "archive_org_requests": 0,
+  "owner_ledger_mutations": 0,
+  "historical_aliases_recovered": 8,
+  "unique_payloads_recovered": 4,
+  "recipe_provenance": {
+    "original_relative_path": "wiki/fetch-wookiee-sets.sh",
+    "recipe_sha256": "2de83edf9b36ccf5fa712a68c2c09bcf2e26f016445a0885c33c68ce8126d363",
+    "recipe": "Image.open(source).convert(RGB).save(JPEG,quality=88)"
+  },
+  "source_description_evidence": [
+    {
+      "title": "File:Set-a-new-hope.jpg",
+      "history": [
+        {
+          "revid": 247,
+          "timestamp": "2026-09-20T23:24:13Z",
+          "comment": "",
+          "text": "== Summary ==\nWookieepedia set product art"
+        },
+        {
+          "revid": 622,
+          "timestamp": "2026-09-21T01:22:56Z",
+          "comment": "Admin uploaded a new version of [[File:Set-a-new-hope.jpg]]",
+          "text": "== Summary ==\nWookieepedia set product art"
+        },
+        {
+          "revid": 704,
+          "timestamp": "2026-09-21T09:51:21Z",
+          "comment": "Admin uploaded a new version of [[File:Set-a-new-hope.jpg]]",
+          "text": "== Summary ==\nWookieepedia set product art"
+        },
+        {
+          "revid": 1077,
+          "timestamp": "2026-09-21T11:27:00Z",
+          "comment": "",
+          "text": ""
+        },
+        {
+          "revid": 1157,
+          "timestamp": "2026-09-21T12:13:35Z",
+          "comment": "Admin uploaded a new version of [[File:Set-a-new-hope.jpg]]",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "title": "File:Set-cloud-city.jpg",
+      "history": [
+        {
+          "revid": 238,
+          "timestamp": "2026-09-20T23:24:13Z",
+          "comment": "",
+          "text": "== Summary ==\nWookieepedia set product art"
+        },
+        {
+          "revid": 613,
+          "timestamp": "2026-09-21T01:22:56Z",
+          "comment": "Admin uploaded a new version of [[File:Set-cloud-city.jpg]]",
+          "text": "== Summary ==\nWookieepedia set product art"
+        },
+        {
+          "revid": 695,
+          "timestamp": "2026-09-21T09:51:21Z",
+          "comment": "Admin uploaded a new version of [[File:Set-cloud-city.jpg]]",
+          "text": "== Summary ==\nWookieepedia set product art"
+        },
+        {
+          "revid": 1078,
+          "timestamp": "2026-09-21T11:27:00Z",
+          "comment": "",
+          "text": ""
+        },
+        {
+          "revid": 1146,
+          "timestamp": "2026-09-21T12:13:35Z",
+          "comment": "Admin uploaded a new version of [[File:Set-cloud-city.jpg]]",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "title": "File:Set-hoth.jpg",
+      "history": [
+        {
+          "revid": 246,
+          "timestamp": "2026-09-20T23:24:13Z",
+          "comment": "",
+          "text": "== Summary ==\nWookieepedia set product art"
+        },
+        {
+          "revid": 621,
+          "timestamp": "2026-09-21T01:22:56Z",
+          "comment": "Admin uploaded a new version of [[File:Set-hoth.jpg]]",
+          "text": "== Summary ==\nWookieepedia set product art"
+        },
+        {
+          "revid": 703,
+          "timestamp": "2026-09-21T09:51:21Z",
+          "comment": "Admin uploaded a new version of [[File:Set-hoth.jpg]]",
+          "text": "== Summary ==\nWookieepedia set product art"
+        },
+        {
+          "revid": 1091,
+          "timestamp": "2026-09-21T11:27:01Z",
+          "comment": "",
+          "text": ""
+        },
+        {
+          "revid": 1156,
+          "timestamp": "2026-09-21T12:13:35Z",
+          "comment": "Admin uploaded a new version of [[File:Set-hoth.jpg]]",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "title": "File:Set-premiere-unlimited.jpg",
+      "history": [
+        {
+          "revid": 229,
+          "timestamp": "2026-09-20T23:24:12Z",
+          "comment": "",
+          "text": "== Summary ==\nWookieepedia set product art"
+        },
+        {
+          "revid": 604,
+          "timestamp": "2026-09-21T01:22:56Z",
+          "comment": "Admin uploaded a new version of [[File:Set-premiere-unlimited.jpg]]",
+          "text": "== Summary ==\nWookieepedia set product art"
+        },
+        {
+          "revid": 686,
+          "timestamp": "2026-09-21T09:51:21Z",
+          "comment": "Admin uploaded a new version of [[File:Set-premiere-unlimited.jpg]]",
+          "text": "== Summary ==\nWookieepedia set product art"
+        },
+        {
+          "revid": 1096,
+          "timestamp": "2026-09-21T11:27:01Z",
+          "comment": "",
+          "text": ""
+        },
+        {
+          "revid": 1135,
+          "timestamp": "2026-09-21T12:13:34Z",
+          "comment": "Admin uploaded a new version of [[File:Set-premiere-unlimited.jpg]]",
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "source_page": "Premiere Unlimited",
+      "source_url": "https://static.wikia.nocookie.net/starwars/images/2/2a/SWCCG-PremiereUnlimitedBox.jpg/revision/latest?cb=20160417044716",
+      "source_mime": "image/webp",
+      "source_sha256": "a4c63585c3380b58d82504bcdc5a6281c6424d3ac0a6494d77ed2f47d7a7a589",
+      "recipe": "Image.open(source).convert(RGB).save(JPEG,quality=88)",
+      "recipe_provenance": "Existing initial importer wiki/fetch-wookiee-sets.sh",
+      "expected_sha1": "094034d55e28eb5c59dfbe8e32d16b27953ae644",
+      "expected_bytes": 20848,
+      "actual_sha1": "094034d55e28eb5c59dfbe8e32d16b27953ae644",
+      "actual_bytes": 20848,
+      "sha256": "e0f40013487b3448425e4bd427b2b14fbf886fadc03bbc4e884eb611142a74a8",
+      "exact_match": true,
+      "checked_at": "2026-11-14T19:03:42.824128+00:00",
+      "independent_disk_readback": true
+    },
+    {
+      "source_page": "A New Hope Limited",
+      "source_url": "https://static.wikia.nocookie.net/starwars/images/6/64/ANH_CCG_Limited_pack.jpg/revision/latest?cb=20120501145641",
+      "source_mime": "image/webp",
+      "source_sha256": "bf79b220a6833a20374267f63fe78fc239141b49ecdc3e4a539018bcb66b6333",
+      "recipe": "Image.open(source).convert(RGB).save(JPEG,quality=88)",
+      "recipe_provenance": "Existing initial importer wiki/fetch-wookiee-sets.sh",
+      "expected_sha1": "3bef8d41bba053618061751c7e115cfd60b5fe18",
+      "expected_bytes": 20449,
+      "actual_sha1": "3bef8d41bba053618061751c7e115cfd60b5fe18",
+      "actual_bytes": 20449,
+      "sha256": "a6e917a6c9167da4b74d2daff188d3f6daf72b9dc270ce5642e5113665e8e1ba",
+      "exact_match": true,
+      "checked_at": "2026-11-14T19:03:43.472113+00:00",
+      "independent_disk_readback": true
+    },
+    {
+      "source_page": "Hoth Limited",
+      "source_url": "https://static.wikia.nocookie.net/starwars/images/4/49/41jTwyM0l-L.jpg/revision/latest?cb=20160417060045",
+      "source_mime": "image/webp",
+      "source_sha256": "53f93207b9c32dccaee3e8d9bbec24763e45949a0bf6c2723270f22dcc19b1b5",
+      "recipe": "Image.open(source).convert(RGB).save(JPEG,quality=88)",
+      "recipe_provenance": "Existing initial importer wiki/fetch-wookiee-sets.sh",
+      "expected_sha1": "cc1102cbc1b48b3772e851f9c358886b7929ff8b",
+      "expected_bytes": 26465,
+      "actual_sha1": "cc1102cbc1b48b3772e851f9c358886b7929ff8b",
+      "actual_bytes": 26465,
+      "sha256": "2de54cc1a03c937df34a36ce75ad2989211cd53764c227f0b5a8607d19a2136d",
+      "exact_match": true,
+      "checked_at": "2026-11-14T19:03:44.035269+00:00",
+      "independent_disk_readback": true
+    },
+    {
+      "source_page": "Cloud City Limited",
+      "source_url": "https://static.wikia.nocookie.net/starwars/images/3/35/CloudCity_CCG.jpg/revision/latest?cb=20131220153601",
+      "source_mime": "image/webp",
+      "source_sha256": "033a74ad1867ea25f7aa25c4d1f37eb685cb261420d4c191d113fe5731cf8038",
+      "recipe": "Image.open(source).convert(RGB).save(JPEG,quality=88)",
+      "recipe_provenance": "Existing initial importer wiki/fetch-wookiee-sets.sh",
+      "expected_sha1": "9e3771a47b2c01370bdb09ff052438c408b914d1",
+      "expected_bytes": 13371,
+      "actual_sha1": "9e3771a47b2c01370bdb09ff052438c408b914d1",
+      "actual_bytes": 13371,
+      "sha256": "e08291ce0df18d094f07362177cb96d4572cb06497c9ee2c6a2e1c41970b7609",
+      "exact_match": true,
+      "checked_at": "2026-11-14T19:03:44.470520+00:00",
+      "independent_disk_readback": true
+    }
+  ],
+  "aliases": [
+    {
+      "id": "6e16e3bf9e166a786b2427da4b305fd1a06ccabc9164187fd45528d9bccc2972",
+      "title": "File:Set-a-new-hope.jpg",
+      "timestamp": "2026-09-20T23:24:13Z",
+      "sha1": "3bef8d41bba053618061751c7e115cfd60b5fe18",
+      "bytes": 20449,
+      "url": "https://wiki.swccg.com/images/archive/e/ef/20260921012256%21Set-a-new-hope.jpg",
+      "mime": "image/jpeg",
+      "sha256": "a6e917a6c9167da4b74d2daff188d3f6daf72b9dc270ce5642e5113665e8e1ba",
+      "recovery_method": "Exact byte reconstruction from documented initial importer and live original public source; equality proved by historical SHA1 and byte count",
+      "recovery_source_url": "https://static.wikia.nocookie.net/starwars/images/6/64/ANH_CCG_Limited_pack.jpg/revision/latest?cb=20120501145641"
+    },
+    {
+      "id": "5cd8309ef32001dd0fc3e4a2aa4c37cc79ad39fad9aa1e700328475c5269f745",
+      "title": "File:Set-a-new-hope.jpg",
+      "timestamp": "2026-09-21T09:51:21Z",
+      "sha1": "3bef8d41bba053618061751c7e115cfd60b5fe18",
+      "bytes": 20449,
+      "url": "https://wiki.swccg.com/images/archive/e/ef/20260921121335%21Set-a-new-hope.jpg",
+      "mime": "image/jpeg",
+      "sha256": "a6e917a6c9167da4b74d2daff188d3f6daf72b9dc270ce5642e5113665e8e1ba",
+      "recovery_method": "Exact byte reconstruction from documented initial importer and live original public source; equality proved by historical SHA1 and byte count",
+      "recovery_source_url": "https://static.wikia.nocookie.net/starwars/images/6/64/ANH_CCG_Limited_pack.jpg/revision/latest?cb=20120501145641"
+    },
+    {
+      "id": "6eea13a889b6bd5cc673864646523b553ce69dea1c8cd2b4d1b590abf6151ff6",
+      "title": "File:Set-cloud-city.jpg",
+      "timestamp": "2026-09-20T23:24:13Z",
+      "sha1": "9e3771a47b2c01370bdb09ff052438c408b914d1",
+      "bytes": 13371,
+      "url": "https://wiki.swccg.com/images/archive/9/94/20260921012256%21Set-cloud-city.jpg",
+      "mime": "image/jpeg",
+      "sha256": "e08291ce0df18d094f07362177cb96d4572cb06497c9ee2c6a2e1c41970b7609",
+      "recovery_method": "Exact byte reconstruction from documented initial importer and live original public source; equality proved by historical SHA1 and byte count",
+      "recovery_source_url": "https://static.wikia.nocookie.net/starwars/images/3/35/CloudCity_CCG.jpg/revision/latest?cb=20131220153601"
+    },
+    {
+      "id": "823f0d755207154b5cdc2c3b0c402c70862a3322c8749611cb70dfaeeea84475",
+      "title": "File:Set-cloud-city.jpg",
+      "timestamp": "2026-09-21T09:51:21Z",
+      "sha1": "9e3771a47b2c01370bdb09ff052438c408b914d1",
+      "bytes": 13371,
+      "url": "https://wiki.swccg.com/images/archive/9/94/20260921121335%21Set-cloud-city.jpg",
+      "mime": "image/jpeg",
+      "sha256": "e08291ce0df18d094f07362177cb96d4572cb06497c9ee2c6a2e1c41970b7609",
+      "recovery_method": "Exact byte reconstruction from documented initial importer and live original public source; equality proved by historical SHA1 and byte count",
+      "recovery_source_url": "https://static.wikia.nocookie.net/starwars/images/3/35/CloudCity_CCG.jpg/revision/latest?cb=20131220153601"
+    },
+    {
+      "id": "7a6eadefbd9a3e0fe86cb1566e0c1ba5ec731879e9c94114264f66b2f368064d",
+      "title": "File:Set-hoth.jpg",
+      "timestamp": "2026-09-20T23:24:13Z",
+      "sha1": "cc1102cbc1b48b3772e851f9c358886b7929ff8b",
+      "bytes": 26465,
+      "url": "https://wiki.swccg.com/images/archive/a/a5/20260921012256%21Set-hoth.jpg",
+      "mime": "image/jpeg",
+      "sha256": "2de54cc1a03c937df34a36ce75ad2989211cd53764c227f0b5a8607d19a2136d",
+      "recovery_method": "Exact byte reconstruction from documented initial importer and live original public source; equality proved by historical SHA1 and byte count",
+      "recovery_source_url": "https://static.wikia.nocookie.net/starwars/images/4/49/41jTwyM0l-L.jpg/revision/latest?cb=20160417060045"
+    },
+    {
+      "id": "318fa0a3d99ed77ccae7947f45123440a6a1e97f5ca654d40cfad094218e57ea",
+      "title": "File:Set-hoth.jpg",
+      "timestamp": "2026-09-21T09:51:21Z",
+      "sha1": "cc1102cbc1b48b3772e851f9c358886b7929ff8b",
+      "bytes": 26465,
+      "url": "https://wiki.swccg.com/images/archive/a/a5/20260921121335%21Set-hoth.jpg",
+      "mime": "image/jpeg",
+      "sha256": "2de54cc1a03c937df34a36ce75ad2989211cd53764c227f0b5a8607d19a2136d",
+      "recovery_method": "Exact byte reconstruction from documented initial importer and live original public source; equality proved by historical SHA1 and byte count",
+      "recovery_source_url": "https://static.wikia.nocookie.net/starwars/images/4/49/41jTwyM0l-L.jpg/revision/latest?cb=20160417060045"
+    },
+    {
+      "id": "048ab38c38853fae96ec934c8dd3d4efec5fddfcd6aa074db8988a89d05b0594",
+      "title": "File:Set-premiere-unlimited.jpg",
+      "timestamp": "2026-09-20T23:24:12Z",
+      "sha1": "094034d55e28eb5c59dfbe8e32d16b27953ae644",
+      "bytes": 20848,
+      "url": "https://wiki.swccg.com/images/archive/a/a9/20260921012256%21Set-premiere-unlimited.jpg",
+      "mime": "image/jpeg",
+      "sha256": "e0f40013487b3448425e4bd427b2b14fbf886fadc03bbc4e884eb611142a74a8",
+      "recovery_method": "Exact byte reconstruction from documented initial importer and live original public source; equality proved by historical SHA1 and byte count",
+      "recovery_source_url": "https://static.wikia.nocookie.net/starwars/images/2/2a/SWCCG-PremiereUnlimitedBox.jpg/revision/latest?cb=20160417044716"
+    },
+    {
+      "id": "7b3aa274fdb02ae68511091b169de66ae19b6146aec72912806a814e3d707cc1",
+      "title": "File:Set-premiere-unlimited.jpg",
+      "timestamp": "2026-09-21T09:51:21Z",
+      "sha1": "094034d55e28eb5c59dfbe8e32d16b27953ae644",
+      "bytes": 20848,
+      "url": "https://wiki.swccg.com/images/archive/a/a9/20260921121334%21Set-premiere-unlimited.jpg",
+      "mime": "image/jpeg",
+      "sha256": "e0f40013487b3448425e4bd427b2b14fbf886fadc03bbc4e884eb611142a74a8",
+      "recovery_method": "Exact byte reconstruction from documented initial importer and live original public source; equality proved by historical SHA1 and byte count",
+      "recovery_source_url": "https://static.wikia.nocookie.net/starwars/images/2/2a/SWCCG-PremiereUnlimitedBox.jpg/revision/latest?cb=20160417044716"
+    }
+  ]
+}
