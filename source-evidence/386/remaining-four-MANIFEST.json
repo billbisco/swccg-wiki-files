@@ -1,0 +1,50 @@
+{
+  "story": 386,
+  "scope": "Exact two commit API JSON objects, pinned Java file and compiled forum snapshot; independent backup only",
+  "sources": [
+    {
+      "source_url": "https://api.github.com/repos/swccgpc/holotable/commits/168657ac16eea2f516349595d99cda7cd8f849f3",
+      "capture_target": "https://api.github.com/repos/swccgpc/holotable/commits/168657ac16eea2f516349595d99cda7cd8f849f3",
+      "sha256": "fb017a684c00fcf1824c0873c1a94664853f9f22f927a77a597228fb4ca6d622",
+      "bytes": 45379,
+      "backup_path": "source-evidence/386/objects/fb017a684c00fcf1824c0873c1a94664853f9f22f927a77a597228fb4ca6d622.json",
+      "privacy_marker_scan_passed": true,
+      "bounded_email_scan_passed": true,
+      "source_original_forum_html_transferred": false,
+      "independent_external_capture_verified": false
+    },
+    {
+      "source_url": "https://api.github.com/repos/swccgpc/holotable/commits/4dee9a17f7f3e71ba2ae86dc733ede5dd9d5c9ef",
+      "capture_target": "https://api.github.com/repos/swccgpc/holotable/commits/4dee9a17f7f3e71ba2ae86dc733ede5dd9d5c9ef",
+      "sha256": "75c3f8d003e0d5a225b0de087766c812cd0aaad0f703461383ee479761762714",
+      "bytes": 179600,
+      "backup_path": "source-evidence/386/objects/75c3f8d003e0d5a225b0de087766c812cd0aaad0f703461383ee479761762714.json",
+      "privacy_marker_scan_passed": true,
+      "bounded_email_scan_passed": true,
+      "source_original_forum_html_transferred": false,
+      "independent_external_capture_verified": false
+    },
+    {
+      "source_url": "https://raw.githubusercontent.com/PlayersCommittee/gemp-swccg-public/6c38f3c2430a8052bef523743c6600c1a7bfcec0/src/gemp-swccg-server/src/main/java/com/gempukku/swccgo/packagedProduct/VirtualAlternateImageBoosterPack.java",
+      "capture_target": "https://raw.githubusercontent.com/PlayersCommittee/gemp-swccg-public/6c38f3c2430a8052bef523743c6600c1a7bfcec0/src/gemp-swccg-server/src/main/java/com/gempukku/swccgo/packagedProduct/VirtualAlternateImageBoosterPack.java",
+      "sha256": "c4f2c143e679c7e13b80d6d3389f68fdc00d6cfd024a6bf7a95c4c410fe343b3",
+      "bytes": 13235,
+      "backup_path": "source-evidence/386/objects/c4f2c143e679c7e13b80d6d3389f68fdc00d6cfd024a6bf7a95c4c410fe343b3.java",
+      "privacy_marker_scan_passed": true,
+      "bounded_email_scan_passed": true,
+      "source_original_forum_html_transferred": false,
+      "independent_external_capture_verified": false
+    },
+    {
+      "source_url": "https://forum.starwarsccg.org/viewtopic.php?t=78442",
+      "capture_target": "https://swccg.com/snapshots/pc/forum-78442.html",
+      "sha256": "20eb20b973ada875940e2d9bb9f3e60d156648d2a46ee8ee768073a04308f93b",
+      "bytes": 2018926,
+      "backup_path": "source-evidence/386/objects/20eb20b973ada875940e2d9bb9f3e60d156648d2a46ee8ee768073a04308f93b.html",
+      "privacy_marker_scan_passed": true,
+      "bounded_email_scan_passed": true,
+      "source_original_forum_html_transferred": false,
+      "independent_external_capture_verified": false
+    }
+  ]
+}
