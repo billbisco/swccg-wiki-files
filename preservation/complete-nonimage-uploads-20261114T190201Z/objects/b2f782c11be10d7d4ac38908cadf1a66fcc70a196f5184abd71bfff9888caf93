@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="9_100" title="Captain Godherdt"/>
+    <card blueprintId="3_84" title="Captain Lennox"/>
+    <card blueprintId="9_104" title="Colonel Davod Jon"/>
+    <card blueprintId="4_95" title="Commander Brandei"/>
+    <card blueprintId="4_97" title="Commander Nemet"/>
+    <card blueprintId="9_108" title="DS-181-4"/>
+    <card blueprintId="1_173" title="DS-61-2"/>
+    <card blueprintId="8_101" title="Lieutenant Arnet"/>
+    <card blueprintId="3_89" title="Lieutenant Cabbel"/>
+    <card blueprintId="4_103" title="Lieutenant Commander Ardan"/>
+    <card blueprintId="9_112" title="Lieutenant Hebsly"/>
+    <card blueprintId="9_114" title="Major Mianda"/>
+    <card blueprintId="2_97" title="Mosep"/>
+    <card blueprintId="2_98" title="Officer Evax"/>
+    <card blueprintId="1_191" title="Prophetess"/>
+    <card blueprintId="7_202" title="Sergeant Major Bursk"/>
+    <card blueprintId="2_109" title="WED15-l7 'Septoid' Droid"/>
+    <card blueprintId="6_138" title="Bubo"/>
+    <card blueprintId="7_215" title="Womp Rat"/>
+    <card blueprintId="8_118" title="Battle Order"/>
+    <card blueprintId="9_121" title="Combat Response"/>
+    <card blueprintId="7_224" title="Come Here You Big Coward"/>
+    <card blueprintId="8_126" title="Imperial Arrest Order"/>
+    <card blueprintId="9_129" title="Mobilization Points"/>
+    <card blueprintId="9_133" title="You Cannot Hide Forever"/>
+    <card blueprintId="1_234" title="Alter"/>
+    <card blueprintId="1_234" title="Alter"/>
+    <card blueprintId="1_234" title="Alter"/>
+    <card blueprintId="1_241" title="Dark Maneuvers"/>
+    <card blueprintId="1_241" title="Dark Maneuvers"/>
+    <card blueprintId="6_155" title="Hutt Smooch"/>
+    <card blueprintId="1_249" title="Imperial Barrier"/>
+    <card blueprintId="1_252" title="It's Worse"/>
+    <card blueprintId="1_255" title="Limited Resources"/>
+    <card blueprintId="7_257" title="Masterful Move"/>
+    <card blueprintId="2_135" title="Monnok"/>
+    <card blueprintId="2_135" title="Monnok"/>
+    <card blueprintId="1_262" title="Ommni Box"/>
+    <card blueprintId="9_138" title="Operational As Planned"/>
+    <card blueprintId="9_139" title="Prepared Defenses"/>
+    <card blueprintId="5_149" title="Projective Telepathy"/>
+    <card blueprintId="1_267" title="Sense"/>
+    <card blueprintId="1_270" title="Tallon Roll"/>
+    <card blueprintId="1_270" title="Tallon Roll"/>
+    <card blueprintId="8_156" title="Carida"/>
+    <card blueprintId="7_276" title="Coruscant: Docking Bay"/>
+    <card blueprintId="9_145" title="Death Star II: Docking Bay"/>
+    <card blueprintId="7_282" title="Executor: Docking Bay"/>
+    <card blueprintId="3_144" title="Hoth: Defensive Perimeter (3rd Marker)"/>
+    <card blueprintId="3_148" title="Hoth: Ice Plains (5th Marker)"/>
+    <card blueprintId="2_146" title="Kashyyyk"/>
+    <card blueprintId="9_169" title="Scythe 1"/>
+    <card blueprintId="9_170" title="Scythe 3"/>
+    <card blueprintId="2_155" title="Victory-Class Star Destroyer"/>
+    <card blueprintId="2_155" title="Victory-Class Star Destroyer"/>
+    <card blueprintId="2_155" title="Victory-Class Star Destroyer"/>
+    <card blueprintId="3_157" title="Blizzard Walker"/>
+    <card blueprintId="3_157" title="Blizzard Walker"/>
+    <card blueprintId="3_158" title="AT-AT Cannon"/>
+    <card blueprintId="9_181" title="SFS L-s7.2 TIE Cannon"/>
+</deck>

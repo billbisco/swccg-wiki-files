@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="8_72" horizontal="true" title="Endor: Dense Forest"/>
+    <card blueprintId="8_69" horizontal="true" title="Endor: Back Door"/>
+    <card blueprintId="8_75" horizontal="true" title="Endor: Hidden Forest Trail"/>
+    <card blueprintId="8_16" horizontal="false" title="Graak"/>
+    <card blueprintId="8_16" horizontal="false" title="Graak"/>
+    <card blueprintId="8_17" horizontal="false" title="Kazak"/>
+    <card blueprintId="8_17" horizontal="false" title="Kazak"/>
+    <card blueprintId="8_13" horizontal="false" title="Ewok Tribesman"/>
+    <card blueprintId="8_13" horizontal="false" title="Ewok Tribesman"/>
+    <card blueprintId="8_13" horizontal="false" title="Ewok Tribesman"/>
+    <card blueprintId="8_13" horizontal="false" title="Ewok Tribesman"/>
+    <card blueprintId="8_13" horizontal="false" title="Ewok Tribesman"/>
+    <card blueprintId="8_13" horizontal="false" title="Ewok Tribesman"/>
+    <card blueprintId="8_32" horizontal="false" title="Wicket"/>
+    <card blueprintId="7_3" horizontal="false" title="ASP-707 (Ayesspee)"/>
+    <card blueprintId="7_3" horizontal="false" title="ASP-707 (Ayesspee)"/>
+    <card blueprintId="6_20" horizontal="false" title="Ithorian"/>
+    <card blueprintId="6_20" horizontal="false" title="Ithorian"/>
+    <card blueprintId="1_9" horizontal="false" title="Figrin D'an"/>
+    <card blueprintId="8_8" horizontal="false" title="Daughter Of Skywalker"/>
+    <card blueprintId="7_12" horizontal="false" title="Commander Wedge Antilles"/>
+    <card blueprintId="8_3" horizontal="false" title="Chief Chirpa"/>
+    <card blueprintId="7_149" horizontal="false" title="Spiral"/>
+    <card blueprintId="2_73" horizontal="false" title="Tantive IV"/>
+    <card blueprintId="103_2" horizontal="false" title="Red Leader In Red 1"/>
+    <card blueprintId="103_1" horizontal="false" title="Gold Leader In Gold 1"/>
+    <card blueprintId="8_88" horizontal="false" title="Ewok Catapult"/>
+    <card blueprintId="8_88" horizontal="false" title="Ewok Catapult"/>
+    <card blueprintId="8_88" horizontal="false" title="Ewok Catapult"/>
+    <card blueprintId="8_88" horizontal="false" title="Ewok Catapult"/>
+    <card blueprintId="8_88" horizontal="false" title="Ewok Catapult"/>
+    <card blueprintId="8_88" horizontal="false" title="Ewok Catapult"/>
+    <card blueprintId="1_66" horizontal="false" title="Traffic Control"/>
+    <card blueprintId="6_59" horizontal="false" title="Yarna d'al' Gargan"/>
+    <card blueprintId="7_62" horizontal="false" title="Goo Nee Tay"/>
+    <card blueprintId="4_41" horizontal="false" title="Wars Not Make One Great"/>
+    <card blueprintId="8_40" horizontal="false" title="Insurrection"/>
+    <card blueprintId="4_27" horizontal="false" title="Never Tell Me The Odds"/>
+    <card blueprintId="4_27" horizontal="false" title="Never Tell Me The Odds"/>
+    <card blueprintId="4_27" horizontal="false" title="Never Tell Me The Odds"/>
+    <card blueprintId="4_27" horizontal="false" title="Never Tell Me The Odds"/>
+    <card blueprintId="4_27" horizontal="false" title="Never Tell Me The Odds"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="4_66" horizontal="false" title="Transmission Terminated"/>
+    <card blueprintId="4_66" horizontal="false" title="Transmission Terminated"/>
+    <card blueprintId="4_67" horizontal="false" title="Tunnel Vision"/>
+    <card blueprintId="4_67" horizontal="false" title="Tunnel Vision"/>
+    <card blueprintId="1_113" horizontal="false" title="Surprise Assault"/>
+    <card blueprintId="1_113" horizontal="false" title="Surprise Assault"/>
+    <card blueprintId="1_113" horizontal="false" title="Surprise Assault"/>
+    <card blueprintId="1_113" horizontal="false" title="Surprise Assault"/>
+    <card blueprintId="1_113" horizontal="false" title="Surprise Assault"/>
+    <card blueprintId="8_47" horizontal="false" title="Ewok And Roll"/>
+    <card blueprintId="8_47" horizontal="false" title="Ewok And Roll"/>
+    <card blueprintId="8_59" horizontal="false" title="Sound The Attack"/>
+</deck>

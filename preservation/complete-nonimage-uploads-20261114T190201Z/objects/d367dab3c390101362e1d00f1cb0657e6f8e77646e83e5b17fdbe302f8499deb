@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="1_170" horizontal="false" title="Death Star Trooper"/>
+    <card blueprintId="1_170" horizontal="false" title="Death Star Trooper"/>
+    <card blueprintId="1_170" horizontal="false" title="Death Star Trooper"/>
+    <card blueprintId="1_181" horizontal="false" title="Imperial Trooper Guard"/>
+    <card blueprintId="1_181" horizontal="false" title="Imperial Trooper Guard"/>
+    <card blueprintId="1_181" horizontal="false" title="Imperial Trooper Guard"/>
+    <card blueprintId="1_180" horizontal="false" title="Imperial Pilot"/>
+    <card blueprintId="1_180" horizontal="false" title="Imperial Pilot"/>
+    <card blueprintId="2_103" horizontal="false" title="Reserve Pilot"/>
+    <card blueprintId="2_82" horizontal="false" title="Advosze"/>
+    <card blueprintId="2_82" horizontal="false" title="Advosze"/>
+    <card blueprintId="102_11" horizontal="false" title="Tarkin"/>
+    <card blueprintId="4_96" horizontal="false" title="Commander Gherant"/>
+    <card blueprintId="2_97" horizontal="false" title="Mosep"/>
+    <card blueprintId="2_105" horizontal="false" title="Tech Mo'r"/>
+    <card blueprintId="2_87" horizontal="false" title="Defel"/>
+    <card blueprintId="1_185" horizontal="false" title="Lieutenant Tanbris"/>
+    <card blueprintId="4_103" horizontal="false" title="Lieutenant Commander Ardan"/>
+    <card blueprintId="2_102" horizontal="false" title="Reegesk"/>
+    <card blueprintId="4_95" horizontal="false" title="Commander Brandei"/>
+    <card blueprintId="3_82" horizontal="false" title="Admiral Ozzel"/>
+    <card blueprintId="2_91" horizontal="false" title="Imperial Commander"/>
+    <card blueprintId="1_178" horizontal="false" title="General Tagge"/>
+    <card blueprintId="2_106" horizontal="false" title="Trooper Davin Felth"/>
+    <card blueprintId="1_166" horizontal="false" title="Colonel Wullf Yularen"/>
+    <card blueprintId="2_85" horizontal="false" title="Danz Borin"/>
+    <card blueprintId="1_209" horizontal="false" title="Baniss Keeg"/>
+    <card blueprintId="1_209" horizontal="false" title="Baniss Keeg"/>
+    <card blueprintId="1_228" horizontal="false" title="Reactor Terminal"/>
+    <card blueprintId="1_232" horizontal="false" title="Wrong Turn"/>
+    <card blueprintId="2_116" horizontal="false" title="Astromech Shortage"/>
+    <card blueprintId="1_212" horizontal="false" title="Dark Hours"/>
+    <card blueprintId="1_304" horizontal="false" title="TIE Fighter"/>
+    <card blueprintId="1_304" horizontal="false" title="TIE Fighter"/>
+    <card blueprintId="1_305" horizontal="false" title="TIE Scout"/>
+    <card blueprintId="1_305" horizontal="false" title="TIE Scout"/>
+    <card blueprintId="1_305" horizontal="false" title="TIE Scout"/>
+    <card blueprintId="4_172" horizontal="false" title="TIE Avenger"/>
+    <card blueprintId="2_151" horizontal="false" title="Black 4"/>
+    <card blueprintId="2_151" horizontal="false" title="Black 4"/>
+    <card blueprintId="2_154" horizontal="false" title="TIE Vanguard"/>
+    <card blueprintId="2_154" horizontal="false" title="TIE Vanguard"/>
+    <card blueprintId="2_154" horizontal="false" title="TIE Vanguard"/>
+    <card blueprintId="1_306" horizontal="false" title="Vader's Custom TIE"/>
+    <card blueprintId="2_155" horizontal="false" title="Victory-Class Star Destroyer"/>
+    <card blueprintId="2_155" horizontal="false" title="Victory-Class Star Destroyer"/>
+    <card blueprintId="2_143" horizontal="false" title="Death Star"/>
+    <card blueprintId="1_287" horizontal="true" title="Death Star: War Room"/>
+    <card blueprintId="1_296" horizontal="false" title="Yavin 4"/>
+    <card blueprintId="1_282" horizontal="false" title="Dantooine"/>
+    <card blueprintId="3_151" horizontal="false" title="Ord Mantell"/>
+    <card blueprintId="1_289" horizontal="false" title="Tatooine"/>
+    <card blueprintId="2_146" horizontal="false" title="Kashyyyk"/>
+    <card blueprintId="1_317" horizontal="false" title="Imperial Blaster"/>
+    <card blueprintId="2_158" horizontal="false" title="Enhanced TIE Laser Cannon"/>
+    <card blueprintId="2_158" horizontal="false" title="Enhanced TIE Laser Cannon"/>
+    <card blueprintId="2_158" horizontal="false" title="Enhanced TIE Laser Cannon"/>
+    <card blueprintId="1_241" horizontal="false" title="Dark Maneuvers"/>
+    <card blueprintId="1_251" horizontal="false" title="Imperial Reinforcements"/>
+</deck>

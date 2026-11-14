@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="13_46" horizontal="false" title="We'll Handle This"/>
+    <card blueprintId="10_10" horizontal="false" title="Luke Skywalker, Rebel Scout"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="1_21" horizontal="false" title="Obi-Wan Kenobi"/>
+    <card blueprintId="13_33" horizontal="false" title="Obi-Wan Kenobi, Jedi Knight"/>
+    <card blueprintId="11_10" horizontal="false" title="Qui-Gon Jinn"/>
+    <card blueprintId="14_27" horizontal="false" title="Qui-Gon Jinn With Lightsaber"/>
+    <card blueprintId="13_48" horizontal="false" title="Yoda, Master Of The Force"/>
+    <card blueprintId="14_18" horizontal="false" title="Mace Windu, Jedi Master"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="10_5" horizontal="false" title="Corran Horn"/>
+    <card blueprintId="11_13" horizontal="false" title="Threepio With His Parts Showing"/>
+    <card blueprintId="14_3" horizontal="false" title="Artoo, Brave Little Droid"/>
+    <card blueprintId="7_159" horizontal="false" title="Intruder Missile"/>
+    <card blueprintId="7_159" horizontal="false" title="Intruder Missile"/>
+    <card blueprintId="7_159" horizontal="false" title="Intruder Missile"/>
+    <card blueprintId="7_159" horizontal="false" title="Intruder Missile"/>
+    <card blueprintId="1_157" horizontal="false" title="Obi-Wan's Lightsaber"/>
+    <card blueprintId="11_49" horizontal="false" title="Qui-Gon Jinn's Lightsaber"/>
+    <card blueprintId="9_90" horizontal="false" title="Luke's Lightsaber"/>
+    <card blueprintId="13_21" horizontal="false" title="Han, Chewie, And The Falcon"/>
+    <card blueprintId="13_21" horizontal="false" title="Han, Chewie, And The Falcon"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="13_31" horizontal="true" title="Naboo: Theed Palace Generator"/>
+    <card blueprintId="13_32" horizontal="true" title="Naboo: Theed Palace Generator Core"/>
+    <card blueprintId="11_44" horizontal="true" title="Tatooine: Podrace Arena"/>
+    <card blueprintId="13_5" horizontal="false" title="An Unusual Amount Of Fear"/>
+    <card blueprintId="1_48" horizontal="false" title="Disarmed"/>
+    <card blueprintId="13_45" horizontal="false" title="Weapon Of A Fallen Mentor"/>
+    <card blueprintId="14_37" horizontal="false" title="They Win This Round"/>
+    <card blueprintId="9_33" horizontal="false" title="Honor Of The Jedi"/>
+    <card blueprintId="7_62" horizontal="false" title="Goo Nee Tay"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="11_30" horizontal="false" title="A Step Backward"/>
+    <card blueprintId="11_30" horizontal="false" title="A Step Backward"/>
+    <card blueprintId="13_43" horizontal="false" title="Strike Blocked"/>
+    <card blueprintId="13_43" horizontal="false" title="Strike Blocked"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="11_27" horizontal="false" title="A Jedi's Focus"/>
+    <card blueprintId="11_27" horizontal="false" title="A Jedi's Focus"/>
+    <card blueprintId="11_37" horizontal="false" title="Losing Track"/>
+    <card blueprintId="11_37" horizontal="false" title="Losing Track"/>
+    <card blueprintId="11_36" horizontal="false" title="Jedi Escape"/>
+    <card blueprintId="2_54" horizontal="false" title="Out Of Commission"/>
+    <card blueprintId="10_22" horizontal="false" title="Shocking Information &amp; Grimtaash"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="5_49" horizontal="false" title="Glancing Blow"/>
+    <card blueprintId="4_66" horizontal="false" title="Transmission Terminated"/>
+    <card blueprintId="11_39" horizontal="false" title="Podrace Prep"/>
+    <card blueprintId="8_46" horizontal="false" title="Endor Celebration"/>
+    <card blueprintId="1_116" horizontal="false" title="The Force Is Strong With This One"/>
+    <card blueprintId="11_40" horizontal="false" title="Too Close For Comfort"/>
+    <card blueprintId="13_24" horizontal="false" title="Inner Strength"/>
+    <card blueprintId="11_24" horizontal="false" title="Boonta Eve Podrace"/>
+    <card blueprintId="11_47" horizontal="false" title="Anakin's Podracer"/>
+</deck>

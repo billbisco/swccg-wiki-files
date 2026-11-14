@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="201_39" horizontal="false" title="Imperial Entanglements"/>
+    <card blueprintId="203_33" horizontal="false" title="Tatooine"/>
+    <card blueprintId="1_301" horizontal="false" title="Devastator"/>
+    <card blueprintId="1_295" horizontal="true" title="Tatooine: Mos Eisley"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="201_29" horizontal="false" title="Endor Shield"/>
+    <card blueprintId="8_126" horizontal="false" title="Imperial Arrest Order"/>
+    <card blueprintId="9_129" horizontal="false" title="Mobilization Points"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="200_73" horizontal="false" title="Admiral Motti"/>
+    <card blueprintId="3_82" horizontal="false" title="Admiral Ozzel"/>
+    <card blueprintId="9_98" horizontal="false" title="Admiral Piett"/>
+    <card blueprintId="201_22" horizontal="false" title="Colonel Wullf Yularen"/>
+    <card blueprintId="5_96" horizontal="false" title="Commander Desanne"/>
+    <card blueprintId="8_97" horizontal="false" title="Corporal Drelosyn"/>
+    <card blueprintId="8_99" horizontal="false" title="Corporal Oberk"/>
+    <card blueprintId="208_30" horizontal="false" title="Darth Vader, Emperor's Enforcer"/>
+    <card blueprintId="208_30" horizontal="false" title="Darth Vader, Emperor's Enforcer"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="212_2" horizontal="false" title="Moff Gideon"/>
+    <card blueprintId="8_111" horizontal="false" title="Sergeant Barich"/>
+    <card blueprintId="8_113" horizontal="false" title="Sergeant Irol"/>
+    <card blueprintId="211_7" horizontal="false" title="Sergeant Narthax With E-web Blaster"/>
+    <card blueprintId="8_115" horizontal="false" title="Sergeant Wallen"/>
+    <card blueprintId="204_44" horizontal="false" title="Stormtrooper Patrol"/>
+    <card blueprintId="204_44" horizontal="false" title="Stormtrooper Patrol"/>
+    <card blueprintId="204_44" horizontal="false" title="Stormtrooper Patrol"/>
+    <card blueprintId="2_106" horizontal="false" title="Trooper Davin Felth"/>
+    <card blueprintId="203_29" horizontal="false" title="Deflector Shield Generators"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="2_121" horizontal="false" title="Imperial Justice"/>
+    <card blueprintId="208_41" horizontal="false" title="Tarkin's Bounty"/>
+    <card blueprintId="7_244" horizontal="false" title="Tatooine Occupation"/>
+    <card blueprintId="7_244" horizontal="false" title="Tatooine Occupation"/>
+    <card blueprintId="7_244" horizontal="false" title="Tatooine Occupation"/>
+    <card blueprintId="201_33" horizontal="false" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="201_33" horizontal="false" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="201_34" horizontal="false" title="According To My Design"/>
+    <card blueprintId="201_35" horizontal="false" title="Cold Feet"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="10_39" horizontal="false" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+    <card blueprintId="10_39" horizontal="false" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+    <card blueprintId="1_247" horizontal="false" title="Gravel Storm"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="200_124" horizontal="false" title="Sneak Attack"/>
+    <card blueprintId="200_124" horizontal="false" title="Sneak Attack"/>
+    <card blueprintId="3_136" horizontal="false" title="Tactical Support"/>
+    <card blueprintId="3_136" horizontal="false" title="Tactical Support"/>
+    <card blueprintId="3_136" horizontal="false" title="Tactical Support"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="7_282" horizontal="true" title="Executor: Docking Bay"/>
+    <card blueprintId="112_20" horizontal="true" title="Tatooine: Desert Heart"/>
+    <card blueprintId="1_291" horizontal="true" title="Tatooine: Docking Bay 94"/>
+    <card blueprintId="1_293" horizontal="true" title="Tatooine: Jundland Wastes"/>
+    <card blueprintId="1_294" horizontal="true" title="Tatooine: Lars' Moisture Farm"/>
+</deck>

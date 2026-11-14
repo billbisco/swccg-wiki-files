@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="1_135" horizontal="false" title="Yavin 4"/>
+    <card blueprintId="1_135" horizontal="false" title="Yavin 4"/>
+    <card blueprintId="1_136" horizontal="true" title="Yavin 4: Docking Bay"/>
+    <card blueprintId="1_136" horizontal="true" title="Yavin 4: Docking Bay"/>
+    <card blueprintId="1_137" horizontal="true" title="Yavin 4: Jungle"/>
+    <card blueprintId="2_68" horizontal="true" title="Yavin 4: Massassi Ruins"/>
+    <card blueprintId="1_139" horizontal="true" title="Yavin 4: Massassi War Room"/>
+    <card blueprintId="2_3" horizontal="false" title="Chewbacca"/>
+    <card blueprintId="2_3" horizontal="false" title="Chewbacca"/>
+    <card blueprintId="2_5" horizontal="false" title="Commander Vanden Willard"/>
+    <card blueprintId="2_5" horizontal="false" title="Commander Vanden Willard"/>
+    <card blueprintId="1_10" horizontal="false" title="General Dodonna"/>
+    <card blueprintId="1_10" horizontal="false" title="General Dodonna"/>
+    <card blueprintId="1_11" horizontal="false" title="Han Solo"/>
+    <card blueprintId="1_11" horizontal="false" title="Han Solo"/>
+    <card blueprintId="1_19" horizontal="false" title="Luke Skywalker"/>
+    <card blueprintId="1_19" horizontal="false" title="Luke Skywalker"/>
+    <card blueprintId="1_21" horizontal="false" title="Obi-Wan Kenobi"/>
+    <card blueprintId="1_21" horizontal="false" title="Obi-Wan Kenobi"/>
+    <card blueprintId="1_32" horizontal="false" title="WED-9-M1 'Bantha' Droid"/>
+    <card blueprintId="1_32" horizontal="false" title="WED-9-M1 'Bantha' Droid"/>
+    <card blueprintId="2_23" horizontal="false" title="Wedge Antilles"/>
+    <card blueprintId="2_23" horizontal="false" title="Wedge Antilles"/>
+    <card blueprintId="1_33" horizontal="false" title="Wioslea"/>
+    <card blueprintId="1_143" horizontal="false" title="Millennium Falcon"/>
+    <card blueprintId="1_143" horizontal="false" title="Millennium Falcon"/>
+    <card blueprintId="2_72" horizontal="false" title="Red 6"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_76" horizontal="false" title="Don't Get Cocky"/>
+    <card blueprintId="1_76" horizontal="false" title="Don't Get Cocky"/>
+    <card blueprintId="1_92" horizontal="false" title="Jedi Presence"/>
+    <card blueprintId="1_102" horizontal="false" title="Out Of Nowhere"/>
+    <card blueprintId="1_102" horizontal="false" title="Out Of Nowhere"/>
+    <card blueprintId="1_102" horizontal="false" title="Out Of Nowhere"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="1_116" horizontal="false" title="The Force Is Strong With This One"/>
+    <card blueprintId="1_47" horizontal="false" title="Demotion"/>
+    <card blueprintId="1_47" horizontal="false" title="Demotion"/>
+    <card blueprintId="1_60" horizontal="false" title="Rebel Planners"/>
+    <card blueprintId="1_60" horizontal="false" title="Rebel Planners"/>
+    <card blueprintId="1_62" horizontal="false" title="Revolution"/>
+    <card blueprintId="1_62" horizontal="false" title="Revolution"/>
+    <card blueprintId="2_41" horizontal="false" title="What're You Tryin' To Push On Us?"/>
+    <card blueprintId="2_41" horizontal="false" title="What're You Tryin' To Push On Us?"/>
+    <card blueprintId="1_155" horizontal="false" title="Jedi Lightsaber"/>
+    <card blueprintId="1_155" horizontal="false" title="Jedi Lightsaber"/>
+    <card blueprintId="1_157" horizontal="false" title="Obi-Wan's Lightsaber"/>
+</deck>
