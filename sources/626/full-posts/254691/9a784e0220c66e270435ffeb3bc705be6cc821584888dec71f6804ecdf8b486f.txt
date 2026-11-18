@@ -1,0 +1,284 @@
+http://www.swccgpc.com/forums/tournamen ... ourn_id=16
+mr007agent 10 +87
+Kinslayer 10 +86
+Shadow 40 9 +70
+Shewski 8 +54
+Shadow 13 8 +49
+JarJarDrinks 8 +33
+stealtheblind 8 +30
+mikefrench 8 +15
+dvmaba22 8 +2
+cclarkso 6 +34
+Pistone84 6 +19
+deck104 6 +14
+WiseMarsellus 6 +2
+TacoBill 6 -1
+stratagon 6 -4
+arebelspy 6 -18
+kcaton 6 -18
+Meto 4 -7
+Mr. Pink 4 -20
+spideyguy0 4 -28
+DTartagOne 4 -31
+James Paul Booker 2 +7
+Meeker 2 -31
+marinemcg 2 -60
+Peter-Let-The-wookiee-Win 2 -84
+Brad Eier 0 -29
+Karakagin 0 -77
+micokeman 0 -94
+Dark Side total 79 -82
+Light Side total 70 +82
+Command Card of arebelspy
+Round    Side    Opponent    Result    Differential
+1 Light Side DTartagOne Full Loss -13
+1 Dark Side cclarkso Full Win 3
+2 Dark Side Shewski Full Win 6
+2 Light Side Pistone84 Full Loss -29
+3 Light Side marinemcg Full Win 15
+3 Light Side arebelspy N/A 0
+Command Card of Brad Eier
+Round    Side    Opponent    Result    Differential
+1 Dark Side Mr. Pink Full Loss -14
+1 Light Side Shewski Full Loss -9
+2 Dark Side cclarkso Full Loss -6
+2 Light Side Brad Eier N/A 0
+3 Light Side Brad Eier N/A 0
+3 Light Side Brad Eier N/A 0
+Command Card of cclarkso
+Round    Side    Opponent    Result    Differential
+1 Dark Side stealtheblind Full Loss -14
+1 Light Side arebelspy Full Loss -3
+2 Light Side Brad Eier Full Win 6
+2 Dark Side micokeman Full Win 28
+3 Dark Side Pistone84 Full Win 30
+3 Light Side mr007agent Full Loss -13
+Command Card of deck104
+Round    Side    Opponent    Result    Differential
+1 Light Side marinemcg Full Loss -9
+1 Dark Side dvmaba22 Full Win 29
+2 Light Side James Paul Booker Full Win 12
+2 Dark Side Shadow 40 Full Win 6
+3 Dark Side mr007agent Full Loss -24
+3 Light Side deck104 N/A 0
+Command Card of DTartagOne
+Round    Side    Opponent    Result    Differential
+1 Dark Side arebelspy Full Win 13
+1 Light Side stealtheblind Full Win 17
+2 Light Side JarJarDrinks Full Loss -12
+2 Dark Side stealtheblind Full Loss -24
+3 Dark Side stratagon Full Loss -19
+3 Light Side mikefrench Full Loss -6
+Command Card of dvmaba22
+Round    Side    Opponent    Result    Differential
+1 Dark Side James Paul Booker Full Win 2
+1 Light Side deck104 Full Loss -29
+2 Dark Side kcaton Full Win 18
+2 Light Side TacoBill Full Loss -11
+3 Light Side kcaton Full Win 19
+3 Dark Side marinemcg Full Win 3
+Command Card of James Paul Booker
+Round    Side    Opponent    Result    Differential
+1 Light Side dvmaba22 Full Loss -2
+1 Dark Side marinemcg Full Win 21
+2 Dark Side deck104 Full Loss -12
+2 Light Side James Paul Booker N/A 0
+3 Light Side James Paul Booker N/A 0
+3 Light Side James Paul Booker N/A 0
+Command Card of JarJarDrinks
+Round    Side    Opponent    Result    Differential
+1 Dark Side Shewski Full Win 14
+1 Light Side Mr. Pink Full Win 10
+2 Dark Side DTartagOne Full Win 12
+2 Light Side Kinslayer Full Loss -5
+3 Dark Side stealtheblind Full Loss -16
+3 Light Side TacoBill Full Win 18
+Command Card of Karakagin
+Round    Side    Opponent    Result    Differential
+1 Light Side Meto Full Loss -25
+1 Dark Side Meeker Full Loss -21
+2 Dark Side TacoBill Full Loss -31
+2 Light Side Karakagin N/A 0
+3 Light Side Karakagin N/A 0
+3 Light Side Karakagin N/A 0
+Command Card of kcaton
+Round    Side    Opponent    Result    Differential
+1 Dark Side Peter-Let-The-wookiee-Win Full Win 11
+1 Light Side Shadow 40 Full Loss -26
+2 Light Side dvmaba22 Full Loss -18
+2 Dark Side marinemcg Full Win 15
+3 Dark Side dvmaba22 Full Loss -19
+3 Light Side Meto Full Win 19
+Command Card of Kinslayer
+Round    Side    Opponent    Result    Differential
+1 Light Side mikefrench Full Win 32
+1 Dark Side spideyguy0 Full Win 19
+2 Light Side WiseMarsellus Full Win 20
+2 Dark Side JarJarDrinks Full Win 5
+3 Light Side Shadow 13 Full Win 25
+3 Dark Side Shadow 40 Full Loss -15
+Command Card of marinemcg
+Round    Side    Opponent    Result    Differential
+1 Dark Side deck104 Full Win 9
+1 Light Side James Paul Booker Full Loss -21
+2 Light Side stratagon Full Loss -15
+2 Light Side kcaton Full Loss -15
+3 Dark Side arebelspy Full Loss -15
+3 Light Side dvmaba22 Full Loss -3
+Command Card of Meeker
+Round    Side    Opponent    Result    Differential
+1 Light Side WiseMarsellus Full Loss -33
+1 Light Side Karakagin Full Win 21
+2 Dark Side mikefrench Full Loss -19
+2 Light Side Meeker N/A 0
+3 Light Side Meeker N/A 0
+3 Light Side Meeker N/A 0
+Command Card of Meto
+Round    Side    Opponent    Result    Differential
+1 Dark Side Karakagin Full Win 25
+1 Light Side WiseMarsellus Full Loss -11
+2 Dark Side mr007agent Full Loss -23
+2 Light Side spideyguy0 Full Loss -8
+3 Light Side Peter-Let-The-wookiee-Win Full Win 29
+3 Dark Side kcaton Full Loss -19
+Command Card of micokeman
+Round    Side    Opponent    Result    Differential
+1 Light Side spideyguy0 Full Loss -23
+1 Dark Side mikefrench Full Loss -22
+2 Dark Side Peter-Let-The-wookiee-Win Full Loss -21
+2 Light Side cclarkso Full Loss -28
+3 Light Side micokeman N/A 0
+3 Light Side micokeman N/A 0
+Command Card of mikefrench
+Round    Side    Opponent    Result    Differential
+1 Dark Side Kinslayer Full Loss -32
+1 Light Side micokeman Full Win 22
+2 Light Side Meeker Full Win 19
+2 Dark Side stratagon Full Win 5
+3 Light Side Shadow 40 Full Loss -5
+3 Dark Side DTartagOne Full Win 6
+Command Card of Mr. Pink
+Round    Side    Opponent    Result    Differential
+1 Light Side Brad Eier Full Win 14
+1 Dark Side JarJarDrinks Full Loss -10
+2 Dark Side Pistone84 Full Win 6
+2 Light Side Shadow 13 Full Loss -30
+3 Light Side Mr. Pink N/A 0
+3 Light Side Mr. Pink N/A 0
+Command Card of mr007agent
+Round    Side    Opponent    Result    Differential
+1 Dark Side Shadow 40 Full Loss -12
+1 Light Side Peter-Let-The-wookiee-Win Full Win 23
+2 Light Side Meto Full Win 23
+2 Dark Side WiseMarsellus Full Win 16
+3 Light Side deck104 Full Win 24
+3 Dark Side cclarkso Full Win 13
+Command Card of Peter-Let-The-wookiee-Win
+Round    Side    Opponent    Result    Differential
+1 Light Side kcaton Full Loss -11
+1 Dark Side mr007agent Full Loss -23
+2 Light Side micokeman Full Win 21
+2 Dark Side Shewski Full Loss -23
+3 Dark Side Meto Full Loss -29
+3 Light Side Pistone84 Full Loss -19
+Command Card of Pistone84
+Round    Side    Opponent    Result    Differential
+1 Light Side stratagon Full Win 28
+1 Dark Side Shadow 13 Full Loss -21
+2 Light Side Mr. Pink Full Loss -6
+2 Dark Side arebelspy Full Win 29
+3 Light Side cclarkso Full Loss -30
+3 Dark Side Peter-Let-The-wookiee-Win Full Win 19
+Command Card of Shadow 13
+Round    Side    Opponent    Result    Differential
+1 Dark Side TacoBill Full Win 21
+1 Light Side Pistone84 Full Win 21
+2 Light Side Shadow 40 Timed Loss -18
+2 Dark Side Mr. Pink Full Win 30
+3 Dark Side Kinslayer Full Loss -25
+3 Light Side stealtheblind Full Win 20
+Command Card of Shadow 40
+Round    Side    Opponent    Result    Differential
+1 Light Side mr007agent Full Win 12
+1 Dark Side kcaton Full Win 26
+2 Dark Side Shadow 13 Timed Win 18
+2 Light Side deck104 Full Loss -6
+3 Dark Side mikefrench Full Win 5
+3 Light Side Kinslayer Full Win 15
+Command Card of Shewski
+Round    Side    Opponent    Result    Differential
+1 Light Side JarJarDrinks Full Loss -14
+1 Dark Side Brad Eier Full Win 9
+2 Light Side arebelspy Full Loss -6
+2 Light Side Peter-Let-The-wookiee-Win Full Win 23
+3 Light Side WiseMarsellus Full Win 26
+3 Dark Side spideyguy0 Full Win 16
+Command Card of spideyguy0
+Round    Side    Opponent    Result    Differential
+1 Dark Side micokeman Full Win 23
+1 Light Side Kinslayer Full Loss -19
+2 Light Side stealtheblind Full Loss -13
+2 Dark Side Meto Full Win 8
+3 Dark Side TacoBill Full Loss -11
+3 Light Side Shewski Full Loss -16
+Command Card of stealtheblind
+Round    Side    Opponent    Result    Differential
+1 Light Side cclarkso Full Win 14
+1 Dark Side DTartagOne Full Loss -17
+2 Dark Side spideyguy0 Full Win 13
+2 Light Side DTartagOne Full Win 24
+3 Light Side JarJarDrinks Full Win 16
+3 Dark Side Shadow 13 Full Loss -20
+Command Card of stratagon
+Round    Side    Opponent    Result    Differential
+1 Dark Side Pistone84 Full Loss -28
+1 Light Side TacoBill Full Win 15
+2 Dark Side marinemcg Full Win 15
+2 Light Side mikefrench Full Loss -5
+3 Light Side DTartagOne Full Win 19
+3 Dark Side WiseMarsellus Full Loss -20
+Command Card of TacoBill
+Round    Side    Opponent    Result    Differential
+1 Light Side Shadow 13 Full Loss -21
+1 Dark Side stratagon Full Loss -15
+2 Light Side Karakagin Full Win 31
+2 Dark Side dvmaba22 Full Win 11
+3 Light Side spideyguy0 Full Win 11
+3 Dark Side JarJarDrinks Full Loss -18
+Command Card of WiseMarsellus
+Round    Side    Opponent    Result    Differential
+1 Dark Side Meeker Full Win 33
+1 Dark Side Meto Full Win 11
+2 Dark Side Kinslayer Full Loss -20
+2 Light Side mr007agent Full Loss -16
+3 Dark Side Shewski Full Loss -26
+3 Light Side stratagon Full Win 20
+For those who aren't that good with usernames, here are Sunday's results of the Consolation event:
+1- Michael Richards 10 (+87)
+2- Brian Hollingworth 10 (+86)
+3- Patrick Dinelle 9 (+70)
+4- Mike Tomashewski 8 (+54)
+5- Ryan French 8 (+49)
+6- Jarad Konsker 8 (+33)
+7- Greg Shaw 8 (+30)
+8- Mike French 8 (+15)
+9- Joseph Gagliardi 8 (+2)
+10- Charles Clarkson 6 (+34)
+11- Michael Pistone 6 (+19)
+12- Tom Hollingworth 6 (+2)
+13- Bill Kafer 6 (-1)
+14- Pat Ziagos 6 (-4)
+15- Kim Caton 6 (-18)
+16- Kyle Krueger 4 (-7)
+17- Casey Anis 4 (-28)
+18- Dan Tartaglione 4 (-31)
+19- Matt Gough 2 (-60)
+20- Pierre Dubreuil 2 (-84)
+21- Mike Gemme 6 (+14) DROPPED after 5 games
+22- Joe Olson 6 (-18) DROPPED after 5 games
+23- Mike d'Amboise 4 (-20) DROPPED after 4 games
+24- James Booker 2 (+7) DROPPED after 3 games
+25- Nate Meeker 2 (-31) DROPPED after 3 games
+26- Brad Eier 0 (-29) DROPPED after 3 games
+27- Tom Schwarz 0 (-77) DROPPED after 3 games
+28- Michael Phelps 0 (-94) DROPPED after 4 games

@@ -1,0 +1,256 @@
+1- Brian Hollingworth 10 (+96)
+2- Mike Richards 10 (+68)
+3- Chris Gogolen 10 (+66)
+4- Charles Clarkson 8 (+74)
+5- Casey Anis 8 (+57)
+6- Greg Shaw 8 (+44)
+7- Tim Simon 8 (+43)
+8- Kim Caton 8 (+31)
+9- Tom Schwarz 8 (+26)
+10- Matt Gough 6 (+45)
+11- Jeff Johns 6 (+34)
+12- James Booker 6 (+34)
+13- Bill Kafer 6 (+8)
+14- Chris Westergard 5 (-5)
+15- Steve Yeager 4 (-27)
+16- Dave Runyon 3 (-52)
+17- Joe Strelechii 3 (-55)
+18- Vikram Bali 2 (-26)
+19- Pierre Dubreuil 1 (-114)
+20- Michael Phelps 0 (-158)
+21- Joe Olson DROP 4 (+9)
+22- Joe Pinto DROP 3 (+4)
+23- Jarad Konsker DROP 2 (+10)
+24- Arvind Bhasker DROP 2 (0)
+25- Matt Sokol DROP 2 (-16)
+26- Joe Gagliardi DROP 2 (-22)
+27- Erich Hawbaker DROP 2 (-33)
+28- Michael Pistone DROP 2 (-41)
+29- Dan Tartaglione DROP 2 (-42)
+30- Nicolae Borata DROP 2 (-59)
+Brian Hollingworth
+10 +96
+L Schwarz FW +32
+D Booker FW +22
+D Shaw FW +18
+L Shaw FL -9
+L Gogolen FW +21
+D Anis FW +12
+Michael Richards
+10 +68
+L Clarkson FW +3
+D Sokol FL -4
+L Yeager FW +16
+D Booker FW +9
+L Johns FW +41
+D Simon FW +9
+Chris Gogolen
+10 +66
+D Hawbaker FW +18
+L Bhasker FW +28
+D Anis FW +8
+L Olson FW +18
+D B Hollingworth FL -21
+L Kafer FW +15
+Charles Clarkson
+8 +74
+D Richards FL -3
+L Simon FW +25
+D Olson FL -13
+L Borota FW +30
+D Westergard FW +12
+L Westergard FW +23
+Casey Anis
+8 +57
+L Gagliardi FW +25
+D Olson FW +3
+L Gogolen FL -8
+D Westergard FW +26
+D Shaw FW +23
+L B Hollingsworth FL -12
+Greg Shaw
+8 +44
+L Streleckil FW +30
+D Pistone FW +23
+L B Hollingworth FL -18
+D B Hollingworth FW +9
+L Anis FL -23
+D Booker FW +23
+Tim Simon
+8 +43
+L Sokol FW +20
+D Clarkson FL -25
+D Hawbaker FW +23
+L Bali FW +20
+D Kafer FW +14
+L Richards FL -9
+Kim Caton
+8 +31
+L Olson FL -17
+D Gagliardi FW +20
+L Johns FL -19
+D Konsker FW +13
+D Dubreuil FW +13
+L Streleckil FW +21
+Tom Schwarz
+8 +26
+D B Hollingworth FL -32
+L Gough FL -8
+D Runyon FW +23
+L Hawbaker FW +5
+D Streleckil FW +21
+L Yeager FW +13
+Matt Gough
+6 +45
+L Booker FL -35
+D Schwarz FW +8
+L Kafer FL -13
+D Streleckil TW +26
+D Bali FW +25
+L Dubreuil TW +34
+Jeff Johns
+6 +34
+D Konsker FL -29
+L Phelps FW +33
+D Caton FW +19
+L Runyon TW +32
+D Richards FL -41
+L Bali TW +20
+James Booker
+6 +34
+D Gough FW +35
+L B Hollingworth FL -22
+D Pistone FW +27
+L Richards FL -9
+D Yeager FW +26
+L Shaw FL -23
+Bill Kafer
+6 +8
+D Westergard FL -24
+L Konsker FW +18
+D Gough FW +13
+L Tartaglione FW +30
+L Simon FL -14
+D Gogolen FL -15
+Chris Westergard
+5 -5
+L Kafer FW +24
+D Pinto TW +17
+D Bali FW +15
+L Anis FL -26
+L Clarkson FL -12
+D Clarkson FL -23
+Steve Yeager
+4 -27
+L Tartaglione FW +13
+D Tartaglione FL -14
+D Richards FL -10
+L Pistone FW +23
+L Booker FL -20
+D Schwarz FL -13
+David Runyon
+3 -52
+D Bhasker FL -28
+L Hawbaker FL -13
+L Schwarz FL -23
+D Johns TL -32
+D Phelps FW +21
+L Phelps TW +23
+Joe Streleckil
+3 -55
+D Shaw FL -30
+L Borota FW +30
+D Tartaglione TW +13
+L Gough TL -26
+D Schwarz FL -21
+D Caton FL -21
+Vikram Bali
+2 -26
+L Dubreuil TW +24
+D Dubreuil TW +30
+L Westergard FL -15
+D Simon FL -20
+L Gough FL -25
+D Johns TL -20
+Pierre Dubreuil
+1 -114
+D Bali TL -24
+L Bali TL -30
+L Gagliardi FL -32
+D Phelps TW +24
+L Caton FL -13
+D Gough TL -34
+Michael Phelps
+0 -158
+L Pinto TL -24
+D Johns FL -33
+D Borota FL -33
+L Dubreuil TL -24
+L Runyon FL -21
+D Runyon TL -23
+Arvind Bhasker
+2 +0
+L Runyon FW +28
+D Gogolen FL -28
+Drop
+Jared Konsker
+2 +10
+L Johns TW +29
+D Kafer FL -18
+D Shewski TW +12
+L Caton FL -13
+Drop
+Matt Sokol
+2 -16
+D Simon FL -20
+L Richards FW +4
+Drop
+Dan Tartaglione
+2 -42
+D Yeager FL -13
+L Yeager FW +14
+L Streleckil TL -13
+D Kafer FL -30
+Drop
+Joe Gagliardi
+2 -22
+D Anis FL -25
+L Caton FL -20
+D Dubreuil FW +32
+L Shewski FL -9
+Drop
+Joe Pinto
+3 +4
+D Phelps TW +24
+L Westergard TL -17
+L Konsker TL -12
+D Gagliardi FW +9
+Drop
+Nicolae Borota
+2 -59
+L Pistone FL -32
+D Streleckil FL -20
+L Phelps FW +33
+D Clarkson FL -30
+Drop
+Michael Pistone
+2 -41
+D Borota FW +32
+L Shaw FL -23
+L Booker FL -27
+D Yeager FL -23
+Drop
+Erich Hawbaker
+2 -33
+L Gogolen FL -18
+D Runyon FW +13
+L Simon FL -23
+D Schwarz FL -5
+Drop
+Joe Olson
+4 -12
+D Caton FW +17
+L Anis FL -3
+L Clarkson FW +13
+D Gogolen FL -18
+Drop
