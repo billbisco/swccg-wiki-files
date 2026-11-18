@@ -1,0 +1,76 @@
+{
+  "locations": {
+    "04f765d6e55ad8cc44ad1486407d79782b946f8c3803cd9e472cfc1409eda72c": {
+      "artifact_bytes": 65612,
+      "artifact_sha256": "92725c59e15aad503bf3dc18102986e2db7051be45e00c576393d032cf7995a0",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/04f765d6e55ad8cc44ad1486407d79782b946f8c3803cd9e472cfc1409eda72c.bin",
+      "path": "preservation/636/sources/containers/92725c59e15aad503bf3dc18102986e2db7051be45e00c576393d032cf7995a0.tar.xz",
+      "uncompressed_bytes": 311342
+    },
+    "4335fdfc3d4255b7cf908831cf2590f87f69fa847fdf01d815f9c76f17ddf729": {
+      "artifact_bytes": 65612,
+      "artifact_sha256": "92725c59e15aad503bf3dc18102986e2db7051be45e00c576393d032cf7995a0",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/4335fdfc3d4255b7cf908831cf2590f87f69fa847fdf01d815f9c76f17ddf729.bin",
+      "path": "preservation/636/sources/containers/92725c59e15aad503bf3dc18102986e2db7051be45e00c576393d032cf7995a0.tar.xz",
+      "uncompressed_bytes": 311342
+    },
+    "c85a5e9417644a9579da589714a6a546ec7362f28f45eb9e0ff4750202dd251b": {
+      "artifact_bytes": 65612,
+      "artifact_sha256": "92725c59e15aad503bf3dc18102986e2db7051be45e00c576393d032cf7995a0",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/c85a5e9417644a9579da589714a6a546ec7362f28f45eb9e0ff4750202dd251b.bin",
+      "path": "preservation/636/sources/containers/92725c59e15aad503bf3dc18102986e2db7051be45e00c576393d032cf7995a0.tar.xz",
+      "uncompressed_bytes": 311342
+    }
+  },
+  "plan_sha256": "005b1d67348208218fc60bc79878ac063f999bbafb16fec7c55beecb304cf4ff",
+  "representations": [
+    {
+      "acquired_url": "https://web.archive.org/web/20000422211202/http://www.decipher.com/artshow/eastereggs/starwarsccg/dagobah/light/ehanstoolkit.html",
+      "bytes": 3196,
+      "disposition": "Positive source rescue addendum; root owns final canonical freeze",
+      "primary_url": "http://www.decipher.com/artshow/eastereggs/starwarsccg/dagobah/light/ehanstoolkit.html",
+      "provider": {
+        "attestation_evidence_file": "C:\\Users\\gythe\\Documents\\Codex\\2026-11-06\\implement-legacy-lane-e-block-4\\work\\dagobah-next\\source-accuracy-review\\root-rescue-addendum\\acquisition-network.json",
+        "attested_at": "2026-11-18T17:40:53.535132+00:00",
+        "host": "web.archive.org"
+      },
+      "representation_kind": "replay",
+      "sha256": "4335fdfc3d4255b7cf908831cf2590f87f69fa847fdf01d815f9c76f17ddf729",
+      "source_role": "Published publisher/expert source supporting restored existing reference"
+    },
+    {
+      "acquired_url": "https://web.archive.org/web/20000422184526/http://www.decipher.com/artshow/eastereggs/starwarsccg/dagobah/light/eatpeace.html",
+      "bytes": 3165,
+      "disposition": "Positive source rescue addendum; root owns final canonical freeze",
+      "primary_url": "http://www.decipher.com/artshow/eastereggs/starwarsccg/dagobah/light/eatpeace.html",
+      "provider": {
+        "attestation_evidence_file": "C:\\Users\\gythe\\Documents\\Codex\\2026-11-06\\implement-legacy-lane-e-block-4\\work\\dagobah-next\\source-accuracy-review\\root-rescue-addendum\\acquisition-at-peace.json",
+        "attested_at": "2026-11-18T17:44:11.473677+00:00",
+        "host": "web.archive.org"
+      },
+      "representation_kind": "replay",
+      "sha256": "04f765d6e55ad8cc44ad1486407d79782b946f8c3803cd9e472cfc1409eda72c",
+      "source_role": "Published publisher/expert source supporting restored existing reference"
+    },
+    {
+      "acquired_url": "https://web.archive.org/web/20251010080717/https://www.nytimes.com/2009/06/28/magazine/28FOB-onlanguage-t.html",
+      "bytes": 304981,
+      "disposition": "Positive source rescue addendum; root owns final canonical freeze",
+      "primary_url": "https://www.nytimes.com/2009/06/28/magazine/28FOB-onlanguage-t.html",
+      "provider": {
+        "attestation_evidence_file": "C:\\Users\\gythe\\Documents\\Codex\\2026-11-06\\implement-legacy-lane-e-block-4\\work\\dagobah-next\\source-accuracy-review\\root-rescue-addendum\\acquisition-nyt.json",
+        "attested_at": "2026-11-18T17:45:25.239866+00:00",
+        "host": "web.archive.org"
+      },
+      "representation_kind": "replay",
+      "sha256": "c85a5e9417644a9579da589714a6a546ec7362f28f45eb9e0ff4750202dd251b",
+      "source_role": "Published publisher/expert source supporting restored existing reference"
+    }
+  ]
+}
