@@ -1,0 +1,17 @@
+{
+  "ticket": 773,
+  "scope": "Unmodified original public card photograph backup; no reconstruction or re-encoding.",
+  "files": [
+    {
+      "path": "54_11-fcdfea1ed4a4.webp",
+      "card_uid": "54_11",
+      "title": "Landing Claw (Revised)",
+      "source_url": "https://i.ebayimg.com/images/g/MyEAAOSwub5k6UZl/s-l1600.webp",
+      "bytes": 551676,
+      "sha256": "fcdfea1ed4a4230b3f923eb109685e957f701a21c60794aaffc7617e5b96cdec",
+      "format": "WEBP",
+      "photographer": "Unknown; no license attribution inferred",
+      "verification": "Source capture and complete face/corners/legal line checked; unchanged native bytes retained. Derived display crop and source audit preserved separately in private Work evidence."
+    }
+  ]
+}
