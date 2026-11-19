@@ -1,0 +1,22 @@
+{
+  "ticket": 773,
+  "representation": "Unretouched native physical white-border card photographs from public eBay image URLs; unidentified photographers. No reconstruction.",
+  "files": [
+    {
+      "path": "54_63-b93beacf655c.webp",
+      "card": "This Is No Cave (Revised)",
+      "card_uid": "54_63",
+      "source_url": "https://i.ebayimg.com/images/g/-pQAAOSw1kFgtzQa/s-l1600.webp",
+      "sha256": "b93beacf655c9c2a71dc86b7c8cd6f865bd3f8f929a51c86b49d52416ea40f53",
+      "bytes": 523362
+    },
+    {
+      "path": "54_80-39bd8c848f83.webp",
+      "card": "Anoat (Revised)",
+      "card_uid": "54_80",
+      "source_url": "https://i.ebayimg.com/images/g/g-wAAeSwXBNp~5Fp/s-l1600.webp",
+      "sha256": "39bd8c848f8351cca6160fb123209af5ba14196aa119a67154d376aa27d9816c",
+      "bytes": 596262
+    }
+  ]
+}
