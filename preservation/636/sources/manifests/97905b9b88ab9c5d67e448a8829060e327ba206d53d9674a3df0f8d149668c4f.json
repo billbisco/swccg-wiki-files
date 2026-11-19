@@ -1,0 +1,45 @@
+{
+  "locations": {
+    "1fff93aeaa45c1c66f08269ad16b8642a0056dadb5b96ac1371814d630e279ea": {
+      "artifact_bytes": 2758032,
+      "artifact_sha256": "c6b6b1e07ad6b77efcfbe55e4172f2d0254b42df6a098b8c1b613f93f42b0aa7",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/1fff93aeaa45c1c66f08269ad16b8642a0056dadb5b96ac1371814d630e279ea.bin",
+      "path": "preservation/636/sources/containers/c6b6b1e07ad6b77efcfbe55e4172f2d0254b42df6a098b8c1b613f93f42b0aa7.tar.xz",
+      "uncompressed_bytes": 4159679
+    },
+    "8640f4e52c98705864ecca49a8531a749a3c317ffd1957aa36d1fd87bb410b73": {
+      "artifact_bytes": 2758032,
+      "artifact_sha256": "c6b6b1e07ad6b77efcfbe55e4172f2d0254b42df6a098b8c1b613f93f42b0aa7",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/8640f4e52c98705864ecca49a8531a749a3c317ffd1957aa36d1fd87bb410b73.bin",
+      "path": "preservation/636/sources/containers/c6b6b1e07ad6b77efcfbe55e4172f2d0254b42df6a098b8c1b613f93f42b0aa7.tar.xz",
+      "uncompressed_bytes": 4159679
+    }
+  },
+  "plan_sha256": "ec426cee56a6fa86b7035867c7ab5ed88e36a60275beb17483f9d6ab6c670d78",
+  "representations": [
+    {
+      "acquired_url": "https://res.starwarsccg.org/wp/wp-content/uploads/2022/SWCCG_2022_AdvancedRulebook.pdf",
+      "bytes": 3346635,
+      "disposition": null,
+      "primary_url": "https://res.starwarsccg.org/wp/wp-content/uploads/2022/SWCCG_2022_AdvancedRulebook.pdf",
+      "provider": null,
+      "representation_kind": "native",
+      "sha256": "1fff93aeaa45c1c66f08269ad16b8642a0056dadb5b96ac1371814d630e279ea",
+      "source_role": "Official PC errata v3.28, PDF page 122, Res Luk Ra’auf and Rogue Asteroid."
+    },
+    {
+      "acquired_url": "https://www.starwars.com/databank/bossk",
+      "bytes": 813044,
+      "disposition": null,
+      "primary_url": "https://www.starwars.com/databank/bossk",
+      "provider": null,
+      "representation_kind": "HTTP",
+      "sha256": "8640f4e52c98705864ecca49a8531a749a3c317ffd1957aa36d1fd87bb410b73",
+      "source_role": "Official Databank quote panel identifies the card title as the line Bossk says in The Empire Strikes Back."
+    }
+  ]
+}
