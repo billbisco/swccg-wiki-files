@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="110_1" horizontal="false" title="Boushh"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="7_48" horizontal="false" title="TK-422"/>
+    <card blueprintId="4_11" horizontal="false" title="Landing Claw"/>
+    <card blueprintId="4_11" horizontal="false" title="Landing Claw"/>
+    <card blueprintId="4_16" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="4_16" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="4_21" horizontal="false" title="Do, Or Do Not"/>
+    <card blueprintId="7_58" horizontal="false" title="Docking And Repair Facilities"/>
+    <card blueprintId="9_33" horizontal="false" title="Honor Of The Jedi"/>
+    <card blueprintId="4_30" horizontal="false" title="Order To Engage"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="7_73" horizontal="false" title="Rebel Fleet"/>
+    <card blueprintId="7_73" horizontal="false" title="Rebel Fleet"/>
+    <card blueprintId="2_41" horizontal="false" title="What're You Tryin' To Push On Us?"/>
+    <card blueprintId="7_81" horizontal="false" title="Wise Advice"/>
+    <card blueprintId="9_47" horizontal="false" title="Your Insight Serves You Well"/>
+    <card blueprintId="7_82" horizontal="false" title="All Wings Report In"/>
+    <card blueprintId="7_82" horizontal="false" title="All Wings Report In"/>
+    <card blueprintId="4_48" horizontal="false" title="Control"/>
+    <card blueprintId="4_48" horizontal="false" title="Control"/>
+    <card blueprintId="2_49" horizontal="false" title="Grimtaash"/>
+    <card blueprintId="2_49" horizontal="false" title="Grimtaash"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="1_88" horizontal="false" title="Hyper Escape"/>
+    <card blueprintId="1_88" horizontal="false" title="Hyper Escape"/>
+    <card blueprintId="106_5" horizontal="false" title="It's A Hit!"/>
+    <card blueprintId="7_97" horizontal="false" title="Organized Attack"/>
+    <card blueprintId="2_54" horizontal="false" title="Out Of Commission"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="4_82" horizontal="false" title="Big One"/>
+    <card blueprintId="4_83" horizontal="true" title="Big One: Asteroid Cave Or Space Slug Belly"/>
+    <card blueprintId="7_116" horizontal="false" title="Coruscant"/>
+    <card blueprintId="8_68" horizontal="false" title="Endor"/>
+    <card blueprintId="1_126" horizontal="false" title="Kessel"/>
+    <card blueprintId="6_83" horizontal="false" title="Kiffex"/>
+    <card blueprintId="6_84" horizontal="false" title="Kirdo III"/>
+    <card blueprintId="3_64" horizontal="false" title="Ord Mantell"/>
+    <card blueprintId="7_123" horizontal="false" title="Rendezvous Point"/>
+    <card blueprintId="7_124" horizontal="false" title="Roche"/>
+    <card blueprintId="7_136" horizontal="false" title="Hidden Base"/>
+    <card blueprintId="103_2" horizontal="false" title="Red Leader In Red 1"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="7_162" horizontal="false" title="X-wing Laser Cannon"/>
+    <card blueprintId="7_162" horizontal="false" title="X-wing Laser Cannon"/>
+    <card blueprintId="7_162" horizontal="false" title="X-wing Laser Cannon"/>
+</deck>

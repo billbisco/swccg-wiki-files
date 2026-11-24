@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="1_289" horizontal="false" title="Tatooine"/>
+    <card blueprintId="11_92" horizontal="true" title="Tatooine: Desert Landing Site"/>
+    <card blueprintId="200_117" horizontal="false" title="Combat Readiness"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="10_32" horizontal="false" title="Black Sun Fleet"/>
+    <card blueprintId="10_32" horizontal="false" title="Black Sun Fleet"/>
+    <card blueprintId="9_101" horizontal="false" title="Captain Jonus"/>
+    <card blueprintId="11_54" horizontal="false" title="Darth Maul"/>
+    <card blueprintId="1_173" horizontal="false" title="DS-61-2"/>
+    <card blueprintId="10_31" horizontal="false" title="Arica"/>
+    <card blueprintId="200_78" horizontal="false" title="Darth Vader"/>
+    <card blueprintId="9_99" horizontal="false" title="Baron Soontir Fel"/>
+    <card blueprintId="206_9" horizontal="false" title="Boba Fett"/>
+    <card blueprintId="200_75" horizontal="false" title="Bossk"/>
+    <card blueprintId="2_107" horizontal="false" title="U-3PO (Yoo-Threepio)"/>
+    <card blueprintId="1_222" horizontal="false" title="Lateral Damage"/>
+    <card blueprintId="1_222" horizontal="false" title="Lateral Damage"/>
+    <card blueprintId="207_26" horizontal="false" title="Security Precautions"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="200_111" horizontal="false" title="Kuat Drive Yards"/>
+    <card blueprintId="200_105" horizontal="false" title="Combat Response"/>
+    <card blueprintId="200_107" horizontal="false" title="Image Of The Dark Lord"/>
+    <card blueprintId="14_94" horizontal="false" title="After Her!"/>
+    <card blueprintId="201_33" horizontal="false" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="200_116" horizontal="false" title="Close Call"/>
+    <card blueprintId="200_123" horizontal="false" title="Sith Fury"/>
+    <card blueprintId="201_36" horizontal="false" title="TIE Sentry Ships"/>
+    <card blueprintId="7_253" horizontal="false" title="I Can't Shake Him!"/>
+    <card blueprintId="7_253" horizontal="false" title="I Can't Shake Him!"/>
+    <card blueprintId="200_122" horizontal="false" title="Imbalance &amp; Kintan Strider"/>
+    <card blueprintId="200_122" horizontal="false" title="Imbalance &amp; Kintan Strider"/>
+    <card blueprintId="200_122" horizontal="false" title="Imbalance &amp; Kintan Strider"/>
+    <card blueprintId="10_39" horizontal="false" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+    <card blueprintId="1_261" horizontal="false" title="Nevar Yalnal"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="7_266" horizontal="false" title="They've Shut Down The Main Reactor"/>
+    <card blueprintId="102_8" horizontal="false" title="Gravity Shadow"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="10_34" horizontal="false" title="Control &amp; Set For Stun"/>
+    <card blueprintId="7_283" horizontal="false" title="Fondor"/>
+    <card blueprintId="2_146" horizontal="false" title="Kashyyyk"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="9_167" horizontal="false" title="Scimitar 2"/>
+    <card blueprintId="201_40" horizontal="false" title="Slave I, Symbol Of Fear"/>
+    <card blueprintId="12_182" horizontal="false" title="Maul's Sith Infiltrator"/>
+    <card blueprintId="200_138" horizontal="false" title="Vader's Personal Shuttle"/>
+    <card blueprintId="110_12" horizontal="false" title="Zuckuss In Mist Hunter"/>
+    <card blueprintId="200_135" horizontal="false" title="Hound's Tooth"/>
+    <card blueprintId="200_127" horizontal="false" title="Black 2"/>
+    <card blueprintId="9_158" horizontal="false" title="Judicator"/>
+    <card blueprintId="9_162" horizontal="false" title="Saber 1"/>
+    <card blueprintId="12_187" horizontal="false" title="Laser Cannon Battery"/>
+    <card blueprintId="7_324" horizontal="false" title="SFS L-s9.3 Laser Cannons"/>
+</deck>

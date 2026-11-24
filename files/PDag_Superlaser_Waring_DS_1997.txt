@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="2_143" horizontal="false" title="Death Star"/>
+    <card blueprintId="1_287" horizontal="true" title="Death Star: War Room"/>
+    <card blueprintId="1_283" horizontal="true" title="Death Star: Central Core"/>
+    <card blueprintId="1_285" horizontal="true" title="Death Star: Docking Bay 327"/>
+    <card blueprintId="101_4" horizontal="true" title="Death Star: Docking Control Room 327"/>
+    <card blueprintId="2_144" horizontal="true" title="Death Star: Conference Room"/>
+    <card blueprintId="1_284" horizontal="true" title="Death Star: Detention Block Corridor"/>
+    <card blueprintId="4_165" horizontal="true" title="Star Destroyer: Launch Bay"/>
+    <card blueprintId="4_159" horizontal="true" title="Executor: Comm Station"/>
+    <card blueprintId="1_168" horizontal="false" title="Darth Vader"/>
+    <card blueprintId="1_179" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="1_164" horizontal="false" title="Admiral Motti"/>
+    <card blueprintId="1_178" horizontal="false" title="General Tagge"/>
+    <card blueprintId="1_194" horizontal="false" title="Stormtrooper"/>
+    <card blueprintId="1_194" horizontal="false" title="Stormtrooper"/>
+    <card blueprintId="1_194" horizontal="false" title="Stormtrooper"/>
+    <card blueprintId="1_194" horizontal="false" title="Stormtrooper"/>
+    <card blueprintId="1_194" horizontal="false" title="Stormtrooper"/>
+    <card blueprintId="1_194" horizontal="false" title="Stormtrooper"/>
+    <card blueprintId="1_194" horizontal="false" title="Stormtrooper"/>
+    <card blueprintId="1_194" horizontal="false" title="Stormtrooper"/>
+    <card blueprintId="1_194" horizontal="false" title="Stormtrooper"/>
+    <card blueprintId="1_194" horizontal="false" title="Stormtrooper"/>
+    <card blueprintId="2_86" horizontal="false" title="Death Star Gunner"/>
+    <card blueprintId="1_173" horizontal="false" title="DS-61-2"/>
+    <card blueprintId="1_174" horizontal="false" title="DS-61-3"/>
+    <card blueprintId="3_157" horizontal="false" title="Blizzard Walker"/>
+    <card blueprintId="1_308" horizontal="false" title="Lift Tube"/>
+    <card blueprintId="4_167" horizontal="false" title="Executor"/>
+    <card blueprintId="1_304" horizontal="false" title="TIE Fighter"/>
+    <card blueprintId="1_304" horizontal="false" title="TIE Fighter"/>
+    <card blueprintId="1_304" horizontal="false" title="TIE Fighter"/>
+    <card blueprintId="1_304" horizontal="false" title="TIE Fighter"/>
+    <card blueprintId="1_304" horizontal="false" title="TIE Fighter"/>
+    <card blueprintId="1_304" horizontal="false" title="TIE Fighter"/>
+    <card blueprintId="1_304" horizontal="false" title="TIE Fighter"/>
+    <card blueprintId="1_304" horizontal="false" title="TIE Fighter"/>
+    <card blueprintId="1_304" horizontal="false" title="TIE Fighter"/>
+    <card blueprintId="2_153" horizontal="false" title="TIE Assault Squadron"/>
+    <card blueprintId="2_153" horizontal="false" title="TIE Assault Squadron"/>
+    <card blueprintId="2_153" horizontal="false" title="TIE Assault Squadron"/>
+    <card blueprintId="1_302" horizontal="false" title="Imperial-Class Star Destroyer"/>
+    <card blueprintId="2_155" horizontal="false" title="Victory-Class Star Destroyer"/>
+    <card blueprintId="2_155" horizontal="false" title="Victory-Class Star Destroyer"/>
+    <card blueprintId="1_306" horizontal="false" title="Vader's Custom TIE"/>
+    <card blueprintId="1_299" horizontal="false" title="Black 2"/>
+    <card blueprintId="1_300" horizontal="false" title="Black 3"/>
+    <card blueprintId="1_313" horizontal="false" title="Boosted TIE Cannon"/>
+    <card blueprintId="2_158" horizontal="false" title="Enhanced TIE Laser Cannon"/>
+    <card blueprintId="2_158" horizontal="false" title="Enhanced TIE Laser Cannon"/>
+    <card blueprintId="1_323" horizontal="false" title="Turbolaser Battery"/>
+    <card blueprintId="1_323" horizontal="false" title="Turbolaser Battery"/>
+    <card blueprintId="3_158" horizontal="false" title="AT-AT Cannon"/>
+    <card blueprintId="1_319" horizontal="false" title="Laser Projector"/>
+    <card blueprintId="2_161" horizontal="false" title="Superlaser"/>
+    <card blueprintId="2_113" horizontal="false" title="Laser Gate"/>
+    <card blueprintId="2_113" horizontal="false" title="Laser Gate"/>
+    <card blueprintId="2_130" horizontal="false" title="Commence Primary Ignition"/>
+    <card blueprintId="2_130" horizontal="false" title="Commence Primary Ignition"/>
+    <card blueprintId="1_228" horizontal="false" title="Reactor Terminal"/>
+</deck>

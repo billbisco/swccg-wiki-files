@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="203_26" title="Darth Maul, Lone Hunter"/>
+    <card blueprintId="12_104" title="Destroyer Droid"/>
+    <card blueprintId="12_104" title="Destroyer Droid"/>
+    <card blueprintId="12_104" title="Destroyer Droid"/>
+    <card blueprintId="12_104" title="Destroyer Droid"/>
+    <card blueprintId="12_104" title="Destroyer Droid"/>
+    <card blueprintId="200_80" title="Droideka"/>
+    <card blueprintId="200_80" title="Droideka"/>
+    <card blueprintId="200_80" title="Droideka"/>
+    <card blueprintId="200_80" title="Droideka"/>
+    <card blueprintId="200_80" title="Droideka"/>
+    <card blueprintId="200_80" title="Droideka"/>
+    <card blueprintId="200_80" title="Droideka"/>
+    <card blueprintId="210_40" title="Nute Gunray"/>
+    <card blueprintId="210_40" title="Nute Gunray"/>
+    <card blueprintId="12_114" title="P-59"/>
+    <card blueprintId="12_114" title="P-59"/>
+    <card blueprintId="12_115" title="P-60"/>
+    <card blueprintId="12_115" title="P-60"/>
+    <card blueprintId="1_210" title="Blast Door Controls"/>
+    <card blueprintId="8_121" title="Crossfire"/>
+    <card blueprintId="221_18" title="Deactivated Hyperdrive"/>
+    <card blueprintId="200_110" title="Knowledge And Defense"/>
+    <card blueprintId="8_131" title="Search And Destroy"/>
+    <card blueprintId="208_42" title="Where Are Those Droidekas?!"/>
+    <card blueprintId="9_133" title="You Cannot Hide Forever"/>
+    <card blueprintId="211_11" title="Insidious Prisoner"/>
+    <card blueprintId="201_35" title="Cold Feet"/>
+    <card blueprintId="221_13" title="ComScan Detection"/>
+    <card blueprintId="200_120" title="Force Push"/>
+    <card blueprintId="2_132" title="Ghhhk"/>
+    <card blueprintId="219_8" title="Grievous' Gambit"/>
+    <card blueprintId="200_122" title="Imbalance &amp; Kintan Strider"/>
+    <card blueprintId="14_104" title="Master, Destroyers!"/>
+    <card blueprintId="14_104" title="Master, Destroyers!"/>
+    <card blueprintId="14_104" title="Master, Destroyers!"/>
+    <card blueprintId="12_152" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="3_130" title="Oh, Switch Off"/>
+    <card blueprintId="3_130" title="Oh, Switch Off"/>
+    <card blueprintId="205_20" title="Point Man"/>
+    <card blueprintId="205_20" title="Point Man"/>
+    <card blueprintId="218_2" title="Seal Off The Bridge"/>
+    <card blueprintId="218_2" title="Seal Off The Bridge"/>
+    <card blueprintId="3_134" title="Self-Destruct Mechanism"/>
+    <card blueprintId="3_134" title="Self-Destruct Mechanism"/>
+    <card blueprintId="10_47" title="Sniper &amp; Dark Strike"/>
+    <card blueprintId="10_47" title="Sniper &amp; Dark Strike"/>
+    <card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="8_154" title="Wounded Warrior"/>
+    <card blueprintId="8_154" title="Wounded Warrior"/>
+    <card blueprintId="12_164" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="211_17" title="Coruscant: 500 Republica"/>
+    <card blueprintId="211_18" title="Coruscant: Private Platform (Docking Bay)"/>
+    <card blueprintId="211_20" title="Invisible Hand: Bridge"/>
+    <card blueprintId="211_21" title="Invisible Hand: Docking Bay"/>
+    <card blueprintId="211_27" title="Invisible Hand: Observatory Entrance"/>
+    <card blueprintId="211_26" title="A Stunning Move"/>
+    <card blueprintId="12_183" title="Maul's Sith Infiltrator"/>
+    <card blueprintId="12_183" title="Maul's Sith Infiltrator"/>
+    <cardOutsideDeck blueprintId="13_51" title="A Useless Gesture"/>
+    <cardOutsideDeck blueprintId="200_93" title="A Useless Gesture"/>
+    <cardOutsideDeck blueprintId="13_52" title="Allegations Of Corruption"/>
+    <cardOutsideDeck blueprintId="13_54" title="Battle Order"/>
+    <cardOutsideDeck blueprintId="13_61" title="Come Here You Big Coward"/>
+    <cardOutsideDeck blueprintId="13_63" title="Crossfire"/>
+    <cardOutsideDeck blueprintId="200_94" title="Death Star Sentry"/>
+    <cardOutsideDeck blueprintId="13_66" title="Do They Have A Code Clearance?"/>
+    <cardOutsideDeck blueprintId="220_2" title="Drop!"/>
+    <cardOutsideDeck blueprintId="213_13" title="Failure At The Cave"/>
+    <cardOutsideDeck blueprintId="200_95" title="Fanfare"/>
+    <cardOutsideDeck blueprintId="200_97" title="I Find Your Lack Of Faith Disturbing"/>
+    <cardOutsideDeck blueprintId="200_98" title="Imperial Detention"/>
+    <cardOutsideDeck blueprintId="13_72" title="Leave Them To Me"/>
+    <cardOutsideDeck blueprintId="13_78" title="No Escape"/>
+    <cardOutsideDeck blueprintId="13_81" title="Oppressive Enforcement"/>
+    <cardOutsideDeck blueprintId="13_84" title="Resistance"/>
+    <cardOutsideDeck blueprintId="13_86" title="Secret Plans"/>
+    <cardOutsideDeck blueprintId="13_90" title="There Is No Try"/>
+    <cardOutsideDeck blueprintId="200_99" title="Vote Of No Confidence"/>
+    <cardOutsideDeck blueprintId="13_96" title="We'll Let Fate-a Decide, Huh?"/>
+    <cardOutsideDeck blueprintId="13_95" title="Weapon Of A Sith"/>
+    <cardOutsideDeck blueprintId="13_98" title="Wipe Them Out, All Of Them"/>
+    <cardOutsideDeck blueprintId="200_100" title="You Cannot Hide Forever"/>
+    <cardOutsideDeck blueprintId="13_100" title="You've Never Won A Race?"/>
+</deck>

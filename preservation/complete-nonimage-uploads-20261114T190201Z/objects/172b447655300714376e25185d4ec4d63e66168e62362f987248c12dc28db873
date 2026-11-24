@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="4_91" horizontal="false" title="4-LOM"/>
+    <card blueprintId="5_91" horizontal="false" title="Boba Fett"/>
+    <card blueprintId="12_99" horizontal="false" title="Chokk"/>
+    <card blueprintId="7_170" horizontal="false" title="Chyler"/>
+    <card blueprintId="5_94" horizontal="false" title="Cloud City Engineer"/>
+    <card blueprintId="5_94" horizontal="false" title="Cloud City Engineer"/>
+    <card blueprintId="5_94" horizontal="false" title="Cloud City Engineer"/>
+    <card blueprintId="5_95" horizontal="false" title="Cloud City Trooper"/>
+    <card blueprintId="5_95" horizontal="false" title="Cloud City Trooper"/>
+    <card blueprintId="5_95" horizontal="false" title="Cloud City Trooper"/>
+    <card blueprintId="5_95" horizontal="false" title="Cloud City Trooper"/>
+    <card blueprintId="5_95" horizontal="false" title="Cloud City Trooper"/>
+    <card blueprintId="14_78" horizontal="false" title="Darth Sidious"/>
+    <card blueprintId="1_178" horizontal="false" title="General Tagge"/>
+    <card blueprintId="2_91" horizontal="false" title="Imperial Commander"/>
+    <card blueprintId="2_91" horizontal="false" title="Imperial Commander"/>
+    <card blueprintId="2_92" horizontal="false" title="Imperial Squad Leader"/>
+    <card blueprintId="5_99" horizontal="false" title="Lando Calrissian"/>
+    <card blueprintId="7_189" horizontal="false" title="Makurth"/>
+    <card blueprintId="1_189" horizontal="false" title="Myo"/>
+    <card blueprintId="2_104" horizontal="false" title="Rodian"/>
+    <card blueprintId="7_204" horizontal="false" title="Sergeant Merril"/>
+    <card blueprintId="106_16" horizontal="false" title="Stormtrooper Cadet"/>
+    <card blueprintId="1_194" horizontal="false" title="Stormtrooper"/>
+    <card blueprintId="1_194" horizontal="false" title="Stormtrooper"/>
+    <card blueprintId="1_194" horizontal="false" title="Stormtrooper"/>
+    <card blueprintId="1_194" horizontal="false" title="Stormtrooper"/>
+    <card blueprintId="1_194" horizontal="false" title="Stormtrooper"/>
+    <card blueprintId="1_194" horizontal="false" title="Stormtrooper"/>
+    <card blueprintId="1_194" horizontal="false" title="Stormtrooper"/>
+    <card blueprintId="1_194" horizontal="false" title="Stormtrooper"/>
+    <card blueprintId="1_194" horizontal="false" title="Stormtrooper"/>
+    <card blueprintId="1_194" horizontal="false" title="Stormtrooper"/>
+    <card blueprintId="5_103" horizontal="false" title="Trooper Jerrol Blendin"/>
+    <card blueprintId="5_104" horizontal="false" title="Ugloste"/>
+    <card blueprintId="5_168" horizontal="true" title="Cloud City: Dining Room"/>
+    <card blueprintId="5_166" horizontal="true" title="Cloud City: Carbonite Chamber"/>
+    <card blueprintId="5_167" horizontal="true" title="Cloud City: Chasm Walkway"/>
+    <card blueprintId="5_171" horizontal="true" title="Cloud City: Lower Corridor"/>
+    <card blueprintId="5_172" horizontal="true" title="Cloud City: Security Tower"/>
+    <card blueprintId="5_173" horizontal="true" title="Cloud City: Upper Plaza Corridor"/>
+    <card blueprintId="5_115" horizontal="false" title="Dark Deal"/>
+    <card blueprintId="6_143" horizontal="false" title="Den Of Thieves"/>
+    <card blueprintId="1_228" horizontal="false" title="Reactor Terminal"/>
+    <card blueprintId="5_126" horizontal="false" title="Vader's Cape"/>
+    <card blueprintId="6_151" horizontal="false" title="Abyssin Ornament"/>
+    <card blueprintId="6_151" horizontal="false" title="Abyssin Ornament"/>
+    <card blueprintId="6_151" horizontal="false" title="Abyssin Ornament"/>
+    <card blueprintId="1_234" horizontal="false" title="Alter"/>
+    <card blueprintId="1_234" horizontal="false" title="Alter"/>
+    <card blueprintId="109_7" horizontal="false" title="Any Methods Necessary"/>
+    <card blueprintId="4_139" horizontal="false" title="Control"/>
+    <card blueprintId="5_150" horizontal="false" title="Release Your Anger"/>
+    <card blueprintId="7_261" horizontal="false" title="Sacrifice"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+</deck>

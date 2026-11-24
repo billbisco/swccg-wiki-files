@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="1_135" horizontal="false" title="Yavin 4"/>
+    <card blueprintId="200_50" horizontal="false" title="Careful Planning"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="202_5" horizontal="false" title="Like My Father Before Me"/>
+    <card blueprintId="12_41" horizontal="false" title="Battle Plan &amp; Draw Their Fire"/>
+    <card blueprintId="7_134" horizontal="true" title="Yavin 4: Massassi Headquarters"/>
+    <card blueprintId="4_41" horizontal="false" title="Wars Not Make One Great"/>
+    <card blueprintId="5_20" horizontal="false" title="Civil Disorder"/>
+    <card blueprintId="5_24" horizontal="false" title="Haven"/>
+    <card blueprintId="14_49" horizontal="true" title="Naboo: Boss Nass' Chambers"/>
+    <card blueprintId="2_57" horizontal="false" title="Sorry About The Mess"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="200_48" horizontal="false" title="Alter"/>
+    <card blueprintId="10_25" horizontal="false" title="The Bith Shuffle &amp; Desperate Reach"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="3_50" horizontal="false" title="Under Attack"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="200_55" horizontal="false" title="Put That Down"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="10_21" horizontal="false" title="Sense &amp; Recoil In Fear"/>
+    <card blueprintId="5_38" horizontal="false" title="Clash Of Sabers"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="200_48" horizontal="false" title="Alter"/>
+    <card blueprintId="200_49" horizontal="false" title="Antilles Maneuver"/>
+    <card blueprintId="200_49" horizontal="false" title="Antilles Maneuver"/>
+    <card blueprintId="1_97" horizontal="false" title="Nabrun Leids"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="13_21" horizontal="false" title="Han, Chewie, And The Falcon"/>
+    <card blueprintId="202_8" horizontal="false" title="Corran Horn In Rogue 9"/>
+    <card blueprintId="203_20" horizontal="false" title="Bright Hope"/>
+    <card blueprintId="201_18" horizontal="false" title="Green Leader In Green Squadron 1"/>
+    <card blueprintId="200_67" horizontal="false" title="Wedge In Red Squadron 1"/>
+    <card blueprintId="200_62" horizontal="false" title="Gold Leader In Gold 1"/>
+    <card blueprintId="204_33" horizontal="false" title="Masanya"/>
+    <card blueprintId="201_19" horizontal="false" title="Tantive IV"/>
+    <card blueprintId="1_38" horizontal="false" title="Restraining Bolt"/>
+    <card blueprintId="9_90" horizontal="false" title="Luke's Lightsaber"/>
+    <card blueprintId="9_90" horizontal="false" title="Luke's Lightsaber"/>
+    <card blueprintId="200_18" horizontal="false" title="Leia"/>
+    <card blueprintId="201_6" horizontal="false" title="R2-D2 (Artoo-Detoo)"/>
+    <card blueprintId="202_4" horizontal="false" title="Yoda, Keeper Of The Peace"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="12_20" horizontal="false" title="Phylo Gandish"/>
+    <card blueprintId="14_27" horizontal="false" title="Qui-Gon Jinn With Lightsaber"/>
+    <card blueprintId="200_21" horizontal="false" title="Luke Skywalker, Rebel Scout"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="200_1" horizontal="false" title="Aayla Secura"/>
+    <card blueprintId="200_21" horizontal="false" title="Luke Skywalker, Rebel Scout"/>
+    <card blueprintId="200_21" horizontal="false" title="Luke Skywalker, Rebel Scout"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="203_6" horizontal="false" title="Kanan Jarrus"/>
+    <card blueprintId="203_10" horizontal="false" title="Padme Naberrie"/>
+    <card blueprintId="200_11" horizontal="false" title="Dorme"/>
+    <card blueprintId="14_27" horizontal="false" title="Qui-Gon Jinn With Lightsaber"/>
+    <card blueprintId="200_15" horizontal="false" title="Harc Seff"/>
+    <card blueprintId="200_12" horizontal="false" title="General Airen Cracken"/>
+    <card blueprintId="203_9" horizontal="false" title="Mon Calamari Admiral"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="1_43" horizontal="false" title="Affect Mind"/>
+    <card blueprintId="12_37" horizontal="false" title="A Tragedy Has Occurred"/>
+    <card blueprintId="8_34" horizontal="false" title="Aim High"/>
+    <card blueprintId="112_4" horizontal="false" title="Ounee Ta"/>
+    <card blueprintId="6_58" horizontal="false" title="Ultimatum"/>
+    <card blueprintId="7_80" horizontal="false" title="Weapons Display"/>
+    <card blueprintId="7_81" horizontal="false" title="Wise Advice"/>
+    <card blueprintId="1_68" horizontal="false" title="Yavin Sentry"/>
+    <card blueprintId="9_47" horizontal="false" title="Your Insight Serves You Well"/>
+</deck>

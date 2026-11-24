@@ -1,0 +1,7 @@
+{
+  "js/jquery/jquery-1.6.2.min.js": "30d8c66435826bf854caa1f111b0116f430b48a5fb6c9f95ab0b87102a52581d",
+  "js/jquery/jquery-ui-1.8.16.custom.min.js": "4da08f2671caaa96316f12c971d3837054603ac7e7cf721d40a9cc89d2200d7c",
+  "js/jquery/jquery.touchSwipe.js": "31b2aafba1140845d67afca947ae16fd320f4a51695f90ac548fb874b34a82ec",
+  "js/gemp-016/cards/CardDisplay.js": "97b9c00b9f36318cb3918a9dce5910bb4f673ff36a20ff923b746f4e48c794df",
+  "js/gemp-016/cards/CardInfoDialog.js": "6e0ca5e699e0248f5ab06be8c61a250a9fb4e75ee9a6ac2836185018cc23f086"
+}

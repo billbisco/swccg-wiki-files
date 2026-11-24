@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_71" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="200_73" title="Admiral Motti"/>
+    <card blueprintId="14_77" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="7_175" title="Darth Vader, Dark Lord Of The Sith"/>
+    <card blueprintId="200_81" title="General Veers"/>
+    <card blueprintId="207_21" title="Grand Admiral Thrawn"/>
+    <card blueprintId="209_36" title="Krennic, Death Star Commandant"/>
+    <card blueprintId="209_37" title="Kylo Ren With Lightsaber"/>
+    <card blueprintId="208_34" title="Lord Maul With Lightsaber"/>
+    <card blueprintId="208_35" title="Lord Sidious"/>
+    <card blueprintId="11_68" title="A Million Voices Crying Out"/>
+    <card blueprintId="217_1" title="An Effective Demonstration"/>
+    <card blueprintId="200_109" title="Coarse And Rough And Irritating"/>
+    <card blueprintId="200_107" title="Image Of The Dark Lord"/>
+    <card blueprintId="200_110" title="Knowledge And Defense"/>
+    <card blueprintId="200_111" title="Kuat Drive Yards"/>
+    <card blueprintId="200_113" title="Tarkin Doctrine"/>
+    <card blueprintId="12_140" title="The Phantom Menace"/>
+    <card blueprintId="12_140" title="The Phantom Menace"/>
+    <card blueprintId="2_130" title="Commence Primary Ignition"/>
+    <card blueprintId="201_33" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="209_47" title="Death Squadron Assignment"/>
+    <card blueprintId="209_47" title="Death Squadron Assignment"/>
+    <card blueprintId="200_120" title="Force Push"/>
+    <card blueprintId="2_132" title="Ghhhk"/>
+    <card blueprintId="12_148" title="Imperial Artillery"/>
+    <card blueprintId="9_137" title="Imperial Command"/>
+    <card blueprintId="9_137" title="Imperial Command"/>
+    <card blueprintId="7_257" title="Masterful Move"/>
+    <card blueprintId="7_258" title="Overwhelmed"/>
+    <card blueprintId="9_139" title="Prepared Defenses"/>
+    <card blueprintId="201_36" title="TIE Sentry Ships"/>
+    <card blueprintId="201_36" title="TIE Sentry Ships"/>
+    <card blueprintId="201_36" title="TIE Sentry Ships"/>
+    <card blueprintId="106_17" title="Tarkin's Orders"/>
+    <card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="1_281" title="Alderaan"/>
+    <card blueprintId="12_164" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="106_12" title="Corulag"/>
+    <card blueprintId="2_143" title="Death Star"/>
+    <card blueprintId="1_285" title="Death Star: Docking Bay 327"/>
+    <card blueprintId="208_48" title="Death Star: War Room"/>
+    <card blueprintId="208_50" title="Jedha"/>
+    <card blueprintId="6_168" title="Nal Hutta"/>
+    <card blueprintId="12_175" title="Tatooine"/>
+    <card blueprintId="111_6" title="Set Your Course For Alderaan"/>
+    <card blueprintId="219_2" title="Chimaera"/>
+    <card blueprintId="200_133" title="Conquest"/>
+    <card blueprintId="216_8" title="Devastator"/>
+    <card blueprintId="214_5" title="Intimidator &amp; Persecutor"/>
+    <card blueprintId="9_158" title="Judicator"/>
+    <card blueprintId="201_41" title="Stalker"/>
+    <card blueprintId="219_22" title="Thunderflare"/>
+    <card blueprintId="3_153" title="Tyrant"/>
+    <card blueprintId="211_24" title="Vengeance"/>
+    <card blueprintId="215_23" title="Blizzard 8"/>
+    <card blueprintId="12_187" title="Laser Cannon Battery"/>
+    <card blueprintId="216_19" title="Superlaser"/>
+</deck>

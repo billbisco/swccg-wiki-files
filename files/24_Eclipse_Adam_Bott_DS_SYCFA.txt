@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_71" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="200_74" title="Arica"/>
+    <card blueprintId="206_9" title="Boba Fett"/>
+    <card blueprintId="13_59" title="Boba Fett, Bounty Hunter"/>
+    <card blueprintId="14_77" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="14_77" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="14_78" title="Darth Sidious"/>
+    <card blueprintId="108_6" title="Darth Vader With Lightsaber"/>
+    <card blueprintId="108_6" title="Darth Vader With Lightsaber"/>
+    <card blueprintId="1_169" title="Dathcha"/>
+    <card blueprintId="200_79" title="Dengar With Blaster Carbine"/>
+    <card blueprintId="10_37" title="Dr. Evazan &amp; Ponda Baba"/>
+    <card blueprintId="12_108" title="Jawa"/>
+    <card blueprintId="209_36" title="Krennic, Death Star Commandant"/>
+    <card blueprintId="209_37" title="Kylo Ren With Lightsaber"/>
+    <card blueprintId="208_36" title="Myn Kyneugh"/>
+    <card blueprintId="200_92" title="Ysanne Isard"/>
+    <card blueprintId="14_94" title="After Her!"/>
+    <card blueprintId="12_132" title="Drop!"/>
+    <card blueprintId="12_133" title="Enter The Bureaucrat"/>
+    <card blueprintId="7_229" title="First Strike"/>
+    <card blueprintId="200_110" title="Knowledge And Defense"/>
+    <card blueprintId="112_16" title="No Escape"/>
+    <card blueprintId="7_241" title="Sienar Fleet Systems"/>
+    <card blueprintId="221_39" title="Tentacle"/>
+    <card blueprintId="12_140" title="The Phantom Menace"/>
+    <card blueprintId="12_140" title="The Phantom Menace"/>
+    <card blueprintId="12_143" title="Wipe Them Out, All Of Them"/>
+    <card blueprintId="12_144" title="You Cannot Hide Forever &amp; Mobilization Points"/>
+    <card blueprintId="7_246" title="All Power To Weapons"/>
+    <card blueprintId="7_246" title="All Power To Weapons"/>
+    <card blueprintId="209_46" title="Apology Accepted"/>
+    <card blueprintId="200_120" title="Force Push"/>
+    <card blueprintId="2_132" title="Ghhhk"/>
+    <card blueprintId="2_132" title="Ghhhk"/>
+    <card blueprintId="6_154" title="Hidden Weapons"/>
+    <card blueprintId="6_154" title="Hidden Weapons"/>
+    <card blueprintId="1_252" title="It's Worse"/>
+    <card blueprintId="7_257" title="Masterful Move"/>
+    <card blueprintId="12_153" title="Maul Strikes"/>
+    <card blueprintId="12_153" title="Maul Strikes"/>
+    <card blueprintId="205_20" title="Point Man"/>
+    <card blueprintId="9_139" title="Prepared Defenses"/>
+    <card blueprintId="10_46" title="Sense &amp; Uncertain Is The Future"/>
+    <card blueprintId="200_123" title="Sith Fury"/>
+    <card blueprintId="10_47" title="Sniper &amp; Dark Strike"/>
+    <card blueprintId="101_6" title="Vader's Obsession"/>
+    <card blueprintId="2_142" title="We Have A Prisoner"/>
+    <card blueprintId="5_163" title="You Are Beaten"/>
+    <card blueprintId="2_143" title="Death Star"/>
+    <card blueprintId="1_285" title="Death Star: Docking Bay 327"/>
+    <card blueprintId="208_48" title="Death Star: War Room"/>
+    <card blueprintId="209_49" title="Jedha: Jedha City"/>
+    <card blueprintId="11_92" title="Tatooine: Desert Landing Site"/>
+    <card blueprintId="213_30" title="Wakeelmui"/>
+    <card blueprintId="111_6" title="Set Your Course For Alderaan"/>
+    <card blueprintId="7_303" title="Death Star Assault Squadron"/>
+    <card blueprintId="9_172" title="The Emperor's Shield"/>
+    <card blueprintId="9_173" title="The Emperor's Sword"/>
+    <card blueprintId="2_155" title="Victory-Class Star Destroyer"/>
+    <cardOutsideDeck blueprintId="13_51" title="A Useless Gesture"/>
+    <cardOutsideDeck blueprintId="200_93" title="A Useless Gesture"/>
+    <cardOutsideDeck blueprintId="13_52*" title="Allegations Of Corruption"/>
+    <cardOutsideDeck blueprintId="13_54" title="Battle Order"/>
+    <cardOutsideDeck blueprintId="13_61" title="Come Here You Big Coward"/>
+    <cardOutsideDeck blueprintId="13_63" title="Crossfire"/>
+    <cardOutsideDeck blueprintId="200_94" title="Death Star Sentry"/>
+    <cardOutsideDeck blueprintId="13_66" title="Do They Have A Code Clearance?"/>
+    <cardOutsideDeck blueprintId="220_2" title="Drop!"/>
+    <cardOutsideDeck blueprintId="213_13" title="Failure At The Cave"/>
+    <cardOutsideDeck blueprintId="13_68" title="Fanfare"/>
+    <cardOutsideDeck blueprintId="200_95" title="Fanfare"/>
+    <cardOutsideDeck blueprintId="200_97" title="I Find Your Lack Of Faith Disturbing"/>
+    <cardOutsideDeck blueprintId="200_98" title="Imperial Detention"/>
+    <cardOutsideDeck blueprintId="13_72" title="Leave Them To Me"/>
+    <cardOutsideDeck blueprintId="13_78" title="No Escape"/>
+    <cardOutsideDeck blueprintId="13_81" title="Oppressive Enforcement"/>
+    <cardOutsideDeck blueprintId="13_84" title="Resistance"/>
+    <cardOutsideDeck blueprintId="13_86" title="Secret Plans"/>
+    <cardOutsideDeck blueprintId="13_90" title="There Is No Try"/>
+    <cardOutsideDeck blueprintId="200_99" title="Vote Of No Confidence"/>
+    <cardOutsideDeck blueprintId="13_96" title="We'll Let Fate-a Decide, Huh?"/>
+    <cardOutsideDeck blueprintId="13_95" title="Weapon Of A Sith"/>
+    <cardOutsideDeck blueprintId="13_98" title="Wipe Them Out, All Of Them"/>
+    <cardOutsideDeck blueprintId="13_99" title="You Cannot Hide Forever"/>
+    <cardOutsideDeck blueprintId="200_100" title="You Cannot Hide Forever"/>
+    <cardOutsideDeck blueprintId="13_100" title="You've Never Won A Race?"/>
+</deck>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="8_167" horizontal="false" title="Endor Operations"/>
+    <card blueprintId="8_157" horizontal="false" title="Endor"/>
+    <card blueprintId="8_160" horizontal="true" title="Endor: Bunker"/>
+    <card blueprintId="8_166" horizontal="true" title="Endor: Landing Platform (Docking Bay)"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="200_86" horizontal="false" title="Mara Jade With Lightsaber"/>
+    <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="9_113" horizontal="false" title="Lord Vader"/>
+    <card blueprintId="9_113" horizontal="false" title="Lord Vader"/>
+    <card blueprintId="204_39" horizontal="false" title="FN-2003"/>
+    <card blueprintId="204_39" horizontal="false" title="FN-2003"/>
+    <card blueprintId="200_76" horizontal="false" title="Count Dooku"/>
+    <card blueprintId="204_40" horizontal="false" title="First Order Stormtrooper"/>
+    <card blueprintId="204_40" horizontal="false" title="First Order Stormtrooper"/>
+    <card blueprintId="204_40" horizontal="false" title="First Order Stormtrooper"/>
+    <card blueprintId="204_40" horizontal="false" title="First Order Stormtrooper"/>
+    <card blueprintId="204_38" horizontal="false" title="Captain Phasma"/>
+    <card blueprintId="204_38" horizontal="false" title="Captain Phasma"/>
+    <card blueprintId="204_41" horizontal="false" title="General Hux"/>
+    <card blueprintId="203_27" horizontal="false" title="General Grievous"/>
+    <card blueprintId="3_82" horizontal="false" title="Admiral Ozzel"/>
+    <card blueprintId="207_21" horizontal="false" title="Grand Admiral Thrawn"/>
+    <card blueprintId="200_79" horizontal="false" title="Dengar With Blaster Carbine"/>
+    <card blueprintId="7_175" horizontal="false" title="Darth Vader, Dark Lord Of The Sith"/>
+    <card blueprintId="8_116" horizontal="false" title="An Entire Legion Of My Best Troops"/>
+    <card blueprintId="205_17" horizontal="false" title="I Am Your Father"/>
+    <card blueprintId="204_47" horizontal="false" title="Bow To The First Order"/>
+    <card blueprintId="200_107" horizontal="false" title="Image Of The Dark Lord"/>
+    <card blueprintId="7_242" horizontal="false" title="Strategic Reserves"/>
+    <card blueprintId="207_25" horizontal="false" title="Establish Secret Base"/>
+    <card blueprintId="201_29" horizontal="false" title="Endor Shield"/>
+    <card blueprintId="8_127" horizontal="false" title="Ominous Rumors"/>
+    <card blueprintId="205_18" horizontal="false" title="Overseeing It Personally"/>
+    <card blueprintId="200_112" horizontal="false" title="Something Special Planned For Them"/>
+    <card blueprintId="1_222" horizontal="false" title="Lateral Damage"/>
+    <card blueprintId="10_39" horizontal="false" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="10_34" horizontal="false" title="Control &amp; Set For Stun"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="7_247" horizontal="false" title="Blast Points"/>
+    <card blueprintId="205_20" horizontal="false" title="Point Man"/>
+    <card blueprintId="1_255" horizontal="false" title="Limited Resources"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="5_159" horizontal="false" title="Trooper Assault"/>
+    <card blueprintId="8_164" horizontal="true" title="Endor: Forest Clearing"/>
+    <card blueprintId="8_161" horizontal="true" title="Endor: Dark Forest"/>
+    <card blueprintId="8_159" horizontal="true" title="Endor: Back Door"/>
+    <card blueprintId="109_8" horizontal="false" title="Boba Fett In Slave I"/>
+    <card blueprintId="200_132" horizontal="false" title="Colonel Jendon In Onyx 1"/>
+    <card blueprintId="110_12" horizontal="false" title="Zuckuss In Mist Hunter"/>
+    <card blueprintId="200_134" horizontal="false" title="Elis In Hinthra"/>
+    <card blueprintId="200_136" horizontal="false" title="Onyx 2"/>
+    <card blueprintId="8_175" horizontal="false" title="Tempest Scout 4"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="1_324" horizontal="false" title="Vader's Lightsaber"/>
+</deck>

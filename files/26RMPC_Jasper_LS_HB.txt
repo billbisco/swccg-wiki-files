@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="9_3" horizontal="false" title="Concentrate All Fire"/>
+    <card blueprintId="110_1" horizontal="false" title="Boushh"/>
+    <card blueprintId="108_3" horizontal="false" title="Luke With Lightsaber"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="7_48" horizontal="false" title="TK-422"/>
+    <card blueprintId="4_21" horizontal="false" title="Do, Or Do Not"/>
+    <card blueprintId="5_24" horizontal="false" title="Haven"/>
+    <card blueprintId="9_33" horizontal="false" title="Honor Of The Jedi"/>
+    <card blueprintId="4_30" horizontal="false" title="Order To Engage"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="7_73" horizontal="false" title="Rebel Fleet"/>
+    <card blueprintId="7_75" horizontal="false" title="S-foils"/>
+    <card blueprintId="2_41" horizontal="false" title="What're You Tryin' To Push On Us?"/>
+    <card blueprintId="7_81" horizontal="false" title="Wise Advice"/>
+    <card blueprintId="6_59" horizontal="false" title="Yarna d'al' Gargan"/>
+    <card blueprintId="9_47" horizontal="false" title="Your Insight Serves You Well"/>
+    <card blueprintId="7_82" horizontal="false" title="All Wings Report In"/>
+    <card blueprintId="7_82" horizontal="false" title="All Wings Report In"/>
+    <card blueprintId="1_71" horizontal="false" title="Alter"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="1_88" horizontal="false" title="Hyper Escape"/>
+    <card blueprintId="1_90" horizontal="false" title="It Could Be Worse"/>
+    <card blueprintId="1_90" horizontal="false" title="It Could Be Worse"/>
+    <card blueprintId="7_97" horizontal="false" title="Organized Attack"/>
+    <card blueprintId="7_97" horizontal="false" title="Organized Attack"/>
+    <card blueprintId="7_97" horizontal="false" title="Organized Attack"/>
+    <card blueprintId="7_97" horizontal="false" title="Organized Attack"/>
+    <card blueprintId="7_98" horizontal="false" title="Power Pivot"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="106_2" horizontal="false" title="Corulag"/>
+    <card blueprintId="8_68" horizontal="false" title="Endor"/>
+    <card blueprintId="7_121" horizontal="true" title="Forest"/>
+    <card blueprintId="1_126" horizontal="false" title="Kessel"/>
+    <card blueprintId="7_123" horizontal="false" title="Rendezvous Point"/>
+    <card blueprintId="9_60" horizontal="false" title="Sullust"/>
+    <card blueprintId="1_135" horizontal="false" title="Yavin 4"/>
+    <card blueprintId="7_136" horizontal="false" title="Hidden Base"/>
+    <card blueprintId="109_2" horizontal="false" title="Lando In Millennium Falcon"/>
+    <card blueprintId="103_2" horizontal="false" title="Red Leader In Red 1"/>
+    <card blueprintId="106_7" horizontal="false" title="Red Squadron X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="1_146" horizontal="false" title="X-wing"/>
+    <card blueprintId="7_162" horizontal="false" title="X-wing Laser Cannon"/>
+    <card blueprintId="7_162" horizontal="false" title="X-wing Laser Cannon"/>
+    <cardOutsideDeck blueprintId="106_2" horizontal="false" title="Corulag"/>
+    <cardOutsideDeck blueprintId="8_68" horizontal="false" title="Endor"/>
+    <cardOutsideDeck blueprintId="1_126" horizontal="false" title="Kessel"/>
+    <cardOutsideDeck blueprintId="9_60" horizontal="false" title="Sullust"/>
+    <cardOutsideDeck blueprintId="1_135" horizontal="false" title="Yavin 4"/>
+</deck>

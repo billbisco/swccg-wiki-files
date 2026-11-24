@@ -1,0 +1,22 @@
+{
+  "story": 386,
+  "sources": [
+    {
+      "source_url": "https://swccg.com/snapshots/pc/2026-11-swccg-world-championship-bloomington-minnesota-oct-23-25-2026.html",
+      "sha256": "358a056c7bda34a8988423e1181705a70663a99e60afb095a98e1522e31aec4c",
+      "bytes": 6474775,
+      "backup_path": "source-evidence/386/objects/358a056c7bda34a8988423e1181705a70663a99e60afb095a98e1522e31aec4c.html",
+      "role": "Exact compiled snapshot; no raw primary HTML backup claim",
+      "existing_capture": "https://web.archive.org/web/20261114003052/https://swccg.com/snapshots/pc/2026-11-swccg-world-championship-bloomington-minnesota-oct-23-25-2026.html"
+    },
+    {
+      "source_url": "https://swccg.com/snapshots/forum/t87042.html",
+      "sha256": "74c7d38d71a66daea7045568b2b14b7bd672ba972fc36f365b2b84285de33fe5",
+      "bytes": 1472987,
+      "backup_path": "source-evidence/386/objects/74c7d38d71a66daea7045568b2b14b7bd672ba972fc36f365b2b84285de33fe5.html",
+      "role": "Exact compiled snapshot; no raw primary HTML backup claim",
+      "existing_capture": "https://web.archive.org/web/20261105015210/https://swccg.com/snapshots/forum/t87042.html"
+    }
+  ],
+  "original_forum_html_transferred": false
+}

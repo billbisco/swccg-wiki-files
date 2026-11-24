@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="110_6" horizontal="false" title="Court Of The Vile Gangster"/>
+    <card blueprintId="6_162" horizontal="true" title="Jabba's Palace: Audience Chamber"/>
+    <card blueprintId="6_164" horizontal="true" title="Jabba's Palace: Dungeon"/>
+    <card blueprintId="6_170" horizontal="true" title="Tatooine: Great Pit Of Carkoon"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="200_87" horizontal="false" title="Ponda Baba"/>
+    <card blueprintId="7_168" horizontal="false" title="Boelo"/>
+    <card blueprintId="205_16" horizontal="false" title="Velken Tezeri"/>
+    <card blueprintId="13_59" horizontal="false" title="Boba Fett, Bounty Hunter"/>
+    <card blueprintId="13_59" horizontal="false" title="Boba Fett, Bounty Hunter"/>
+    <card blueprintId="201_27" horizontal="false" title="Wooof"/>
+    <card blueprintId="12_125" horizontal="false" title="Yade M'rak"/>
+    <card blueprintId="204_46" horizontal="false" title="Zam Wesell"/>
+    <card blueprintId="200_75" horizontal="false" title="Bossk"/>
+    <card blueprintId="11_57" horizontal="false" title="Ghana Gleemort"/>
+    <card blueprintId="6_104" horizontal="false" title="Gailid"/>
+    <card blueprintId="204_42" horizontal="false" title="Greedo"/>
+    <card blueprintId="2_97" horizontal="false" title="Mosep"/>
+    <card blueprintId="201_25" horizontal="false" title="Jango Fett"/>
+    <card blueprintId="201_24" horizontal="false" title="Djas Puhr"/>
+    <card blueprintId="200_84" horizontal="false" title="Jabba The Hutt"/>
+    <card blueprintId="6_101" horizontal="false" title="Ephant Mon"/>
+    <card blueprintId="10_31" horizontal="false" title="Arica"/>
+    <card blueprintId="200_88" horizontal="false" title="Probot"/>
+    <card blueprintId="12_114" horizontal="false" title="P-59"/>
+    <card blueprintId="2_107" horizontal="false" title="U-3PO (Yoo-Threepio)"/>
+    <card blueprintId="109_6" horizontal="false" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="109_6" horizontal="false" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="10_41" horizontal="false" title="Guri"/>
+    <card blueprintId="112_17" horizontal="false" title="Power Of The Hutt"/>
+    <card blueprintId="200_112" horizontal="false" title="Something Special Planned For Them"/>
+    <card blueprintId="6_149" horizontal="false" title="Scum And Villainy"/>
+    <card blueprintId="6_149" horizontal="false" title="Scum And Villainy"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="112_11" horizontal="false" title="Hutt Influence"/>
+    <card blueprintId="200_105" horizontal="false" title="Combat Response"/>
+    <card blueprintId="201_31" horizontal="false" title="Jabba's Haven"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="102_8" horizontal="false" title="Gravity Shadow"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="200_122" horizontal="false" title="Imbalance &amp; Kintan Strider"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="6_154" horizontal="false" title="Hidden Weapons"/>
+    <card blueprintId="201_35" horizontal="false" title="Cold Feet"/>
+    <card blueprintId="201_33" horizontal="false" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="200_116" horizontal="false" title="Close Call"/>
+    <card blueprintId="10_39" horizontal="false" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+    <card blueprintId="7_276" horizontal="true" title="Coruscant: Docking Bay"/>
+    <card blueprintId="7_282" horizontal="true" title="Executor: Docking Bay"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="6_168" horizontal="false" title="Nal Hutta"/>
+    <card blueprintId="200_135" horizontal="false" title="Hound's Tooth"/>
+    <card blueprintId="201_40" horizontal="false" title="Slave I, Symbol Of Fear"/>
+    <card blueprintId="200_137" horizontal="false" title="Stinger"/>
+    <card blueprintId="109_10" horizontal="false" title="Dengar In Punishing One"/>
+    <card blueprintId="200_134" horizontal="false" title="Elis In Hinthra"/>
+    <card blueprintId="110_12" horizontal="false" title="Zuckuss In Mist Hunter"/>
+</deck>

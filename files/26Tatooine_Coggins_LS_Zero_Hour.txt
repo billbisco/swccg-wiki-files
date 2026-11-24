@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="211_59" horizontal="false" title="Ahsoka Tano"/>
+    <card blueprintId="211_59" horizontal="false" title="Ahsoka Tano"/>
+    <card blueprintId="208_2" horizontal="false" title="C1-10P (Chopper)"/>
+    <card blueprintId="215_4" horizontal="false" title="Cal Kestis"/>
+    <card blueprintId="204_3" horizontal="false" title="Captain Hera Syndulla"/>
+    <card blueprintId="204_3" horizontal="false" title="Captain Hera Syndulla"/>
+    <card blueprintId="10_5" horizontal="false" title="Corran Horn"/>
+    <card blueprintId="219_33" horizontal="false" title="Ezra, Hero Of Phoenix Squadron"/>
+    <card blueprintId="219_33" horizontal="false" title="Ezra, Hero Of Phoenix Squadron"/>
+    <card blueprintId="217_38" horizontal="false" title="Kanan Jarrus, Jedi Knight"/>
+    <card blueprintId="217_38" horizontal="false" title="Kanan Jarrus, Jedi Knight"/>
+    <card blueprintId="217_38" horizontal="false" title="Kanan Jarrus, Jedi Knight"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="13_29" horizontal="false" title="Leia, Rebel Princess"/>
+    <card blueprintId="108_3" horizontal="false" title="Luke With Lightsaber"/>
+    <card blueprintId="108_3" horizontal="false" title="Luke With Lightsaber"/>
+    <card blueprintId="201_4" horizontal="false" title="Obi-Wan Kenobi"/>
+    <card blueprintId="223_46" horizontal="false" title="Sabine, Padawan Learner"/>
+    <card blueprintId="223_46" horizontal="false" title="Sabine, Padawan Learner"/>
+    <card blueprintId="202_3" horizontal="false" title="Wedge Antilles"/>
+    <card blueprintId="208_13" horizontal="false" title="Zeb Orrelios"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="12_41" horizontal="false" title="Battle Plan &amp; Draw Their Fire"/>
+    <card blueprintId="219_43" horizontal="false" title="Phoenix Squadron Operations"/>
+    <card blueprintId="219_47" horizontal="false" title="Weather Vane"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="214_13" horizontal="false" title="Alter &amp; Friendly Fire"/>
+    <card blueprintId="214_13" horizontal="false" title="Alter &amp; Friendly Fire"/>
+    <card blueprintId="201_11" horizontal="false" title="Ascension Guns"/>
+    <card blueprintId="6_61" horizontal="false" title="Blaster Deflection"/>
+    <card blueprintId="5_45" horizontal="false" title="Dodge"/>
+    <card blueprintId="5_45" horizontal="false" title="Dodge"/>
+    <card blueprintId="209_19" horizontal="false" title="Effective Repairs &amp; Starship Levitation"/>
+    <card blueprintId="5_47" horizontal="false" title="Fall Of The Legend"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="10_8" horizontal="false" title="Houjix &amp; Out Of Nowhere"/>
+    <card blueprintId="10_8" horizontal="false" title="Houjix &amp; Out Of Nowhere"/>
+    <card blueprintId="218_24" horizontal="false" title="Local Defense &amp; Put That Down"/>
+    <card blueprintId="208_20" horizontal="false" title="Mandalorian Mishap"/>
+    <card blueprintId="1_98" horizontal="false" title="Narrow Escape"/>
+    <card blueprintId="1_98" horizontal="false" title="Narrow Escape"/>
+    <card blueprintId="210_24" horizontal="false" title="Quite A Mercenary"/>
+    <card blueprintId="211_2" horizontal="false" title="See You Around, Kid"/>
+    <card blueprintId="207_14" horizontal="false" title="They're Tracking Us"/>
+    <card blueprintId="219_45" horizontal="false" title="This Is Our Rebellion"/>
+    <card blueprintId="219_45" horizontal="false" title="This Is Our Rebellion"/>
+    <card blueprintId="219_45" horizontal="false" title="This Is Our Rebellion"/>
+    <card blueprintId="219_38" horizontal="false" title="Lothal"/>
+    <card blueprintId="219_39" horizontal="true" title="Lothal: Capital City"/>
+    <card blueprintId="219_40" horizontal="true" title="Lothal: Comm Tower E-272 (Ezra's Roost)"/>
+    <card blueprintId="219_41" horizontal="true" title="Lothal: Jedi Temple"/>
+    <card blueprintId="219_42" horizontal="true" title="Lothal: Tarkintown"/>
+    <card blueprintId="219_37" horizontal="false" title="Mandalore"/>
+    <card blueprintId="219_48" horizontal="false" title="Zero Hour"/>
+    <card blueprintId="207_17" horizontal="false" title="Ghost"/>
+    <card blueprintId="205_7" horizontal="false" title="Han, Chewie, And The Falcon"/>
+    <card blueprintId="205_10" horizontal="false" title="Tycho In Green Squadron 3"/>
+    <card blueprintId="203_21" horizontal="false" title="Wild Karrde"/>
+    <card blueprintId="214_15" horizontal="false" title="Ahsoka's Shoto Lightsaber"/>
+</deck>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="3_143" horizontal="false" title="Hoth"/>
+    <card blueprintId="200_117" horizontal="false" title="Combat Readiness"/>
+    <card blueprintId="3_148" horizontal="true" title="Hoth: Ice Plains (5th Marker)"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="9_92" horizontal="false" title="Battle Deployment"/>
+    <card blueprintId="9_96" horizontal="false" title="We're In Attack Position Now"/>
+    <card blueprintId="2_107" horizontal="false" title="U-3PO (Yoo-Threepio)"/>
+    <card blueprintId="8_94" horizontal="false" title="Commander Igar"/>
+    <card blueprintId="203_25" horizontal="false" title="Commander Nemet"/>
+    <card blueprintId="200_85" horizontal="false" title="Maarek Stele, The Emperor's Reach"/>
+    <card blueprintId="202_10" horizontal="false" title="General Nevar"/>
+    <card blueprintId="200_81" horizontal="false" title="General Veers"/>
+    <card blueprintId="9_97" horizontal="false" title="Admiral Chiraneau"/>
+    <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
+    <card blueprintId="10_40" horizontal="false" title="Grand Admiral Thrawn"/>
+    <card blueprintId="9_98" horizontal="false" title="Admiral Piett"/>
+    <card blueprintId="3_82" horizontal="false" title="Admiral Ozzel"/>
+    <card blueprintId="112_16" horizontal="false" title="No Escape"/>
+    <card blueprintId="13_82" horizontal="false" title="Prepare For A Surface Attack"/>
+    <card blueprintId="201_29" horizontal="false" title="Endor Shield"/>
+    <card blueprintId="11_77" horizontal="false" title="You May Start Your Landing"/>
+    <card blueprintId="12_144" horizontal="false" title="You Cannot Hide Forever &amp; Mobilization Points"/>
+    <card blueprintId="200_112" horizontal="false" title="Something Special Planned For Them"/>
+    <card blueprintId="5_120" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="12_131" horizontal="false" title="Do They Have A Code Clearance?"/>
+    <card blueprintId="2_121" horizontal="false" title="Imperial Justice"/>
+    <card blueprintId="8_126" horizontal="false" title="Imperial Arrest Order"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="7_220" horizontal="false" title="Alert My Star Destroyer!"/>
+    <card blueprintId="1_222" horizontal="false" title="Lateral Damage"/>
+    <card blueprintId="10_34" horizontal="false" title="Control &amp; Set For Stun"/>
+    <card blueprintId="104_7" horizontal="false" title="Walker Garrison"/>
+    <card blueprintId="104_7" horizontal="false" title="Walker Garrison"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="201_37" horizontal="false" title="Turn It Off! Turn It Off!"/>
+    <card blueprintId="200_122" horizontal="false" title="Imbalance &amp; Kintan Strider"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="3_138" horizontal="false" title="Trample"/>
+    <card blueprintId="3_138" horizontal="false" title="Trample"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="201_33" horizontal="false" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="201_33" horizontal="false" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="200_125" horizontal="false" title="Surface Defense"/>
+    <card blueprintId="200_125" horizontal="false" title="Surface Defense"/>
+    <card blueprintId="3_147" horizontal="true" title="Hoth: Echo Docking Bay"/>
+    <card blueprintId="3_144" horizontal="true" title="Hoth: Defensive Perimeter (3rd Marker)"/>
+    <card blueprintId="7_282" horizontal="true" title="Executor: Docking Bay"/>
+    <card blueprintId="7_287" horizontal="false" title="Rendili"/>
+    <card blueprintId="202_13" horizontal="false" title="Binder"/>
+    <card blueprintId="4_166" horizontal="false" title="Avenger"/>
+    <card blueprintId="200_133" horizontal="false" title="Conquest"/>
+    <card blueprintId="104_5" horizontal="false" title="Imperial Walker"/>
+    <card blueprintId="8_170" horizontal="false" title="Tempest 1"/>
+    <card blueprintId="3_157" horizontal="false" title="Blizzard Walker"/>
+    <card blueprintId="3_154" horizontal="false" title="Blizzard 1"/>
+    <card blueprintId="200_139" horizontal="false" title="Blizzard 2"/>
+</deck>

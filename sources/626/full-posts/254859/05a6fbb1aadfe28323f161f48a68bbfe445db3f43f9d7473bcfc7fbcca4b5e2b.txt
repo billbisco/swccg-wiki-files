@@ -1,0 +1,472 @@
+Oct 6 - Worlds Day 2
+Jon Chu
+12 +139
+L Eier FL -19
+D Johns FW +39
+D Pistone FW +38
+L Menzel +21
+D Fred FW +36
+L Aasen FL -4
+D Aasen FW +10
+L Hunter FW +18
+Justin Desai
+12 +108
+L Simon FW +29
+D Edwards FW +27
+L Eier FW +37
+D T Hollingworth FW +20
+D Aasen FW +28
+L Gemme FL -17
+D Hunter FL -20
+L Schele FW +1
+Brian Hunter
+12 +80
+D Gemme FW +15
+L Graham FW +12
+D Schele FW +17
+L Olson FL -12
+D Eier FW +19
+L Lewis FW +27
+L Desai FW +20
+D Chu FL -18
+Michael Gemme
+12 +73
+L Hunter FL -15
+D Peterson FW +29
+D Rippotoe FW +17
+L Consoli FW +12
+L Shaw FW +17
+D Desai FW +17
+L T Hollingworth FW +1
+D T Hollingworth FL -5
+Tom Hollingworth
+12 +66
+L Menzel FW +25
+D Shaw FW +22
+D Consoli FW +17
+L Desai FL -20
+D Olson FW +6
+L Shannon FW +12
+D Gemme FL -1
+L Gemme FW +5
+Brian Fred
+12 +61
+D Johnson FW +16
+L Schele FL -11
+D Raveling FW +26
+L Friedrichs FW +17
+L Chu FL -36
+D R French FW +24
+L Consoli FW +8
+D Richards FW +17
+Angelo Consoli
+10 +87
+D Friedrichs FW +13
+L Moore FW +23
+L T Hollingworth FL -17
+D Gemme FL -12
+L Friedrichs FW +36
+D Shaw FW +17
+D Fred FL -8
+L Aasen FW +35
+Brad Eier
+10 +59
+D Chu FW +19
+L Richards FW +31
+D Desai FL -37
+L Pistone FW +20
+L Hunter FL -19
+D Pistone FW +20
+D Schele FL -19
+L Booker FW +44
+Brandon Schele
+10 +53
+L Schontauf FW +22
+D Fred FW +11
+L Hunter FL -17
+D Shaw FL -18
+L Simon FW +15
+D Adams FW +22
+L Eier FW +19
+D Desai FL -1
+Greg Shaw
+10 +36
+D Raveling FW +20
+L T Hollingworth FL -22
+D Larson FW +18
+L Schele FW +18
+D Gemme FL -17
+L Consoli FL -17
+D Kafer FW +22
+L Shannon FW +14
+Reid Smith
+10 +34
+D Larson FW + 15
+L Aasen FL -18
+L Lewis FL -13
+D Howland FW +30
+D Rippetoe FL -9
+L Thompson FW +11
+L Rippetoe FW +4
+D Edwards FW +19
+Steven Lewis
+10 +28
+D Olson FW +12
+L Shannon FL -15
+D Smith FW +13
+L Richards FW +10
+L Graham FW +17
+D Hunter FL -27
+D Shannon FL -1
+L Adams FW +19
+Joseph Graham
+10 +30
+L Ryan Mason FW +6
+D Hunter FL -12
+D Schontauf FW +11
+L Wooton FW +16
+D Lewis FL -17
+L Rippetoe FW +23
+L Richards FL -3
+D Olson FW +6
+Michael Richards
+10 +20
+L Peterson FW +24
+D Eier FL -31
+L Whaley FW +23
+D Lewis FL -10
+D Larson FW +6
+L Olson FW +22
+D Graham FW +3
+L Fred FL -17
+Phillip Aasen
+10 -17
+L Thompson FW +7
+D Smith FW +18
+D Wooten FW +27
+L Shannon FW +16
+L Desai FL -28
+D Chu FW +4
+L Chu FL -10
+D Consoli FL -35
+Chris Menzel
+9 +48
+D T Hollingworth FL -25
+L Johnson FW +29
+L Booker FW +25
+D Chu FL -21
+L Mason FW +21
+D Booker TW +9
+L Olson FL -12
+D Whaley FW +22
+Kevin Shannon
+9 +29
+L Johns TW +27
+D Lewis FW +15
+L Adams FW +18
+D Aasen FL -16
+L R French FW +10
+D T Hollingworth FL -12
+L Lewis FW +1
+D Shaw FL -14
+Brian Rippetoe
+8 +49
+L McGrath TL -12
+D Mason FW +23
+L Gemme FL -17
+D Adams FW +36
+L Smith FW +9
+D Graham FL -23
+D Smith FL -4
+L Kafer FW +37
+Ryan French
+8 +39
+L Adams FL -6
+D Adams FL -2
+D McGrath FW +29
+L Schontauf FQ +25
+D Shannon FL -10
+L Fred FL -24
+L Thompson FW +4
+D Larson FW +23
+Joe Olson
+8 +13
+L Lewis FL -12
+D McGrath FW +31
+L Millet FW +14
+D Hunter FW +12
+L T Hollingworth FL -6
+D Richards FL -22
+D Menzel FW +12
+L Graham FL -6
+Lee Edwards
+8 +4
+D Howland FW +33
+L Desai FL -27
+D Friedrichs FL -17
+L Larson FL -30
+D Moore FW +3
+L Johnson FW +29
+D Simon FW +27
+L Smith FL -14
+Tim Simon
+8 -18
+D Desai FL -29
+L Raveling FL -24
+D Peterson FW +17
+L Mauschak FW +28
+D Schele FL -15
+L McCune FW +16
+L Simon FL -27
+D Wooton FW +16
+JW Millet
+8 -28
+D Maruschak FW +4
+L Whaley FL -21
+D Olson FL -14
+L McGrath TL -20
+L Raveling FL -18
+D Schontauf FW +8
+D Raveling FW +8
+L Pistone FW +25
+Pat Johnson
+8 -30
+L Fred FL -16
+D Menzel FL -29
+D Kafer FL -10
+Bye
+L Peterson FW +13
+D Edwards FL -29
+L Johns FW +33
+D Friedrichs FW +8
+Thomas Whaley
+8 -30
+L Pistone FL -30
+D Millet FW +21
+D Richards FL -23
+L McCune FL -14
+L Schontauf FW +3
+D Johns FW +22
+L Pistone FW +13
+D Menzel FL -22
+James Booker
+8 -40
+L McCune FW +6
+D Wooten FL -4
+D Menzel FL -25
+L Moore FW +6
+D Kafer FW +8
+L Menzel TL -9
+L Wooten FW +22
+D Eier FL -44
+Jacob Adams
+8 -48
+D R French FW +6
+L R French FW +2
+D Shannon FL -18
+L Rippetoe FL -36
+D Howland FW +20
+L Schele FL -22
+L Howland FW +19
+Adam Howland
+7 -63
+L Edwards FL -33
+D Bye
+D Moore FW +10
+L Smith FL -30
+L Adams FL -20
+D McGrath TW +22
+D Adams FL -19
+L Moore FW +7
+Chris Thompson
+6 +25
+D Philip Aasen FL -7
+L Larson FL -13
+D Marschak FW +36
+L Kafer FL -7
+L Johns FW +7
+D Smith FL -11
+D R French FL -4
+L McGrath FW +24
+Ryan Mason
+6 +7
+D Graham FL -6
+L Rippetoe FL -23
+D McCune FW +15
+L Raveling FW +28
+D Menzel FL -21
+L Larson FW +14
+Drop
+Garrett Larson
+6 -2
+L Smith FL -15
+D Thompson FW +13
+L Shaw FL -18
+D Edwards FW +30
+L Richards FL -6
+D Mason FL -14
+D McCune FW +31
+L R French FL -23
+Micah Wooten
+6 -15
+D Kafer FW +15
+L Booker FW +4
+L Aasen FL -27
+D Graham FL -16
+L Pistone FL -7
+D Raveling FW +22
+D Booker FL -22
+L Simon FL -16
+Michael Raveling
+6 -40
+L Shaw FL -20
+D Simon FW +24
+L Fred FL -26
+D Mason FL -28
+D Millet FW +18
+L Wooten FL -22
+L Millet FL -8
+D Johns FW +22
+Dirk Friedrichs
+6 -45
+L Consoli FL -13
+D McCune FW +20
+L Edwards FW +17
+D Fred FL -17
+D Consoli FL -36
+L Kafer FL -18
+D Moore FW +10
+L Johnson FL -8
+Mark Peterson
+6 -47
+D Richards FL -24
+L Gemme FL -29
+L Simon FL -17
+D Johns FL -1
+D Johnson FL -13
+Bye
+L Schontauf FW +12
+D Schontauf FW +25
+Bill Kafer
+6 -62
+L Wooten FL -15
+D Schontauf FL -15
+L Johnson FW +10
+D Thompson FW +7
+L Booker FL -8
+D Friedrichs FW +18
+L Shaw FL -22
+D Rippetoe FL -37
+David McCune
+6 -69
+D Booker FL -6
+L Friedrichs FL -20
+L Mason FL -15
+D Whaley FW +14
+L McGrath FW +9
+D Simon FL -16
+L Larson FL -31
+Bye
+Michael Pistone
+6 -72
+D Whaley FW +30
+L Marushak FW +7
+L Chu FL -38
+D Eier FL -20
+D Wooten FW +7
+L Eier FL -20
+L Whaley FL -13
+D Millet FL -25
+Brady Moore
+4 -56
+Bye
+D Consoli FL -23
+L Howland FL -10
+D Booker FL -6
+L Edwards FL -3
+D Warren FW +3
+L Friedrichs FL -10
+D Howland FL -7
+Sean McGrath
+4 -83
+D Rippetoe TW +12
+L Olson FL -31
+L R French FL -29
+D Millet TW +20
+D McCune FL -9
+L Howland TL -22
+Bye
+D Thompson FL -24
+Jeffrey Johns
+4 -149
+D Shannon TL -27
+L Chu FL -39
+Bye
+L Peterson FW +1
+D Thompson FL -7
+L Whaley FL -22
+D Johnson FL -33
+L Raveling FL -22
+Sibille Schontauf
+2 -9
+D Schele FL -22
+L Kafer FW +15
+L Graham FL -11
+D R French FL -25
+D Whaley FL -3
+L Millet FL -8
+D Peterson FL -12
+L Peterson FL -25
+Warren Maruschak
+2 -78
+L Millet FL -4
+D Pistone FL -7
+L Thompson FL -36
+D Simon FL -28
+Bye
+L Moore FL -3
+Drop
+D Lewis FL -19
+Worlds - Day 3
+Jonny Chu
+D Eier FW +22
+L Eier FL -7
+D Hollingworth FW +21
+L Hollingworth FW +7
+D Desai FW +16
+L Desai
+Justin Desai
+L Consoli FL -18
+D Consoli FW +29
+L Fred FW +16
+D Fred FW +22
+L Chu FL -16
+D Chu
+Brian Fred
+L Hunter FW +11
+D Hunter
+D Desai FL -16
+L FL -22
+Eliminated
+Tom Hollingworth
+L Gemme FW +9
+D Gemme FW +20
+L Chu FL -21
+D Chu FL
+Eliminated
+Angelo Consoli
+D Desai FW +18
+L Desai FL -29
+Eliminated
+Mike Gemme
+D Hollingworth FL -9
+L Hollingworth FL -20
+Eliminated
+Brian Hunter
+D Fred FL -11
+L Fred
+Eliminated
+Brad Eier
+L Chu FL -22
+D Chu FW +7
+Eliminated

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="1_138" horizontal="true" title="Yavin 4: Massassi Throne Room"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="200_15" horizontal="false" title="Harc Seff"/>
+    <card blueprintId="204_11" horizontal="false" title="Solo"/>
+    <card blueprintId="206_5" horizontal="false" title="K-2SO (Kay-Tuesso)"/>
+    <card blueprintId="11_13" horizontal="false" title="Threepio With His Parts Showing"/>
+    <card blueprintId="13_48" horizontal="false" title="Yoda, Master Of The Force"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="209_10" horizontal="false" title="Rey With Lightsaber"/>
+    <card blueprintId="209_10" horizontal="false" title="Rey With Lightsaber"/>
+    <card blueprintId="200_33" horizontal="false" title="Luke's Bionic Hand"/>
+    <card blueprintId="10_15" horizontal="false" title="Obi-Wan's Journal"/>
+    <card blueprintId="3_35" horizontal="false" title="Evacuation Control"/>
+    <card blueprintId="3_35" horizontal="false" title="Evacuation Control"/>
+    <card blueprintId="9_33" horizontal="false" title="Honor Of The Jedi"/>
+    <card blueprintId="202_5" horizontal="false" title="Like My Father Before Me"/>
+    <card blueprintId="207_11" horizontal="false" title="Rebellions Are Built On Hope"/>
+    <card blueprintId="112_7" horizontal="false" title="Seeking An Audience"/>
+    <card blueprintId="9_39" horizontal="false" title="Squadron Assignments"/>
+    <card blueprintId="4_41" horizontal="false" title="Wars Not Make One Great"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="4_44" horizontal="false" title="Yoda's Hope"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="10_1" horizontal="false" title="Alter &amp; Friendly Fire"/>
+    <card blueprintId="10_1" horizontal="false" title="Alter &amp; Friendly Fire"/>
+    <card blueprintId="6_61" horizontal="false" title="Blaster Deflection"/>
+    <card blueprintId="5_45" horizontal="false" title="Dodge"/>
+    <card blueprintId="5_45" horizontal="false" title="Dodge"/>
+    <card blueprintId="200_51" horizontal="false" title="Don't Tread On Me"/>
+    <card blueprintId="11_35" horizontal="false" title="Eventually You'll Lose"/>
+    <card blueprintId="11_35" horizontal="false" title="Eventually You'll Lose"/>
+    <card blueprintId="8_51" horizontal="false" title="Fly Casual"/>
+    <card blueprintId="202_6" horizontal="false" title="Force Levitation"/>
+    <card blueprintId="1_96" horizontal="false" title="Move Along..."/>
+    <card blueprintId="10_21" horizontal="false" title="Sense &amp; Recoil In Fear"/>
+    <card blueprintId="5_69" horizontal="false" title="Smoke Screen"/>
+    <card blueprintId="5_69" horizontal="false" title="Smoke Screen"/>
+    <card blueprintId="12_69" horizontal="false" title="Speak With The Jedi Council"/>
+    <card blueprintId="12_69" horizontal="false" title="Speak With The Jedi Council"/>
+    <card blueprintId="12_69" horizontal="false" title="Speak With The Jedi Council"/>
+    <card blueprintId="12_69" horizontal="false" title="Speak With The Jedi Council"/>
+    <card blueprintId="8_64" horizontal="false" title="Were You Looking For Me?"/>
+    <card blueprintId="209_21" horizontal="false" title="Odin Nesloor &amp; First Aid"/>
+    <card blueprintId="12_76" horizontal="true" title="Coruscant: Jedi Council Chamber"/>
+    <card blueprintId="1_122" horizontal="false" title="Dantooine"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="200_64" horizontal="false" title="Overseer"/>
+    <card blueprintId="207_18" horizontal="false" title="Profundity"/>
+    <card blueprintId="201_19" horizontal="false" title="Tantive IV"/>
+    <card blueprintId="206_8" horizontal="false" title="The Falcon"/>
+    <card blueprintId="9_90" horizontal="false" title="Luke's Lightsaber"/>
+</deck>

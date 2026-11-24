@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="7_136" horizontal="false" title="Hidden Base"/>
+    <card blueprintId="7_123" horizontal="false" title="Rendezvous Point"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="6_6" horizontal="false" title="Baragwin"/>
+    <card blueprintId="6_6" horizontal="false" title="Baragwin"/>
+    <card blueprintId="11_13" horizontal="false" title="Threepio With His Parts Showing"/>
+    <card blueprintId="9_20" horizontal="false" title="Kin Kian"/>
+    <card blueprintId="3_4" horizontal="false" title="Dack Ralter"/>
+    <card blueprintId="200_20" horizontal="false" title="Luke Skywalker"/>
+    <card blueprintId="9_7" horizontal="false" title="Captain Verrack"/>
+    <card blueprintId="7_56" horizontal="false" title="Corellian Engineering Corporation"/>
+    <card blueprintId="9_43" horizontal="false" title="Superficial Damage"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="201_8" horizontal="false" title="A New Secret Base"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="7_98" horizontal="false" title="Power Pivot"/>
+    <card blueprintId="7_98" horizontal="false" title="Power Pivot"/>
+    <card blueprintId="1_75" horizontal="false" title="Combined Attack"/>
+    <card blueprintId="1_75" horizontal="false" title="Combined Attack"/>
+    <card blueprintId="7_92" horizontal="false" title="Hit And Run"/>
+    <card blueprintId="7_92" horizontal="false" title="Hit And Run"/>
+    <card blueprintId="7_92" horizontal="false" title="Hit And Run"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_120" horizontal="false" title="We're Doomed"/>
+    <card blueprintId="200_49" horizontal="false" title="Antilles Maneuver"/>
+    <card blueprintId="7_104" horizontal="false" title="Stay Sharp!"/>
+    <card blueprintId="7_104" horizontal="false" title="Stay Sharp!"/>
+    <card blueprintId="7_104" horizontal="false" title="Stay Sharp!"/>
+    <card blueprintId="7_96" horizontal="false" title="On Target"/>
+    <card blueprintId="7_96" horizontal="false" title="On Target"/>
+    <card blueprintId="11_33" horizontal="false" title="End Of A Reign"/>
+    <card blueprintId="1_71" horizontal="false" title="Alter"/>
+    <card blueprintId="10_16" horizontal="false" title="Out Of Commission &amp; Transmission Terminated"/>
+    <card blueprintId="10_16" horizontal="false" title="Out Of Commission &amp; Transmission Terminated"/>
+    <card blueprintId="10_16" horizontal="false" title="Out Of Commission &amp; Transmission Terminated"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="6_83" horizontal="false" title="Kiffex"/>
+    <card blueprintId="2_61" horizontal="false" title="Corellia"/>
+    <card blueprintId="200_58" horizontal="false" title="Nar Shaddaa"/>
+    <card blueprintId="201_16" horizontal="false" title="Anoat"/>
+    <card blueprintId="8_67" horizontal="false" title="Chandrila"/>
+    <card blueprintId="7_144" horizontal="false" title="Medium Bulk Freighter"/>
+    <card blueprintId="7_144" horizontal="false" title="Medium Bulk Freighter"/>
+    <card blueprintId="7_144" horizontal="false" title="Medium Bulk Freighter"/>
+    <card blueprintId="7_144" horizontal="false" title="Medium Bulk Freighter"/>
+    <card blueprintId="7_144" horizontal="false" title="Medium Bulk Freighter"/>
+    <card blueprintId="7_144" horizontal="false" title="Medium Bulk Freighter"/>
+    <card blueprintId="7_144" horizontal="false" title="Medium Bulk Freighter"/>
+    <card blueprintId="7_144" horizontal="false" title="Medium Bulk Freighter"/>
+    <card blueprintId="1_159" horizontal="false" title="Quad Laser Cannon"/>
+    <card blueprintId="1_159" horizontal="false" title="Quad Laser Cannon"/>
+    <card blueprintId="1_159" horizontal="false" title="Quad Laser Cannon"/>
+    <card blueprintId="1_159" horizontal="false" title="Quad Laser Cannon"/>
+    <card blueprintId="1_159" horizontal="false" title="Quad Laser Cannon"/>
+    <card blueprintId="1_159" horizontal="false" title="Quad Laser Cannon"/>
+    <card blueprintId="1_159" horizontal="false" title="Quad Laser Cannon"/>
+    <card blueprintId="1_159" horizontal="false" title="Quad Laser Cannon"/>
+</deck>

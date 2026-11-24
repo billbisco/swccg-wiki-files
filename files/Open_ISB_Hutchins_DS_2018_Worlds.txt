@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="7_299" horizontal="false" title="ISB Operations"/>
+    <card blueprintId="7_278" horizontal="true" title="Coruscant: Imperial Square"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="9_96" horizontal="false" title="We're In Attack Position Now"/>
+    <card blueprintId="9_96" horizontal="false" title="We're In Attack Position Now"/>
+    <card blueprintId="1_163" horizontal="false" title="5D6-RA-7 (Fivedesix)"/>
+    <card blueprintId="9_97" horizontal="false" title="Admiral Chiraneau"/>
+    <card blueprintId="3_82" horizontal="false" title="Admiral Ozzel"/>
+    <card blueprintId="9_98" horizontal="false" title="Admiral Piett"/>
+    <card blueprintId="203_22" horizontal="false" title="Agent Kallus"/>
+    <card blueprintId="201_22" horizontal="false" title="Colonel Wullf Yularen"/>
+    <card blueprintId="9_106" horizontal="false" title="Commander Merrejk"/>
+    <card blueprintId="203_25" horizontal="false" title="Commander Nemet"/>
+    <card blueprintId="201_23" horizontal="false" title="Corporal Vandolay"/>
+    <card blueprintId="200_78" horizontal="false" title="Darth Vader"/>
+    <card blueprintId="202_10" horizontal="false" title="General Nevar"/>
+    <card blueprintId="200_81" horizontal="false" title="General Veers"/>
+    <card blueprintId="10_40" horizontal="false" title="Grand Admiral Thrawn"/>
+    <card blueprintId="201_26" horizontal="false" title="Lt. Pol Treidum"/>
+    <card blueprintId="201_26" horizontal="false" title="Lt. Pol Treidum"/>
+    <card blueprintId="2_98" horizontal="false" title="Officer Evax"/>
+    <card blueprintId="204_45" horizontal="false" title="Tarkin"/>
+    <card blueprintId="204_45" horizontal="false" title="Tarkin"/>
+    <card blueprintId="200_92" horizontal="false" title="Ysanne Isard"/>
+    <card blueprintId="201_29" horizontal="false" title="Endor Shield"/>
+    <card blueprintId="8_126" horizontal="false" title="Imperial Arrest Order"/>
+    <card blueprintId="9_129" horizontal="false" title="Mobilization Points"/>
+    <card blueprintId="1_215" horizontal="false" title="Expand The Empire"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="1_218" horizontal="false" title="I've Lost Artoo!"/>
+    <card blueprintId="200_112" horizontal="false" title="Something Special Planned For Them"/>
+    <card blueprintId="208_41" horizontal="false" title="Tarkin's Bounty"/>
+    <card blueprintId="13_91" horizontal="false" title="They Must Never Again Leave This City"/>
+    <card blueprintId="13_91" horizontal="false" title="They Must Never Again Leave This City"/>
+    <card blueprintId="13_91" horizontal="false" title="They Must Never Again Leave This City"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="200_121" horizontal="false" title="I Can't Shake Him!"/>
+    <card blueprintId="200_121" horizontal="false" title="I Can't Shake Him!"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="1_261" horizontal="false" title="Nevar Yalnal"/>
+    <card blueprintId="3_138" horizontal="false" title="Trample"/>
+    <card blueprintId="3_138" horizontal="false" title="Trample"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="5_164" horizontal="false" title="Bespin"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="7_276" horizontal="true" title="Coruscant: Docking Bay"/>
+    <card blueprintId="8_166" horizontal="true" title="Endor: Landing Platform (Docking Bay)"/>
+    <card blueprintId="7_282" horizontal="true" title="Executor: Docking Bay"/>
+    <card blueprintId="2_146" horizontal="false" title="Kashyyyk"/>
+    <card blueprintId="200_133" horizontal="false" title="Conquest"/>
+    <card blueprintId="4_167" horizontal="false" title="Executor"/>
+    <card blueprintId="201_41" horizontal="false" title="Stalker"/>
+    <card blueprintId="3_154" horizontal="false" title="Blizzard 1"/>
+    <card blueprintId="200_139" horizontal="false" title="Blizzard 2"/>
+    <card blueprintId="8_170" horizontal="false" title="Tempest 1"/>
+</deck>

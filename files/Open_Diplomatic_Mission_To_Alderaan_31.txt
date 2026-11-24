@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="203_19" horizontal="false" title="Diplomatic Mission To Alderaan"/>
+    <card blueprintId="1_127" horizontal="false" title="Tatooine"/>
+    <card blueprintId="1_130" horizontal="true" title="Tatooine: Dune Sea"/>
+    <card blueprintId="201_19" horizontal="false" title="Tantive IV"/>
+    <card blueprintId="203_11" horizontal="false" title="R2-D2 &amp; C-3PO"/>
+    <card blueprintId="203_14" horizontal="false" title="Stolen Data Tapes"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="200_43" horizontal="false" title="Maneuvering Flaps"/>
+    <card blueprintId="9_41" horizontal="false" title="Strike Planning"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="9_1" horizontal="false" title="Capital Support"/>
+    <card blueprintId="9_1" horizontal="false" title="Capital Support"/>
+    <card blueprintId="203_1" horizontal="false" title="Admiral Ackbar"/>
+    <card blueprintId="204_2" horizontal="false" title="Bail Organa"/>
+    <card blueprintId="11_1" horizontal="false" title="Caldera Righim"/>
+    <card blueprintId="204_3" horizontal="false" title="Captain Hera Syndulla"/>
+    <card blueprintId="203_3" horizontal="false" title="Captain Raymus Antilles"/>
+    <card blueprintId="200_7" horizontal="false" title="Commander Luke Skywalker"/>
+    <card blueprintId="200_7" horizontal="false" title="Commander Luke Skywalker"/>
+    <card blueprintId="10_5" horizontal="false" title="Corran Horn"/>
+    <card blueprintId="200_10" horizontal="false" title="Derek 'Hobbie' Klivian"/>
+    <card blueprintId="203_6" horizontal="false" title="Kanan Jarrus"/>
+    <card blueprintId="202_1" horizontal="false" title="Leia Organa"/>
+    <card blueprintId="203_9" horizontal="false" title="Mon Calamari Admiral"/>
+    <card blueprintId="201_4" horizontal="false" title="Obi-Wan Kenobi"/>
+    <card blueprintId="204_8" horizontal="false" title="Poe Dameron"/>
+    <card blueprintId="204_9" horizontal="false" title="Rey"/>
+    <card blueprintId="204_10" horizontal="false" title="Senator Mon Mothma"/>
+    <card blueprintId="204_12" horizontal="false" title="Theron Nett"/>
+    <card blueprintId="7_48" horizontal="false" title="TK-422"/>
+    <card blueprintId="203_12" horizontal="false" title="Toryn Farr"/>
+    <card blueprintId="9_31" horizontal="false" title="Wedge Antilles, Red Squadron Leader"/>
+    <card blueprintId="3_27" horizontal="false" title="Zev Senesca"/>
+    <card blueprintId="111_3" horizontal="false" title="Echo Base Garrison"/>
+    <card blueprintId="3_35" horizontal="false" title="Evacuation Control"/>
+    <card blueprintId="9_36" horizontal="false" title="Launching The Assault"/>
+    <card blueprintId="1_55" horizontal="false" title="Mantellian Savrip"/>
+    <card blueprintId="1_58" horizontal="false" title="Our Most Desperate Hour"/>
+    <card blueprintId="7_77" horizontal="false" title="Tatooine Celebration"/>
+    <card blueprintId="7_77" horizontal="false" title="Tatooine Celebration"/>
+    <card blueprintId="200_49" horizontal="false" title="Antilles Maneuver"/>
+    <card blueprintId="200_49" horizontal="false" title="Antilles Maneuver"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="204_18" horizontal="false" title="Escape Pod &amp; We're Doomed"/>
+    <card blueprintId="204_18" horizontal="false" title="Escape Pod &amp; We're Doomed"/>
+    <card blueprintId="12_61" horizontal="false" title="Might Of The Republic"/>
+    <card blueprintId="12_61" horizontal="false" title="Might Of The Republic"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="1_121" horizontal="false" title="Alderaan"/>
+    <card blueprintId="8_67" horizontal="false" title="Chandrila"/>
+    <card blueprintId="7_133" horizontal="true" title="Tatooine: Tosche Station"/>
+    <card blueprintId="9_74" horizontal="false" title="Home One"/>
+    <card blueprintId="203_20" horizontal="false" title="Bright Hope"/>
+    <card blueprintId="3_66" horizontal="false" title="Rogue 1"/>
+    <card blueprintId="3_66" horizontal="false" title="Rogue 1"/>
+    <card blueprintId="3_67" horizontal="false" title="Rogue 2"/>
+    <card blueprintId="3_68" horizontal="false" title="Rogue 3"/>
+    <card blueprintId="201_20" horizontal="false" title="Dash In Rogue 12"/>
+    <card blueprintId="12_37" horizontal="false" title="A Tragedy Has Occurred"/>
+    <card blueprintId="1_43" horizontal="false" title="Affect Mind"/>
+    <card blueprintId="8_34" horizontal="false" title="Aim High"/>
+    <card blueprintId="8_35" horizontal="false" title="Battle Plan"/>
+    <card blueprintId="4_21" horizontal="false" title="Do, Or Do Not"/>
+    <card blueprintId="11_17" horizontal="false" title="Don't Do That Again"/>
+    <card blueprintId="6_58" horizontal="false" title="Ultimatum"/>
+    <card blueprintId="7_80" horizontal="false" title="Weapons Display"/>
+    <card blueprintId="7_81" horizontal="false" title="Wise Advice"/>
+    <card blueprintId="9_47" horizontal="false" title="Your Insight Serves You Well"/>
+</deck>

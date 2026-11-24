@@ -1,0 +1,170 @@
+{
+  "story": 386,
+  "sources": [
+    {
+      "cited_url": "https://github.com/swccgpc/holotable/blob/022435b/Images-HT/starwars/ANewHope-Light/large/corellia.gif",
+      "raw_url": "https://raw.githubusercontent.com/swccgpc/holotable/022435b/Images-HT/starwars/ANewHope-Light/large/corellia.gif",
+      "status": 200,
+      "bytes": 89068,
+      "sha256": "a8762b3bd477026f4610b52a6c3d13e5251ff6d435c0c16a9f9f90eb9e766904",
+      "content_type": "image/gif",
+      "backup_path": "source-evidence/386/objects/a8762b3bd477026f4610b52a6c3d13e5251ff6d435c0c16a9f9f90eb9e766904.gif",
+      "actual_image_format": "GIF",
+      "role": "inspected historical source original; not a new Wiki upload or a Wayback capture"
+    },
+    {
+      "cited_url": "https://github.com/swccgpc/holotable/blob/168657a/Images-HT/starwars/Virtual11-Light/hires/maketenmenfeellikeahundred.png",
+      "raw_url": "https://raw.githubusercontent.com/swccgpc/holotable/168657a/Images-HT/starwars/Virtual11-Light/hires/maketenmenfeellikeahundred.png",
+      "status": 200,
+      "bytes": 424572,
+      "sha256": "131d82a3143e10b726df9deaa3447b7a519a6a5bcb2768ed926da03a31d7784f",
+      "content_type": "image/png",
+      "backup_path": "source-evidence/386/objects/131d82a3143e10b726df9deaa3447b7a519a6a5bcb2768ed926da03a31d7784f.png",
+      "actual_image_format": "PNG",
+      "role": "inspected historical source original; not a new Wiki upload or a Wayback capture"
+    },
+    {
+      "cited_url": "https://github.com/swccgpc/holotable/blob/1fa635b/Images-HT/starwars/Virtual13-Dark/Large/Visage%20Of%20The%20Emperor.gif",
+      "raw_url": "https://raw.githubusercontent.com/swccgpc/holotable/1fa635b/Images-HT/starwars/Virtual13-Dark/Large/Visage%20Of%20The%20Emperor.gif",
+      "status": 200,
+      "bytes": 401470,
+      "sha256": "430b5d8e58161d6a1c27257099021297656b7cf6f79dd9049dc0e9f83e531d8c",
+      "content_type": "image/gif",
+      "backup_path": "source-evidence/386/objects/430b5d8e58161d6a1c27257099021297656b7cf6f79dd9049dc0e9f83e531d8c.gif",
+      "actual_image_format": "GIF",
+      "role": "inspected historical source original; not a new Wiki upload or a Wayback capture"
+    },
+    {
+      "cited_url": "https://github.com/swccgpc/holotable/blob/1fa635b/Images-HT/starwars/Virtual13-Light/Large/corellia.gif",
+      "raw_url": "https://raw.githubusercontent.com/swccgpc/holotable/1fa635b/Images-HT/starwars/Virtual13-Light/Large/corellia.gif",
+      "status": 200,
+      "bytes": 292333,
+      "sha256": "cd89f011f98f44934376e1e421890a937803c09b350e84561c62d60351e1d7b7",
+      "content_type": "image/gif",
+      "backup_path": "source-evidence/386/objects/cd89f011f98f44934376e1e421890a937803c09b350e84561c62d60351e1d7b7.gif",
+      "actual_image_format": "GIF",
+      "role": "inspected historical source original; not a new Wiki upload or a Wayback capture"
+    },
+    {
+      "cited_url": "https://github.com/swccgpc/holotable/blob/781a0de1bab57c271fca72a4887b826bb1a30838/Images-HT/starwars/Virtual21-Light/large/anakinsdestiny.gif",
+      "raw_url": "https://raw.githubusercontent.com/swccgpc/holotable/781a0de1bab57c271fca72a4887b826bb1a30838/Images-HT/starwars/Virtual21-Light/large/anakinsdestiny.gif",
+      "status": 200,
+      "bytes": 410590,
+      "sha256": "ea57d413bb23e0b2c7b1c91605f5833f195cc0264cc4ce836ad354efe18473ee",
+      "content_type": "image/gif",
+      "backup_path": "source-evidence/386/objects/ea57d413bb23e0b2c7b1c91605f5833f195cc0264cc4ce836ad354efe18473ee.png",
+      "actual_image_format": "PNG",
+      "role": "inspected historical source original; not a new Wiki upload or a Wayback capture"
+    },
+    {
+      "cited_url": "https://github.com/swccgpc/holotable/blob/781a0de1bab57c271fca72a4887b826bb1a30838/Images-HT/starwars/Virtual21-Light/large/resolute.gif",
+      "raw_url": "https://raw.githubusercontent.com/swccgpc/holotable/781a0de1bab57c271fca72a4887b826bb1a30838/Images-HT/starwars/Virtual21-Light/large/resolute.gif",
+      "status": 200,
+      "bytes": 375807,
+      "sha256": "b6e82abf3a8f760a1f493805e41054252fde5c168e602e0049f77b4af4c8b887",
+      "content_type": "image/gif",
+      "backup_path": "source-evidence/386/objects/b6e82abf3a8f760a1f493805e41054252fde5c168e602e0049f77b4af4c8b887.png",
+      "actual_image_format": "PNG",
+      "role": "inspected historical source original; not a new Wiki upload or a Wayback capture"
+    },
+    {
+      "cited_url": "https://github.com/swccgpc/holotable/blob/88182de5459f1ffeeb3856f4ece24e2f4c6a7437/Images-HT/starwars/Virtual22-Light/large/niennunbsullustansmuggler.gif",
+      "raw_url": "https://raw.githubusercontent.com/swccgpc/holotable/88182de5459f1ffeeb3856f4ece24e2f4c6a7437/Images-HT/starwars/Virtual22-Light/large/niennunbsullustansmuggler.gif",
+      "status": 200,
+      "bytes": 386050,
+      "sha256": "8fda9fd24d6ed584e10c5745cb4324d8a8a30159d433a5fcd48fee3bd5853f93",
+      "content_type": "image/gif",
+      "backup_path": "source-evidence/386/objects/8fda9fd24d6ed584e10c5745cb4324d8a8a30159d433a5fcd48fee3bd5853f93.png",
+      "actual_image_format": "PNG",
+      "role": "inspected historical source original; not a new Wiki upload or a Wayback capture"
+    },
+    {
+      "cited_url": "https://github.com/swccgpc/holotable/blob/a20089e/Images-HT/starwars/Virtual10-Light/hires/dashrendar.png",
+      "raw_url": "https://raw.githubusercontent.com/swccgpc/holotable/a20089e/Images-HT/starwars/Virtual10-Light/hires/dashrendar.png",
+      "status": 200,
+      "bytes": 403816,
+      "sha256": "88307b56f1e12bb030dbf9251f3e4470a67c371f3ee4688801a8e4d76da51dab",
+      "content_type": "image/png",
+      "backup_path": "source-evidence/386/objects/88307b56f1e12bb030dbf9251f3e4470a67c371f3ee4688801a8e4d76da51dab.png",
+      "actual_image_format": "PNG",
+      "role": "inspected historical source original; not a new Wiki upload or a Wayback capture"
+    },
+    {
+      "cited_url": "https://github.com/swccgpc/holotable/blob/d24ffc3/Images-HT/starwars/Virtual11-Light/large/maketenmenfeellikeahundred.gif",
+      "raw_url": "https://raw.githubusercontent.com/swccgpc/holotable/d24ffc3/Images-HT/starwars/Virtual11-Light/large/maketenmenfeellikeahundred.gif",
+      "status": 200,
+      "bytes": 113804,
+      "sha256": "91c4098bfc140742c9455599464cf9922a742be51189a531b1547933783abf68",
+      "content_type": "image/gif",
+      "backup_path": "source-evidence/386/objects/91c4098bfc140742c9455599464cf9922a742be51189a531b1547933783abf68.gif",
+      "actual_image_format": "GIF",
+      "role": "inspected historical source original; not a new Wiki upload or a Wayback capture"
+    },
+    {
+      "cited_url": "https://github.com/swccgpc/holotable/blob/d5f24d6/Images-HT/starwars/Virtual11-Light/large/maketenmenfeellikeahundred.gif",
+      "raw_url": "https://raw.githubusercontent.com/swccgpc/holotable/d5f24d6/Images-HT/starwars/Virtual11-Light/large/maketenmenfeellikeahundred.gif",
+      "status": 200,
+      "bytes": 112958,
+      "sha256": "3fd6b40d65bb4d212a5d9d4fd52efdeac05cab75e4fb6d9a976e5b559e187bd4",
+      "content_type": "image/gif",
+      "backup_path": "source-evidence/386/objects/3fd6b40d65bb4d212a5d9d4fd52efdeac05cab75e4fb6d9a976e5b559e187bd4.gif",
+      "actual_image_format": "GIF",
+      "role": "inspected historical source original; not a new Wiki upload or a Wayback capture"
+    },
+    {
+      "cited_url": "https://github.com/swccgpc/holotable/blob/e0ebcbc/Images-HT/starwars/Virtual10-Light/large/dashrendar.gif",
+      "raw_url": "https://raw.githubusercontent.com/swccgpc/holotable/e0ebcbc/Images-HT/starwars/Virtual10-Light/large/dashrendar.gif",
+      "status": 200,
+      "bytes": 66023,
+      "sha256": "c4d29757000f70ea4359f2dbbe791e67ef7266e73aacdc49e1bc4841d72b43ff",
+      "content_type": "image/gif",
+      "backup_path": "source-evidence/386/objects/c4d29757000f70ea4359f2dbbe791e67ef7266e73aacdc49e1bc4841d72b43ff.gif",
+      "actual_image_format": "GIF",
+      "role": "inspected historical source original; not a new Wiki upload or a Wayback capture"
+    },
+    {
+      "cited_url": "https://github.com/swccgpc/holotable/blob/e26d0f1/Images-HT/starwars/Virtual11-Light/large/maketenmenfeellikeahundred.gif",
+      "raw_url": "https://raw.githubusercontent.com/swccgpc/holotable/e26d0f1/Images-HT/starwars/Virtual11-Light/large/maketenmenfeellikeahundred.gif",
+      "status": 200,
+      "bytes": 104679,
+      "sha256": "d30aab4c9850f2773170bbd35936e9bd2878f8e4b29dbd18b8f04477155c5f7d",
+      "content_type": "image/gif",
+      "backup_path": "source-evidence/386/objects/d30aab4c9850f2773170bbd35936e9bd2878f8e4b29dbd18b8f04477155c5f7d.gif",
+      "actual_image_format": "GIF",
+      "role": "inspected historical source original; not a new Wiki upload or a Wayback capture"
+    },
+    {
+      "cited_url": "https://github.com/swccgpc/holotable/blob/fba281d/Images-HT/starwars/Virtual13-Dark/hires/visageoftheemperor.png",
+      "raw_url": "https://raw.githubusercontent.com/swccgpc/holotable/fba281d/Images-HT/starwars/Virtual13-Dark/hires/visageoftheemperor.png",
+      "status": 200,
+      "bytes": 304247,
+      "sha256": "03cbce53be444ea51f88aebafa40579eb568e9e066ea0d51ed0656318cb9c633",
+      "content_type": "image/png",
+      "backup_path": "source-evidence/386/objects/03cbce53be444ea51f88aebafa40579eb568e9e066ea0d51ed0656318cb9c633.png",
+      "actual_image_format": "PNG",
+      "role": "inspected historical source original; not a new Wiki upload or a Wayback capture"
+    },
+    {
+      "cited_url": "https://github.com/swccgpc/holotable/blob/fba281d/Images-HT/starwars/Virtual13-Light/hires/corellia.png",
+      "raw_url": "https://raw.githubusercontent.com/swccgpc/holotable/fba281d/Images-HT/starwars/Virtual13-Light/hires/corellia.png",
+      "status": 200,
+      "bytes": 206690,
+      "sha256": "9f1bce6a5b33fb65cd4ba54cba926dd9d731d0cb076f03566dc577ba642f94e7",
+      "content_type": "image/png",
+      "backup_path": "source-evidence/386/objects/9f1bce6a5b33fb65cd4ba54cba926dd9d731d0cb076f03566dc577ba642f94e7.png",
+      "actual_image_format": "PNG",
+      "role": "inspected historical source original; not a new Wiki upload or a Wayback capture"
+    },
+    {
+      "cited_url": "https://github.com/swccgpc/holotable/blob/fdfe14b/Images-HT/starwars/Virtual11-Light/large/maketenmenfeellikeahundred.gif",
+      "raw_url": "https://raw.githubusercontent.com/swccgpc/holotable/fdfe14b/Images-HT/starwars/Virtual11-Light/large/maketenmenfeellikeahundred.gif",
+      "status": 200,
+      "bytes": 514167,
+      "sha256": "3a9014227e43167b318b6872fe6b33724e070a2957840b6d4f3775b9d8eac295",
+      "content_type": "image/gif",
+      "backup_path": "source-evidence/386/objects/3a9014227e43167b318b6872fe6b33724e070a2957840b6d4f3775b9d8eac295.gif",
+      "actual_image_format": "GIF",
+      "role": "inspected historical source original; not a new Wiki upload or a Wayback capture"
+    }
+  ]
+}

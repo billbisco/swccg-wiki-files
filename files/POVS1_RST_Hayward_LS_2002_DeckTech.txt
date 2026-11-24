@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="8_78" horizontal="false" title="Rebel Strike Team"/>
+    <card blueprintId="8_2" horizontal="false" title="Chewbacca Of Kashyyyk"/>
+    <card blueprintId="13_9" horizontal="false" title="Chewie, Enraged"/>
+    <card blueprintId="10_5" horizontal="false" title="Corran Horn"/>
+    <card blueprintId="10_6" horizontal="false" title="Dash Rendar"/>
+    <card blueprintId="8_8" horizontal="false" title="Daughter Of Skywalker"/>
+    <card blueprintId="8_14" horizontal="false" title="General Crix Madine"/>
+    <card blueprintId="9_13" horizontal="false" title="General Calrissian"/>
+    <card blueprintId="8_15" horizontal="false" title="General Solo"/>
+    <card blueprintId="108_1" horizontal="false" title="Han With Heavy Blaster Pistol"/>
+    <card blueprintId="13_29" horizontal="false" title="Leia, Rebel Princess"/>
+    <card blueprintId="108_3" horizontal="false" title="Luke With Lightsaber"/>
+    <card blueprintId="108_3" horizontal="false" title="Luke With Lightsaber"/>
+    <card blueprintId="10_12" horizontal="false" title="Mirax Terrik"/>
+    <card blueprintId="9_28" horizontal="false" title="Nien Nunb"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="108_4" horizontal="false" title="Obi-Wan With Lightsaber"/>
+    <card blueprintId="8_23" horizontal="false" title="Orrimaarko"/>
+    <card blueprintId="9_31" horizontal="false" title="Wedge Antilles, Red Squadron Leader"/>
+    <card blueprintId="8_33" horizontal="false" title="Wuta"/>
+    <card blueprintId="3_71" horizontal="false" title="Anakin's Lightsaber"/>
+    <card blueprintId="8_90" horizontal="false" title="Explosive Charge"/>
+    <card blueprintId="8_90" horizontal="false" title="Explosive Charge"/>
+    <card blueprintId="8_90" horizontal="false" title="Explosive Charge"/>
+    <card blueprintId="7_162" horizontal="false" title="X-wing Laser Cannon"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="9_68" horizontal="false" title="Gold Squadron 1"/>
+    <card blueprintId="10_17" horizontal="false" title="Outrider"/>
+    <card blueprintId="10_20" horizontal="false" title="Pulsar Skate"/>
+    <card blueprintId="9_81" horizontal="false" title="Red Squadron 1"/>
+    <card blueprintId="8_68" horizontal="false" title="Endor"/>
+    <card blueprintId="8_77" horizontal="true" title="Endor: Rebel Landing Site (Forest)"/>
+    <card blueprintId="8_69" horizontal="true" title="Endor: Back Door"/>
+    <card blueprintId="8_70" horizontal="true" title="Endor: Bunker"/>
+    <card blueprintId="8_71" horizontal="true" title="Endor: Chief Chirpa's Hut"/>
+    <card blueprintId="8_76" horizontal="true" title="Endor: Landing Platform (Docking Bay)"/>
+    <card blueprintId="8_35" horizontal="false" title="Battle Plan"/>
+    <card blueprintId="7_62" horizontal="false" title="Goo Nee Tay"/>
+    <card blueprintId="9_38" horizontal="false" title="Menace Fades"/>
+    <card blueprintId="9_39" horizontal="false" title="Squadron Assignments"/>
+    <card blueprintId="9_41" horizontal="false" title="Strike Planning"/>
+    <card blueprintId="11_22" horizontal="false" title="The Shield Is Down!"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="1_90" horizontal="false" title="It Could Be Worse"/>
+    <card blueprintId="106_5" horizontal="false" title="It's A Hit!"/>
+    <card blueprintId="1_101" horizontal="false" title="On The Edge"/>
+    <card blueprintId="1_101" horizontal="false" title="On The Edge"/>
+    <card blueprintId="10_16" horizontal="false" title="Out Of Commission &amp; Transmission Terminated"/>
+    <card blueprintId="12_66" horizontal="false" title="Rebel Artillery"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+    <card blueprintId="8_63" horizontal="false" title="Throw Me Another Charge"/>
+    <card blueprintId="8_63" horizontal="false" title="Throw Me Another Charge"/>
+    <card blueprintId="8_63" horizontal="false" title="Throw Me Another Charge"/>
+    <card blueprintId="6_79" horizontal="false" title="Weapon Levitation"/>
+    <card blueprintId="9_4" horizontal="false" title="I'll Take The Leader"/>
+    <card blueprintId="8_43" horizontal="false" title="Deactivate The Shield Generator"/>
+</deck>

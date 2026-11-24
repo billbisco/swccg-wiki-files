@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="11_77" horizontal="false" title="You May Start Your Landing"/>
+    <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
+    <card blueprintId="108_6" horizontal="false" title="Darth Vader With Lightsaber"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="2_83" horizontal="false" title="Captain Khurgee"/>
+    <card blueprintId="13_59" horizontal="false" title="Boba Fett, Bounty Hunter"/>
+    <card blueprintId="13_59" horizontal="false" title="Boba Fett, Bounty Hunter"/>
+    <card blueprintId="10_37" horizontal="false" title="Dr. Evazan &amp; Ponda Baba"/>
+    <card blueprintId="10_40" horizontal="false" title="Grand Admiral Thrawn"/>
+    <card blueprintId="10_40" horizontal="false" title="Grand Admiral Thrawn"/>
+    <card blueprintId="3_82" horizontal="false" title="Admiral Ozzel"/>
+    <card blueprintId="9_154" horizontal="false" title="Chimaera"/>
+    <card blueprintId="9_154" horizontal="false" title="Chimaera"/>
+    <card blueprintId="9_157" horizontal="false" title="Flagship Executor"/>
+    <card blueprintId="110_12" horizontal="false" title="Zuckuss In Mist Hunter"/>
+    <card blueprintId="104_5" horizontal="false" title="Imperial Walker"/>
+    <card blueprintId="104_5" horizontal="false" title="Imperial Walker"/>
+    <card blueprintId="3_155" horizontal="false" title="Blizzard 2"/>
+    <card blueprintId="3_156" horizontal="false" title="Blizzard Scout 1"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="3_148" horizontal="true" title="Hoth: Ice Plains (5th Marker)"/>
+    <card blueprintId="3_144" horizontal="true" title="Hoth: Defensive Perimeter (3rd Marker)"/>
+    <card blueprintId="3_147" horizontal="true" title="Hoth: Echo Docking Bay"/>
+    <card blueprintId="12_173" horizontal="true" title="Naboo: Theed Palace Docking Bay"/>
+    <card blueprintId="8_156" horizontal="false" title="Carida"/>
+    <card blueprintId="2_146" horizontal="false" title="Kashyyyk"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="5_120" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="9_129" horizontal="false" title="Mobilization Points"/>
+    <card blueprintId="12_135" horizontal="false" title="Imperial Arrest Order &amp; Secret Plans"/>
+    <card blueprintId="1_222" horizontal="false" title="Lateral Damage"/>
+    <card blueprintId="13_69" horizontal="false" title="Fear Is My Ally"/>
+    <card blueprintId="112_16" horizontal="false" title="No Escape"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="3_138" horizontal="false" title="Trample"/>
+    <card blueprintId="3_138" horizontal="false" title="Trample"/>
+    <card blueprintId="3_138" horizontal="false" title="Trample"/>
+    <card blueprintId="3_126" horizontal="false" title="He Hasn't Come Back Yet"/>
+    <card blueprintId="13_58" horizontal="false" title="Blow Parried"/>
+    <card blueprintId="10_46" horizontal="false" title="Sense &amp; Uncertain Is The Future"/>
+    <card blueprintId="10_46" horizontal="false" title="Sense &amp; Uncertain Is The Future"/>
+    <card blueprintId="1_266" horizontal="false" title="Scanning Crew"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="104_7" horizontal="false" title="Walker Garrison"/>
+    <card blueprintId="104_7" horizontal="false" title="Walker Garrison"/>
+    <card blueprintId="9_136" horizontal="false" title="Force Lightning"/>
+    <card blueprintId="9_136" horizontal="false" title="Force Lightning"/>
+</deck>

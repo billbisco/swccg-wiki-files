@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="208_26" horizontal="false" title="Yavin 4 Base Operations"/>
+    <card blueprintId="211_32" horizontal="false" title="Yavin 4"/>
+    <card blueprintId="208_24" horizontal="true" title="Yavin 4: Massassi War Room"/>
+    <card blueprintId="208_17" horizontal="false" title="Restore Freedom To The Galaxy"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="12_44" horizontal="false" title="Insurrection &amp; Aim High"/>
+    <card blueprintId="9_39" horizontal="false" title="Squadron Assignments"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="200_10" horizontal="false" title="Derek 'Hobbie' Klivian"/>
+    <card blueprintId="209_5" horizontal="false" title="General Dodonna"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="7_30" horizontal="false" title="Lieutenant Tarn Mison"/>
+    <card blueprintId="7_30" horizontal="false" title="Lieutenant Tarn Mison"/>
+    <card blueprintId="200_20" horizontal="false" title="Luke Skywalker"/>
+    <card blueprintId="201_5" horizontal="false" title="Princess Leia"/>
+    <card blueprintId="9_31" horizontal="false" title="Wedge Antilles, Red Squadron Leader"/>
+    <card blueprintId="204_8" horizontal="false" title="Poe Dameron"/>
+    <card blueprintId="208_11" horizontal="false" title="Temmin &quot;Snap&quot; Wexley"/>
+    <card blueprintId="12_38" horizontal="false" title="A Vergence In The Force"/>
+    <card blueprintId="5_24" horizontal="false" title="Haven"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="209_17" horizontal="false" title="Relatively Unprotected"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="10_4" horizontal="false" title="Control &amp; Tunnel Vision"/>
+    <card blueprintId="208_18" horizontal="false" title="Corellian Slip"/>
+    <card blueprintId="209_19" horizontal="false" title="Effective Repairs &amp; Starship Levitation"/>
+    <card blueprintId="204_18" horizontal="false" title="Escape Pod &amp; We're Doomed"/>
+    <card blueprintId="2_49" horizontal="false" title="Grimtaash"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="1_90" horizontal="false" title="It Could Be Worse"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="7_97" horizontal="false" title="Organized Attack"/>
+    <card blueprintId="10_16" horizontal="false" title="Out Of Commission &amp; Transmission Terminated"/>
+    <card blueprintId="7_98" horizontal="false" title="Power Pivot"/>
+    <card blueprintId="7_100" horizontal="false" title="Rapid Fire"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="209_22" horizontal="false" title="Rescue In The Clouds"/>
+    <card blueprintId="10_25" horizontal="false" title="The Bith Shuffle &amp; Desperate Reach"/>
+    <card blueprintId="9_56" horizontal="false" title="Aquaris"/>
+    <card blueprintId="106_2" horizontal="false" title="Corulag"/>
+    <card blueprintId="9_57" horizontal="true" title="Home One: Docking Bay"/>
+    <card blueprintId="200_58" horizontal="false" title="Nar Shaddaa"/>
+    <card blueprintId="211_28" horizontal="false" title="BB-8 In Black Squadron 1"/>
+    <card blueprintId="210_5" horizontal="false" title="Blue Squadron 1"/>
+    <card blueprintId="200_62" horizontal="false" title="Gold Leader In Gold 1"/>
+    <card blueprintId="201_18" horizontal="false" title="Green Leader In Green Squadron 1"/>
+    <card blueprintId="205_7" horizontal="false" title="Han, Chewie, And The Falcon"/>
+    <card blueprintId="209_31" horizontal="false" title="Red 5"/>
+    <card blueprintId="2_72" horizontal="false" title="Red 6"/>
+    <card blueprintId="9_81" horizontal="false" title="Red Squadron 1"/>
+    <card blueprintId="9_82" horizontal="false" title="Red Squadron 4"/>
+    <card blueprintId="9_88" horizontal="false" title="Enhanced Proton Torpedoes"/>
+    <card blueprintId="9_88" horizontal="false" title="Enhanced Proton Torpedoes"/>
+    <card blueprintId="7_162" horizontal="false" title="X-wing Laser Cannon"/>
+    <card blueprintId="7_162" horizontal="false" title="X-wing Laser Cannon"/>
+</deck>

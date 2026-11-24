@@ -1,0 +1,714 @@
+ 
+<HTML>
+<!-- #BeginTemplate "/Templates/TOURNAMENTSinside.dwt" --> 
+<HEAD>
+<!--<META http-equiv="keywords" content="Star Wars CCG, official Star Wars CCG site, Star Wars CCG news, Star Wars CCG strategy, Star Wars CCG tournaments, Star Wars CCG deck designs, Star Wars CCG card images, complete lists of every Star Wars CCG card, Star Wars CCG Rules and FAQs, Star Wars CCG: Special Edition, Star Wars CCG: Jabba's Palace, Star Wars CCG: Cloud City, Star Wars CCG: Hoth, Star Wars CCG: Premiere, Star Wars CCG: Second Anthology, Star Wars CCG humor, Star Wars CCG Top 10 lists, Star Wars Customizable Card Game, Star Wars collectibles, collectible Star Wars cards, Luke Skywalker, Leia Organa, Boba Fett, Obi-wan Kenobi, Han Solo, Chewbacca, Decipher, maker of Star Wars CCG">
+<META http-equiv="PICS-Label" content='(PICS-1.1 "http://www.rsac.org/ratingsv01.html" l gen true comment "RSACi North
+America Server" on "1997.04.12T08:44-0800" r (n 0 s 0 v 1 l 1))'>
+<META http-equiv="description" content="Decipher Inc. Web Site for Star Wars CCG, Star Trek CCG, Young Jedi CCG and other (Party Zone) Decipher games">-->
+ <script language="JavaScript">
+
+<!--
+
+
+
+choices = new Object();
+
+links   = new Array();
+
+temp    = new Array();
+
+
+
+list = new Array("first, choose an area","Young Jedi","Star Wars CCG","Star Trek CCG","Party Zone","The Eccentric Order","Message Boards","Tournaments","Art Show","About Decipher","............................................");
+
+
+
+choices["first, choose an area"] = new Array("next, choose a topic","............................................");
+
+choices["Young Jedi"]  = new Array("main index","what is it?","card lists","rules","current rulings","strategy","deck designs","tournaments","message boards","young jedi club", "where to buy","............................................");
+
+choices["Star Wars CCG"]  = new Array("main index","what is it?","card lists","rules","current rulings","strategy articles","deck designs","tournaments","message boards","fun stuff","where to buy","............................................");
+
+choices["Star Trek CCG"]  = new Array("main index","what is it?","card lists","rules","current rulings","strategy articles","deck designs","tournaments","message boards","fun stuff","where to buy","............................................");
+
+choices["Party Zone"]  = new Array("main index","girl power!","how to host a murder","how to host a teen mystery","how to host a kid's party","pente","kid's book of questions","rumors","stir crazy","............................................");
+
+choices["The Eccentric Order"]  = new Array("main index","............................................");
+
+choices["Message Boards"]  = new Array("main index","YJ gameplay","YJ trading","YJ card auctions","YJ miscellany","YJ decks and cards","SWCCG gameplay","SWCCG trading","SWCCG card auctions","SWCCG miscellany","SWCCG decks and cards","STCCG gameplay","STCCG trading","STCCG card auctions","STCCG miscellany","STCCG decks and cards","mailing lists","decipher palace","............................................");
+
+choices["Tournaments"]  = new Array("main index","SWCCG resources","SWCCG tournament locator","SWCCG player rankings","STCCG resources","STCCG tournament locator","STCCG player rankings","............................................");
+
+choices["Art Show"]  = new Array("main index","SWCCG gallery","STCCG gallery","the making of YJ","creating reality","the NYC showroom","easter eggs","............................................");
+
+choices["About Decipher"]  = new Array("main index","vision","customer service","find us","who's who","the legal stuff","main index","............................................");
+
+choices["............................................"]  = new Array("index");
+
+
+links["Young Jedi.main index"]       = "/youngjedi/index.html";
+links["Young Jedi.what is it?"]       = "/youngjedi/whatisit/index.html";
+links["Young Jedi.card lists"]       = "/youngjedi/cardlists/index.html";
+links["Young Jedi.rules"]       = "/youngjedi/rules/index.html";
+links["Young Jedi.current rulings"]       = "/youngjedi/rules/index.html";
+links["Young Jedi.strategy"]       = "/youngjedi/strategy/index.html";
+links["Young Jedi.deck designs"]       = "/youngjedi/deckdesigns/index.html";
+links["Young Jedi.tournaments"]       = "/youngjedi/tournaments/index.html";
+links["Young Jedi.message boards"]       = "/youngjedi/messageboards/index.html";
+links["Young Jedi.young jedi club"]       = "/youngjedi/youngjediclub/index.html";
+links["Young Jedi.where to buy"]       = "/youngjedi/wheretobuy/index.html";
+
+links["Star Wars CCG.main index"]       = "/starwars/index.html";
+links["Star Wars CCG.what is it?"]       = "/starwars/whatisit/index.html";
+links["Star Wars CCG.card lists"]       = "/starwars/cardlists/index.html";
+links["Star Wars CCG.rules"]       = "/starwars/rules/index.html";
+links["Star Wars CCG.current rulings"]       = "/starwars/rules/index.html";
+links["Star Wars CCG.strategy articles"]       = "/starwars/strategyarticles/index.html";
+links["Star Wars CCG.deck designs"]       = "/starwars/deckdesigns/index.html";
+links["Star Wars CCG.tournaments"]       = "/starwars/tournaments/index.html";
+links["Star Wars CCG.message boards"]       = "/starwars/messageboards/index.html";
+links["Star Wars CCG.fun stuff"]       = "/starwars/funstuff/index.html";
+links["Star Wars CCG.where to buy"]       = "/starwars/wheretobuy/index.html";
+
+links["Star Trek CCG.main index"]       = "/startrek/index.html";
+links["Star Trek CCG.what is it?"]       = "/startrek/whatisit/index.html";
+links["Star Trek CCG.card lists"]       = "/startrek/cardlists/index.html";
+links["Star Trek CCG.rules"]       = "/startrek/rules/index.html";
+links["Star Trek CCG.current rulings"]       = "/startrek/rules/index.html";
+links["Star Trek CCG.strategy articles"]       = "/startrek/strategyarticles/index.html";
+links["Star Trek CCG.deck designs"]       = "../startrek/deckdesigns/index.html";
+links["Star Trek CCG.tournaments"]       = "/startrek/tournaments/index.html";
+links["Star Trek CCG.message boards"]       = "/startrek/messageboards/index.html";
+links["Star Trek CCG.fun stuff"]       = "/startrek/funstuff/index.html";
+links["Star Trek CCG.where to buy"]       = "/startrek/wheretobuy/index.html";
+
+links["Party Zone.main index"]       = "/partyzone/index.html";
+links["Party Zone.girl power!"]       = "/partyzone/girlpower/index.html";
+links["Party Zone.how to host a murder"]       = "/partyzone/howtohost/howtohostamurder/index.html";
+links["Party Zone.how to host a teen mystery"]       = "/partyzone/howtohost/howtohostateenmystery/index.html";
+links["Party Zone.how to host a kid's party"]       = "/partyzone/howtohost/howtohostakidsparty/index.html";
+links["Party Zone.pente"]       = "../partyzone/pente/index.html";
+links["Party Zone.kid's book of questions"]       = "/partyzone/kidsbookofquestions/index.html";
+links["Party Zone.rumors"]       = "/partyzone/rumors/index.html";
+links["Party Zone.stir crazy"]       = "/partyzone/stircrazy/index.html";
+
+links["The Eccentric Order.main index"]       = "http://www.eccentric.com";
+
+links["Message Boards.main index"]       = "/messageboards/index.html";
+links["Message Boards.YJ gameplay"]       = "http://calder.decipher.com/cgi-bin/decipher-bbs?yj-gameplay";
+links["Message Boards.YJ trading"]       = "http://calder.decipher.com/cgi-bin/decipher-bbs?yj-trade";
+links["Message Boards.YJ card auctions"]       = ".http://calder.decipher.com/cgi-bin/decipher-bbs?yj-auct";
+links["Message Boards.YJ miscellany"]       = "http://calder.decipher.com/cgi-bin/decipher-bbs?yj-miscellany";
+links["Message Boards.YJ decks and cards"]       = "http://calder.decipher.com/cgi-bin/decipher-bbs?yj-decks";
+links["Message Boards.SWCCG gameplay"]       = "http://calder.decipher.com/cgi-bin/decipher-bbs?sw-gameplay";
+links["Message Boards.SWCCG trading"]       = "http://calder.decipher.com/cgi-bin/decipher-bbs?sw-trade";
+links["Message Boards.SWCCG card auctions"]       = "http://calder.decipher.com/cgi-bin/decipher-bbs?sw-auct";
+links["Message Boards.SWCCG miscellany"]       = "http://calder.decipher.com/cgi-bin/decipher-bbs?sw-miscellany";
+links["Message Boards.SWCCG decks and cards"]       = "http://calder.decipher.com/cgi-bin/decipher-bbs?sw-decks";
+links["Message Boards.STCCG gameplay"]       = "http://calder.decipher.com/cgi-bin/decipher-bbs?st-gameplay";
+links["Message Boards.STCCG trading"]       = "http://calder.decipher.com/cgi-bin/decipher-bbs?st-trade";
+links["Message Boards.STCCG card auctions"]       = "http://calder.decipher.com/cgi-bin/decipher-bbs?st-auct";
+links["Message Boards.STCCG miscellany"]       = "http://calder.decipher.com/cgi-bin/decipher-bbs?st-miscellany";
+links["Message Boards.STCCG decks and cards"]       = "http://calder.decipher.com/cgi-bin/decipher-bbs?st-decks";
+links["Message Boards.decipher palace"]       = "/messageboards/thepalace/index.html";
+links["Message Boards.mailing lists"]       = "/messageboards/mailinglists/index.html";
+
+
+links["Tournaments.main index"]       = "/tournaments/index.html";
+links["Tournaments.SWCCG resources"]       = "/starwars/tournaments/resources/index.html";
+links["Tournaments.SWCCG tournament locator"]       = "/starwars/tournaments/findatournament/index.html";
+links["Tournaments.SWCCG player rankings"]       = "/starwars/tournaments/checkratings/index.html";
+links["Tournaments.STCCG overview"]       = "/startrek/tournaments/resources/index.html";
+links["Tournaments.STCCG tournament locator"]       = "/startrek/tournaments/findatournaments/index.html";
+links["Tournaments.STCCG player rankings"]       = "/startrek/tournaments/checkratings/index.html";
+
+links["Art Show.main index"]       = "/artshow/index.html";
+links["Art Show.SWCCG gallery"]       = "/artshow/swgallery/index.html";
+links["Art Show.STCCG gallery"]       = "/artshow/stgallery/index.html";
+links["Art Show.the making of YJ"]       = "/artshow/yjgallery/index.html";
+links["Art Show.creating reality"]       = "/artshow/creatingreality/index.html";
+links["Art Show.the NYC showroom"]       = "/artshow/nycshowroom/index.html";
+links["Art Show.easter eggs"]       = "/artshow/eastereggs/index.html";
+
+
+links["About Decipher.main index"]       = "/aboutdecipher/index.html";
+links["About Decipher.vision"]       = "/aboutdecipher/vision/index.html";
+links["About Decipher.customer service"]       = "/aboutdecipher/customerservice/index.html";
+links["About Decipher.find us"]       = "/aboutdecipher/findus/index.html";
+links["About Decipher.who's who"]       = "/aboutdecipher/whoswho/index.html";
+links["About Decipher.the legal stuff"]       = "/aboutdecipher/legalstuff/index.html";
+
+
+
+function startForm()
+
+{
+
+  document.form.choice.options[0] = new Option(list[0],list[0],1,1);
+
+
+
+  for(count = 1; count < list.length; count ++)
+
+     document.form.choice.options[count] = new Option(list[count],list[count]); 
+
+
+
+  document.form.choice.options.length = count;
+
+  document.form.choice.selectedIndex = 0;
+
+
+
+  updateForm();
+
+}
+
+
+
+function updateForm()
+
+{
+
+  listname = list[document.form.choice.selectedIndex];
+
+
+
+  temp = choices[listname];
+
+
+
+  document.form.item.options[0] = new Option(temp[0],temp[0],1,1);
+
+  for(count = 1; count < temp.length; count ++)
+
+     document.form.item.options[count] = new Option(temp[count],temp[count]); 
+
+
+
+  document.form.item.options.length = count;
+
+  document.form.item.selectedIndex = 0;
+
+}
+
+
+
+function goURL()
+
+{
+
+   listname = list[document.form.choice.selectedIndex];
+
+   thislink = choices[listname][document.form.item.selectedIndex];
+
+
+
+   window.location = links[listname+"."+thislink];
+
+}
+
+
+
+// -->
+
+</script>
+<script language="JavaScript">
+<!--
+function MM_preloadImages() { //v2.0
+  if (document.images) {
+    var imgFiles = MM_preloadImages.arguments;
+    if (document.preloadArray==null) document.preloadArray = new Array();
+    var i = document.preloadArray.length;
+    with (document) for (var j=0; j<imgFiles.length; j++) if (imgFiles[j].charAt(0)!="#"){
+      preloadArray[i] = new Image;
+      preloadArray[i++].src = imgFiles[j];
+  } }
+}
+
+function MM_swapImgRestore() { //v2.0
+  if (document.MM_swapImgData != null)
+    for (var i=0; i<(document.MM_swapImgData.length-1); i+=2)
+      document.MM_swapImgData[i].src = document.MM_swapImgData[i+1];
+}
+
+function MM_swapImage() { //v2.0
+  var i,j=0,objStr,obj,swapArray=new Array,oldArray=document.MM_swapImgData;
+  for (i=0; i < (MM_swapImage.arguments.length-2); i+=3) {
+    objStr = MM_swapImage.arguments[(navigator.appName == 'Netscape')?i:i+1];
+    if ((objStr.indexOf('document.layers[')==0 && document.layers==null) ||
+        (objStr.indexOf('document.all[')   ==0 && document.all   ==null))
+      objStr = 'document'+objStr.substring(objStr.lastIndexOf('.'),objStr.length);
+    obj = eval(objStr);
+    if (obj != null) {
+      swapArray[j++] = obj;
+      swapArray[j++] = (oldArray==null || oldArray[j-1]!=obj)?obj.src:oldArray[j];
+      obj.src = MM_swapImage.arguments[i+2];
+  } }
+  document.MM_swapImgData = swapArray; //used for restore
+}
+
+
+//-->
+</script>
+
+<SCRIPT LANGUAGE="JavaScript1.2">
+
+function popup( strUrl )
+
+{
+
+	newWindow = window.open( strUrl, "newwindow", "menubar=no,scrollbars,status=no,titlebar=no,toolbar=no,resizable,WIDTH=300,HEIGHT=400");
+
+	newWindow.focus();
+
+}
+
+</SCRIPT>
+ 
+<TITLE>DECIPHER.com : Tournaments</TITLE>
+<LINK rel="stylesheet" href="/librarysheets/tournaments/TOURNAMENTSmainstyle.css">
+<script language="JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</HEAD>
+<BODY bgcolor="#FFFFFF" onLoad="startForm();MM_preloadImages('/libraryimages/main/help2.gif','/libraryimages/main/home2.gif')" link="#FF9933" alink="#FFCC00" vlink="#CCCC00">
+<A name="TOP"></A> 
+<TABLE width="630" border="0" cellspacing="0" cellpadding="0" align="center">
+  <TR> 
+    <TD> 
+      <TABLE width="630" border="0" cellspacing="0" cellpadding="0">
+        <TR> 
+          <TD height="20" width="530"><!-- #BeginLibraryItem "/Library/decipherdotcom.lbi" --><A href="/index.html"><IMG src="/libraryimages/main/decipherdotcom.gif" width="127" height="18" border="0" alt="decipher.com"></A><!-- #EndLibraryItem --></TD>
+          <TD height="20" width="50"><!-- #BeginLibraryItem "/Library/helprollover.lbi" --><A href="/help/index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('help','','/libraryimages/main/help2.gif',1)"><IMG src="/libraryimages/main/help1.gif" width="45" height="19" name="help" border="0" alt="help"></A><!-- #EndLibraryItem --></TD>
+          <TD height="20" width="50"><!-- #BeginLibraryItem "/Library/homerollover.lbi" --><A href="/index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('home','','/libraryimages/main/home2.gif',1)"><IMG src="/libraryimages/main/home1.gif" width="45" height="19" name="home" border="0" alt="home"></A><!-- #EndLibraryItem --></TD>
+        </TR>
+      </TABLE>
+    </TD>
+  </TR>
+  <TR bgcolor="#FF9933"> 
+    <TD width="630"> 
+      <TABLE width="630" border="0" cellspacing="0" cellpadding="0">
+        <TR valign="middle"> 
+          <TD width="220" height="20" bgcolor="#FF9933" valign="middle"><IMG src="/libraryimages/tournaments/tournamentstopbar.gif" width="220" height="20"></TD>
+          <TD width="410" height="20" bgcolor="#FF9933"><!-- #BeginLibraryItem "/Library/topnav.lbi" --><IMG src="/libraryimages/main/tophoriznavbar.gif" width="369" height="15" border="0" usemap="#topnav"> 
+<MAP name="topnav">
+<AREA shape="rect" coords="287,1,363,12" href="/aboutdecipher/index.html" alt="about decipher">
+<AREA shape="rect" coords="208,3,254,11" href="/artshow/index.html" alt="art show">
+<AREA shape="rect" coords="109,3,177,11" href="/tournaments/index.html" alt="tournaments">
+<AREA shape="rect" coords="2,3,85,11" href="/messageboards/index.html" alt="message boards">
+</MAP><!-- #EndLibraryItem --></TD>
+        </TR>
+      </TABLE>
+    </TD>
+  </TR>
+  <TR> 
+    <TD valign="top"> 
+      <TABLE width="630" border="0" cellspacing="0" cellpadding="0">
+        <TR> 
+          <TD width="25" valign="top" bgcolor="#993300"><!-- #BeginLibraryItem "/Library/TOURNAMENTSsidenav.lbi" --><IMG src="/libraryimages/tournaments/TOURNAMENTSsidenav.gif" width="125" height="310" border="0" usemap="#rfd"><MAP name="rfd">
+<AREA shape="rect" coords="6,12,118,88" href="/tournaments/index.html" alt="Tournaments">
+<AREA shape="rect" coords="23,100,120,118" href="/youngjedi/tournaments/index.html" alt="young jedi tournaments">
+<AREA shape="rect" coords="25,125,120,142" href="/starwars/tournaments/index.html" alt="star wars tournaments">
+<AREA shape="rect" coords="23,151,117,167" href="/startrek/tournaments/index.html" alt="star trek tournaments">
+</MAP> <!-- #EndLibraryItem --></TD>
+          <TD width="605" valign="top" align="center"><!-- #BeginEditable "TOURNAMENTSmainbody" --> 
+            <table width="580" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="30" rowspan="4" bgcolor="#FFFFFF"></td>
+                <td colspan="4" width="540" height="15">&nbsp;</td>
+              </tr>
+              <tr bgcolor="#669999"> 
+                <td colspan="4" width="570" bgcolor="#669999"> 
+                  <h3>DecipherCon 2000: Star Wars CCG Qualifiers<br>
+                  </h3>
+                </td>
+              </tr>
+              <tr bgcolor="#FFFFCC" colspan="4"> 
+                <td width="142" align="left"><a href="/calendars/event/mainevents/deciphercon/swworldchamp/finalists.html"> 
+                  <tt>&nbsp;Star Wars CCG Qualifiers '99</tt></a> </td>
+                <td width="143" align="left"> <a href="/tournaments/deciphercon2000/stfinalists.html"> <tt>&nbsp;Star Trek CCG 2000 Qualifiers</tt></a></td>
+                <td width="142"  align="center"> <a href="/tournaments/deciphercon2000/yjfinalists.html"> <tt>&nbsp;Young Jedi 2000 Qualifiers</tt></A></td>
+                <td width="143" align="center"><a href="/tournaments/deciphercon2000/index.html"> 
+                  <tt>&nbsp;DecipherCon 2000 Home</tt></a></td>
+              </tr>
+              <tr width="570" valign="top" bordercolor="#FFFFFF"> 
+                <td colspan="4" width="570"> 
+                  <table width="570" border="1" cellspacing="0" cellpadding="2">
+                    <tr> 
+                      <td height="2" colspan="2"> 
+                        <p align="center"><b><br>
+                          1</b> Defending Champ + <b>4</b> Open + <b>3</b> Continental 
+                          + <b>24</b> Regional + <b>38</b> Wild Card Champions 
+                          = <b>70</b> World Finalists<b><br>
+                          <br>
+                          </b>The top 38 players from Day One of Decipher's Star 
+                          Wars CCG World Championship will join these champions 
+                          in Day Two action. At stake, 12 spots in the following 
+                          day's Final Round, and a shot at the 2000 World Championship. 
+                          <b><br>
+                          </b></p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" colspan="2" bgcolor="#99CCCC"> 
+                        <p><b>1999 DEFENDING WORLD CHAMPION </b>{1 finalist}</p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" colspan="2" align="center"> 
+                        <p><b>Gary Carman </b> - Birmingham, England, UK - <tt>*'99 
+                          finalist</tt></p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" height="2" align="CENTER" colspan="2" bgcolor="#99CCCC"> 
+                        <p align="LEFT"><b>OPENS </b>{+4 finalists}</p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" height="18" align="CENTER" width="103"> 
+                        <p>ComicCon</p>
+                      </td>
+                      <td valign="top" height="18" width="406"> 
+                        <p><b>Kevin Shannon </b>- <b> </b>Livermore, CA </p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" height="2" align="CENTER" width="103" bgcolor="#CCCCCC"> 
+                        <p>Origins</p>
+                      </td>
+                      <td valign="top" height="2" width="406" bgcolor="#CCCCCC"> 
+                        <p><b>Joe Alread </b>- <b> </b>Normal, IL - <b> </b> <tt> 
+                          *'96, '97, '98 finalist</tt></p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" height="2" align="CENTER" width="103"> 
+                        <p>DragonCon </p>
+                      </td>
+                      <td valign="top" height="2" width="406"> 
+                        <p><b>Clint Hays </b>- <b> </b>Mount Juliet, TN - <tt>*'98 
+                          and '99 finalist</tt> </p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" height="2" align="CENTER" width="103" bgcolor="#CCCCCC"> 
+                        <p>Wizard World</p>
+                      </td>
+                      <td valign="top" height="2" bgcolor="#CCCCCC" width="406"> 
+                        <p><b>Jared Lockwood </b>- Churubusco, IN</p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" colspan="2" bgcolor="#99CCCC"> 
+                        <p><b>CONTINENTALS </b>{+3 finalists} </p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="103" valign="top" align="CENTER"> 
+                        <p>Australasian </p>
+                      </td>
+                      <td width="406" valign="top"> 
+                        <p><b>Ben Isaacs </b> - Sydney, NSW, Australia</p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" height="2" align="CENTER" width="103" bgcolor="#CCCCCC"> 
+                        <p>European </p>
+                      </td>
+                      <td valign="top" height="2" bgcolor="#CCCCCC" width="406"> 
+                        <p><b>Martin Akesson </b>- Vasteras, Sweden <tt>*'98 and 
+                          '99 finalist</tt> </p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="103" valign="top" align="CENTER"> 
+                        <p>North America </p>
+                      </td>
+                      <td width="406" valign="top"> 
+                        <p><b>Yannick Lapointe - </b> Laval, Quebec <tt>*'97, 
+                          '98 and '99 finalist</tt> </p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" height="2" colspan="2" bgcolor="#99CCCC"> 
+                        <p><b>REGIONALS </b>{+24 finalists}<b> </b></p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" width="103" align="LEFT"> 
+                        <p>Alderaan</p>
+                      </td>
+                      <td valign="top" width="406"> 
+                        <p><b>Paul Feldman* </b>- Turlock, CA - <tt>*'96, '97, 
+                          '99 finalist</tt></p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" width="103" bgcolor="#CCCCCC" align="LEFT"> 
+                        <p>Bespin</p>
+                      </td>
+                      <td valign="top" width="406" bgcolor="#CCCCCC"> 
+                        <p><b>Nick Reisch* </b>- Watertown, SD - <tt>*'99 finalist</tt></p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="103" valign="top" align="LEFT"> 
+                        <p>Calamari</p>
+                      </td>
+                      <td valign="top" width="406"> 
+                        <p><b>Michael Josem -</b> Melbourne, Australia</p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="103" valign="top" bgcolor="#CCCCCC" align="LEFT"> 
+                        <p>Chandrila</p>
+                      </td>
+                      <td valign="top" width="406" bgcolor="#CCCCCC"> 
+                        <p><b>David Destefanis </b>- <b> </b>Milano, Italy</p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="103" valign="top" align="LEFT"> 
+                        <p>Concord Dawn</p>
+                      </td>
+                      <td width="406" valign="top"> 
+                        <p><b>Sylvain Duc </b>- <b> </b>Marly Le Roi, France </p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="103" valign="top" bgcolor="#CCCCCC" align="LEFT"> 
+                        <p>Corellia </p>
+                      </td>
+                      <td valign="top" width="406" bgcolor="#CCCCCC"> 
+                        <p><b>Brian Fred </b>- <b> </b>Lafayette, IN - <tt>*'99 
+                          finalist</tt></p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="103" valign="top" align="LEFT" height="18"> 
+                        <p>Coruscant <br>
+                          (co-champions) </p>
+                      </td>
+                      <td width="406" valign="top" height="18"> 
+                        <p><b>John Lolli </b>- <b> </b>Lawrenceville, NJ<br>
+                          <b>Patrick Ziagos</b> - Factoryville, PA</p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="103" valign="top" bgcolor="#CCCCCC" align="LEFT"> 
+                        <p>Dagobah</p>
+                      </td>
+                      <td valign="top" width="406" bgcolor="#CCCCCC"> 
+                        <p><b>Charlie Herren </b>- <b> </b>Miami, FL</p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="103" valign="top" align="LEFT"> 
+                        <p>Dantooine</p>
+                      </td>
+                      <td width="406" valign="top"> 
+                        <p><b>Frank Truong </b>- <b> </b>Houston, TX </p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="103" valign="top" bgcolor="#CCCCCC" align="LEFT"> 
+                        <p>Endor</p>
+                      </td>
+                      <td width="406" valign="top" bgcolor="#CCCCCC"> 
+                        <p><b>Jeremy Lamere </b>- <b> </b>Box Elder, MT- <tt>*'96, 
+                          '97, '98 finalist</tt></p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="103" valign="top" align="LEFT"> 
+                        <p>Hoth: Ice Plains</p>
+                      </td>
+                      <td width="406" valign="top"> 
+                        <p><b>Alex Klammrodt </b>- <b> </b>Kirkland, Quebec, Canada 
+                          <tt> </tt></p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="103" valign="top" bgcolor="#CCCCCC" align="LEFT"> 
+                        <p>Hoth: N. Ridge</p>
+                      </td>
+                      <td valign="top" width="406" bgcolor="#CCCCCC"> 
+                        <p><b>Alan Sagan </b>- Kamloops, BC, Canada </p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="103" valign="top" align="LEFT"> 
+                        <p>Ithor</p>
+                      </td>
+                      <td width="406" valign="top"> 
+                        <p><b>Miguel Tarin Vegas </b>- <b> </b>Madrid, Spain </p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="103" valign="top" bgcolor="#CCCCCC" align="LEFT"> 
+                        <p>Kashyyyk </p>
+                      </td>
+                      <td width="406" valign="top" bgcolor="#CCCCCC"> 
+                        <p><b>Steve Brentson </b><b> </b>- Ledyard, CT - <tt>*'98, 
+                          &quot;99 finalist</tt></p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="103" valign="top" align="LEFT"> 
+                        <p>Naboo</p>
+                      </td>
+                      <td width="406" valign="top"> 
+                        <p><b>Michael Riboulet </b>-<b> </b>Bristol, England - 
+                          <tt>*'97, '98 finalist</tt> </p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="103" valign="top" height="16" bgcolor="#CCCCCC" align="LEFT"> 
+                        <p>Outer Rim </p>
+                      </td>
+                      <td valign="top" width="406" height="16" bgcolor="#CCCCCC"> 
+                        <p><b>Carlo Bravo -</b> Mexico City, Mexico</p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="103" valign="top" align="LEFT"> 
+                        <p>Ord Mantell </p>
+                      </td>
+                      <td width="406" valign="top"> 
+                        <p><b>Kouji Yukuhisa </b>- <b> </b>Wakabayashi, Japan 
+                        </p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="103" valign="top" align="LEFT" bgcolor="#CCCCCC"> 
+                        <p>Ralltiir</p>
+                      </td>
+                      <td width="406" valign="top" bgcolor="#CCCCCC"> 
+                        <p><b>Martin Falke </b>- Bochum, Germany </p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="103" valign="top" align="LEFT"> 
+                        <p>Ryloth</p>
+                      </td>
+                      <td width="406" valign="top"> 
+                        <p><b>Koen Meijssen </b>- Utrecht, The Netherlands - <tt>*&quot;99 
+                          finalist</tt></p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="103" valign="top" align="LEFT" bgcolor="#CCCCCC"> 
+                        <p>Sullust</p>
+                      </td>
+                      <td valign="top" width="406" bgcolor="#CCCCCC"> 
+                        <p><b>Leszek Chrobak </b>- <b> </b> Pisarzowice, Poland</p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="103" valign="top" height="16" align="LEFT"> 
+                        <p>Tatooine</p>
+                      </td>
+                      <td valign="top" width="406" height="16"> 
+                        <p><b> Josh Martin </b>- Bakersfield, California</p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="103" valign="top" height="22" align="LEFT" bgcolor="#CCCCCC"> 
+                        <p>Tierfon</p>
+                      </td>
+                      <td valign="top" width="406" height="22" bgcolor="#CCCCCC"> 
+                        <p><b>Maarten Logghe </b>- <b> </b>Leuven, Belgium <tt>*'96, 
+                          '97, '99 finalist</tt></p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="103" valign="top" align="LEFT"> 
+                        <p>Toola</p>
+                      </td>
+                      <td valign="top" width="406"> 
+                        <p><b>Jesper Larsson </b>- Malmoe, Sweden</p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td width="103" valign="top" align="LEFT" bgcolor="#CCCCCC"> 
+                        <p>Yavin IV</p>
+                      </td>
+                      <td valign="top" width="406" bgcolor="#CCCCCC"> 
+                        <p><b>Brian Rippetoe </b>- <b> </b>Nolensville, TN <tt>*'98 
+                          finalist</tt></p>
+                      </td>
+                    </tr>
+                    <tr> 
+                      <td valign="top" align="LEFT" colspan="2" bgcolor="#99CCCC">&nbsp;</td>
+                    </tr>
+                  </table>
+                  <br>
+                  <p>&nbsp; 
+                </td>
+              </tr>
+            </table>
+            <!-- #EndEditable --></TD>
+        </TR>
+      </TABLE>
+    </TD>
+  </TR>
+  <TR bgcolor="#666666"> 
+    <TD height="20" valign="bottom"> 
+      <TABLE width="630" border="0" cellspacing="0" cellpadding="0">
+        <TR> 
+          <TD height="20" width="25" align="right" valign="middle" bgcolor="#FFFFFF">&nbsp;</TD>
+          <TD height="20" width="500" valign="middle">&nbsp;</TD>
+          <TD height="20" width="15">&nbsp; </TD>
+          <TD height="20" width="45" valign="middle"> 
+            <P><A href="#TOP">TOP</A></P>
+          </TD>
+          <TD height="20" width="45" valign="middle"> 
+            <P><A href="/sitemap.html">MAP</A></P>
+          </TD>
+        </TR>
+      </TABLE>
+    </TD>
+  </TR>
+  <TR> 
+    <TD> 
+      <TABLE width="630" border="0" cellspacing="0" cellpadding="0">
+        <TR> 
+          <TD width="380" valign="top" align="right"> <TT>TM &amp; &#169; 2000 
+            Decipher Inc. All Rights Reserved. </TT><A href="/aboutdecipher/termsandusage/index.html"><TT>TERMS 
+            AND USAGE</TT></A> <A href="/aboutdecipher/termsandusage/index.html"><TT>| 
+            PRIVACY NOTICE</TT></A> </TD>
+          <TD width="250" valign="top" align="right"> 
+          </TD>
+        </TR>
+      </TABLE>
+    </TD>
+  </TR>
+</TABLE>
+</BODY>
+<!-- #EndTemplate -->
+</HTML>

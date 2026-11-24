@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="111_4" horizontal="false" title="Massassi Base Operations"/>
+    <card blueprintId="211_32" horizontal="false" title="Yavin 4"/>
+    <card blueprintId="1_136" horizontal="true" title="Yavin 4: Docking Bay"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="11_18" horizontal="false" title="Great Shot, Kid!"/>
+    <card blueprintId="9_39" horizontal="false" title="Squadron Assignments"/>
+    <card blueprintId="9_41" horizontal="false" title="Strike Planning"/>
+    <card blueprintId="14_10" horizontal="false" title="General Jar Jar"/>
+    <card blueprintId="209_1" horizontal="false" title="Admiral Raddus"/>
+    <card blueprintId="208_6" horizontal="false" title="General Carlist Rieekan"/>
+    <card blueprintId="209_7" horizontal="false" title="General Walex Blissex"/>
+    <card blueprintId="200_20" horizontal="false" title="Luke Skywalker"/>
+    <card blueprintId="200_20" horizontal="false" title="Luke Skywalker"/>
+    <card blueprintId="7_35" horizontal="false" title="Princess Organa"/>
+    <card blueprintId="2_19" horizontal="false" title="Rebel Tech"/>
+    <card blueprintId="2_19" horizontal="false" title="Rebel Tech"/>
+    <card blueprintId="9_31" horizontal="false" title="Wedge Antilles, Red Squadron Leader"/>
+    <card blueprintId="209_10" horizontal="false" title="Rey With Lightsaber"/>
+    <card blueprintId="209_10" horizontal="false" title="Rey With Lightsaber"/>
+    <card blueprintId="5_24" horizontal="false" title="Haven"/>
+    <card blueprintId="2_42" horizontal="false" title="Attack Run"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="10_4" horizontal="false" title="Control &amp; Tunnel Vision"/>
+    <card blueprintId="10_4" horizontal="false" title="Control &amp; Tunnel Vision"/>
+    <card blueprintId="10_4" horizontal="false" title="Control &amp; Tunnel Vision"/>
+    <card blueprintId="10_4" horizontal="false" title="Control &amp; Tunnel Vision"/>
+    <card blueprintId="10_4" horizontal="false" title="Control &amp; Tunnel Vision"/>
+    <card blueprintId="201_12" horizontal="false" title="Escape Pod"/>
+    <card blueprintId="201_12" horizontal="false" title="Escape Pod"/>
+    <card blueprintId="8_51" horizontal="false" title="Fly Casual"/>
+    <card blueprintId="8_51" horizontal="false" title="Fly Casual"/>
+    <card blueprintId="8_51" horizontal="false" title="Fly Casual"/>
+    <card blueprintId="8_51" horizontal="false" title="Fly Casual"/>
+    <card blueprintId="8_51" horizontal="false" title="Fly Casual"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="7_117" horizontal="false" title="Death Star"/>
+    <card blueprintId="2_62" horizontal="true" title="Death Star: Trench"/>
+    <card blueprintId="8_68" horizontal="false" title="Endor"/>
+    <card blueprintId="1_137" horizontal="true" title="Yavin 4: Jungle"/>
+    <card blueprintId="7_134" horizontal="true" title="Yavin 4: Massassi Headquarters"/>
+    <card blueprintId="208_24" horizontal="true" title="Yavin 4: Massassi War Room"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="111_2" horizontal="false" title="Artoo-Detoo In Red 5"/>
+    <card blueprintId="205_7" horizontal="false" title="Han, Chewie, And The Falcon"/>
+    <card blueprintId="9_74" horizontal="false" title="Home One"/>
+    <card blueprintId="9_76" horizontal="false" title="Liberty"/>
+    <card blueprintId="207_18" horizontal="false" title="Profundity"/>
+    <card blueprintId="9_81" horizontal="false" title="Red Squadron 1"/>
+    <card blueprintId="7_149" horizontal="false" title="Spiral"/>
+    <card blueprintId="201_19" horizontal="false" title="Tantive IV"/>
+    <card blueprintId="9_88" horizontal="false" title="Enhanced Proton Torpedoes"/>
+</deck>

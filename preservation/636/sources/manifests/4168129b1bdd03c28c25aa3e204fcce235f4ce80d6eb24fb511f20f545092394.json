@@ -1,0 +1,2022 @@
+{
+  "locations": {
+    "00f71b87e672681e547d0a7581787a16cb7e4b0ee9e15e4a7bd31d6234d20e4e": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/00f71b87e672681e547d0a7581787a16cb7e4b0ee9e15e4a7bd31d6234d20e4e.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "02cbcfc1d71ecc7e4121a02211fd725565561c6f26524af83491d9097e087f1c": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/02cbcfc1d71ecc7e4121a02211fd725565561c6f26524af83491d9097e087f1c.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "0424c06e4354fb45f36b3a276c4ddca8e38c8ff595c080e2b8b7bfdc3ccbd621": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/0424c06e4354fb45f36b3a276c4ddca8e38c8ff595c080e2b8b7bfdc3ccbd621.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "05e77066653e47baecbdc7e96e5e7c22bd9ac1a88fe66cebc313dc508e421418": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/05e77066653e47baecbdc7e96e5e7c22bd9ac1a88fe66cebc313dc508e421418.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "06384e15669f20c3d416cf6cf221b3fb0044aa0044aff5dfbcf0591bca3fdcce": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/06384e15669f20c3d416cf6cf221b3fb0044aa0044aff5dfbcf0591bca3fdcce.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "0695069df2eb7a6abed8e6efefbc145f4d45883507ec3e0dff0d923104cd7d76": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/0695069df2eb7a6abed8e6efefbc145f4d45883507ec3e0dff0d923104cd7d76.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "09e82b80e338b1008d6fe2c1fd181767a43d480d19c4401afdfc09319140f91d": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/09e82b80e338b1008d6fe2c1fd181767a43d480d19c4401afdfc09319140f91d.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "0a79102addb6ea43e1257eb80b41edc2f71c2efd1a70d455d4813236c4241c22": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/0a79102addb6ea43e1257eb80b41edc2f71c2efd1a70d455d4813236c4241c22.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "0fb5efcdae7d91f83691a4b6d4278576421378adff1de8de9cc7d321c9e5ad01": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/0fb5efcdae7d91f83691a4b6d4278576421378adff1de8de9cc7d321c9e5ad01.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "11d90a42d8d420281f2a08e5f66b0053bf9206cad218c6d1c2a2dbdf71dabd55": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/11d90a42d8d420281f2a08e5f66b0053bf9206cad218c6d1c2a2dbdf71dabd55.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "13a18b2b1620ad666a796bdd2e761ce00cd532828e04383a2bf49fee41812445": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/13a18b2b1620ad666a796bdd2e761ce00cd532828e04383a2bf49fee41812445.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "13abe5d18c9a756fd887dc9fd4be587f87cfdfeda47924d024c7a56fa2b156c5": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/13abe5d18c9a756fd887dc9fd4be587f87cfdfeda47924d024c7a56fa2b156c5.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "13b2e72af57839a7f61102da385d710ca4e43ea5e30cfd81ecd46ddb240ec08a": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/13b2e72af57839a7f61102da385d710ca4e43ea5e30cfd81ecd46ddb240ec08a.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "14f8fd89a2b29fc296d68852bcbccdaa3589e60a3d86421cd76f12663e9f2f06": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/14f8fd89a2b29fc296d68852bcbccdaa3589e60a3d86421cd76f12663e9f2f06.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "14f901048e3fb23a65c1a80be8fe0cb1901a519bb29e80f7486a5cf780936822": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/14f901048e3fb23a65c1a80be8fe0cb1901a519bb29e80f7486a5cf780936822.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "17790b9b41f175c80dfcc36d8040e7fd4651760b6dd0fe0f7dcec0d8bbdf7d4a": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/17790b9b41f175c80dfcc36d8040e7fd4651760b6dd0fe0f7dcec0d8bbdf7d4a.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "198d0b2241697302d85ee64f406d27ac1ac9e743b9eeef43280c4e86fdd8b132": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/198d0b2241697302d85ee64f406d27ac1ac9e743b9eeef43280c4e86fdd8b132.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "1b0be39c485f893fbbd7ec142d45feceab9dfe19b92ecca259ec602f895cbde1": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/1b0be39c485f893fbbd7ec142d45feceab9dfe19b92ecca259ec602f895cbde1.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "1c51eed2f2ab5d16c7c2f0703dba42577c3ea4abefe3c44f369853959f03b064": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/1c51eed2f2ab5d16c7c2f0703dba42577c3ea4abefe3c44f369853959f03b064.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "2261a072587f02861bd72eead00507311d07f2193da14a8cd681b2c112981aea": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/2261a072587f02861bd72eead00507311d07f2193da14a8cd681b2c112981aea.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "24d7912630a6dae1f4cc99366450c57497ec89ff609ebedf002c34d77aa55f82": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/24d7912630a6dae1f4cc99366450c57497ec89ff609ebedf002c34d77aa55f82.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "26e2c6cd5359f2e1d524cada61c508e9c93a4fc63ce5cd381a510ccdd514e092": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/26e2c6cd5359f2e1d524cada61c508e9c93a4fc63ce5cd381a510ccdd514e092.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "2780d8ad1e4055bea33d9d58efde53f39f12e5db145003a7ea9578d66c9ac492": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/2780d8ad1e4055bea33d9d58efde53f39f12e5db145003a7ea9578d66c9ac492.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "3e07aca87d3c09c1352fa391333e86fcc48f8ef2a0cfe273faacb1bdb64656da": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/3e07aca87d3c09c1352fa391333e86fcc48f8ef2a0cfe273faacb1bdb64656da.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "415ec0f65daae565cf16701235222a17aa0fb51b9ab790dd3c580c1680eca76c": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/415ec0f65daae565cf16701235222a17aa0fb51b9ab790dd3c580c1680eca76c.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "451786748312fe4883e95a765f27c3d59ff7ee4c2cf102a07ed5d20aa41f7285": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/451786748312fe4883e95a765f27c3d59ff7ee4c2cf102a07ed5d20aa41f7285.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "46c593928ede385bbe3a3e4160530676690187985b833c551bdff029dcec220d": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/46c593928ede385bbe3a3e4160530676690187985b833c551bdff029dcec220d.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "470c7f97e176443be3021ecf23b9d36b63d1f9fc7ab9f353aa2691e1ee67fd91": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/470c7f97e176443be3021ecf23b9d36b63d1f9fc7ab9f353aa2691e1ee67fd91.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "4a5010629940c2c8cc5c41a0efbea9218c4331de8876217ef20d8a243da9956e": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/4a5010629940c2c8cc5c41a0efbea9218c4331de8876217ef20d8a243da9956e.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "4bb5c6b9066b16ac84c411b7c34dcb27e46f8b5c71de665b381930913da8bff2": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/4bb5c6b9066b16ac84c411b7c34dcb27e46f8b5c71de665b381930913da8bff2.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "52b66dabda5214a298455def42c4c45f20bfb25125d9821a7c2accb0f8bee82f": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/52b66dabda5214a298455def42c4c45f20bfb25125d9821a7c2accb0f8bee82f.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "53dcaf50f213d43aa2505fd67582d3ee0b07c10e7539aa9b415de7c155dec05c": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/53dcaf50f213d43aa2505fd67582d3ee0b07c10e7539aa9b415de7c155dec05c.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "55e234399f160b883c9914ca0e4993f50fee59df1c1365832e1f004450298319": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/55e234399f160b883c9914ca0e4993f50fee59df1c1365832e1f004450298319.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "59b6713241ff01d4a29402d7da3c3502295632fe5c3dece002f6130d1d4b88fa": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/59b6713241ff01d4a29402d7da3c3502295632fe5c3dece002f6130d1d4b88fa.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "5a3d9990b252429b4ad199717dc5329199f58b8902eda4e65de3f9e0753a43e6": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/5a3d9990b252429b4ad199717dc5329199f58b8902eda4e65de3f9e0753a43e6.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "5b42e2afcabca0eeeaa0ee9a9cefd5858ee342fa332eedb858ffed56cd7d2ec2": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/5b42e2afcabca0eeeaa0ee9a9cefd5858ee342fa332eedb858ffed56cd7d2ec2.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "5b8511003ea98ab0166753427cfa4058f191364a9ab3fab5ba390853d43141cf": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/5b8511003ea98ab0166753427cfa4058f191364a9ab3fab5ba390853d43141cf.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "61d9be5f4fbeb763b562440af8dc46a1ddc49476e5670f818d8cfcb92c1783ad": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/61d9be5f4fbeb763b562440af8dc46a1ddc49476e5670f818d8cfcb92c1783ad.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "62a6167ddf12226ad8b332063a251060d215f5577e4c8ef9bbbe5261f52b8645": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/62a6167ddf12226ad8b332063a251060d215f5577e4c8ef9bbbe5261f52b8645.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "69b48f0dd3d595bc9910793bbd8da4bf37e3c1f8d556c86176ef00708bfcfac2": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/69b48f0dd3d595bc9910793bbd8da4bf37e3c1f8d556c86176ef00708bfcfac2.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "6c3e3a9cfef8de556261661a1b0664cf9b439a7b6d82035e2ad2db00404fc1b7": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/6c3e3a9cfef8de556261661a1b0664cf9b439a7b6d82035e2ad2db00404fc1b7.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "72f2c664a8f94378dbafd0ca67295e856e9fa65dd9d0b9b14f82b25f882f7dc0": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/72f2c664a8f94378dbafd0ca67295e856e9fa65dd9d0b9b14f82b25f882f7dc0.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "7b748ffaa5af409deba82bc4319a7e0881804a33b0b1661706e3eb9de0414771": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/7b748ffaa5af409deba82bc4319a7e0881804a33b0b1661706e3eb9de0414771.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "80d9645588553a42d588ed27007466bc823c2f09d2b36a9e0bd3bf5ff4ac1b05": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/80d9645588553a42d588ed27007466bc823c2f09d2b36a9e0bd3bf5ff4ac1b05.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "86518a8801a22190baa9bc1d0a7739729672dcc670889cb324421f3d46bc1aaf": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/86518a8801a22190baa9bc1d0a7739729672dcc670889cb324421f3d46bc1aaf.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "875ea7687fbc65714e86d5c182e1089f6c85bdbdb7f47369a6ba58f603332fa4": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/875ea7687fbc65714e86d5c182e1089f6c85bdbdb7f47369a6ba58f603332fa4.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "880cd0c8cd4cb5c0de3b51fcfdcdc4efe9e5698de6d44ffe6301d7582fb0b4dd": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/880cd0c8cd4cb5c0de3b51fcfdcdc4efe9e5698de6d44ffe6301d7582fb0b4dd.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "8db34638a275b0d6d6ea85c7541f237048fc5b375f7544587cfcfb6b8bf0cb00": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/8db34638a275b0d6d6ea85c7541f237048fc5b375f7544587cfcfb6b8bf0cb00.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "8df71a4e84d99360e4de8714228b70aa52ed0dbc23a938aa287b86b56a160744": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/8df71a4e84d99360e4de8714228b70aa52ed0dbc23a938aa287b86b56a160744.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "8f152db60104e2d549e5fb94a4021a0a4c5332fe8f3aeccc7fc34752237507b7": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/8f152db60104e2d549e5fb94a4021a0a4c5332fe8f3aeccc7fc34752237507b7.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "9123687573f12bdc7db9248cdd476f2a06092d8954315024c3cf65880607d9dd": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/9123687573f12bdc7db9248cdd476f2a06092d8954315024c3cf65880607d9dd.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "9170b626f051b7e1e4487673c312fd7172e2cb2e1d1167f1c96041d937305be1": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/9170b626f051b7e1e4487673c312fd7172e2cb2e1d1167f1c96041d937305be1.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "9ddb51b92138550589887a6f703116f4222c1862c697fe1ce98498dc8da5e782": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/9ddb51b92138550589887a6f703116f4222c1862c697fe1ce98498dc8da5e782.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "a2f6eef0fad782927ba80fe460aa98c29935c900ecc4ddb357875702ce0c13f0": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/a2f6eef0fad782927ba80fe460aa98c29935c900ecc4ddb357875702ce0c13f0.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "a414f284536f90917be36047c7ca67c6636b0440413862703990e4659f1862b9": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/a414f284536f90917be36047c7ca67c6636b0440413862703990e4659f1862b9.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "a8d6346710f87e561c086ebe0f8170b3b3cccdf43230576989d4272b7daa50e8": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/a8d6346710f87e561c086ebe0f8170b3b3cccdf43230576989d4272b7daa50e8.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "acf082a2a74fc5d5e89618934f55971ea3723cd1b52daa49ba17a603846efae5": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/acf082a2a74fc5d5e89618934f55971ea3723cd1b52daa49ba17a603846efae5.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "ae466ce3ef034a03857d9c23551d69d091fd67e45f551afd68cdc996f697b411": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/ae466ce3ef034a03857d9c23551d69d091fd67e45f551afd68cdc996f697b411.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "afce38e0124ab29f44d2dd23d0b6857b65f5545f8bee564b4badbc3196fb715d": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/afce38e0124ab29f44d2dd23d0b6857b65f5545f8bee564b4badbc3196fb715d.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "b2b5b49f2afd3b7921ca34fef56407efca0043e066e33aecd7bb9d8196c8c613": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/b2b5b49f2afd3b7921ca34fef56407efca0043e066e33aecd7bb9d8196c8c613.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "b3c323d7366759d1f4128f2c9d078f7874904df9f0053a8722a69bc97c789001": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/b3c323d7366759d1f4128f2c9d078f7874904df9f0053a8722a69bc97c789001.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "b65aaf9948fa3d06f9b969a8286052836d88620aec70b5301ed4cca120222e1a": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/b65aaf9948fa3d06f9b969a8286052836d88620aec70b5301ed4cca120222e1a.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "b9cb13ac9c65d877e57f0d9e29d4eed632afcb8588f959382cddd1ad64cc06d1": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/b9cb13ac9c65d877e57f0d9e29d4eed632afcb8588f959382cddd1ad64cc06d1.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "bbfd04ecf484d09d8488ca85fa3b0dba39478c7c99f75562a7189d0c8748611e": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/bbfd04ecf484d09d8488ca85fa3b0dba39478c7c99f75562a7189d0c8748611e.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "c12bdfaa2ec4220fc07ebeb09fcd3358a7815023f300fd2dfe3c84275eb836d1": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/c12bdfaa2ec4220fc07ebeb09fcd3358a7815023f300fd2dfe3c84275eb836d1.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "c37722e8e410c8692284ab512d74971f05e51f674c13c6c77506eeade82fd026": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/c37722e8e410c8692284ab512d74971f05e51f674c13c6c77506eeade82fd026.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "c59d5e22b9e4cbaa4064db6669b0090dc30766ac8866551ad0c101c538f01ef9": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/c59d5e22b9e4cbaa4064db6669b0090dc30766ac8866551ad0c101c538f01ef9.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "c8813d2dad88a4b19d0e5aeb0d29abe60e77a11f847d5ea3b95671213439e5f9": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/c8813d2dad88a4b19d0e5aeb0d29abe60e77a11f847d5ea3b95671213439e5f9.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "d0597dd8ca3a5e6d0daaac8203a76f4cf3abcafa9d720df67e3a4caf9addbdcc": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/d0597dd8ca3a5e6d0daaac8203a76f4cf3abcafa9d720df67e3a4caf9addbdcc.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "d74f753cb635d8b00255e451960f9283268120e29744e5bd8a296291be475aed": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/d74f753cb635d8b00255e451960f9283268120e29744e5bd8a296291be475aed.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "d8276126e8daab2ef91f14f4b424dc95f11dadf1eff06519c4c2046686a223aa": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/d8276126e8daab2ef91f14f4b424dc95f11dadf1eff06519c4c2046686a223aa.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "da06ac30af1ed60289be2938be647d69912c4240ce33ff6947e14786a0945f89": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/da06ac30af1ed60289be2938be647d69912c4240ce33ff6947e14786a0945f89.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "e0743c664292ebc2094c1f2966e28cb90ddff8ee388404c55cfe347cb9fa7cb8": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/e0743c664292ebc2094c1f2966e28cb90ddff8ee388404c55cfe347cb9fa7cb8.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "e79915867e93cf23cca66743f33429efd6c02c66bb59f286bae3aa62dab4b1b3": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/e79915867e93cf23cca66743f33429efd6c02c66bb59f286bae3aa62dab4b1b3.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "e8b39bde7c9af8fc629c2ac46777e919ce6142eac552fed898a10a13fc4d06e4": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/e8b39bde7c9af8fc629c2ac46777e919ce6142eac552fed898a10a13fc4d06e4.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "eb818ef05cc839ec3bce5ba895ffdbc41c65707b70786d84f719f6c44cff9044": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/eb818ef05cc839ec3bce5ba895ffdbc41c65707b70786d84f719f6c44cff9044.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "ef57880c50d622b6b264b138af8a55e11d360e9df908cb90022989d541a4b30e": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/ef57880c50d622b6b264b138af8a55e11d360e9df908cb90022989d541a4b30e.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "f156f514950d91eb014a447b65919d98d196238a135d4ed2e97a82bbb8cfcc91": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/f156f514950d91eb014a447b65919d98d196238a135d4ed2e97a82bbb8cfcc91.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "f191c9f96bf8b2bffbb89ac31ca8fa64ff84ca452d0dec3051ec5e6849741553": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/f191c9f96bf8b2bffbb89ac31ca8fa64ff84ca452d0dec3051ec5e6849741553.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "f92f0c73574d0f3eb0247f4893b2852a6405c3c3ddf2f9d0800650714c02ccbc": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/f92f0c73574d0f3eb0247f4893b2852a6405c3c3ddf2f9d0800650714c02ccbc.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    },
+    "fcd00a71c856c47b461cf3a45a398ab6c14478f67064a201a098de36e5034527": {
+      "artifact_bytes": 1258924,
+      "artifact_sha256": "9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158",
+      "container": "tar.xz",
+      "kind": "git",
+      "member": "objects/fcd00a71c856c47b461cf3a45a398ab6c14478f67064a201a098de36e5034527.bin",
+      "path": "preservation/636/sources/containers/9b32309cf3c36e2164406dd3af63b4ab2b23c7ee0d8537cb0206a6cb0a1ad158.tar.xz",
+      "uncompressed_bytes": 10931891
+    }
+  },
+  "plan_sha256": "b7153366723a6e438069e0579c6afb1d2371cdb08e040035cfd8872e13e17ae0",
+  "representations": [
+    {
+      "acquired_url": "https://web.archive.org/web/20010306015236/http://www.decipher.com/artshow/eastereggs/starwarsccg/dagobah/dark/eheisnotready.html",
+      "bytes": 3197,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "http://www.decipher.com/artshow/eastereggs/starwarsccg/dagobah/dark/eheisnotready.html",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:41:03.383426+00:00",
+        "host": "web.archive.org"
+      },
+      "representation_kind": "replay",
+      "sha256": "b9cb13ac9c65d877e57f0d9e29d4eed632afcb8588f959382cddd1ad64cc06d1",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://web.archive.org/web/20000422100330/http://www.decipher.com/artshow/eastereggs/starwarsccg/dagobah/dark/elostinspace.html",
+      "bytes": 3199,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "http://www.decipher.com/artshow/eastereggs/starwarsccg/dagobah/dark/elostinspace.html",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T16:00:02.419648+00:00",
+        "host": "web.archive.org"
+      },
+      "representation_kind": "replay",
+      "sha256": "62a6167ddf12226ad8b332063a251060d215f5577e4c8ef9bbbe5261f52b8645",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://web.archive.org/web/20000422124838/http://www.decipher.com/artshow/eastereggs/starwarsccg/dagobah/dark/erogueasteroid.html",
+      "bytes": 3295,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "http://www.decipher.com/artshow/eastereggs/starwarsccg/dagobah/dark/erogueasteroid.html",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T16:00:35.833905+00:00",
+        "host": "web.archive.org"
+      },
+      "representation_kind": "replay",
+      "sha256": "451786748312fe4883e95a765f27c3d59ff7ee4c2cf102a07ed5d20aa41f7285",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://web.archive.org/web/19990504174938id_/http://www.decipher.com/starwars/productlibrary/thecollection/index.html",
+      "bytes": 21560,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "http://www.decipher.com/starwars/productlibrary/thecollection/index.html",
+      "provider": {
+        "attestation_time_limit": "Exact prior payload and metadata checked; original provider retrieval timestamp unrecorded, not fabricated",
+        "attested_at": null,
+        "host": "web.archive.org"
+      },
+      "representation_kind": "replay",
+      "sha256": "5544cd9012a8ea618abafb58478afc03d070670392a2a3edfaba5002f88f4d49",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://web.archive.org/web/20001014155851/http://www.geocities.com/CollegePark/Plaza/9433/articles.html",
+      "bytes": 10651,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "http://www.geocities.com/CollegePark/Plaza/9433/articles.html",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T12:13:22.336551+00:00",
+        "host": "web.archive.org"
+      },
+      "representation_kind": "replay",
+      "sha256": "771f1594b1505e37fff6797ad0c7989bde39243a7583cd533e0c7e7146ef25a1",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://web.archive.org/web/20091023102600/http://geocities.com/CollegePark/Plaza/9433/articles/neglected11.html",
+      "bytes": 3773,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "http://www.geocities.com/CollegePark/Plaza/9433/articles/neglected11.html",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:40:02.240784+00:00",
+        "host": "web.archive.org"
+      },
+      "representation_kind": "replay",
+      "sha256": "d0597dd8ca3a5e6d0daaac8203a76f4cf3abcafa9d720df67e3a4caf9addbdcc",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://www.oocities.org/collegepark/plaza/9433/articles/neglected13.html?202618",
+      "bytes": 19975,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "http://www.geocities.com/CollegePark/Plaza/9433/articles/neglected13.html",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T16:03:40.562803+00:00",
+        "host": "www.oocities.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "e79915867e93cf23cca66743f33429efd6c02c66bb59f286bae3aa62dab4b1b3",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://www.oocities.org/collegepark/plaza/9433/articles/neglected24.html?202618",
+      "bytes": 19767,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "http://www.oocities.org/collegepark/plaza/9433/articles/neglected24.html",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:23:37.707231+00:00",
+        "host": "www.oocities.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "5b8511003ea98ab0166753427cfa4058f191364a9ab3fab5ba390853d43141cf",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://www.oocities.org/collegepark/plaza/9433/articles/neglected37.html?202618",
+      "bytes": 19812,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "http://www.oocities.org/collegepark/plaza/9433/articles/neglected37.html",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T16:03:44.024806+00:00",
+        "host": "www.oocities.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "00f71b87e672681e547d0a7581787a16cb7e4b0ee9e15e4a7bd31d6234d20e4e",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://www.oocities.org/collegepark/plaza/9433/articles/neglected7.html?202618",
+      "bytes": 20889,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "http://www.oocities.org/collegepark/plaza/9433/articles/neglected7.html",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:24:33.276456+00:00",
+        "host": "www.oocities.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "59b6713241ff01d4a29402d7da3c3502295632fe5c3dece002f6130d1d4b88fa",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://www.oocities.org/collegepark/plaza/9433/articles/neglected8.html?202618",
+      "bytes": 19650,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "http://www.oocities.org/collegepark/plaza/9433/articles/neglected8.html",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T16:03:47.300237+00:00",
+        "host": "www.oocities.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "b3c323d7366759d1f4128f2c9d078f7874904df9f0053a8722a69bc97c789001",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://www.oocities.org/collegepark/plaza/9433/articles/neglected9.html?202618",
+      "bytes": 19374,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "http://www.oocities.org/collegepark/plaza/9433/articles/neglected9.html",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:26:01.068098+00:00",
+        "host": "www.oocities.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "09e82b80e338b1008d6fe2c1fd181767a43d480d19c4401afdfc09319140f91d",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://dictionary.cambridge.org/dictionary/english/take-matters-into-own-hands",
+      "bytes": 234906,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://dictionary.cambridge.org/dictionary/english/take-matters-into-your-own-hands",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:11:34.294502+00:00",
+        "host": "dictionary.cambridge.org"
+      },
+      "representation_kind": "HTTP",
+      "sha256": "6c3e3a9cfef8de556261661a1b0664cf9b439a7b6d82035e2ad2db00404fc1b7",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://en.wikipedia.org/wiki/Lost_in_Space",
+      "bytes": 402768,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://en.wikipedia.org/wiki/Lost_in_Space",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:11:35.349435+00:00",
+        "host": "en.wikipedia.org"
+      },
+      "representation_kind": "HTTP",
+      "sha256": "8db34638a275b0d6d6ea85c7541f237048fc5b375f7544587cfcfb6b8bf0cb00",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://en.wikipedia.org/wiki/The_best_defense_is_a_good_offense",
+      "bytes": 89399,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://en.wikipedia.org/wiki/The_best_defense_is_a_good_offense",
+      "provider": {
+        "attestation_time_limit": "Exact prior payload and metadata checked; original provider retrieval timestamp unrecorded, not fabricated",
+        "attested_at": null,
+        "host": "en.wikipedia.org"
+      },
+      "representation_kind": "HTTP",
+      "sha256": "52b66dabda5214a298455def42c4c45f20bfb25125d9821a7c2accb0f8bee82f",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://en.wiktionary.org/wiki/keep_down",
+      "bytes": 61395,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://en.wiktionary.org/wiki/keep_down",
+      "provider": {
+        "attestation_time_limit": "Exact prior payload and metadata checked; original provider retrieval timestamp unrecorded, not fabricated",
+        "attested_at": null,
+        "host": "en.wiktionary.org"
+      },
+      "representation_kind": "HTTP",
+      "sha256": "c59d5e22b9e4cbaa4064db6669b0090dc30766ac8866551ad0c101c538f01ef9",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://en.wiktionary.org/wiki/location,_location,_location",
+      "bytes": 65118,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://en.wiktionary.org/wiki/location,_location,_location",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:11:36.439227+00:00",
+        "host": "en.wiktionary.org"
+      },
+      "representation_kind": "HTTP",
+      "sha256": "61d9be5f4fbeb763b562440af8dc46a1ddc49476e5670f818d8cfcb92c1783ad",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://github.com/swccgpc/holotable/blob/022435b/Images-HT/starwars/Dagobah-Dark/large/captainneeda.gif",
+      "bytes": 194106,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://github.com/swccgpc/holotable/blob/022435b/Images-HT/starwars/Dagobah-Dark/large/captainneeda.gif",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T13:34:23.635293+00:00",
+        "host": "github.com"
+      },
+      "representation_kind": "HTTP",
+      "sha256": "acf082a2a74fc5d5e89618934f55971ea3723cd1b52daa49ba17a603846efae5",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://github.com/swccgpc/holotable/commit/4dee9a1",
+      "bytes": 677578,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://github.com/swccgpc/holotable/commit/4dee9a1",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:42:00.421745+00:00",
+        "host": "github.com"
+      },
+      "representation_kind": "HTTP",
+      "sha256": "8f152db60104e2d549e5fb94a4021a0a4c5332fe8f3aeccc7fc34752237507b7",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://github.com/swccgpc/swccg-card-json",
+      "bytes": 266708,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://github.com/swccgpc/swccg-card-json",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:42:07.930921+00:00",
+        "host": "github.com"
+      },
+      "representation_kind": "HTTP",
+      "sha256": "ae466ce3ef034a03857d9c23551d69d091fd67e45f551afd68cdc996f697b411",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://github.com/swccgpc/swccg-card-json/blob/d4e661ec/Light.json",
+      "bytes": 164372,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://github.com/swccgpc/swccg-card-json/blob/d4e661ec/Light.json",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:42:10.367419+00:00",
+        "host": "github.com"
+      },
+      "representation_kind": "HTTP",
+      "sha256": "c37722e8e410c8692284ab512d74971f05e51f674c13c6c77506eeade82fd026",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://github.com/swccgpc/swccg-card-json/blob/d4e661ec735dcb111266fbda98704f2181e1cfab/Dark.json",
+      "bytes": 164760,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://github.com/swccgpc/swccg-card-json/blob/d4e661ec735dcb111266fbda98704f2181e1cfab/Dark.json",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:42:13.942358+00:00",
+        "host": "github.com"
+      },
+      "representation_kind": "HTTP",
+      "sha256": "f156f514950d91eb014a447b65919d98d196238a135d4ed2e97a82bbb8cfcc91",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://imsdb.com/scripts/Star-Wars-Return-of-the-Jedi.html",
+      "bytes": 156955,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://imsdb.com/scripts/Star-Wars-Return-of-the-Jedi.html",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:11:37.427347+00:00",
+        "host": "imsdb.com"
+      },
+      "representation_kind": "HTTP",
+      "sha256": "b65aaf9948fa3d06f9b969a8286052836d88620aec70b5301ed4cca120222e1a",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://imsdb.com/scripts/Star-Wars-The-Empire-Strikes-Back.html",
+      "bytes": 189091,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://imsdb.com/scripts/Star-Wars-The-Empire-Strikes-Back.html",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:11:38.626361+00:00",
+        "host": "imsdb.com"
+      },
+      "representation_kind": "HTTP",
+      "sha256": "82e507580f812cfddabbe7bec4a293b1b85fc2cb45f71def2ae8b9b93dde4889",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://api.github.com/repos/swccgpc/holotable/contents/Images-HT/starwars/Dagobah-Dark/large/bossk.gif?ref=022435b7929e4de26dafbcb1de2ec1d6d04d2153",
+      "bytes": 102880,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://raw.githubusercontent.com/swccgpc/holotable/022435b7929e4de26dafbcb1de2ec1d6d04d2153/Images-HT/starwars/Dagobah-Dark/large/bossk.gif",
+      "provider": {
+        "attestation_time_limit": "Exact prior payload and metadata checked; original provider retrieval timestamp unrecorded, not fabricated",
+        "attested_at": null,
+        "host": "api.github.com"
+      },
+      "representation_kind": "native",
+      "sha256": "8fe8a2d5bc951ce1ff5a84db582e978aa88bec0fd658949d42f6fa9f9f1edc21",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://api.github.com/repos/swccgpc/holotable/contents/Images-HT/starwars/Dagobah-Dark/hires/bossk.png?ref=6c2273e5dc7fba63359a7ab12cd8f2bcc801b172",
+      "bytes": 368750,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://raw.githubusercontent.com/swccgpc/holotable/6c2273e5dc7fba63359a7ab12cd8f2bcc801b172/Images-HT/starwars/Dagobah-Dark/hires/bossk.png",
+      "provider": {
+        "attestation_time_limit": "Exact prior payload and metadata checked; original provider retrieval timestamp unrecorded, not fabricated",
+        "attested_at": null,
+        "host": "api.github.com"
+      },
+      "representation_kind": "native",
+      "sha256": "24d7912630a6dae1f4cc99366450c57497ec89ff609ebedf002c34d77aa55f82",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://raw.githubusercontent.com/swccgpc/swccg-card-json/d4e661ec735dcb111266fbda98704f2181e1cfab/Dark.json",
+      "bytes": 2609864,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://raw.githubusercontent.com/swccgpc/swccg-card-json/d4e661ec735dcb111266fbda98704f2181e1cfab/Dark.json",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:11:39.752266+00:00",
+        "host": "raw.githubusercontent.com"
+      },
+      "representation_kind": "HTTP",
+      "sha256": "84355780eed6580c374d8b2226c3d806cc062d9bb4482776026d4d0c51dd654c",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://raw.githubusercontent.com/swccgpc/swccg-card-json/d4e661ec735dcb111266fbda98704f2181e1cfab/Light.json",
+      "bytes": 2795024,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://raw.githubusercontent.com/swccgpc/swccg-card-json/d4e661ec735dcb111266fbda98704f2181e1cfab/Light.json",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:11:41.252174+00:00",
+        "host": "raw.githubusercontent.com"
+      },
+      "representation_kind": "HTTP",
+      "sha256": "a8b118f085fecdc5f0dd5e6b1adbab0e96ec5e5083e316feafc8b2253a07e496",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://res.starwarsccg.org/cards/Dagobah-Dark/large/rogueasteroid.gif",
+      "bytes": 66140,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://res.starwarsccg.org/cards/Dagobah-Dark/large/rogueasteroid.gif",
+      "provider": {
+        "attestation_time_limit": "Exact prior payload and metadata checked; original provider retrieval timestamp unrecorded, not fabricated",
+        "attested_at": null,
+        "host": "res.starwarsccg.org"
+      },
+      "representation_kind": "native",
+      "sha256": "aaa2619259dc399b70d3cab400c5a0531c25f4a6139201ba366ee5b6087e1778",
+      "source_role": "Primary published replacement PDF or actual published card-image witness; full authority/state interpretation stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://res.starwarsccg.org/cards/Dagobah-Dark/large/spaceslug.gif",
+      "bytes": 103745,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://res.starwarsccg.org/cards/Dagobah-Dark/large/spaceslug.gif",
+      "provider": {
+        "attestation_time_limit": "Exact prior payload and metadata checked; original provider retrieval timestamp unrecorded, not fabricated",
+        "attested_at": null,
+        "host": "res.starwarsccg.org"
+      },
+      "representation_kind": "native",
+      "sha256": "469b95e00b27dfba5369a87355e61b31fcfe793b3ac48882ffb8db39a87b1938",
+      "source_role": "Primary published replacement PDF or actual published card-image witness; full authority/state interpretation stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://res.starwarsccg.org/cards/Dagobah-Light/large/rogueasteroid.gif",
+      "bytes": 92891,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://res.starwarsccg.org/cards/Dagobah-Light/large/rogueasteroid.gif",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:11:42.953115+00:00",
+        "host": "res.starwarsccg.org"
+      },
+      "representation_kind": "native",
+      "sha256": "97348281bc0aeb756838a8b252cb9d3843d6b13dcce478cd9ee7c68713dd88b6",
+      "source_role": "Primary published replacement PDF or actual published card-image witness; full authority/state interpretation stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://res.starwarsccg.org/cards/Dagobah-Light/large/spaceslug.gif",
+      "bytes": 108507,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://res.starwarsccg.org/cards/Dagobah-Light/large/spaceslug.gif",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:11:43.933691+00:00",
+        "host": "res.starwarsccg.org"
+      },
+      "representation_kind": "native",
+      "sha256": "21294fe8322178c1448123ab95dff91a5527523bcb0029b3970eed78d8e07872",
+      "source_role": "Primary published replacement PDF or actual published card-image witness; full authority/state interpretation stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://res.starwarsccg.org/rules/SWCCG_2023_AdvancedRulebook.pdf",
+      "bytes": 3406262,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://res.starwarsccg.org/rules/SWCCG_2023_AdvancedRulebook.pdf",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:11:45.004680+00:00",
+        "host": "res.starwarsccg.org"
+      },
+      "representation_kind": "native",
+      "sha256": "0a6387698f1a7a23aef8765612c419e66d8edce0d3e5ede89c040d0f7dabdebd",
+      "source_role": "Primary published replacement PDF or actual published card-image witness; full authority/state interpretation stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?cardId=2123",
+      "bytes": 35658,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?cardId=2123",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T13:32:58.841522+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "8df71a4e84d99360e4de8714228b70aa52ed0dbc23a938aa287b86b56a160744",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?cardId=2124",
+      "bytes": 34211,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?cardId=2124",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:56:28.083235+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "875ea7687fbc65714e86d5c182e1089f6c85bdbdb7f47369a6ba58f603332fa4",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?cardId=2312",
+      "bytes": 32071,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?cardId=2312",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T13:37:23.169310+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "14f901048e3fb23a65c1a80be8fe0cb1901a519bb29e80f7486a5cf780936822",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?cardId=2313",
+      "bytes": 32074,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?cardId=2313",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:40:33.430163+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "198d0b2241697302d85ee64f406d27ac1ac9e743b9eeef43280c4e86fdd8b132",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=%3C%3EAsteroid%20Sanctuary",
+      "bytes": 34680,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=%3C%3EAsteroid%20Sanctuary",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T13:37:23.462250+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "1c51eed2f2ab5d16c7c2f0703dba42577c3ea4abefe3c44f369853959f03b064",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=4-LOM%27s%20Concussion%20Rifle",
+      "bytes": 38972,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=4-LOM%27s%20Concussion%20Rifle",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T13:37:25.213864+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "02cbcfc1d71ecc7e4121a02211fd725565561c6f26524af83491d9097e087f1c",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=At%20Peace",
+      "bytes": 27727,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=At%20Peace",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T13:37:26.487422+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "26e2c6cd5359f2e1d524cada61c508e9c93a4fc63ce5cd381a510ccdd514e092",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Bog-wing",
+      "bytes": 29032,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Bog-wing",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:40:47.759939+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "880cd0c8cd4cb5c0de3b51fcfdcdc4efe9e5698de6d44ffe6301d7582fb0b4dd",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Captain%20Needa",
+      "bytes": 27748,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Captain%20Needa",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T13:37:28.413736+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "80d9645588553a42d588ed27007466bc823c2f09d2b36a9e0bd3bf5ff4ac1b05",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Comm%20Chief",
+      "bytes": 37688,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Comm%20Chief",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:41:01.642731+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "fcd00a71c856c47b461cf3a45a398ab6c14478f67064a201a098de36e5034527",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Commander%20Brandei",
+      "bytes": 27756,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Commander%20Brandei",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:56:41.869365+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "13abe5d18c9a756fd887dc9fd4be587f87cfdfeda47924d024c7a56fa2b156c5",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Commander%20Nemet",
+      "bytes": 29062,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Commander%20Nemet",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:42:24.941604+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "5a3d9990b252429b4ad199717dc5329199f58b8902eda4e65de3f9e0753a43e6",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Dagobah",
+      "bytes": 40987,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Dagobah",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:42:38.971875+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "86518a8801a22190baa9bc1d0a7739729672dcc670889cb324421f3d46bc1aaf",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Dengar",
+      "bytes": 33210,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Dengar",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T13:37:33.075074+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "2261a072587f02861bd72eead00507311d07f2193da14a8cd681b2c112981aea",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Dengar%27s%20Blaster%20Carbine",
+      "bytes": 39082,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Dengar%27s%20Blaster%20Carbine",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:56:44.044789+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "0fb5efcdae7d91f83691a4b6d4278576421378adff1de8de9cc7d321c9e5ad01",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Descent%20Into%20The%20Dark",
+      "bytes": 34898,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Descent%20Into%20The%20Dark",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:44:01.241198+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "17790b9b41f175c80dfcc36d8040e7fd4651760b6dd0fe0f7dcec0d8bbdf7d4a",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Do,%20Or%20Do%20Not",
+      "bytes": 29927,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Do%2C%20Or%20Do%20Not",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T13:37:33.792165+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "5b42e2afcabca0eeeaa0ee9a9cefd5858ee342fa332eedb858ffed56cd7d2ec2",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Effective%20Repairs",
+      "bytes": 29092,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Effective%20Repairs",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:44:15.652002+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "0695069df2eb7a6abed8e6efefbc145f4d45883507ec3e0dff0d923104cd7d76",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Egregious%20Pilot%20Error",
+      "bytes": 34068,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Egregious%20Pilot%20Error",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:44:29.304284+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "9ddb51b92138550589887a6f703116f4222c1862c697fe1ce98498dc8da5e782",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Executor:%20Holotheatre",
+      "bytes": 31666,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Executor%3A%20Holotheatre",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:56:46.091169+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "69b48f0dd3d595bc9910793bbd8da4bf37e3c1f8d556c86176ef00708bfcfac2",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Failure%20At%20The%20Cave",
+      "bytes": 27754,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Failure%20At%20The%20Cave",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:56:48.073052+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "c8813d2dad88a4b19d0e5aeb0d29abe60e77a11f847d5ea3b95671213439e5f9",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Field%20Promotion",
+      "bytes": 31488,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Field%20Promotion",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T13:37:35.634201+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "7b748ffaa5af409deba82bc4319a7e0881804a33b0b1661706e3eb9de0414771",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Frustration",
+      "bytes": 30980,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Frustration",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:56:50.089695+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "ef57880c50d622b6b264b138af8a55e11d360e9df908cb90022989d541a4b30e",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Great%20Warrior",
+      "bytes": 35912,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Great%20Warrior",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:56:52.102084+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "72f2c664a8f94378dbafd0ca67295e856e9fa65dd9d0b9b14f82b25f882f7dc0",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Han%27s%20Toolkit",
+      "bytes": 35407,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Han%27s%20Toolkit",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:56:54.100200+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "0a79102addb6ea43e1257eb80b41edc2f71c2efd1a70d455d4813236c4241c22",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=He%20Is%20Not%20Ready",
+      "bytes": 32468,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=He%20Is%20Not%20Ready",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:56:56.088886+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "55e234399f160b883c9914ca0e4993f50fee59df1c1365832e1f004450298319",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=HoloNet%20Transmission",
+      "bytes": 41994,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=HoloNet%20Transmission",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T13:37:37.344090+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "a414f284536f90917be36047c7ca67c6636b0440413862703990e4659f1862b9",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=IG-2000",
+      "bytes": 27782,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=IG-2000",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:56:58.076132+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "46c593928ede385bbe3a3e4160530676690187985b833c551bdff029dcec220d",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=IG-88",
+      "bytes": 33181,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=IG-88",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T13:37:38.090083+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "9123687573f12bdc7db9248cdd476f2a06092d8954315024c3cf65880607d9dd",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=IG-88%27s%20Pulse%20Cannon",
+      "bytes": 29069,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=IG-88%27s%20Pulse%20Cannon",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:52:16.525242+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "bbfd04ecf484d09d8488ca85fa3b0dba39478c7c99f75562a7189d0c8748611e",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Knowledge%20And%20Defense",
+      "bytes": 29060,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Knowledge%20And%20Defense",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:52:30.336765+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "a2f6eef0fad782927ba80fe460aa98c29935c900ecc4ddb357875702ce0c13f0",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Location,%20Location,%20Location",
+      "bytes": 34239,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Location%2C%20Location%2C%20Location",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:52:43.821244+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "1b0be39c485f893fbbd7ec142d45feceab9dfe19b92ecca259ec602f895cbde1",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Lost%20In%20Space",
+      "bytes": 37069,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Lost%20In%20Space",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:52:58.265127+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "11d90a42d8d420281f2a08e5f66b0053bf9206cad218c6d1c2a2dbdf71dabd55",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Moving%20To%20Attack%20Position",
+      "bytes": 31819,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Moving%20To%20Attack%20Position",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T13:37:42.597014+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "14f8fd89a2b29fc296d68852bcbccdaa3589e60a3d86421cd76f12663e9f2f06",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Mynock",
+      "bytes": 27717,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Mynock",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T13:37:42.812554+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "d8276126e8daab2ef91f14f4b424dc95f11dadf1eff06519c4c2046686a223aa",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Nudj",
+      "bytes": 36967,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Nudj",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T13:37:43.600413+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "a8d6346710f87e561c086ebe0f8170b3b3cccdf43230576989d4272b7daa50e8",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Punishing%20One",
+      "bytes": 30213,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Punishing%20One",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:53:12.966207+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "4bb5c6b9066b16ac84c411b7c34dcb27e46f8b5c71de665b381930913da8bff2",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Rebel%20Flight%20Suit",
+      "bytes": 29040,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Rebel%20Flight%20Suit",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:53:27.175803+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "0424c06e4354fb45f36b3a276c4ddca8e38c8ff595c080e2b8b7bfdc3ccbd621",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Reflection",
+      "bytes": 29033,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Reflection",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:53:42.199310+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "e0743c664292ebc2094c1f2966e28cb90ddff8ee388404c55cfe347cb9fa7cb8",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Res%20Luk%20Ra%27auf",
+      "bytes": 32139,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Res%20Luk%20Ra%27auf",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T13:37:46.586840+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "f191c9f96bf8b2bffbb89ac31ca8fa64ff84ca452d0dec3051ec5e6849741553",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Retractable%20Arm",
+      "bytes": 33296,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Retractable%20Arm",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:53:55.944643+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "da06ac30af1ed60289be2938be647d69912c4240ce33ff6947e14786a0945f89",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Shot%20In%20The%20Dark",
+      "bytes": 34411,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Shot%20In%20The%20Dark",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:54:10.470858+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "415ec0f65daae565cf16701235222a17aa0fb51b9ab790dd3c580c1680eca76c",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Sleen",
+      "bytes": 40588,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Sleen",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:54:23.946723+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "eb818ef05cc839ec3bce5ba895ffdbc41c65707b70786d84f719f6c44cff9044",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Son%20Of%20Skywalker",
+      "bytes": 29061,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Son%20Of%20Skywalker",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:54:37.628754+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "4a5010629940c2c8cc5c41a0efbea9218c4331de8876217ef20d8a243da9956e",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Stone%20Pile",
+      "bytes": 32902,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Stone%20Pile",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T13:37:47.938443+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "f92f0c73574d0f3eb0247f4893b2852a6405c3c3ddf2f9d0800650714c02ccbc",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=TIE%20Avenger",
+      "bytes": 40242,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=TIE%20Avenger",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:54:51.637862+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "13b2e72af57839a7f61102da385d710ca4e43ea5e30cfd81ecd46ddb240ec08a",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Vine%20Snake",
+      "bytes": 27731,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Vine%20Snake",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T13:37:51.124192+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "470c7f97e176443be3021ecf23b9d36b63d1f9fc7ab9f353aa2691e1ee67fd91",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Warrant%20Officer%20M%27Kae",
+      "bytes": 37980,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Warrant%20Officer%20M%27Kae",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:55:05.457174+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "13a18b2b1620ad666a796bdd2e761ce00cd532828e04383a2bf49fee41812445",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=What%20Is%20Thy%20Bidding,%20My%20Master%3F",
+      "bytes": 33638,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=What%20Is%20Thy%20Bidding%2C%20My%20Master%3F",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:55:19.965948+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "53dcaf50f213d43aa2505fd67582d3ee0b07c10e7539aa9b415de7c155dec05c",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=You%20Do%20Have%20Your%20Moments",
+      "bytes": 30200,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=You%20Do%20Have%20Your%20Moments",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:55:33.403924+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "05e77066653e47baecbdc7e96e5e7c22bd9ac1a88fe66cebc313dc508e421418",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Zuckuss",
+      "bytes": 33457,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Zuckuss",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:55:46.994133+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "d74f753cb635d8b00255e451960f9283268120e29744e5bd8a296291be475aed",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/?s=Zuckuss%27%20Snare%20Rifle",
+      "bytes": 38008,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://scomp.starwarsccg.org/?s=Zuckuss%27%20Snare%20Rifle",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T13:37:53.516890+00:00",
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "afce38e0124ab29f44d2dd23d0b6857b65f5545f8bee564b4badbc3196fb715d",
+      "source_role": "Retained auxiliary current PC reference; not printed Decipher authority"
+    },
+    {
+      "acquired_url": "https://www.fanthatracks.com/interviews/guest-interview-mark-tuttle/",
+      "bytes": 543757,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://www.fanthatracks.com/interviews/guest-interview-mark-tuttle/",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T15:11:46.117331+00:00",
+        "host": "www.fanthatracks.com"
+      },
+      "representation_kind": "HTTP",
+      "sha256": "e8b39bde7c9af8fc629c2ac46777e919ce6142eac552fed898a10a13fc4d06e4",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://www.oocities.org/collegepark/plaza/9433/anagrams.html?202618",
+      "bytes": 33188,
+      "disposition": "retained-source candidate; root final canonical scope pending",
+      "primary_url": "https://www.oocities.org/collegepark/plaza/9433/anagrams.html",
+      "provider": {
+        "attestation_time_limit": null,
+        "attested_at": "2026-11-18T16:03:51.807447+00:00",
+        "host": "www.oocities.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "2780d8ad1e4055bea33d9d58efde53f39f12e5db145003a7ea9578d66c9ac492",
+      "source_role": "Retained auxiliary citation; primary replacement/face authority stays in frozen source audit"
+    },
+    {
+      "acquired_url": "https://archive.org/details/locationlocation00salv",
+      "bytes": 216047,
+      "disposition": "Retain1996booktitlecitation candidate; root final scope pending",
+      "primary_url": "https://archive.org/details/locationlocation00salv",
+      "provider": {
+        "attested_at": "2026-11-18T15:59:30.980739+00:00",
+        "host": "archive.org"
+      },
+      "representation_kind": "HTTP",
+      "sha256": "3e07aca87d3c09c1352fa391333e86fcc48f8ef2a0cfe273faacb1bdb64656da",
+      "source_role": "Public bibliographic catalog record"
+    },
+    {
+      "acquired_url": "https://barrypopik.com/blog/location_location_location",
+      "bytes": 13183,
+      "disposition": "Proposed honest replacement citation forNYT; root must adopt/rebase",
+      "primary_url": "https://barrypopik.com/blog/location_location_location",
+      "provider": {
+        "attested_at": "2026-11-18T15:47:14.222411+00:00",
+        "host": "barrypopik.com"
+      },
+      "representation_kind": "HTTP",
+      "sha256": "b2b5b49f2afd3b7921ca34fef56407efca0043e066e33aecd7bb9d8196c8c613",
+      "source_role": "Named expert citation/compiler"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/Light.json",
+      "bytes": 2801925,
+      "disposition": "Supporting source resource needed forquery-DOM relationship/ruling claims",
+      "primary_url": "https://scomp.starwarsccg.org/Light.json",
+      "provider": {
+        "attestation_evidence_file": "C:\\Users\\gythe\\Documents\\Codex\\2026-11-06\\implement-legacy-lane-d-block-5\\work\\wiki-dagobah-labels\\preservation-global\\source-cache-scomp\\hydration\\Light.json.receipt.json",
+        "attested_at": null,
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "c12bdfaa2ec4220fc07ebeb09fcd3358a7815023f300fd2dfe3c84275eb836d1",
+      "source_role": "Supporting currentPC source resource forScomp references; not printedDecipherauthority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/Dark.json",
+      "bytes": 2614334,
+      "disposition": "Supporting source resource needed forquery-DOM relationship/ruling claims",
+      "primary_url": "https://scomp.starwarsccg.org/Dark.json",
+      "provider": {
+        "attestation_evidence_file": "C:\\Users\\gythe\\Documents\\Codex\\2026-11-06\\implement-legacy-lane-d-block-5\\work\\wiki-dagobah-labels\\preservation-global\\source-cache-scomp\\hydration\\Dark.json.receipt.json",
+        "attested_at": null,
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "9170b626f051b7e1e4487673c312fd7172e2cb2e1d1167f1c96041d937305be1",
+      "source_role": "Supporting currentPC source resource forScomp references; not printedDecipherauthority"
+    },
+    {
+      "acquired_url": "https://scomp.starwarsccg.org/sets.json",
+      "bytes": 15257,
+      "disposition": "Supporting source resource needed forquery-DOM relationship/ruling claims",
+      "primary_url": "https://scomp.starwarsccg.org/sets.json",
+      "provider": {
+        "attestation_evidence_file": "C:\\Users\\gythe\\Documents\\Codex\\2026-11-06\\implement-legacy-lane-d-block-5\\work\\wiki-dagobah-labels\\preservation-global\\source-cache-scomp\\hydration\\sets.json.receipt.json",
+        "attested_at": null,
+        "host": "scomp.starwarsccg.org"
+      },
+      "representation_kind": "DOM",
+      "sha256": "06384e15669f20c3d416cf6cf221b3fb0044aa0044aff5dfbcf0591bca3fdcce",
+      "source_role": "Supporting currentPC source resource forScomp references; not printedDecipherauthority"
+    }
+  ]
+}

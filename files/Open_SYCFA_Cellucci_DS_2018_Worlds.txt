@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="111_6" horizontal="false" title="Set Your Course For Alderaan"/>
+    <card blueprintId="2_143" horizontal="false" title="Death Star"/>
+    <card blueprintId="1_285" horizontal="true" title="Death Star: Docking Bay 327"/>
+    <card blueprintId="209_49" horizontal="true" title="Jedha: Jedha City"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="9_99" horizontal="false" title="Baron Soontir Fel"/>
+    <card blueprintId="206_9" horizontal="false" title="Boba Fett"/>
+    <card blueprintId="7_169" horizontal="false" title="Brangus Glee"/>
+    <card blueprintId="7_169" horizontal="false" title="Brangus Glee"/>
+    <card blueprintId="7_169" horizontal="false" title="Brangus Glee"/>
+    <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="208_30" horizontal="false" title="Darth Vader, Emperor's Enforcer"/>
+    <card blueprintId="10_37" horizontal="false" title="Dr. Evazan &amp; Ponda Baba"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="209_37" horizontal="false" title="Kylo Ren With Lightsaber"/>
+    <card blueprintId="208_35" horizontal="false" title="Lord Sidious"/>
+    <card blueprintId="200_86" horizontal="false" title="Mara Jade With Lightsaber"/>
+    <card blueprintId="12_114" horizontal="false" title="P-59"/>
+    <card blueprintId="2_107" horizontal="false" title="U-3PO (Yoo-Threepio)"/>
+    <card blueprintId="2_111" horizontal="false" title="Death Star Tractor Beam"/>
+    <card blueprintId="12_129" horizontal="false" title="Battle Order &amp; First Strike"/>
+    <card blueprintId="1_210" horizontal="false" title="Blast Door Controls"/>
+    <card blueprintId="200_105" horizontal="false" title="Combat Response"/>
+    <card blueprintId="2_121" horizontal="false" title="Imperial Justice"/>
+    <card blueprintId="200_111" horizontal="false" title="Kuat Drive Yards"/>
+    <card blueprintId="1_222" horizontal="false" title="Lateral Damage"/>
+    <card blueprintId="112_16" horizontal="false" title="No Escape"/>
+    <card blueprintId="208_41" horizontal="false" title="Tarkin's Bounty"/>
+    <card blueprintId="12_139" horizontal="false" title="The Phantom Menace"/>
+    <card blueprintId="10_34" horizontal="false" title="Control &amp; Set For Stun"/>
+    <card blueprintId="1_241" horizontal="false" title="Dark Maneuvers"/>
+    <card blueprintId="200_119" horizontal="false" title="Force Field"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="1_248" horizontal="false" title="I Have You Now"/>
+    <card blueprintId="7_257" horizontal="false" title="Masterful Move"/>
+    <card blueprintId="2_135" horizontal="false" title="Monnok"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="5_163" horizontal="false" title="You Are Beaten"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="1_285" horizontal="true" title="Death Star: Docking Bay 327"/>
+    <card blueprintId="1_285" horizontal="true" title="Death Star: Docking Bay 327"/>
+    <card blueprintId="208_48" horizontal="true" title="Death Star: War Room"/>
+    <card blueprintId="2_146" horizontal="false" title="Kashyyyk"/>
+    <card blueprintId="9_156" horizontal="false" title="Emperor's Personal Shuttle"/>
+    <card blueprintId="9_162" horizontal="false" title="Saber 1"/>
+    <card blueprintId="9_165" horizontal="false" title="Saber 4"/>
+    <card blueprintId="201_40" horizontal="false" title="Slave I, Symbol Of Fear"/>
+    <card blueprintId="110_12" horizontal="false" title="Zuckuss In Mist Hunter"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+</deck>

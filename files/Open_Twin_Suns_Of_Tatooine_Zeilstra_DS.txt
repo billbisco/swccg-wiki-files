@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="301_4" horizontal="false" title="Twin Suns Of Tatooine"/>
+    <card blueprintId="1_289" horizontal="false" title="Tatooine"/>
+    <card blueprintId="1_293" horizontal="true" title="Tatooine: Jundland Wastes"/>
+    <card blueprintId="201_34" horizontal="false" title="According To My Design"/>
+    <card blueprintId="205_12" horizontal="false" title="Emperor Palpatine, Foreseer"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="9_94" horizontal="false" title="Fighters Coming In"/>
+    <card blueprintId="9_94" horizontal="false" title="Fighters Coming In"/>
+    <card blueprintId="200_86" horizontal="false" title="Mara Jade With Lightsaber"/>
+    <card blueprintId="206_9" horizontal="false" title="Boba Fett"/>
+    <card blueprintId="201_25" horizontal="false" title="Jango Fett"/>
+    <card blueprintId="11_65" horizontal="false" title="Watto"/>
+    <card blueprintId="12_114" horizontal="false" title="P-59"/>
+    <card blueprintId="10_37" horizontal="false" title="Dr. Evazan &amp; Ponda Baba"/>
+    <card blueprintId="9_99" horizontal="false" title="Baron Soontir Fel"/>
+    <card blueprintId="200_77" horizontal="false" title="DS-61-5"/>
+    <card blueprintId="200_78" horizontal="false" title="Darth Vader"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="9_116" horizontal="false" title="Major Turr Phennir"/>
+    <card blueprintId="13_87" horizontal="false" title="Stormtrooper Garrison"/>
+    <card blueprintId="200_92" horizontal="false" title="Ysanne Isard"/>
+    <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="200_76" horizontal="false" title="Count Dooku"/>
+    <card blueprintId="200_105" horizontal="false" title="Combat Response"/>
+    <card blueprintId="12_135" horizontal="false" title="Imperial Arrest Order &amp; Secret Plans"/>
+    <card blueprintId="12_143" horizontal="false" title="Wipe Them Out, All Of Them"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="200_112" horizontal="false" title="Something Special Planned For Them"/>
+    <card blueprintId="7_244" horizontal="false" title="Tatooine Occupation"/>
+    <card blueprintId="7_244" horizontal="false" title="Tatooine Occupation"/>
+    <card blueprintId="201_33" horizontal="false" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="14_101" horizontal="false" title="Cease Fire!"/>
+    <card blueprintId="200_116" horizontal="false" title="Close Call"/>
+    <card blueprintId="200_116" horizontal="false" title="Close Call"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="1_248" horizontal="false" title="I Have You Now"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="12_152" horizontal="false" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="12_152" horizontal="false" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="205_20" horizontal="false" title="Point Man"/>
+    <card blueprintId="10_46" horizontal="false" title="Sense &amp; Uncertain Is The Future"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="201_37" horizontal="false" title="Turn It Off! Turn It Off!"/>
+    <card blueprintId="200_119" horizontal="false" title="Force Field"/>
+    <card blueprintId="9_136" horizontal="false" title="Force Lightning"/>
+    <card blueprintId="1_291" horizontal="true" title="Tatooine: Docking Bay 94"/>
+    <card blueprintId="12_177" horizontal="true" title="Tatooine: Mos Espa Docking Bay"/>
+    <card blueprintId="12_178" horizontal="true" title="Tatooine: Watto's Junkyard"/>
+    <card blueprintId="200_128" horizontal="false" title="Black 5"/>
+    <card blueprintId="9_162" horizontal="false" title="Saber 1"/>
+    <card blueprintId="9_163" horizontal="false" title="Saber 2"/>
+    <card blueprintId="201_40" horizontal="false" title="Slave I, Symbol Of Fear"/>
+    <card blueprintId="200_138" horizontal="false" title="Vader's Personal Shuttle"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="8_177" horizontal="false" title="Tempest Scout 6"/>
+    <card blueprintId="7_324" horizontal="false" title="SFS L-s9.3 Laser Cannons"/>
+</deck>

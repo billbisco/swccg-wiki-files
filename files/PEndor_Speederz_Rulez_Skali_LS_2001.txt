@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="112_9" horizontal="true" title="Tatooine: Hutt Trade Route (Desert)"/>
+    <card blueprintId="7_131" horizontal="true" title="Tatooine: Jabba's Palace"/>
+    <card blueprintId="6_81" horizontal="true" title="Jabba's Palace: Audience Chamber"/>
+    <card blueprintId="1_129" horizontal="true" title="Tatooine: Docking Bay 94"/>
+    <card blueprintId="8_76" horizontal="true" title="Endor: Landing Platform (Docking Bay)"/>
+    <card blueprintId="1_134" horizontal="true" title="Tatooine: Obi-Wan's Hut"/>
+    <card blueprintId="1_128" horizontal="true" title="Tatooine: Cantina"/>
+    <card blueprintId="3_59" horizontal="true" title="Hoth: Echo Docking Bay"/>
+    <card blueprintId="6_12" horizontal="false" title="Elom"/>
+    <card blueprintId="6_12" horizontal="false" title="Elom"/>
+    <card blueprintId="6_12" horizontal="false" title="Elom"/>
+    <card blueprintId="6_12" horizontal="false" title="Elom"/>
+    <card blueprintId="6_43" horizontal="false" title="Tanus Spijek"/>
+    <card blueprintId="6_43" horizontal="false" title="Tanus Spijek"/>
+    <card blueprintId="6_43" horizontal="false" title="Tanus Spijek"/>
+    <card blueprintId="6_43" horizontal="false" title="Tanus Spijek"/>
+    <card blueprintId="6_6" horizontal="false" title="Baragwin"/>
+    <card blueprintId="6_6" horizontal="false" title="Baragwin"/>
+    <card blueprintId="6_6" horizontal="false" title="Baragwin"/>
+    <card blueprintId="6_6" horizontal="false" title="Baragwin"/>
+    <card blueprintId="7_3" horizontal="false" title="ASP-707 (Ayesspee)"/>
+    <card blueprintId="7_3" horizontal="false" title="ASP-707 (Ayesspee)"/>
+    <card blueprintId="7_3" horizontal="false" title="ASP-707 (Ayesspee)"/>
+    <card blueprintId="112_3" horizontal="false" title="Lando With Vibro-Ax"/>
+    <card blueprintId="108_3" horizontal="false" title="Luke With Lightsaber"/>
+    <card blueprintId="7_4" horizontal="false" title="Ben Kenobi"/>
+    <card blueprintId="108_2" horizontal="false" title="Leia With Blaster Rifle"/>
+    <card blueprintId="108_1" horizontal="false" title="Han With Heavy Blaster Pistol"/>
+    <card blueprintId="8_88" horizontal="false" title="Ewok Catapult"/>
+    <card blueprintId="8_88" horizontal="false" title="Ewok Catapult"/>
+    <card blueprintId="8_88" horizontal="false" title="Ewok Catapult"/>
+    <card blueprintId="8_88" horizontal="false" title="Ewok Catapult"/>
+    <card blueprintId="8_88" horizontal="false" title="Ewok Catapult"/>
+    <card blueprintId="8_88" horizontal="false" title="Ewok Catapult"/>
+    <card blueprintId="8_40" horizontal="false" title="Insurrection"/>
+    <card blueprintId="9_47" horizontal="false" title="Your Insight Serves You Well"/>
+    <card blueprintId="2_41" horizontal="false" title="What're You Tryin' To Push On Us?"/>
+    <card blueprintId="7_66" horizontal="false" title="Incom Corporation"/>
+    <card blueprintId="7_69" horizontal="false" title="Maneuvering Flaps"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="5_59" horizontal="false" title="Off The Edge"/>
+    <card blueprintId="5_59" horizontal="false" title="Off The Edge"/>
+    <card blueprintId="5_59" horizontal="false" title="Off The Edge"/>
+    <card blueprintId="6_66" horizontal="false" title="Fallen Portal"/>
+    <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="104_3" horizontal="false" title="Rebel Snowspeeder"/>
+    <card blueprintId="104_3" horizontal="false" title="Rebel Snowspeeder"/>
+    <card blueprintId="104_3" horizontal="false" title="Rebel Snowspeeder"/>
+    <card blueprintId="104_3" horizontal="false" title="Rebel Snowspeeder"/>
+    <card blueprintId="104_3" horizontal="false" title="Rebel Snowspeeder"/>
+    <card blueprintId="104_3" horizontal="false" title="Rebel Snowspeeder"/>
+    <card blueprintId="104_3" horizontal="false" title="Rebel Snowspeeder"/>
+    <card blueprintId="104_3" horizontal="false" title="Rebel Snowspeeder"/>
+    <card blueprintId="104_3" horizontal="false" title="Rebel Snowspeeder"/>
+    <card blueprintId="104_3" horizontal="false" title="Rebel Snowspeeder"/>
+    <card blueprintId="104_3" horizontal="false" title="Rebel Snowspeeder"/>
+    <card blueprintId="104_3" horizontal="false" title="Rebel Snowspeeder"/>
+</deck>

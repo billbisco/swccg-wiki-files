@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="4_48" horizontal="false" title="Control"/>
+    <card blueprintId="4_48" horizontal="false" title="Control"/>
+    <card blueprintId="4_48" horizontal="false" title="Control"/>
+</deck>

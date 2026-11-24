@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="8_167" horizontal="false" title="Endor Operations"/>
+    <card blueprintId="8_157" horizontal="false" title="Endor"/>
+    <card blueprintId="8_160" horizontal="true" title="Endor: Bunker"/>
+    <card blueprintId="8_166" horizontal="true" title="Endor: Landing Platform (Docking Bay)"/>
+    <card blueprintId="9_138" horizontal="false" title="Operational As Planned"/>
+    <card blueprintId="9_142" horizontal="false" title="Death Star II"/>
+    <card blueprintId="9_117" horizontal="false" title="Moff Jerjerrod"/>
+    <card blueprintId="12_131" horizontal="false" title="Do They Have A Code Clearance?"/>
+    <card blueprintId="10_37" horizontal="false" title="Dr. Evazan &amp; Ponda Baba"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="9_109" horizontal="false" title="Emperor Palpatine"/>
+    <card blueprintId="12_114" horizontal="false" title="P-59"/>
+    <card blueprintId="2_107" horizontal="false" title="U-3PO (Yoo-Threepio)"/>
+    <card blueprintId="209_37" horizontal="false" title="Kylo Ren With Lightsaber"/>
+    <card blueprintId="1_164" horizontal="false" title="Admiral Motti"/>
+    <card blueprintId="3_82" horizontal="false" title="Admiral Ozzel"/>
+    <card blueprintId="208_30" horizontal="false" title="Darth Vader, Emperor's Enforcer"/>
+    <card blueprintId="206_10" horizontal="false" title="Death Trooper"/>
+    <card blueprintId="207_20" horizontal="false" title="Director Orson Krennic"/>
+    <card blueprintId="207_21" horizontal="false" title="Grand Admiral Thrawn"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="208_32" horizontal="false" title="Kir Kanos"/>
+    <card blueprintId="208_36" horizontal="false" title="Myn Kyneugh"/>
+    <card blueprintId="13_87" horizontal="false" title="Stormtrooper Garrison"/>
+    <card blueprintId="13_87" horizontal="false" title="Stormtrooper Garrison"/>
+    <card blueprintId="203_27" horizontal="false" title="General Grievous"/>
+    <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="201_29" horizontal="false" title="Endor Shield"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="112_16" horizontal="false" title="No Escape"/>
+    <card blueprintId="200_112" horizontal="false" title="Something Special Planned For Them"/>
+    <card blueprintId="208_41" horizontal="false" title="Tarkin's Bounty"/>
+    <card blueprintId="9_135" horizontal="false" title="That Thing's Operational"/>
+    <card blueprintId="1_239" horizontal="false" title="Dark Collaboration"/>
+    <card blueprintId="1_239" horizontal="false" title="Dark Collaboration"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="2_132" horizontal="false" title="Ghhhk"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="7_257" horizontal="false" title="Masterful Move"/>
+    <card blueprintId="211_14" horizontal="false" title="Trade Federation Tactics"/>
+    <card blueprintId="211_14" horizontal="false" title="Trade Federation Tactics"/>
+    <card blueprintId="9_143" horizontal="false" title="Death Star II: Capacitors"/>
+    <card blueprintId="9_144" horizontal="false" title="Death Star II: Coolant Shaft"/>
+    <card blueprintId="9_146" horizontal="false" title="Death Star II: Reactor Core"/>
+    <card blueprintId="2_146" horizontal="false" title="Kashyyyk"/>
+    <card blueprintId="200_129" horizontal="false" title="Blockade Support Ship"/>
+    <card blueprintId="200_129" horizontal="false" title="Blockade Support Ship"/>
+    <card blueprintId="9_156" horizontal="false" title="Emperor's Personal Shuttle"/>
+    <card blueprintId="211_23" horizontal="false" title="Invisible Hand"/>
+    <card blueprintId="208_58" horizontal="false" title="Mara Jade In VT-49 Decimator"/>
+    <card blueprintId="208_58" horizontal="false" title="Mara Jade In VT-49 Decimator"/>
+    <card blueprintId="110_12" horizontal="false" title="Zuckuss In Mist Hunter"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+</deck>

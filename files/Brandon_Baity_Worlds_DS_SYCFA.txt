@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+<card blueprintId="200_73" title="Admiral Motti"/>
+<card blueprintId="301_3" title="Asajj Ventress With Lightsabers"/>
+<card blueprintId="200_76" title="Count Dooku"/>
+<card blueprintId="200_78" title="Darth Vader"/>
+<card blueprintId="200_81" title="General Veers"/>
+<card blueprintId="10_40" title="Grand Admiral Thrawn"/>
+<card blueprintId="209_37" title="Kylo Ren With Lightsaber"/>
+<card blueprintId="208_35" title="Lord Sidious"/>
+<card blueprintId="200_86" title="Mara Jade With Lightsaber"/>
+<card blueprintId="213_10" title="Maul"/>
+<card blueprintId="2_115" title="Tractor Beam"/>
+<card blueprintId="11_68" title="A Million Voices Crying Out"/>
+<card blueprintId="217_1" title="An Effective Demonstration"/>
+<card blueprintId="200_107" title="Image Of The Dark Lord"/>
+<card blueprintId="200_110" title="Knowledge And Defense"/>
+<card blueprintId="200_111" title="Kuat Drive Yards"/>
+<card blueprintId="1_222" title="Lateral Damage"/>
+<card blueprintId="219_16" title="No Escape"/>
+<card blueprintId="200_113" title="Tarkin Doctrine"/>
+<card blueprintId="2_130" title="Commence Primary Ignition"/>
+<card blueprintId="201_33" title="A Dark Time For The Rebellion"/>
+<card blueprintId="200_116" title="Close Call"/>
+<card blueprintId="209_47" title="Death Squadron Assignment"/>
+<card blueprintId="209_47" title="Death Squadron Assignment"/>
+<card blueprintId="200_120" title="Force Push"/>
+<card blueprintId="10_39" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+<card blueprintId="7_253" title="I Can't Shake Him!"/>
+<card blueprintId="12_148" title="Imperial Artillery"/>
+<card blueprintId="12_148" title="Imperial Artillery"/>
+<card blueprintId="9_137" title="Imperial Command"/>
+<card blueprintId="9_137" title="Imperial Command"/>
+<card blueprintId="7_254" title="In Range"/>
+<card blueprintId="7_254" title="In Range"/>
+<card blueprintId="7_258" title="Overwhelmed"/>
+<card blueprintId="9_139" title="Prepared Defenses"/>
+<card blueprintId="200_123" title="Sith Fury"/>
+<card blueprintId="201_36" title="TIE Sentry Ships"/>
+<card blueprintId="7_266" title="They've Shut Down The Main Reactor"/>
+<card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+<card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+<card blueprintId="12_163" title="We Must Accelerate Our Plans"/>
+<card blueprintId="5_160" title="Weapon Levitation"/>
+<card blueprintId="1_281" title="Alderaan"/>
+<card blueprintId="12_164" title="Blockade Flagship: Bridge"/>
+<card blueprintId="2_143" title="Death Star"/>
+<card blueprintId="1_285" title="Death Star: Docking Bay 327"/>
+<card blueprintId="208_48" title="Death Star: War Room"/>
+<card blueprintId="208_50" title="Jedha"/>
+<card blueprintId="6_168" title="Nal Hutta"/>
+<card blueprintId="111_6" title="Set Your Course For Alderaan"/>
+<card blueprintId="202_13" title="Binder"/>
+<card blueprintId="200_133" title="Conquest"/>
+<card blueprintId="214_5" title="Intimidator &amp; Persecutor"/>
+<card blueprintId="201_41" title="Stalker"/>
+<card blueprintId="3_153" title="Tyrant"/>
+<card blueprintId="211_24" title="Vengeance"/>
+<card blueprintId="215_23" title="Blizzard 8"/>
+<card blueprintId="12_187" title="Laser Cannon Battery"/>
+<card blueprintId="12_187" title="Laser Cannon Battery"/>
+<card blueprintId="216_19" title="Superlaser"/>
+</deck>

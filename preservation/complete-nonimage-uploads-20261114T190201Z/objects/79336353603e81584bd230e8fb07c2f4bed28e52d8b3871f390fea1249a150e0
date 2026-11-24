@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="7_299" horizontal="false" title="ISB Operations"/>
+    <card blueprintId="7_275" horizontal="false" title="Coruscant"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="3_82" horizontal="false" title="Admiral Ozzel"/>
+    <card blueprintId="202_10" horizontal="false" title="General Nevar"/>
+    <card blueprintId="8_111" horizontal="false" title="Sergeant Barich"/>
+    <card blueprintId="206_11" horizontal="false" title="Veers"/>
+    <card blueprintId="4_99" horizontal="false" title="Corporal Vandolay"/>
+    <card blueprintId="201_26" horizontal="false" title="Lt. Pol Treidum"/>
+    <card blueprintId="8_99" horizontal="false" title="Corporal Oberk"/>
+    <card blueprintId="8_114" horizontal="false" title="Sergeant Tarl"/>
+    <card blueprintId="201_22" horizontal="false" title="Colonel Wullf Yularen"/>
+    <card blueprintId="2_98" horizontal="false" title="Officer Evax"/>
+    <card blueprintId="204_45" horizontal="false" title="Tarkin"/>
+    <card blueprintId="203_22" horizontal="false" title="Agent Kallus"/>
+    <card blueprintId="202_9" horizontal="false" title="Daroe"/>
+    <card blueprintId="200_71" horizontal="false" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="200_78" horizontal="false" title="Darth Vader"/>
+    <card blueprintId="206_9" horizontal="false" title="Boba Fett"/>
+    <card blueprintId="9_106" horizontal="false" title="Commander Merrejk"/>
+    <card blueprintId="200_111" horizontal="false" title="Kuat Drive Yards"/>
+    <card blueprintId="200_105" horizontal="false" title="Combat Response"/>
+    <card blueprintId="8_126" horizontal="false" title="Imperial Arrest Order"/>
+    <card blueprintId="1_215" horizontal="false" title="Expand The Empire"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="5_120" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="4_127" horizontal="false" title="Lost In Space"/>
+    <card blueprintId="2_125" horizontal="false" title="Spice Mines Of Kessel"/>
+    <card blueprintId="2_125" horizontal="false" title="Spice Mines Of Kessel"/>
+    <card blueprintId="200_107" horizontal="false" title="Image Of The Dark Lord"/>
+    <card blueprintId="2_142" horizontal="false" title="We Have A Prisoner"/>
+    <card blueprintId="2_142" horizontal="false" title="We Have A Prisoner"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="3_138" horizontal="false" title="Trample"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="200_121" horizontal="false" title="I Can't Shake Him!"/>
+    <card blueprintId="200_121" horizontal="false" title="I Can't Shake Him!"/>
+    <card blueprintId="200_121" horizontal="false" title="I Can't Shake Him!"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="7_282" horizontal="true" title="Executor: Docking Bay"/>
+    <card blueprintId="3_147" horizontal="true" title="Hoth: Echo Docking Bay"/>
+    <card blueprintId="9_145" horizontal="true" title="Death Star II: Docking Bay"/>
+    <card blueprintId="3_143" horizontal="false" title="Hoth"/>
+    <card blueprintId="2_146" horizontal="false" title="Kashyyyk"/>
+    <card blueprintId="1_288" horizontal="false" title="Kessel"/>
+    <card blueprintId="201_40" horizontal="false" title="Slave I, Symbol Of Fear"/>
+    <card blueprintId="200_138" horizontal="false" title="Vader's Personal Shuttle"/>
+    <card blueprintId="200_133" horizontal="false" title="Conquest"/>
+    <card blueprintId="201_41" horizontal="false" title="Stalker"/>
+    <card blueprintId="200_139" horizontal="false" title="Blizzard 2"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+</deck>

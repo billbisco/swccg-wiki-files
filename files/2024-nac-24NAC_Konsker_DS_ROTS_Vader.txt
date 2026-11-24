@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="301_3" title="Asajj Ventress With Lightsabers"/>
+    <card blueprintId="206_9" title="Boba Fett"/>
+    <card blueprintId="208_30" title="Darth Vader, Emperor's Enforcer"/>
+    <card blueprintId="208_30" title="Darth Vader, Emperor's Enforcer"/>
+    <card blueprintId="208_30" title="Darth Vader, Emperor's Enforcer"/>
+    <card blueprintId="200_79" title="Dengar With Blaster Carbine"/>
+    <card blueprintId="207_20" title="Director Orson Krennic"/>
+    <card blueprintId="10_37" title="Dr. Evazan &amp; Ponda Baba"/>
+    <card blueprintId="200_82" title="Grand Moff Tarkin"/>
+    <card blueprintId="209_37" title="Kylo Ren With Lightsaber"/>
+    <card blueprintId="208_35" title="Lord Sidious"/>
+    <card blueprintId="208_35" title="Lord Sidious"/>
+    <card blueprintId="200_86" title="Mara Jade With Lightsaber"/>
+    <card blueprintId="211_1" title="Mitth'raw'nuruodo"/>
+    <card blueprintId="207_23" title="Savage Opress"/>
+    <card blueprintId="200_92" title="Ysanne Isard"/>
+    <card blueprintId="1_210" title="Blast Door Controls"/>
+    <card blueprintId="7_229" title="First Strike"/>
+    <card blueprintId="205_17" title="I Am Your Father"/>
+    <card blueprintId="200_107" title="Image Of The Dark Lord"/>
+    <card blueprintId="200_110" title="Knowledge And Defense"/>
+    <card blueprintId="221_39" title="Tentacle"/>
+    <card blueprintId="222_16" title="Vader's Machination"/>
+    <card blueprintId="221_40" title="Vader's Malediction"/>
+    <card blueprintId="217_20" title="Revenge Of The Sith"/>
+    <card blueprintId="218_7" title="A Dark Time For The Rebellion &amp; Tarkin's Orders"/>
+    <card blueprintId="218_7" title="A Dark Time For The Rebellion &amp; Tarkin's Orders"/>
+    <card blueprintId="211_12" title="Always Two There Are"/>
+    <card blueprintId="201_35" title="Cold Feet"/>
+    <card blueprintId="208_43" title="Double Back"/>
+    <card blueprintId="200_119" title="Force Field"/>
+    <card blueprintId="200_119" title="Force Field"/>
+    <card blueprintId="200_120" title="Force Push"/>
+    <card blueprintId="2_132" title="Ghhhk"/>
+    <card blueprintId="218_11" title="I Have You Now"/>
+    <card blueprintId="209_48" title="Lana Dobreed &amp; Sacrifice"/>
+    <card blueprintId="12_152" title="Masterful Move &amp; Endor Occupation"/>
+    <card blueprintId="223_1" title="Not Within Sight Or Reach"/>
+    <card blueprintId="223_1" title="Not Within Sight Or Reach"/>
+    <card blueprintId="205_20" title="Point Man"/>
+    <card blueprintId="205_20" title="Point Man"/>
+    <card blueprintId="217_21" title="Rise Of The Sith"/>
+    <card blueprintId="10_47" title="Sniper &amp; Dark Strike"/>
+    <card blueprintId="10_47" title="Sniper &amp; Dark Strike"/>
+    <card blueprintId="221_41" title="Vader's Obsession"/>
+    <card blueprintId="221_41" title="Vader's Obsession"/>
+    <card blueprintId="221_41" title="Vader's Obsession"/>
+    <card blueprintId="221_41" title="Vader's Obsession"/>
+    <card blueprintId="5_163" title="You Are Beaten"/>
+    <card blueprintId="223_27" title="Young Fool"/>
+    <card blueprintId="221_11" title="Cloud City: Chasm Walkway"/>
+    <card blueprintId="216_4" title="Coruscant: The Works"/>
+    <card blueprintId="210_39" title="Mustafar"/>
+    <card blueprintId="216_9" title="Mustafar: Private Platform (Docking Bay)"/>
+    <card blueprintId="209_50" title="Mustafar: Vader's Castle"/>
+    <card blueprintId="221_1" title="Colonel Jendon In Vader's Personal Shuttle"/>
+    <card blueprintId="223_12" title="Eli Vanto In Dreadnaught"/>
+    <card blueprintId="221_42" title="Zuckuss And 4-LOM In Mist Hunter"/>
+    <card blueprintId="208_59" title="Darth Vader's Lightsaber"/>
+    <card blueprintId="217_22" title="Sidious' Lightsaber"/>
+</deck>

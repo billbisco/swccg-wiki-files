@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="209_1" horizontal="false" title="Admiral Raddus"/>
+    <card blueprintId="200_2" horizontal="false" title="Anakin Skywalker, Padawan Learner"/>
+    <card blueprintId="204_1" horizontal="false" title="BB-8 (Beebee-Ate)"/>
+    <card blueprintId="214_16" horizontal="false" title="Beaumont Kin"/>
+    <card blueprintId="204_3" horizontal="false" title="Captain Hera Syndulla"/>
+    <card blueprintId="204_4" horizontal="false" title="Chewie With Bowcaster"/>
+    <card blueprintId="214_18" horizontal="false" title="Din Djarin"/>
+    <card blueprintId="203_4" horizontal="false" title="Ellorrs Madak, Pilot Instructor"/>
+    <card blueprintId="204_6" horizontal="false" title="Finn"/>
+    <card blueprintId="9_13" horizontal="false" title="General Calrissian"/>
+    <card blueprintId="207_5" horizontal="false" title="General Leia Organa"/>
+    <card blueprintId="206_4" horizontal="false" title="Jyn Erso"/>
+    <card blueprintId="204_8" horizontal="false" title="Poe Dameron"/>
+    <card blueprintId="204_9" horizontal="false" title="Rey"/>
+    <card blueprintId="209_10" horizontal="false" title="Rey With Lightsaber"/>
+    <card blueprintId="209_11" horizontal="false" title="Rose Tico"/>
+    <card blueprintId="209_11" horizontal="false" title="Rose Tico"/>
+    <card blueprintId="209_12" horizontal="false" title="Saw Gerrera"/>
+    <card blueprintId="204_11" horizontal="false" title="Solo"/>
+    <card blueprintId="11_14" horizontal="false" title="Threepio With His Parts Showing"/>
+    <card blueprintId="211_55" horizontal="false" title="Vice Admiral Holdo"/>
+    <card blueprintId="1_38" horizontal="false" title="Restraining Bolt"/>
+    <card blueprintId="209_16" horizontal="false" title="A Brave Resistance"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="6_56" horizontal="false" title="Projection Of A Skywalker"/>
+    <card blueprintId="9_41" horizontal="false" title="Strike Planning"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="204_18" horizontal="false" title="Escape Pod &amp; We're Doomed"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="207_13" horizontal="false" title="I Think I Can Handle Myself"/>
+    <card blueprintId="204_19" horizontal="false" title="I'm Getting Pretty Good At This"/>
+    <card blueprintId="204_19" horizontal="false" title="I'm Getting Pretty Good At This"/>
+    <card blueprintId="1_90" horizontal="false" title="It Could Be Worse"/>
+    <card blueprintId="106_5" horizontal="false" title="It's A Hit!"/>
+    <card blueprintId="106_5" horizontal="false" title="It's A Hit!"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="201_14" horizontal="false" title="Perimeter Scan"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="207_14" horizontal="false" title="They're Tracking Us"/>
+    <card blueprintId="8_64" horizontal="false" title="Were You Looking For Me?"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="204_26" horizontal="false" title="Jakku"/>
+    <card blueprintId="204_27" horizontal="true" title="Jakku: Niima Outpost Shipyard"/>
+    <card blueprintId="204_29" horizontal="true" title="Jakku: Rey's Encampment"/>
+    <card blueprintId="204_30" horizontal="true" title="Jakku: Starship Graveyard"/>
+    <card blueprintId="14_49" horizontal="true" title="Naboo: Boss Nass' Chambers"/>
+    <card blueprintId="204_32" horizontal="false" title="Old Allies"/>
+    <card blueprintId="1_140" horizontal="false" title="Corellian Corvette"/>
+    <card blueprintId="213_58" horizontal="false" title="Leia's Resistance Transport"/>
+    <card blueprintId="204_35" horizontal="false" title="The Falcon, Junkyard Garbage"/>
+    <card blueprintId="209_32" horizontal="false" title="Blue 11"/>
+</deck>

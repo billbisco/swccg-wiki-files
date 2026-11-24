@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="211_59" horizontal="false" title="Ahsoka Tano"/>
+    <card blueprintId="206_3" horizontal="false" title="Captain Cassian Andor"/>
+    <card blueprintId="200_9" horizontal="false" title="Daughter Of Skywalker"/>
+    <card blueprintId="210_14" horizontal="false" title="Ezra Bridger"/>
+    <card blueprintId="219_35" horizontal="false" title="Fenn Rau"/>
+    <card blueprintId="200_12" horizontal="false" title="General Airen Cracken"/>
+    <card blueprintId="209_6" horizontal="false" title="General Kenobi"/>
+    <card blueprintId="206_4" horizontal="false" title="Jyn Erso"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="13_27" horizontal="false" title="Lando Calrissian, Scoundrel"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="9_24" horizontal="false" title="Luke Skywalker, Jedi Knight"/>
+    <card blueprintId="200_21" horizontal="false" title="Luke Skywalker, Rebel Scout"/>
+    <card blueprintId="200_21" horizontal="false" title="Luke Skywalker, Rebel Scout"/>
+    <card blueprintId="200_21" horizontal="false" title="Luke Skywalker, Rebel Scout"/>
+    <card blueprintId="207_9" horizontal="false" title="Sabine Wren"/>
+    <card blueprintId="213_44" horizontal="false" title="Yoda, Master Of The Force"/>
+    <card blueprintId="213_44" horizontal="false" title="Yoda, Master Of The Force"/>
+    <card blueprintId="200_33" horizontal="false" title="Luke's Bionic Hand"/>
+    <card blueprintId="200_33" horizontal="false" title="Luke's Bionic Hand"/>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="9_34" horizontal="false" title="I Feel The Conflict"/>
+    <card blueprintId="202_5" horizontal="false" title="Like My Father Before Me"/>
+    <card blueprintId="208_14" horizontal="false" title="Prophecy Of The Force"/>
+    <card blueprintId="209_17" horizontal="false" title="Relatively Unprotected"/>
+    <card blueprintId="1_61" horizontal="false" title="Restricted Deployment"/>
+    <card blueprintId="200_47" horizontal="false" title="Wokling"/>
+    <card blueprintId="221_66" horizontal="false" title="His Destiny"/>
+    <card blueprintId="213_49" horizontal="false" title="Anakin Skywalker"/>
+    <card blueprintId="221_47" horizontal="false" title="Anakin's Destiny"/>
+    <card blueprintId="6_61" horizontal="false" title="Blaster Deflection"/>
+    <card blueprintId="6_61" horizontal="false" title="Blaster Deflection"/>
+    <card blueprintId="204_18" horizontal="false" title="Escape Pod &amp; We're Doomed"/>
+    <card blueprintId="216_28" horizontal="false" title="Free Ride &amp; Endor Celebration"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="9_52" horizontal="false" title="Insertion Planning"/>
+    <card blueprintId="9_52" horizontal="false" title="Insertion Planning"/>
+    <card blueprintId="9_52" horizontal="false" title="Insertion Planning"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="210_18" horizontal="false" title="Jedi Mind Trick"/>
+    <card blueprintId="208_20" horizontal="false" title="Mandalorian Mishap"/>
+    <card blueprintId="214_20" horizontal="false" title="Our Only Hope"/>
+    <card blueprintId="214_20" horizontal="false" title="Our Only Hope"/>
+    <card blueprintId="214_20" horizontal="false" title="Our Only Hope"/>
+    <card blueprintId="214_20" horizontal="false" title="Our Only Hope"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="203_17" horizontal="false" title="Rebel Leadership"/>
+    <card blueprintId="207_14" horizontal="false" title="They're Tracking Us"/>
+    <card blueprintId="11_40" horizontal="false" title="Too Close For Comfort"/>
+    <card blueprintId="12_72" horizontal="false" title="We Wish To Board At Once"/>
+    <card blueprintId="211_50" horizontal="false" title="Where's Han?"/>
+    <card blueprintId="4_89" horizontal="true" title="Dagobah: Yoda's Hut"/>
+    <card blueprintId="218_18" horizontal="true" title="Death Star II: Turbolift Walkway"/>
+    <card blueprintId="217_34" horizontal="true" title="Endor: Anakin's Funeral Pyre"/>
+    <card blueprintId="208_23" horizontal="true" title="Endor: Ewok Village"/>
+    <card blueprintId="208_25" horizontal="false" title="He Is The Chosen One"/>
+    <card blueprintId="205_7" horizontal="false" title="Han, Chewie, And The Falcon"/>
+    <card blueprintId="205_7" horizontal="false" title="Han, Chewie, And The Falcon"/>
+    <card blueprintId="9_90" horizontal="false" title="Luke's Lightsaber"/>
+    <card blueprintId="9_90" horizontal="false" title="Luke's Lightsaber"/>
+</deck>

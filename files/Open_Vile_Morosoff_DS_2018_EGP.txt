@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="110_6" horizontal="false" title="Court Of The Vile Gangster"/>
+    <card blueprintId="6_164" horizontal="true" title="Jabba's Palace: Dungeon"/>
+    <card blueprintId="6_162" horizontal="true" title="Jabba's Palace: Audience Chamber"/>
+    <card blueprintId="6_170" horizontal="true" title="Tatooine: Great Pit Of Carkoon"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="12_143" horizontal="false" title="Wipe Them Out, All Of Them"/>
+    <card blueprintId="201_31" horizontal="false" title="Jabba's Haven"/>
+    <card blueprintId="12_129" horizontal="false" title="Battle Order &amp; First Strike"/>
+    <card blueprintId="13_59" horizontal="false" title="Boba Fett, Bounty Hunter"/>
+    <card blueprintId="13_59" horizontal="false" title="Boba Fett, Bounty Hunter"/>
+    <card blueprintId="2_89" horizontal="false" title="Greedo"/>
+    <card blueprintId="2_89" horizontal="false" title="Greedo"/>
+    <card blueprintId="201_27" horizontal="false" title="Wooof"/>
+    <card blueprintId="204_46" horizontal="false" title="Zam Wesell"/>
+    <card blueprintId="200_75" horizontal="false" title="Bossk"/>
+    <card blueprintId="200_89" horizontal="false" title="R'tic H'weei"/>
+    <card blueprintId="109_11" horizontal="false" title="IG-88 With Riot Gun"/>
+    <card blueprintId="6_128" horizontal="false" title="Velken Tezeri"/>
+    <card blueprintId="200_84" horizontal="false" title="Jabba The Hutt"/>
+    <card blueprintId="201_24" horizontal="false" title="Djas Puhr"/>
+    <card blueprintId="200_87" horizontal="false" title="Ponda Baba"/>
+    <card blueprintId="109_6" horizontal="false" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="200_88" horizontal="false" title="Probot"/>
+    <card blueprintId="203_24" horizontal="false" title="Cad Bane"/>
+    <card blueprintId="110_9" horizontal="false" title="Jodo Kast"/>
+    <card blueprintId="1_172" horizontal="false" title="Dr. Evazan"/>
+    <card blueprintId="201_25" horizontal="false" title="Jango Fett"/>
+    <card blueprintId="200_79" horizontal="false" title="Dengar With Blaster Carbine"/>
+    <card blueprintId="12_114" horizontal="false" title="P-59"/>
+    <card blueprintId="4_118" horizontal="false" title="Broken Concentration"/>
+    <card blueprintId="6_149" horizontal="false" title="Scum And Villainy"/>
+    <card blueprintId="6_149" horizontal="false" title="Scum And Villainy"/>
+    <card blueprintId="112_16" horizontal="false" title="No Escape"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="1_249" horizontal="false" title="Imperial Barrier"/>
+    <card blueprintId="10_39" horizontal="false" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+    <card blueprintId="10_39" horizontal="false" title="Ghhhk &amp; Those Rebels Won't Escape Us"/>
+    <card blueprintId="12_161" horizontal="false" title="They're Still Coming Through!"/>
+    <card blueprintId="201_33" horizontal="false" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="201_35" horizontal="false" title="Cold Feet"/>
+    <card blueprintId="102_8" horizontal="false" title="Gravity Shadow"/>
+    <card blueprintId="1_243" horizontal="false" title="Elis Helrot"/>
+    <card blueprintId="200_116" horizontal="false" title="Close Call"/>
+    <card blueprintId="8_135" horizontal="false" title="Always Thinking With Your Stomach"/>
+    <card blueprintId="5_149" horizontal="false" title="Projective Telepathy"/>
+    <card blueprintId="14_101" horizontal="false" title="Cease Fire!"/>
+    <card blueprintId="6_154" horizontal="false" title="Hidden Weapons"/>
+    <card blueprintId="2_140" horizontal="false" title="Stunning Leader"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="6_168" horizontal="false" title="Nal Hutta"/>
+    <card blueprintId="7_282" horizontal="true" title="Executor: Docking Bay"/>
+    <card blueprintId="7_276" horizontal="true" title="Coruscant: Docking Bay"/>
+    <card blueprintId="200_134" horizontal="false" title="Elis In Hinthra"/>
+    <card blueprintId="110_12" horizontal="false" title="Zuckuss In Mist Hunter"/>
+</deck>

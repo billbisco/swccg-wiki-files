@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_35" horizontal="false" title="Anger, Fear, Aggression"/>
+    <card blueprintId="14_52" horizontal="false" title="We Have A Plan"/>
+    <card blueprintId="12_81" horizontal="true" title="Naboo: Theed Palace Courtyard"/>
+    <card blueprintId="201_17" horizontal="true" title="Naboo: Theed Palace Hallway"/>
+    <card blueprintId="12_83" horizontal="true" title="Naboo: Theed Palace Throne Room"/>
+    <card blueprintId="9_51" horizontal="false" title="Heading For The Medical Frigate"/>
+    <card blueprintId="12_76" horizontal="true" title="Coruscant: Jedi Council Chamber"/>
+    <card blueprintId="12_78" horizontal="false" title="Naboo"/>
+    <card blueprintId="14_49" horizontal="true" title="Naboo: Boss Nass' Chambers"/>
+    <card blueprintId="200_2" horizontal="false" title="Anakin Skywalker, Padawan Learner"/>
+    <card blueprintId="200_2" horizontal="false" title="Anakin Skywalker, Padawan Learner"/>
+    <card blueprintId="6_6" horizontal="false" title="Baragwin"/>
+    <card blueprintId="200_3" horizontal="false" title="Captain Rex, 501st Legion"/>
+    <card blueprintId="10_6" horizontal="false" title="Dash Rendar"/>
+    <card blueprintId="203_4" horizontal="false" title="Ellorrs Madak, Pilot Instructor"/>
+    <card blueprintId="14_14" horizontal="false" title="Jerus Jannick"/>
+    <card blueprintId="201_2" horizontal="false" title="Mace Windu"/>
+    <card blueprintId="201_2" horizontal="false" title="Mace Windu"/>
+    <card blueprintId="200_22" horizontal="false" title="Master Qui-Gon"/>
+    <card blueprintId="13_33" horizontal="false" title="Obi-Wan Kenobi, Jedi Knight"/>
+    <card blueprintId="14_20" horizontal="false" title="Officer Dolphe"/>
+    <card blueprintId="14_23" horizontal="false" title="Panaka, Protector Of The Queen"/>
+    <card blueprintId="14_23" horizontal="false" title="Panaka, Protector Of The Queen"/>
+    <card blueprintId="14_25" horizontal="false" title="Queen Amidala"/>
+    <card blueprintId="14_25" horizontal="false" title="Queen Amidala"/>
+    <card blueprintId="13_39" horizontal="false" title="Qui-Gon Jinn, Jedi Master"/>
+    <card blueprintId="3_14" horizontal="false" title="R-3PO (Ar-Threepio)"/>
+    <card blueprintId="14_29" horizontal="false" title="Ric Olie, Bravo Leader"/>
+    <card blueprintId="11_13" horizontal="false" title="Threepio With His Parts Showing"/>
+    <card blueprintId="13_48" horizontal="false" title="Yoda, Master Of The Force"/>
+    <card blueprintId="13_48" horizontal="false" title="Yoda, Master Of The Force"/>
+    <card blueprintId="202_7" horizontal="false" title="Azure Angel"/>
+    <card blueprintId="14_53" horizontal="false" title="Bravo 1"/>
+    <card blueprintId="14_54" horizontal="false" title="Bravo 2"/>
+    <card blueprintId="200_61" horizontal="false" title="Bravo Fighter"/>
+    <card blueprintId="10_17" horizontal="false" title="Outrider"/>
+    <card blueprintId="3_71" horizontal="false" title="Anakin's Lightsaber"/>
+    <card blueprintId="201_21" horizontal="false" title="Mace Windu's Lightsaber"/>
+    <card blueprintId="13_40" horizontal="false" title="Qui-Gon's Lightsaber"/>
+    <card blueprintId="14_1" horizontal="false" title="I'll Try Spinning"/>
+    <card blueprintId="9_5" horizontal="false" title="Taking Them With Us"/>
+    <card blueprintId="7_60" horizontal="false" title="Draw Their Fire"/>
+    <card blueprintId="14_31" horizontal="false" title="Get To Your Ships!"/>
+    <card blueprintId="1_55" horizontal="false" title="Mantellian Savrip"/>
+    <card blueprintId="200_45" horizontal="false" title="Sai'torr Kal Fas"/>
+    <card blueprintId="201_10" horizontal="false" title="We'll Take The Long Way"/>
+    <card blueprintId="11_29" horizontal="false" title="A Jedi's Resilience"/>
+    <card blueprintId="12_53" horizontal="false" title="All Wings Report In &amp; Darklighter Spin"/>
+    <card blueprintId="201_11" horizontal="false" title="Ascension Guns"/>
+    <card blueprintId="10_4" horizontal="false" title="Control &amp; Tunnel Vision"/>
+    <card blueprintId="201_12" horizontal="false" title="Escape Pod"/>
+    <card blueprintId="201_13" horizontal="false" title="Hear Me Baby, Hold Together"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="200_54" horizontal="false" title="Jedi Levitation"/>
+    <card blueprintId="1_97" horizontal="false" title="Nabrun Leids"/>
+    <card blueprintId="1_105" horizontal="false" title="Rebel Barrier"/>
+    <card blueprintId="1_109" horizontal="false" title="Sense"/>
+    <card blueprintId="12_69" horizontal="false" title="Speak With The Jedi Council"/>
+    <card blueprintId="8_64" horizontal="false" title="Were You Looking For Me?"/>
+    <card blueprintId="14_46" horizontal="false" title="Wesa Gotta Grand Army"/>
+    <card blueprintId="12_37" horizontal="false" title="A Tragedy Has Occurred"/>
+    <card blueprintId="8_34" horizontal="false" title="Aim High"/>
+    <card blueprintId="8_35" horizontal="false" title="Battle Plan"/>
+    <card blueprintId="4_21" horizontal="false" title="Do, Or Do Not"/>
+    <card blueprintId="6_58" horizontal="false" title="Ultimatum"/>
+    <card blueprintId="7_80" horizontal="false" title="Weapons Display"/>
+    <card blueprintId="7_81" horizontal="false" title="Wise Advice"/>
+    <card blueprintId="9_47" horizontal="false" title="Your Insight Serves You Well"/>
+</deck>

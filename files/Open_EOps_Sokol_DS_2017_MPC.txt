@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="8_167" horizontal="false" title="Endor Operations"/>
+    <card blueprintId="8_157" horizontal="false" title="Endor"/>
+    <card blueprintId="8_166" horizontal="true" title="Endor: Landing Platform (Docking Bay)"/>
+    <card blueprintId="8_160" horizontal="true" title="Endor: Bunker"/>
+    <card blueprintId="9_138" horizontal="false" title="Operational As Planned"/>
+    <card blueprintId="9_142" horizontal="false" title="Death Star II"/>
+    <card blueprintId="9_117" horizontal="false" title="Moff Jerjerrod"/>
+    <card blueprintId="200_105" horizontal="false" title="Combat Response"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="10_32" horizontal="false" title="Black Sun Fleet"/>
+    <card blueprintId="10_32" horizontal="false" title="Black Sun Fleet"/>
+    <card blueprintId="200_75" horizontal="false" title="Bossk"/>
+    <card blueprintId="13_59" horizontal="false" title="Boba Fett, Bounty Hunter"/>
+    <card blueprintId="10_31" horizontal="false" title="Arica"/>
+    <card blueprintId="200_76" horizontal="false" title="Count Dooku"/>
+    <card blueprintId="2_107" horizontal="false" title="U-3PO (Yoo-Threepio)"/>
+    <card blueprintId="3_82" horizontal="false" title="Admiral Ozzel"/>
+    <card blueprintId="9_99" horizontal="false" title="Baron Soontir Fel"/>
+    <card blueprintId="9_114" horizontal="false" title="Major Mianda"/>
+    <card blueprintId="200_78" horizontal="false" title="Darth Vader"/>
+    <card blueprintId="1_173" horizontal="false" title="DS-61-2"/>
+    <card blueprintId="200_82" horizontal="false" title="Grand Moff Tarkin"/>
+    <card blueprintId="14_77" horizontal="false" title="Darth Maul With Lightsaber"/>
+    <card blueprintId="11_54" horizontal="false" title="Darth Maul"/>
+    <card blueprintId="112_16" horizontal="false" title="No Escape"/>
+    <card blueprintId="11_76" horizontal="false" title="We Shall Double Our Efforts!"/>
+    <card blueprintId="200_111" horizontal="false" title="Kuat Drive Yards"/>
+    <card blueprintId="4_128" horizontal="false" title="Much Anger In Him"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="201_29" horizontal="false" title="Endor Shield"/>
+    <card blueprintId="9_135" horizontal="false" title="That Thing's Operational"/>
+    <card blueprintId="10_34" horizontal="false" title="Control &amp; Set For Stun"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="201_33" horizontal="false" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="201_33" horizontal="false" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="200_122" horizontal="false" title="Imbalance &amp; Kintan Strider"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="1_267" horizontal="false" title="Sense"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="106_17" horizontal="false" title="Tarkin's Orders"/>
+    <card blueprintId="106_17" horizontal="false" title="Tarkin's Orders"/>
+    <card blueprintId="200_125" horizontal="false" title="Surface Defense"/>
+    <card blueprintId="9_143" horizontal="false" title="Death Star II: Capacitors"/>
+    <card blueprintId="9_144" horizontal="false" title="Death Star II: Coolant Shaft"/>
+    <card blueprintId="9_146" horizontal="false" title="Death Star II: Reactor Core"/>
+    <card blueprintId="12_169" horizontal="false" title="Naboo"/>
+    <card blueprintId="1_289" horizontal="false" title="Tatooine"/>
+    <card blueprintId="200_135" horizontal="false" title="Hound's Tooth"/>
+    <card blueprintId="200_138" horizontal="false" title="Vader's Personal Shuttle"/>
+    <card blueprintId="9_169" horizontal="false" title="Scythe 1"/>
+    <card blueprintId="9_162" horizontal="false" title="Saber 1"/>
+    <card blueprintId="200_127" horizontal="false" title="Black 2"/>
+    <card blueprintId="12_182" horizontal="false" title="Maul's Sith Infiltrator"/>
+    <card blueprintId="9_182" horizontal="false" title="Superlaser Mark II"/>
+    <card blueprintId="9_181" horizontal="false" title="SFS L-s7.2 TIE Cannon"/>
+    <card blueprintId="9_181" horizontal="false" title="SFS L-s7.2 TIE Cannon"/>
+</deck>

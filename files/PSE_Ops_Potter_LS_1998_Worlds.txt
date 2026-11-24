@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="7_137" horizontal="false" title="Local Uprising"/>
+    <card blueprintId="1_1" horizontal="false" title="2X-3KPR (Tooex)"/>
+    <card blueprintId="1_1" horizontal="false" title="2X-3KPR (Tooex)"/>
+    <card blueprintId="1_1" horizontal="false" title="2X-3KPR (Tooex)"/>
+    <card blueprintId="1_1" horizontal="false" title="2X-3KPR (Tooex)"/>
+    <card blueprintId="7_1" horizontal="false" title="Alderaan Operative"/>
+    <card blueprintId="7_1" horizontal="false" title="Alderaan Operative"/>
+    <card blueprintId="7_1" horizontal="false" title="Alderaan Operative"/>
+    <card blueprintId="7_1" horizontal="false" title="Alderaan Operative"/>
+    <card blueprintId="7_1" horizontal="false" title="Alderaan Operative"/>
+    <card blueprintId="7_1" horizontal="false" title="Alderaan Operative"/>
+    <card blueprintId="7_1" horizontal="false" title="Alderaan Operative"/>
+    <card blueprintId="7_1" horizontal="false" title="Alderaan Operative"/>
+    <card blueprintId="7_1" horizontal="false" title="Alderaan Operative"/>
+    <card blueprintId="7_1" horizontal="false" title="Alderaan Operative"/>
+    <card blueprintId="7_1" horizontal="false" title="Alderaan Operative"/>
+    <card blueprintId="7_1" horizontal="false" title="Alderaan Operative"/>
+    <card blueprintId="7_1" horizontal="false" title="Alderaan Operative"/>
+    <card blueprintId="7_1" horizontal="false" title="Alderaan Operative"/>
+    <card blueprintId="7_1" horizontal="false" title="Alderaan Operative"/>
+    <card blueprintId="7_1" horizontal="false" title="Alderaan Operative"/>
+    <card blueprintId="7_1" horizontal="false" title="Alderaan Operative"/>
+    <card blueprintId="7_1" horizontal="false" title="Alderaan Operative"/>
+    <card blueprintId="7_1" horizontal="false" title="Alderaan Operative"/>
+    <card blueprintId="7_1" horizontal="false" title="Alderaan Operative"/>
+    <card blueprintId="1_20" horizontal="false" title="Momaw Nadon"/>
+    <card blueprintId="1_33" horizontal="false" title="Wioslea"/>
+    <card blueprintId="7_52" horizontal="false" title="Scurrier"/>
+    <card blueprintId="6_48" horizontal="false" title="Worrt"/>
+    <card blueprintId="1_121" horizontal="false" title="Alderaan"/>
+    <card blueprintId="7_119" horizontal="true" title="Desert"/>
+    <card blueprintId="7_120" horizontal="true" title="Farm"/>
+    <card blueprintId="7_121" horizontal="true" title="Forest"/>
+    <card blueprintId="7_122" horizontal="true" title="Jungle"/>
+    <card blueprintId="7_125" horizontal="true" title="Spaceport City"/>
+    <card blueprintId="7_126" horizontal="true" title="Spaceport Docking Bay"/>
+    <card blueprintId="7_127" horizontal="true" title="Spaceport Street"/>
+    <card blueprintId="7_128" horizontal="true" title="Swamp"/>
+    <card blueprintId="6_53" horizontal="false" title="Bargaining Table"/>
+    <card blueprintId="4_27" horizontal="false" title="Never Tell Me The Odds"/>
+    <card blueprintId="4_27" horizontal="false" title="Never Tell Me The Odds"/>
+    <card blueprintId="4_27" horizontal="false" title="Never Tell Me The Odds"/>
+    <card blueprintId="1_56" horizontal="false" title="Nightfall"/>
+    <card blueprintId="1_56" horizontal="false" title="Nightfall"/>
+    <card blueprintId="1_56" horizontal="false" title="Nightfall"/>
+    <card blueprintId="1_56" horizontal="false" title="Nightfall"/>
+    <card blueprintId="6_59" horizontal="false" title="Yarna d'al' Gargan"/>
+    <card blueprintId="4_48" horizontal="false" title="Control"/>
+    <card blueprintId="2_49" horizontal="false" title="Grimtaash"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="2_50" horizontal="false" title="Houjix"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="6_72" horizontal="false" title="Nar Shaddaa Wind Chimes"/>
+    <card blueprintId="1_111" horizontal="false" title="Solo Han"/>
+    <card blueprintId="6_77" horizontal="false" title="The Signal"/>
+</deck>

@@ -1,0 +1,18 @@
+{
+  "ticket": 773,
+  "title": "IG-88 (Revised)",
+  "uid": "54_101",
+  "source_url": "https://d1htnxwo4o0jhw.cloudfront.net/cert/137798219/Ok_ZHzLdsEuc7MBAjfPtmA.jpg",
+  "context_url": "https://www.psacard.com/psasetregistry/starwarscollector-1/imagegallery/127305",
+  "bytes": 652105,
+  "sha256": "c5a0f21a637ea00a1a0cdd732ff223b312133dc5247dfc47efa2f36ccea50223",
+  "native_format": "JPEG",
+  "dimensions": [
+    1428,
+    2400
+  ],
+  "relationship": "Complete unchanged public physical-card photograph; no crop/re-encode/metadata stripping.",
+  "credit": "Published in StarWarsCollector_#1 PSA gallery; photographer not identified; no license invented.",
+  "privacy": "No EXIF/GPS or credentials; public card/holder only, no account/session data.",
+  "purpose": "Existing original-source backup repository. Separate source/field audit and publication gate govern Wiki derivative."
+}

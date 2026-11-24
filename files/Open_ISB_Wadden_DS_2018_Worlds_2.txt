@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="7_299" horizontal="false" title="ISB Operations"/>
+    <card blueprintId="7_275" horizontal="false" title="Coruscant"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="9_94" horizontal="false" title="Fighters Coming In"/>
+    <card blueprintId="206_9" horizontal="false" title="Boba Fett"/>
+    <card blueprintId="200_72" horizontal="false" title="5D6-RA-7 (Fivedesix)"/>
+    <card blueprintId="3_82" horizontal="false" title="Admiral Ozzel"/>
+    <card blueprintId="203_22" horizontal="false" title="Agent Kallus"/>
+    <card blueprintId="203_22" horizontal="false" title="Agent Kallus"/>
+    <card blueprintId="9_99" horizontal="false" title="Baron Soontir Fel"/>
+    <card blueprintId="9_101" horizontal="false" title="Captain Jonus"/>
+    <card blueprintId="201_22" horizontal="false" title="Colonel Wullf Yularen"/>
+    <card blueprintId="201_22" horizontal="false" title="Colonel Wullf Yularen"/>
+    <card blueprintId="201_23" horizontal="false" title="Corporal Vandolay"/>
+    <card blueprintId="1_173" horizontal="false" title="DS-61-2"/>
+    <card blueprintId="200_78" horizontal="false" title="Darth Vader"/>
+    <card blueprintId="202_10" horizontal="false" title="General Nevar"/>
+    <card blueprintId="200_81" horizontal="false" title="General Veers"/>
+    <card blueprintId="201_26" horizontal="false" title="Lt. Pol Treidum"/>
+    <card blueprintId="201_26" horizontal="false" title="Lt. Pol Treidum"/>
+    <card blueprintId="2_98" horizontal="false" title="Officer Evax"/>
+    <card blueprintId="204_45" horizontal="false" title="Tarkin"/>
+    <card blueprintId="204_45" horizontal="false" title="Tarkin"/>
+    <card blueprintId="200_92" horizontal="false" title="Ysanne Isard"/>
+    <card blueprintId="200_105" horizontal="false" title="Combat Response"/>
+    <card blueprintId="200_106" horizontal="false" title="Establish Control"/>
+    <card blueprintId="200_107" horizontal="false" title="Image Of The Dark Lord"/>
+    <card blueprintId="12_135" horizontal="false" title="Imperial Arrest Order &amp; Secret Plans"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="208_41" horizontal="false" title="Tarkin's Bounty"/>
+    <card blueprintId="201_33" horizontal="false" title="A Dark Time For The Rebellion"/>
+    <card blueprintId="3_120" horizontal="false" title="Crash Landing"/>
+    <card blueprintId="200_120" horizontal="false" title="Force Push"/>
+    <card blueprintId="200_121" horizontal="false" title="I Can't Shake Him!"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="9_137" horizontal="false" title="Imperial Command"/>
+    <card blueprintId="1_261" horizontal="false" title="Nevar Yalnal"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="3_138" horizontal="false" title="Trample"/>
+    <card blueprintId="3_138" horizontal="false" title="Trample"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_164" horizontal="true" title="Blockade Flagship: Bridge"/>
+    <card blueprintId="106_12" horizontal="false" title="Corulag"/>
+    <card blueprintId="9_145" horizontal="true" title="Death Star II: Docking Bay"/>
+    <card blueprintId="8_166" horizontal="true" title="Endor: Landing Platform (Docking Bay)"/>
+    <card blueprintId="7_282" horizontal="true" title="Executor: Docking Bay"/>
+    <card blueprintId="7_289" horizontal="true" title="Spaceport Docking Bay"/>
+    <card blueprintId="200_127" horizontal="false" title="Black 2"/>
+    <card blueprintId="9_162" horizontal="false" title="Saber 1"/>
+    <card blueprintId="9_167" horizontal="false" title="Scimitar 2"/>
+    <card blueprintId="201_40" horizontal="false" title="Slave I, Symbol Of Fear"/>
+    <card blueprintId="200_138" horizontal="false" title="Vader's Personal Shuttle"/>
+    <card blueprintId="3_154" horizontal="false" title="Blizzard 1"/>
+    <card blueprintId="200_139" horizontal="false" title="Blizzard 2"/>
+    <card blueprintId="13_56" horizontal="false" title="Blizzard 4"/>
+    <card blueprintId="8_170" horizontal="false" title="Tempest 1"/>
+</deck>

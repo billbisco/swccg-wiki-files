@@ -1,0 +1,293 @@
+{
+  "scope": "Parsed visible text/mailto only; public-source original bytes not redacted; no values printed",
+  "files": [
+    {
+      "member": "snapshots/t36574.html",
+      "visible_email_count": 0,
+      "mailto_count": 0,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 0,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "primary/t36574.html",
+      "visible_email_count": 0,
+      "mailto_count": 0,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 0,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "snapshots/t60205.html",
+      "visible_email_count": 0,
+      "mailto_count": 0,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 0,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "primary/t60205.html",
+      "visible_email_count": 0,
+      "mailto_count": 0,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 0,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "snapshots/t63705.html",
+      "visible_email_count": 1,
+      "mailto_count": 1,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 1,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "primary/t63705.html",
+      "visible_email_count": 1,
+      "mailto_count": 1,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 1,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "snapshots/pc-errata-to-imperial-decree-v.html",
+      "visible_email_count": 1,
+      "mailto_count": 1,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 1,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "primary/pc-errata-to-imperial-decree-v.html",
+      "visible_email_count": 1,
+      "mailto_count": 1,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 1,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "snapshots/pc-design-blog-cbt-and-set-7.html",
+      "visible_email_count": 1,
+      "mailto_count": 1,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 1,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "primary/pc-design-blog-cbt-and-set-7.html",
+      "visible_email_count": 1,
+      "mailto_count": 1,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 1,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "snapshots/pc-out-of-the-shadows.html",
+      "visible_email_count": 1,
+      "mailto_count": 1,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 1,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "primary/pc-out-of-the-shadows.html",
+      "visible_email_count": 1,
+      "mailto_count": 1,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 1,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "snapshots/pc-competitive-balance-set-12-preview-cards-released.html",
+      "visible_email_count": 1,
+      "mailto_count": 1,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 1,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "primary/pc-competitive-balance-set-12-preview-cards-released.html",
+      "visible_email_count": 1,
+      "mailto_count": 1,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 1,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "snapshots/t77226.html",
+      "visible_email_count": 0,
+      "mailto_count": 0,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 0,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "primary/t77226.html",
+      "visible_email_count": 0,
+      "mailto_count": 0,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 0,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "snapshots/t86335.html",
+      "visible_email_count": 1,
+      "mailto_count": 2,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 1,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "primary/t86335.html",
+      "visible_email_count": 1,
+      "mailto_count": 2,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 1,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "snapshots/t86675.html",
+      "visible_email_count": 1,
+      "mailto_count": 1,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 1,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "primary/t86675.html",
+      "visible_email_count": 1,
+      "mailto_count": 1,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 1,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "snapshots/t83345.html",
+      "visible_email_count": 0,
+      "mailto_count": 0,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 0,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "primary/t83345.html",
+      "visible_email_count": 0,
+      "mailto_count": 0,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 0,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "snapshots/t86937.html",
+      "visible_email_count": 1,
+      "mailto_count": 1,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 1,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "primary/t86937.html",
+      "visible_email_count": 1,
+      "mailto_count": 1,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 1,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "snapshots/t86206.html",
+      "visible_email_count": 0,
+      "mailto_count": 0,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 0,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "primary/t86206.html",
+      "visible_email_count": 0,
+      "mailto_count": 0,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 0,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "snapshots/t87000.html",
+      "visible_email_count": 1,
+      "mailto_count": 4,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 1,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "primary/t87000.html",
+      "visible_email_count": 1,
+      "mailto_count": 4,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 1,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "snapshots/t86508.html",
+      "visible_email_count": 1,
+      "mailto_count": 3,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 1,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "primary/t86508.html",
+      "visible_email_count": 1,
+      "mailto_count": 3,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 1,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "snapshots/t80314.html",
+      "visible_email_count": 0,
+      "mailto_count": 0,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 0,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    },
+    {
+      "member": "primary/t80314.html",
+      "visible_email_count": 0,
+      "mailto_count": 0,
+      "email_values_omitted": true,
+      "public_organizational_role_emails": 0,
+      "possible_personal_visible_emails": 0,
+      "unprinted_mailto_targets": 0
+    }
+  ]
+}

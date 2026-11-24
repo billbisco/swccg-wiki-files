@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="106_11" horizontal="false" title="Chall Bekan"/>
+    <card blueprintId="6_107" horizontal="false" title="Herat"/>
+    <card blueprintId="6_107" horizontal="false" title="Herat"/>
+    <card blueprintId="6_107" horizontal="false" title="Herat"/>
+    <card blueprintId="1_182" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_182" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_182" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_182" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_182" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_182" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_182" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_182" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_182" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_182" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_182" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_182" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_182" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_182" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_182" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_182" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_182" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_182" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_182" horizontal="false" title="Jawa"/>
+    <card blueprintId="1_182" horizontal="false" title="Jawa"/>
+    <card blueprintId="6_135" horizontal="false" title="Wittin"/>
+    <card blueprintId="6_135" horizontal="false" title="Wittin"/>
+    <card blueprintId="6_135" horizontal="false" title="Wittin"/>
+    <card blueprintId="6_138" horizontal="false" title="Bubo"/>
+    <card blueprintId="5_110" horizontal="false" title="Ability, Ability, Ability"/>
+    <card blueprintId="6_143" horizontal="false" title="Den Of Thieves"/>
+    <card blueprintId="1_219" horizontal="false" title="Jawa Pack"/>
+    <card blueprintId="1_219" horizontal="false" title="Jawa Pack"/>
+    <card blueprintId="1_219" horizontal="false" title="Jawa Pack"/>
+    <card blueprintId="1_219" horizontal="false" title="Jawa Pack"/>
+    <card blueprintId="1_219" horizontal="false" title="Jawa Pack"/>
+    <card blueprintId="1_219" horizontal="false" title="Jawa Pack"/>
+    <card blueprintId="1_219" horizontal="false" title="Jawa Pack"/>
+    <card blueprintId="1_219" horizontal="false" title="Jawa Pack"/>
+    <card blueprintId="1_219" horizontal="false" title="Jawa Pack"/>
+    <card blueprintId="1_219" horizontal="false" title="Jawa Pack"/>
+    <card blueprintId="6_149" horizontal="false" title="Scum And Villainy"/>
+    <card blueprintId="6_151" horizontal="false" title="Abyssin Ornament"/>
+    <card blueprintId="6_151" horizontal="false" title="Abyssin Ornament"/>
+    <card blueprintId="6_151" horizontal="false" title="Abyssin Ornament"/>
+    <card blueprintId="6_151" horizontal="false" title="Abyssin Ornament"/>
+    <card blueprintId="6_153" horizontal="false" title="Dune Sea Sabacc"/>
+    <card blueprintId="6_153" horizontal="false" title="Dune Sea Sabacc"/>
+    <card blueprintId="1_243" horizontal="false" title="Elis Helrot"/>
+    <card blueprintId="1_243" horizontal="false" title="Elis Helrot"/>
+    <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="6_160" horizontal="false" title="Twi'lek Advisor"/>
+    <card blueprintId="6_162" horizontal="true" title="Jabba's Palace: Audience Chamber"/>
+    <card blueprintId="1_290" horizontal="true" title="Tatooine: Cantina"/>
+    <card blueprintId="1_293" horizontal="true" title="Tatooine: Jundland Wastes"/>
+    <card blueprintId="1_294" horizontal="true" title="Tatooine: Lars' Moisture Farm"/>
+    <card blueprintId="106_18" horizontal="true" title="Tatooine: Tusken Canyon"/>
+    <card blueprintId="6_173" horizontal="false" title="Skiff"/>
+    <card blueprintId="6_173" horizontal="false" title="Skiff"/>
+    <card blueprintId="6_173" horizontal="false" title="Skiff"/>
+</deck>

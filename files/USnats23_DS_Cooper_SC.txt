@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_71" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="213_2" title="Aemon Gremm With Percussive Cannon"/>
+    <card blueprintId="301_3" title="Asajj Ventress With Lightsabers"/>
+    <card blueprintId="212_3" title="Aurra Sing With Blaster Rifle"/>
+    <card blueprintId="209_33" title="Bala-Tik"/>
+    <card blueprintId="215_24" title="Dannik Jerriko"/>
+    <card blueprintId="200_79" title="Dengar With Blaster Carbine"/>
+    <card blueprintId="10_37" title="Dr. Evazan &amp; Ponda Baba"/>
+    <card blueprintId="213_4" title="Dryden Vos"/>
+    <card blueprintId="219_6" title="Fennec Shand"/>
+    <card blueprintId="217_10" title="Gar Saxon"/>
+    <card blueprintId="205_13" title="Hondo Ohnaka"/>
+    <card blueprintId="109_11" title="IG-88 With Riot Gun"/>
+    <card blueprintId="201_25" title="Jango Fett"/>
+    <card blueprintId="110_9" title="Jodo Kast"/>
+    <card blueprintId="211_3" title="Lady Proxima"/>
+    <card blueprintId="213_10" title="Maul"/>
+    <card blueprintId="112_14" title="Mighty Jabba"/>
+    <card blueprintId="10_45" title="Prince Xizor"/>
+    <card blueprintId="215_26" title="Rukh"/>
+    <card blueprintId="2_107" title="U-3PO (Yoo-Threepio)"/>
+    <card blueprintId="109_9" title="Crush The Rebellion"/>
+    <card blueprintId="109_9" title="Crush The Rebellion"/>
+    <card blueprintId="12_135" title="Imperial Arrest Order &amp; Secret Plans"/>
+    <card blueprintId="9_126" title="Inconsequential Losses"/>
+    <card blueprintId="200_110" title="Knowledge And Defense"/>
+    <card blueprintId="200_114" title="You'll Be Dead!"/>
+    <card blueprintId="213_17" title="A Lawless Time"/>
+    <card blueprintId="213_17" title="A Lawless Time"/>
+    <card blueprintId="201_35" title="Cold Feet"/>
+    <card blueprintId="200_118" title="Defensive Fire"/>
+    <card blueprintId="200_118" title="Defensive Fire"/>
+    <card blueprintId="208_43" title="Double Back"/>
+    <card blueprintId="1_249" title="Imperial Barrier"/>
+    <card blueprintId="1_249" title="Imperial Barrier"/>
+    <card blueprintId="7_255" title="Jabba's Through With You"/>
+    <card blueprintId="7_255" title="Jabba's Through With You"/>
+    <card blueprintId="209_48" title="Lana Dobreed &amp; Sacrifice"/>
+    <card blueprintId="209_48" title="Lana Dobreed &amp; Sacrifice"/>
+    <card blueprintId="205_20" title="Point Man"/>
+    <card blueprintId="205_20" title="Point Man"/>
+    <card blueprintId="212_4" title="Slip Sliding Away"/>
+    <card blueprintId="10_47" title="Sniper &amp; Dark Strike"/>
+    <card blueprintId="10_47" title="Sniper &amp; Dark Strike"/>
+    <card blueprintId="201_37" title="Turn It Off! Turn It Off!"/>
+    <card blueprintId="7_276" title="Coruscant: Docking Bay"/>
+    <card blueprintId="213_23" title="Dathomir: Maul's Chambers"/>
+    <card blueprintId="9_145" title="Death Star II: Docking Bay"/>
+    <card blueprintId="7_282" title="Executor: Docking Bay"/>
+    <card blueprintId="213_25" title="First Light: Bar"/>
+    <card blueprintId="213_26" title="First Light: Dryden's Study"/>
+    <card blueprintId="213_27" title="First Light: Reception Area"/>
+    <card blueprintId="213_32" title="Shadow Collective"/>
+    <card blueprintId="200_131" title="Bossk In Hound's Tooth"/>
+    <card blueprintId="200_134" title="Elis In Hinthra"/>
+    <card blueprintId="210_34" title="Jabba's Space Cruiser"/>
+    <card blueprintId="110_12" title="Zuckuss In Mist Hunter"/>
+    <card blueprintId="213_34" title="Crimson Dawn Blaster"/>
+    <card blueprintId="213_34" title="Crimson Dawn Blaster"/>
+    <card blueprintId="213_34" title="Crimson Dawn Blaster"/>
+    <cardOutsideDeck blueprintId="10_42" title="Jabba's Prize"/>
+    <cardOutsideDeck blueprintId="205_14" title="Luke Skywalker, The Emperor's Prize"/>
+    <cardOutsideDeck blueprintId="13_51" title="A Useless Gesture"/>
+    <cardOutsideDeck blueprintId="200_93" title="A Useless Gesture"/>
+    <cardOutsideDeck blueprintId="13_52" title="Allegations Of Corruption"/>
+    <cardOutsideDeck blueprintId="13_54" title="Battle Order"/>
+    <cardOutsideDeck blueprintId="13_61" title="Come Here You Big Coward"/>
+    <cardOutsideDeck blueprintId="13_63" title="Crossfire"/>
+    <cardOutsideDeck blueprintId="216_5" title="Crossfire"/>
+    <cardOutsideDeck blueprintId="200_94" title="Death Star Sentry"/>
+    <cardOutsideDeck blueprintId="13_66" title="Do They Have A Code Clearance?"/>
+    <cardOutsideDeck blueprintId="220_2" title="Drop!"/>
+    <cardOutsideDeck blueprintId="213_13" title="Failure At The Cave"/>
+    <cardOutsideDeck blueprintId="13_68" title="Fanfare"/>
+    <cardOutsideDeck blueprintId="200_95" title="Fanfare"/>
+    <cardOutsideDeck blueprintId="200_97" title="I Find Your Lack Of Faith Disturbing"/>
+    <cardOutsideDeck blueprintId="200_98" title="Imperial Detention"/>
+    <cardOutsideDeck blueprintId="13_72" title="Leave Them To Me"/>
+    <cardOutsideDeck blueprintId="13_78" title="No Escape"/>
+    <cardOutsideDeck blueprintId="13_81" title="Oppressive Enforcement"/>
+    <cardOutsideDeck blueprintId="13_84" title="Resistance"/>
+    <cardOutsideDeck blueprintId="13_86" title="Secret Plans"/>
+    <cardOutsideDeck blueprintId="13_90" title="There Is No Try"/>
+    <cardOutsideDeck blueprintId="200_99" title="Vote Of No Confidence"/>
+    <cardOutsideDeck blueprintId="13_96" title="We'll Let Fate-a Decide, Huh?"/>
+    <cardOutsideDeck blueprintId="13_95" title="Weapon Of A Sith"/>
+    <cardOutsideDeck blueprintId="13_98" title="Wipe Them Out, All Of Them"/>
+    <cardOutsideDeck blueprintId="13_99" title="You Cannot Hide Forever"/>
+    <cardOutsideDeck blueprintId="200_100" title="You Cannot Hide Forever"/>
+    <cardOutsideDeck blueprintId="13_100" title="You've Never Won A Race?"/>
+</deck>

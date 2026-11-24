@@ -1,0 +1,121 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "File:V9-L-A_Brave_Resistance-2022-07.png",
+        "to": "File:V9-L-A Brave Resistance-2022-07.png"
+      },
+      {
+        "fromencoded": false,
+        "from": "File:V9-L-A_Brave_Resistance-2023-10.png",
+        "to": "File:V9-L-A Brave Resistance-2023-10.png"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 97465,
+        "ns": 6,
+        "title": "File:V9-L-A Brave Resistance-2022-07.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "timestamp": "2026-11-12T17:00:48Z",
+            "user": "Holocron Claude",
+            "size": 388348,
+            "width": 745,
+            "height": 1039,
+            "comment": "Virtual Modern versions (VM-B): published PC image of one version",
+            "url": "https://wiki.swccg.com/images/f/fa/V9-L-A_Brave_Resistance-2022-07.png",
+            "descriptionurl": "https://wiki.swccg.com/wiki/File:V9-L-A_Brave_Resistance-2022-07.png",
+            "descriptionshorturl": "https://wiki.swccg.com/index.php?curid=97465",
+            "sha1": "90c65d0ee4e8a4f7ee633222f67643cc7283b060",
+            "mime": "image/png"
+          }
+        ],
+        "revisions": [
+          {
+            "revid": 260035,
+            "parentid": 0,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "Players Committee card image of [[A Brave Resistance]] as published in the PC's Holotable image repository: [https://github.com/swccgpc/holotable/blob/6489b69/Images-HT/starwars/Virtual9-Light/large/abraveresistance.gif abraveresistance.gif] (PNG data under a .gif name), commit 6489b69 \"Fixing case and making gifs\", 10 July 2022 (the images served at res.starwarsccg.org).\n\nEdits: none (file bytes as in that commit)."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 97466,
+        "ns": 6,
+        "title": "File:V9-L-A Brave Resistance-2023-10.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "timestamp": "2026-11-12T17:00:51Z",
+            "user": "Holocron Claude",
+            "size": 388590,
+            "width": 745,
+            "height": 1039,
+            "comment": "Virtual Modern versions (VM-B): published PC image of one version",
+            "url": "https://wiki.swccg.com/images/1/14/V9-L-A_Brave_Resistance-2023-10.png",
+            "descriptionurl": "https://wiki.swccg.com/wiki/File:V9-L-A_Brave_Resistance-2023-10.png",
+            "descriptionshorturl": "https://wiki.swccg.com/index.php?curid=97466",
+            "sha1": "27b57ae617046a17944bceac29ff0b429a145f06",
+            "mime": "image/png"
+          }
+        ],
+        "revisions": [
+          {
+            "revid": 260036,
+            "parentid": 0,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "Players Committee card image of [[A Brave Resistance]] as published in the PC's Holotable image repository: [https://github.com/swccgpc/holotable/blob/88182de/Images-HT/starwars/Virtual9-Light/large/abraveresistance.gif abraveresistance.gif] (PNG data under a .gif name), commit 88182de \"Fixing case and making gifs\", 2 October 2023 (the images served at res.starwarsccg.org).\n\nEdits: none (file bytes as in that commit)."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 105034,
+        "ns": 6,
+        "title": "File:V0-D-imperialjustice-2018-07-08.gif",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "timestamp": "2026-11-13T01:28:07Z",
+            "user": "Holocron Claude",
+            "size": 86310,
+            "width": 350,
+            "height": 490,
+            "comment": "VM-A4: Players Committee card image of a retired Virtual Modern card",
+            "url": "https://wiki.swccg.com/images/9/93/V0-D-imperialjustice-2018-07-08.gif",
+            "descriptionurl": "https://wiki.swccg.com/wiki/File:V0-D-imperialjustice-2018-07-08.gif",
+            "descriptionshorturl": "https://wiki.swccg.com/index.php?curid=105034",
+            "sha1": "7fc43a99e5eb8417ee17513f7a941cab831bae1c",
+            "mime": "image/gif"
+          }
+        ],
+        "revisions": [
+          {
+            "revid": 286793,
+            "parentid": 0,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "Players Committee card image of [[Imperial Justice (V) (Virtual Set 0)]] (original printing), a retired Virtual Modern card (Virtual Set 0).\n\nSource: <code>Images-HT/starwars/Virtual0-Dark/large/imperialjustice.gif</code> in the Players Committee's Holotable image repository, version of commit [https://github.com/swccgpc/holotable/commit/022435b7929e4de26dafbcb1de2ec1d6d04d2153 022435b] (8 July 2018). the file is still in the repository but no card uses it since 26 March 2021.\n\nEdits: none. The repository's bytes are uploaded unchanged.\n\n[[Category:Virtual card images]]"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "ticket": 773,
+  "purpose": "Existing approved original-source backup repository; complete native inputs for source-faithful Wiki images.",
+  "sources": [
+    {
+      "title": "Executor: Meditation Chamber (Revised)",
+      "uid": "54_163",
+      "url": "https://d1htnxwo4o0jhw.cloudfront.net/cert/189152484/V47N5rB3MUefGpAfmKD5AQ.jpg",
+      "sha256": "237ba3519ae0d24f6c30eb7d6dca66fdc3b94b6909cdc91cb309bd683fda8011",
+      "bytes": 1046103,
+      "http_status": 200,
+      "http_mime": "image/jpeg",
+      "dimensions": [
+        1429,
+        2400
+      ],
+      "backup_path": "source-backups/773/revised176-native-v1/54_163-237ba3519ae0.jpg",
+      "native_format": "JPEG",
+      "relationship": "Unchanged full public source photograph, no crop/re-encode/metadata stripping. Source backup only; separate full-face/gameplay audit and publication gates govern selected derivatives.",
+      "context_URL": "https://www.psacard.com/psasetregistry/starwarscollector-1/imagegallery/127305",
+      "privacy": "No EXIF/GPS or credential/cookie metadata; public physical card/holder only. No image acquisition sessions or secrets.",
+      "credit": "Source published in StarWarsCollector_#1 PSA gallery; photographer not identified; no license invented."
+    },
+    {
+      "title": "Avenger (Revised)",
+      "uid": "54_166",
+      "url": "https://d1htnxwo4o0jhw.cloudfront.net/cert/148471835/aHr_uHTmEU2-43gpKj5Vvw.jpg",
+      "sha256": "95fa0a2a91bd42fa56b0061a535cf0e75b6dbf4a1bb616c998c6c9a91c8e768d",
+      "bytes": 964944,
+      "http_status": 200,
+      "http_mime": "image/jpeg",
+      "dimensions": [
+        1432,
+        2400
+      ],
+      "backup_path": "source-backups/773/revised176-native-v1/54_166-95fa0a2a91bd.jpg",
+      "native_format": "JPEG",
+      "relationship": "Unchanged full public source photograph, no crop/re-encode/metadata stripping. Source backup only; separate full-face/gameplay audit and publication gates govern selected derivatives.",
+      "context_URL": "https://www.psacard.com/psasetregistry/starwarscollector-1/imagegallery/127305",
+      "privacy": "No EXIF/GPS or credential/cookie metadata; public physical card/holder only. No image acquisition sessions or secrets.",
+      "credit": "Source published in StarWarsCollector_#1 PSA gallery; photographer not identified; no license invented."
+    },
+    {
+      "title": "Hound's Tooth (Revised)",
+      "uid": "54_168",
+      "url": "https://d1htnxwo4o0jhw.cloudfront.net/cert/167264406/DxEH7irJAk2EVSiub-6urA.jpg",
+      "sha256": "4b079be5b4a33f9946cdc73881d3178daaf6cab00919dc9f25902f7b0dd55a12",
+      "bytes": 940670,
+      "http_status": 200,
+      "http_mime": "image/jpeg",
+      "dimensions": [
+        1434,
+        2400
+      ],
+      "backup_path": "source-backups/773/revised176-native-v1/54_168-4b079be5b4a3.jpg",
+      "native_format": "JPEG",
+      "relationship": "Unchanged full public source photograph, no crop/re-encode/metadata stripping. Source backup only; separate full-face/gameplay audit and publication gates govern selected derivatives.",
+      "context_URL": "https://www.psacard.com/psasetregistry/starwarscollector-1/imagegallery/127305",
+      "privacy": "No EXIF/GPS or credential/cookie metadata; public physical card/holder only. No image acquisition sessions or secrets.",
+      "credit": "Source published in StarWarsCollector_#1 PSA gallery; photographer not identified; no license invented."
+    },
+    {
+      "title": "Mist Hunter (Revised)",
+      "uid": "54_170",
+      "url": "https://d1htnxwo4o0jhw.cloudfront.net/cert/148470768/8_Hxo56HhkShhn_NRWZB0Q.jpg",
+      "sha256": "f2cd1de5ebd8263699c28e35d2b0b79e8fb55e791ac43e61c68f7892322aedd9",
+      "bytes": 909793,
+      "http_status": 200,
+      "http_mime": "image/jpeg",
+      "dimensions": [
+        1434,
+        2400
+      ],
+      "backup_path": "source-backups/773/revised176-native-v1/54_170-f2cd1de5ebd8.jpg",
+      "native_format": "JPEG",
+      "relationship": "Unchanged full public source photograph, no crop/re-encode/metadata stripping. Source backup only; separate full-face/gameplay audit and publication gates govern selected derivatives.",
+      "context_URL": "https://www.psacard.com/psasetregistry/starwarscollector-1/imagegallery/127305",
+      "privacy": "No EXIF/GPS or credential/cookie metadata; public physical card/holder only. No image acquisition sessions or secrets.",
+      "credit": "Source published in StarWarsCollector_#1 PSA gallery; photographer not identified; no license invented."
+    },
+    {
+      "title": "Punishing One (Revised)",
+      "uid": "54_171",
+      "url": "https://d1htnxwo4o0jhw.cloudfront.net/cert/148470767/qvbEF4a12k6Ce2aOZiyLSA.jpg",
+      "sha256": "f1d01d3c793e372f66da08dd7639642f07a9aa3879831c11ce6cea08df7f59d7",
+      "bytes": 904757,
+      "http_status": 200,
+      "http_mime": "image/jpeg",
+      "dimensions": [
+        1433,
+        2400
+      ],
+      "backup_path": "source-backups/773/revised176-native-v1/54_171-f1d01d3c793e.jpg",
+      "native_format": "JPEG",
+      "relationship": "Unchanged full public source photograph, no crop/re-encode/metadata stripping. Source backup only; separate full-face/gameplay audit and publication gates govern selected derivatives.",
+      "context_URL": "https://www.psacard.com/psasetregistry/starwarscollector-1/imagegallery/127305",
+      "privacy": "No EXIF/GPS or credential/cookie metadata; public physical card/holder only. No image acquisition sessions or secrets.",
+      "credit": "Source published in StarWarsCollector_#1 PSA gallery; photographer not identified; no license invented."
+    },
+    {
+      "title": "IG-88's Pulse Cannon (Revised)",
+      "uid": "54_178",
+      "url": "https://d1htnxwo4o0jhw.cloudfront.net/cert/167264405/fuXhldNsUU2x1505FUFe8Q.jpg",
+      "sha256": "ea056b183cb14e304b1ddfad026a3bd67e93ae83b31ffdcea132376b22a31c61",
+      "bytes": 1000649,
+      "http_status": 200,
+      "http_mime": "image/jpeg",
+      "dimensions": [
+        1429,
+        2400
+      ],
+      "backup_path": "source-backups/773/revised176-native-v1/54_178-ea056b183cb1.jpg",
+      "native_format": "JPEG",
+      "relationship": "Unchanged full public source photograph, no crop/re-encode/metadata stripping. Source backup only; separate full-face/gameplay audit and publication gates govern selected derivatives.",
+      "context_URL": "https://www.psacard.com/psasetregistry/starwarscollector-1/imagegallery/127305",
+      "privacy": "No EXIF/GPS or credential/cookie metadata; public physical card/holder only. No image acquisition sessions or secrets.",
+      "credit": "Source published in StarWarsCollector_#1 PSA gallery; photographer not identified; no license invented."
+    },
+    {
+      "title": "Yoda (Revised)",
+      "uid": "54_2",
+      "url": "https://d1htnxwo4o0jhw.cloudfront.net/cert/136033852/HhU_YMVimkuKJZUP0stJxA.jpg",
+      "sha256": "854e42d2faf9033588c778a41bf41a0ccbbdd52ae259cf97fc4b8773702e0c5f",
+      "bytes": 750896,
+      "http_status": 200,
+      "http_mime": "binary/octet-stream",
+      "dimensions": [
+        1435,
+        2400
+      ],
+      "backup_path": "source-backups/773/revised176-native-v1/54_2-854e42d2faf9.jpg",
+      "native_format": "JPEG",
+      "relationship": "Unchanged full public source photograph, no crop/re-encode/metadata stripping. Source backup only; separate full-face/gameplay audit and publication gates govern selected derivatives.",
+      "context_URL": "https://www.psacard.com/psasetregistry/starwarscollector-1/imagegallery/127305",
+      "privacy": "No EXIF/GPS or credential/cookie metadata; public physical card/holder only. No image acquisition sessions or secrets.",
+      "credit": "Source published in StarWarsCollector_#1 PSA gallery; photographer not identified; no license invented."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deck>
+    <card blueprintId="200_110" horizontal="false" title="Knowledge And Defense"/>
+    <card blueprintId="7_299" horizontal="false" title="ISB Operations"/>
+    <card blueprintId="7_275" horizontal="false" title="Coruscant"/>
+    <card blueprintId="200_105" horizontal="false" title="Combat Response"/>
+    <card blueprintId="8_126" horizontal="false" title="Imperial Arrest Order"/>
+    <card blueprintId="200_111" horizontal="false" title="Kuat Drive Yards"/>
+    <card blueprintId="206_9" horizontal="false" title="Boba Fett"/>
+    <card blueprintId="7_195" horizontal="false" title="Outer Rim Scout"/>
+    <card blueprintId="7_195" horizontal="false" title="Outer Rim Scout"/>
+    <card blueprintId="7_195" horizontal="false" title="Outer Rim Scout"/>
+    <card blueprintId="7_195" horizontal="false" title="Outer Rim Scout"/>
+    <card blueprintId="7_195" horizontal="false" title="Outer Rim Scout"/>
+    <card blueprintId="7_195" horizontal="false" title="Outer Rim Scout"/>
+    <card blueprintId="200_71" horizontal="false" title="4-LOM With Concussion Rifle"/>
+    <card blueprintId="200_72" horizontal="false" title="5D6-RA-7 (Fivedesix)"/>
+    <card blueprintId="200_72" horizontal="false" title="5D6-RA-7 (Fivedesix)"/>
+    <card blueprintId="9_97" horizontal="false" title="Admiral Chiraneau"/>
+    <card blueprintId="3_82" horizontal="false" title="Admiral Ozzel"/>
+    <card blueprintId="203_22" horizontal="false" title="Agent Kallus"/>
+    <card blueprintId="9_99" horizontal="false" title="Baron Soontir Fel"/>
+    <card blueprintId="9_101" horizontal="false" title="Captain Jonus"/>
+    <card blueprintId="9_101" horizontal="false" title="Captain Jonus"/>
+    <card blueprintId="201_22" horizontal="false" title="Colonel Wullf Yularen"/>
+    <card blueprintId="201_23" horizontal="false" title="Corporal Vandolay"/>
+    <card blueprintId="201_26" horizontal="false" title="Lt. Pol Treidum"/>
+    <card blueprintId="204_45" horizontal="false" title="Tarkin"/>
+    <card blueprintId="2_115" horizontal="false" title="Tractor Beam"/>
+    <card blueprintId="2_115" horizontal="false" title="Tractor Beam"/>
+    <card blueprintId="6_143" horizontal="false" title="Den Of Thieves"/>
+    <card blueprintId="200_107" horizontal="false" title="Image Of The Dark Lord"/>
+    <card blueprintId="200_108" horizontal="false" title="Imperial Decree"/>
+    <card blueprintId="209_47" horizontal="false" title="Death Squadron Assignment"/>
+    <card blueprintId="209_47" horizontal="false" title="Death Squadron Assignment"/>
+    <card blueprintId="209_47" horizontal="false" title="Death Squadron Assignment"/>
+    <card blueprintId="7_253" horizontal="false" title="I Can't Shake Him!"/>
+    <card blueprintId="7_254" horizontal="false" title="In Range"/>
+    <card blueprintId="7_254" horizontal="false" title="In Range"/>
+    <card blueprintId="9_139" horizontal="false" title="Prepared Defenses"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="12_158" horizontal="false" title="Short Range Fighters &amp; Watch Your Back!"/>
+    <card blueprintId="7_266" horizontal="false" title="They've Shut Down The Main Reactor"/>
+    <card blueprintId="7_266" horizontal="false" title="They've Shut Down The Main Reactor"/>
+    <card blueprintId="7_266" horizontal="false" title="They've Shut Down The Main Reactor"/>
+    <card blueprintId="7_266" horizontal="false" title="They've Shut Down The Main Reactor"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="12_163" horizontal="false" title="We Must Accelerate Our Plans"/>
+    <card blueprintId="7_276" horizontal="true" title="Coruscant: Docking Bay"/>
+    <card blueprintId="7_282" horizontal="true" title="Executor: Docking Bay"/>
+    <card blueprintId="204_51" horizontal="false" title="Jakku"/>
+    <card blueprintId="2_146" horizontal="false" title="Kashyyyk"/>
+    <card blueprintId="6_168" horizontal="false" title="Nal Hutta"/>
+    <card blueprintId="9_162" horizontal="false" title="Saber 1"/>
+    <card blueprintId="9_167" horizontal="false" title="Scimitar 2"/>
+    <card blueprintId="201_40" horizontal="false" title="Slave I, Symbol Of Fear"/>
+    <card blueprintId="3_153" horizontal="false" title="Tyrant"/>
+    <card blueprintId="211_24" horizontal="false" title="Vengeance"/>
+    <card blueprintId="12_187" horizontal="false" title="Laser Cannon Battery"/>
+    <card blueprintId="12_187" horizontal="false" title="Laser Cannon Battery"/>
+    <card blueprintId="7_324" horizontal="false" title="SFS L-s9.3 Laser Cannons"/>
+</deck>
