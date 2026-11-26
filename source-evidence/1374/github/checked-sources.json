@@ -1,0 +1,400 @@
+{
+ "checked_at": "2026-11-26T17:54:01Z",
+ "method": "Fetched from gemp on 26 Nov 2026. Commit pages: HTTP 200 and the page names exactly one full commit SHA extending the cited ref. Blob pages: the raw file at the full commit and at the cited ref answer 200 with the listed SHA-256/size. Page HTML stored beside this file as <page_sha256>.html.",
+ "representation": "checked_github_git_object",
+ "schema_version": 1,
+ "sources": [
+  {
+   "github_object": {
+    "commit": "002ddc19cbb97e073252a8f78fd963440d351040",
+    "file_bytes": 401723,
+    "file_sha256": "c81785ac348ef30bb8b99e7bd485fdd3665d1b651979ee6866ec347bbf5042c8",
+    "kind": "blob",
+    "owner": "swccgpc",
+    "path": "Images-HT/starwars/Virtual4-Light/hires/jakkureysencampment.png",
+    "ref": "002ddc19cbb97e073252a8f78fd963440d351040",
+    "repo": "holotable"
+   },
+   "page_bytes": 184344,
+   "page_sha256": "aac17986947beaebb31d75abcb3edfc5100508ec073d003142b9a535631eb683",
+   "url": "https://github.com/swccgpc/holotable/blob/002ddc19cbb97e073252a8f78fd963440d351040/Images-HT/starwars/Virtual4-Light/hires/jakkureysencampment.png"
+  },
+  {
+   "github_object": {
+    "commit": "002ddc19cbb97e073252a8f78fd963440d351040",
+    "file_bytes": 323669,
+    "file_sha256": "a7d19a3ffc3357b9cd57a37818440e4dd99d16fb117c8ad5117be5e33217b34a",
+    "kind": "blob",
+    "owner": "swccgpc",
+    "path": "Images-HT/starwars/VirtualAlternateImage-Dark/hires/chimaera_ai.png",
+    "ref": "002ddc19cbb97e073252a8f78fd963440d351040",
+    "repo": "holotable"
+   },
+   "page_bytes": 186237,
+   "page_sha256": "65c01110ee026c083acfc8e76de588e5f417d48b3c21d98380033b60a7130452",
+   "url": "https://github.com/swccgpc/holotable/blob/002ddc19cbb97e073252a8f78fd963440d351040/Images-HT/starwars/VirtualAlternateImage-Dark/hires/chimaera_ai.png"
+  },
+  {
+   "github_object": {
+    "commit": "022435b7929e4de26dafbcb1de2ec1d6d04d2153",
+    "file_bytes": 61250,
+    "file_sha256": "136b203f6feca09674d1010de344907a7fbaa793aa3085f3526fa3f0c529a81c",
+    "kind": "blob",
+    "owner": "swccgpc",
+    "path": "Images-HT/starwars/ResetDS-Dark/large/voteofnoconfidence.gif",
+    "ref": "022435b",
+    "repo": "holotable"
+   },
+   "page_bytes": 173640,
+   "page_sha256": "e58e57527019f101c04870d9ece0a080557f88be3665597f24e9e064925db41e",
+   "url": "https://github.com/swccgpc/holotable/blob/022435b/Images-HT/starwars/ResetDS-Dark/large/voteofnoconfidence.gif"
+  },
+  {
+   "github_object": {
+    "commit": "022435b7929e4de26dafbcb1de2ec1d6d04d2153",
+    "file_bytes": 67874,
+    "file_sha256": "4eb8527fe4db8a3319b79744bf1d17eedf9138a45c3e3fe1f988de7a2bb0c853",
+    "kind": "blob",
+    "owner": "swccgpc",
+    "path": "Images-HT/starwars/ResetDS-Dark/large/youcannothideforever.gif",
+    "ref": "022435b",
+    "repo": "holotable"
+   },
+   "page_bytes": 173723,
+   "page_sha256": "29f7bfc697a7ed2737a2058bc04588ee6a9a7c7047121729c9f49040c9c18c6f",
+   "url": "https://github.com/swccgpc/holotable/blob/022435b/Images-HT/starwars/ResetDS-Dark/large/youcannothideforever.gif"
+  },
+  {
+   "github_object": {
+    "commit": "022435b7929e4de26dafbcb1de2ec1d6d04d2153",
+    "file_bytes": 64508,
+    "file_sha256": "63e5857ad0bec61db4a5efabf65a1310236f3aa6df3bdc54b36e935689c94db9",
+    "kind": "blob",
+    "owner": "swccgpc",
+    "path": "Images-HT/starwars/ResetDS-Dark/large/youcannothideforeverv.gif",
+    "ref": "022435b",
+    "repo": "holotable"
+   },
+   "page_bytes": 173736,
+   "page_sha256": "29c91ea779eeac1d184082fc020eba09216278a3381aba8d66421ab8cf5e9d1d",
+   "url": "https://github.com/swccgpc/holotable/blob/022435b/Images-HT/starwars/ResetDS-Dark/large/youcannothideforeverv.gif"
+  },
+  {
+   "github_object": {
+    "commit": "022435b7929e4de26dafbcb1de2ec1d6d04d2153",
+    "file_bytes": 88223,
+    "file_sha256": "885906b058b3943f59c907fa1b6740ea4fd952d4bf6518fc251465432db042db",
+    "kind": "blob",
+    "owner": "swccgpc",
+    "path": "Images-HT/starwars/ResetDS-Light/large/simpletricksandnonsense.gif",
+    "ref": "022435b",
+    "repo": "holotable"
+   },
+   "page_bytes": 173923,
+   "page_sha256": "7b9b170db9c1bc3beb28fd0041d5ad5aed24fdacee604f7811c9790c0a9268fc",
+   "url": "https://github.com/swccgpc/holotable/blob/022435b/Images-HT/starwars/ResetDS-Light/large/simpletricksandnonsense.gif"
+  },
+  {
+   "github_object": {
+    "commit": "022435b7929e4de26dafbcb1de2ec1d6d04d2153",
+    "file_bytes": 91704,
+    "file_sha256": "c62fb65e9be367fd7b22406eff1e5cf9d5f5471dfa0eafa2bfade790a5348e7b",
+    "kind": "blob",
+    "owner": "swccgpc",
+    "path": "Images-HT/starwars/ResetDS-Light/large/therepublicnolongerfunctions.gif",
+    "ref": "022435b",
+    "repo": "holotable"
+   },
+   "page_bytes": 174073,
+   "page_sha256": "2747c2d49c33a90ac4793b40c980d0e59ace3ae103fcb6f7dfb5de4c384e6993",
+   "url": "https://github.com/swccgpc/holotable/blob/022435b/Images-HT/starwars/ResetDS-Light/large/therepublicnolongerfunctions.gif"
+  },
+  {
+   "github_object": {
+    "commit": "022435b7929e4de26dafbcb1de2ec1d6d04d2153",
+    "file_bytes": 88934,
+    "file_sha256": "c9ebb2d77d1bc3454e4754d0b8b9f15ddc6c56b4ea973b62091a0c6b57c2d765",
+    "kind": "blob",
+    "owner": "swccgpc",
+    "path": "Images-HT/starwars/ResetDS-Light/large/yourinsightservesyouwell.gif",
+    "ref": "022435b",
+    "repo": "holotable"
+   },
+   "page_bytes": 173958,
+   "page_sha256": "adbc36ef3f60f80cc140a2f6682374b70846e93fb1132c21aeed33b5d6d284f8",
+   "url": "https://github.com/swccgpc/holotable/blob/022435b/Images-HT/starwars/ResetDS-Light/large/yourinsightservesyouwell.gif"
+  },
+  {
+   "github_object": {
+    "commit": "022435b7929e4de26dafbcb1de2ec1d6d04d2153",
+    "file_bytes": 86839,
+    "file_sha256": "a35377cf12c1608b509fc3715c848ac6ac094668b4597f08f17d44dfa377ba7c",
+    "kind": "blob",
+    "owner": "swccgpc",
+    "path": "Images-HT/starwars/ResetDS-Light/large/yourinsightservesyouwellv.gif",
+    "ref": "022435b",
+    "repo": "holotable"
+   },
+   "page_bytes": 173984,
+   "page_sha256": "a1f8e5f20898037baf40c05d94fb17d21a6429fc1c0f63c5a37802ee1a5997ce",
+   "url": "https://github.com/swccgpc/holotable/blob/022435b/Images-HT/starwars/ResetDS-Light/large/yourinsightservesyouwellv.gif"
+  },
+  {
+   "github_object": {
+    "commit": "022435b7929e4de26dafbcb1de2ec1d6d04d2153",
+    "file_bytes": 85477,
+    "file_sha256": "44bfab5495b2967afd3fb38fac9a7c56ae23b1aae4d67f342be9423deb407097",
+    "kind": "blob",
+    "owner": "swccgpc",
+    "path": "Images-HT/starwars/Virtual3-Light/large/planetarydefenses.gif",
+    "ref": "022435b",
+    "repo": "holotable"
+   },
+   "page_bytes": 176834,
+   "page_sha256": "4cd302e0bba800edb57ec7552ee675053fb16e9b4e4aba4bdb7233c37cbea871",
+   "url": "https://github.com/swccgpc/holotable/blob/022435b/Images-HT/starwars/Virtual3-Light/large/planetarydefenses.gif"
+  },
+  {
+   "github_object": {
+    "commit": "022435b7929e4de26dafbcb1de2ec1d6d04d2153",
+    "file_bytes": 85744,
+    "file_sha256": "d4d1349ce55bf33d0c47480682a5cca91005deeeb53991c55190a18588dde871",
+    "kind": "blob",
+    "owner": "swccgpc",
+    "path": "Images-HT/starwars/Virtual4-Light/large/jakkureysencampment.gif",
+    "ref": "022435b7929e4de26dafbcb1de2ec1d6d04d2153",
+    "repo": "holotable"
+   },
+   "page_bytes": 180943,
+   "page_sha256": "5d7f062a1fff24e62d4099d3ac5f1cd4c221085295ecf1bc5aedb58ca128e392",
+   "url": "https://github.com/swccgpc/holotable/blob/022435b7929e4de26dafbcb1de2ec1d6d04d2153/Images-HT/starwars/Virtual4-Light/large/jakkureysencampment.gif"
+  },
+  {
+   "github_object": {
+    "commit": "022435b7929e4de26dafbcb1de2ec1d6d04d2153",
+    "file_bytes": 84433,
+    "file_sha256": "e94a02a73024cbdb83c496dac73e68fb2f1fe42c8a37b89ebb2f4e99609b81ab",
+    "kind": "blob",
+    "owner": "swccgpc",
+    "path": "Images-HT/starwars/Virtual4-Light/large/rey.gif",
+    "ref": "022435b7929e4de26dafbcb1de2ec1d6d04d2153",
+    "repo": "holotable"
+   },
+   "page_bytes": 180438,
+   "page_sha256": "dd665cb7ceb0033937b3fb81928f2f6386d59a6c54c93d39493ffc045ef71670",
+   "url": "https://github.com/swccgpc/holotable/blob/022435b7929e4de26dafbcb1de2ec1d6d04d2153/Images-HT/starwars/Virtual4-Light/large/rey.gif"
+  },
+  {
+   "github_object": {
+    "commit": "022435b7929e4de26dafbcb1de2ec1d6d04d2153",
+    "file_bytes": 82633,
+    "file_sha256": "6ac97f4ebd1d09a73ca41ee883cc42213c844f729bae77328ca17c5b512cf7a7",
+    "kind": "blob",
+    "owner": "swccgpc",
+    "path": "Images-HT/starwars/Virtual5-Dark/large/dengar.gif",
+    "ref": "022435b7929e4de26dafbcb1de2ec1d6d04d2153",
+    "repo": "holotable"
+   },
+   "page_bytes": 175094,
+   "page_sha256": "6b49664b2378dbdd8f874a57f138126d4a5fbb6be0de19a82f6f628ff47938f8",
+   "url": "https://github.com/swccgpc/holotable/blob/022435b7929e4de26dafbcb1de2ec1d6d04d2153/Images-HT/starwars/Virtual5-Dark/large/dengar.gif"
+  },
+  {
+   "github_object": {
+    "commit": "022435b7929e4de26dafbcb1de2ec1d6d04d2153",
+    "file_bytes": 59694,
+    "file_sha256": "4ff065059277996e6c9800d8a33dcd9d13cf8a31068c0ecd2149cd6eb99bfa48",
+    "kind": "blob",
+    "owner": "swccgpc",
+    "path": "Images-HT/starwars/Virtual5-Dark/large/overseeingitpersonally.gif",
+    "ref": "022435b7929e4de26dafbcb1de2ec1d6d04d2153",
+    "repo": "holotable"
+   },
+   "page_bytes": 175589,
+   "page_sha256": "77e481e2017ac07fbc326177ffa65b0c795e86099b828194293a8b24c471ebfc",
+   "url": "https://github.com/swccgpc/holotable/blob/022435b7929e4de26dafbcb1de2ec1d6d04d2153/Images-HT/starwars/Virtual5-Dark/large/overseeingitpersonally.gif"
+  },
+  {
+   "github_object": {
+    "commit": "3ed4308531b909a81d213db4d364fab8c38685fc",
+    "file_bytes": 390242,
+    "file_sha256": "92813f64750199373578cca00370162889f2b6491635560c872db47eae825294",
+    "kind": "blob",
+    "owner": "swccgpc",
+    "path": "Images-HT/starwars/Virtual4-Light/hires/jakkureysencampment.png",
+    "ref": "3ed4308531b909a81d213db4d364fab8c38685fc",
+    "repo": "holotable"
+   },
+   "page_bytes": 187113,
+   "page_sha256": "3c12081ed90f6510ba6a341011dacaa08eea96cad3989e725dbe009fe1143edb",
+   "url": "https://github.com/swccgpc/holotable/blob/3ed4308531b909a81d213db4d364fab8c38685fc/Images-HT/starwars/Virtual4-Light/hires/jakkureysencampment.png"
+  },
+  {
+   "github_object": {
+    "commit": "ab7441976d996222d5b7235219576492a00bd1e2",
+    "file_bytes": 330796,
+    "file_sha256": "3a117ee1d05a57d028ff1debb258623d26b001f7c0ecc97dfda185f09ee30489",
+    "kind": "blob",
+    "owner": "swccgpc",
+    "path": "Images-HT/starwars/ResetDS-Dark/large/youcannothideforever.gif",
+    "ref": "ab74419",
+    "repo": "holotable"
+   },
+   "page_bytes": 179728,
+   "page_sha256": "d86c6fc82075d347e024f957a94c4fbd406a20ed1fffa6a4153613af90d394fa",
+   "url": "https://github.com/swccgpc/holotable/blob/ab74419/Images-HT/starwars/ResetDS-Dark/large/youcannothideforever.gif"
+  },
+  {
+   "github_object": {
+    "commit": "ab7441976d996222d5b7235219576492a00bd1e2",
+    "file_bytes": 321951,
+    "file_sha256": "597abb6cf436b5a61d6c9fbd317ac3d25535c801d4b4285cbb5c846cd7d2e822",
+    "kind": "blob",
+    "owner": "swccgpc",
+    "path": "Images-HT/starwars/ResetDS-Dark/large/youcannothideforeverv.gif",
+    "ref": "ab74419",
+    "repo": "holotable"
+   },
+   "page_bytes": 179759,
+   "page_sha256": "71733dc1ff21b47eda7f40d027c3b1aa75bbedc01c052ac4d7dc2b3d6ecacd2d",
+   "url": "https://github.com/swccgpc/holotable/blob/ab74419/Images-HT/starwars/ResetDS-Dark/large/youcannothideforeverv.gif"
+  },
+  {
+   "github_object": {
+    "commit": "ab7441976d996222d5b7235219576492a00bd1e2",
+    "file_bytes": 404595,
+    "file_sha256": "dec3a4e532ae3b6893d6fb64e79a77516201e2e4505603d87e4fe5ede761284a",
+    "kind": "blob",
+    "owner": "swccgpc",
+    "path": "Images-HT/starwars/ResetDS-Light/large/simpletricksandnonsense.gif",
+    "ref": "ab74419",
+    "repo": "holotable"
+   },
+   "page_bytes": 179908,
+   "page_sha256": "773796c1b56496fcfee25903d6026e6c2c3f73317d54f0bc3eaceaeef138627a",
+   "url": "https://github.com/swccgpc/holotable/blob/ab74419/Images-HT/starwars/ResetDS-Light/large/simpletricksandnonsense.gif"
+  },
+  {
+   "github_object": {
+    "commit": "ab7441976d996222d5b7235219576492a00bd1e2",
+    "file_bytes": 413364,
+    "file_sha256": "afb913d5dfdaaeb07e391abb50945136885cc5ddd3900fea4aea07056c044b9f",
+    "kind": "blob",
+    "owner": "swccgpc",
+    "path": "Images-HT/starwars/ResetDS-Light/large/yourinsightservesyouwell.gif",
+    "ref": "ab74419",
+    "repo": "holotable"
+   },
+   "page_bytes": 179939,
+   "page_sha256": "21fa45ab11c1497c8817a0e68bc7745a2d619f25c5d0fcca1a39c4392197cba1",
+   "url": "https://github.com/swccgpc/holotable/blob/ab74419/Images-HT/starwars/ResetDS-Light/large/yourinsightservesyouwell.gif"
+  },
+  {
+   "github_object": {
+    "commit": "ab7441976d996222d5b7235219576492a00bd1e2",
+    "file_bytes": 408079,
+    "file_sha256": "86481fbb44042a0d48a30380401ac130bd5d6f147d6daa8cc0b1e4394b8ef70f",
+    "kind": "blob",
+    "owner": "swccgpc",
+    "path": "Images-HT/starwars/ResetDS-Light/large/yourinsightservesyouwellv.gif",
+    "ref": "ab74419",
+    "repo": "holotable"
+   },
+   "page_bytes": 179965,
+   "page_sha256": "83979b79cfb738084bfdf4a67d6f921cfbe4a2cff04d67526021998875f9520c",
+   "url": "https://github.com/swccgpc/holotable/blob/ab74419/Images-HT/starwars/ResetDS-Light/large/yourinsightservesyouwellv.gif"
+  },
+  {
+   "github_object": {
+    "commit": "0f91c9bb73fe33b9c576143ca2fbcfdeffe4b043",
+    "kind": "commit",
+    "owner": "swccgpc",
+    "path": null,
+    "ref": "0f91c9bb73fe33b9c576143ca2fbcfdeffe4b043",
+    "repo": "holotable"
+   },
+   "page_bytes": 358971,
+   "page_sha256": "5640f9f490f2299567d90d1eafaa5ed6f1fd4b97a686b79983457b833c659452",
+   "url": "https://github.com/swccgpc/holotable/commit/0f91c9bb73fe33b9c576143ca2fbcfdeffe4b043"
+  },
+  {
+   "github_object": {
+    "commit": "18da9058492b74388cd006f73993e32a5dbdeea7",
+    "kind": "commit",
+    "owner": "swccgpc",
+    "path": null,
+    "ref": "18da9058492b74388cd006f73993e32a5dbdeea7",
+    "repo": "holotable"
+   },
+   "page_bytes": 393677,
+   "page_sha256": "fbbfa2021cbccfb67b8910c49b471f3531d3b424493e11e991d58b0990b899b2",
+   "url": "https://github.com/swccgpc/holotable/commit/18da9058492b74388cd006f73993e32a5dbdeea7"
+  },
+  {
+   "github_object": {
+    "commit": "3ed4308531b909a81d213db4d364fab8c38685fc",
+    "kind": "commit",
+    "owner": "swccgpc",
+    "path": null,
+    "ref": "3ed4308531b909a81d213db4d364fab8c38685fc",
+    "repo": "holotable"
+   },
+   "page_bytes": 369044,
+   "page_sha256": "b319e8e11f7d8628faeefc07cb9e5b29860d215023c64ccb6e259e0486b89483",
+   "url": "https://github.com/swccgpc/holotable/commit/3ed4308531b909a81d213db4d364fab8c38685fc"
+  },
+  {
+   "github_object": {
+    "commit": "3f533fb998049f07503e71ef72b1853837190622",
+    "kind": "commit",
+    "owner": "swccgpc",
+    "path": null,
+    "ref": "3f533fb998049f07503e71ef72b1853837190622",
+    "repo": "holotable"
+   },
+   "page_bytes": 480939,
+   "page_sha256": "23df1a9ef57d5521cb947ec556903c55ecd27d42761c3c907cb6e4e64918d000",
+   "url": "https://github.com/swccgpc/holotable/commit/3f533fb998049f07503e71ef72b1853837190622"
+  },
+  {
+   "github_object": {
+    "commit": "948e81942506d1b198e0b8eeaa1ea67a66176837",
+    "kind": "commit",
+    "owner": "swccgpc",
+    "path": null,
+    "ref": "948e81942506d1b198e0b8eeaa1ea67a66176837",
+    "repo": "holotable"
+   },
+   "page_bytes": 391068,
+   "page_sha256": "7dc11712faf5776c8b49756fc73e49e265f461fc5559cf9d33cf2132915e8389",
+   "url": "https://github.com/swccgpc/holotable/commit/948e81942506d1b198e0b8eeaa1ea67a66176837"
+  },
+  {
+   "github_object": {
+    "commit": "ce6ad9a405e9eeeaa25024dab926021f7f999889",
+    "kind": "commit",
+    "owner": "swccgpc",
+    "path": null,
+    "ref": "ce6ad9a405e9eeeaa25024dab926021f7f999889",
+    "repo": "holotable"
+   },
+   "page_bytes": 269531,
+   "page_sha256": "ae256af6737908385a088180394821162963f1ddbae0445b2893966caffb1b05",
+   "url": "https://github.com/swccgpc/holotable/commit/ce6ad9a405e9eeeaa25024dab926021f7f999889"
+  },
+  {
+   "github_object": {
+    "commit": "d39d0186ad9c5da90517d9ab1ff20574610a98ba",
+    "kind": "commit",
+    "owner": "swccgpc",
+    "path": null,
+    "ref": "d39d0186ad9c5da90517d9ab1ff20574610a98ba",
+    "repo": "holotable"
+   },
+   "page_bytes": 188721,
+   "page_sha256": "dadf47f1379b072cd577ffc62a0967bc5dcc53d7295264eb3ae01942f904ad4d",
+   "url": "https://github.com/swccgpc/holotable/commit/d39d0186ad9c5da90517d9ab1ff20574610a98ba"
+  }
+ ],
+ "ticket": "https://github.com/swccg-guild/work/issues/1374"
+}
