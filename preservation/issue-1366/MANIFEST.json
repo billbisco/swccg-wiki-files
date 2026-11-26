@@ -1,0 +1,378 @@
+{
+ "ticket": "swccg-guild/work#1366",
+ "parent_epic": "swccg-guild/work#139",
+ "unit": "U2",
+ "wiki_originals_count": 33,
+ "slack_unscaled_count": 10,
+ "wiki_originals": [
+  {
+   "title": "File:2022 World Championship 17 October gathering.jpg",
+   "url": "https://swccg.com/wiki/images/f/fa/2022_World_Championship_17_October_gathering.jpg",
+   "timestamp": "2026-11-25T23:14:20Z",
+   "bytes": 1406110,
+   "sha256": "4286e1d1d8e404838398f5e73503bb40fec1763e1fa2d17c71b78b39bcdfba02",
+   "sha1": "2a66685ddc82c7b92efad22ddaf4b24acc603072",
+   "repo_path": "preservation/issue-1366/wiki-originals/2022_World_Championship_17_October_gathering.jpg"
+  },
+  {
+   "title": "File:2022 World Championship Hayes Hunter at a side table.jpg",
+   "url": "https://swccg.com/wiki/images/b/b5/2022_World_Championship_Hayes_Hunter_at_a_side_table.jpg",
+   "timestamp": "2026-11-25T23:14:31Z",
+   "bytes": 1033750,
+   "sha256": "5d750e15c30d7b7e38cf31353cdfed028061256763c4dc74ee3d08f618624177",
+   "sha1": "0320d63a2c0031cb493d7ccce1c5a8770da4e83d",
+   "repo_path": "preservation/issue-1366/wiki-originals/2022_World_Championship_Hayes_Hunter_at_a_side_table.jpg"
+  },
+  {
+   "title": "File:2022 World Championship Hayes Hunter with a player.jpg",
+   "url": "https://swccg.com/wiki/images/f/f2/2022_World_Championship_Hayes_Hunter_with_a_player.jpg",
+   "timestamp": "2026-11-25T23:14:34Z",
+   "bytes": 1353837,
+   "sha256": "3a0177c0de412a17b20b02b84e9b57af59c21f8a0acea65ccf90c3349e6a36a5",
+   "sha1": "e261ecd27ef483311d9cf5d3cdeaa3a839fbb5be",
+   "repo_path": "preservation/issue-1366/wiki-originals/2022_World_Championship_Hayes_Hunter_with_a_player.jpg"
+  },
+  {
+   "title": "File:2022 World Championship Thursday night poker.jpg",
+   "url": "https://swccg.com/wiki/images/f/fb/2022_World_Championship_Thursday_night_poker.jpg",
+   "timestamp": "2026-11-25T23:14:22Z",
+   "bytes": 997923,
+   "sha256": "0624c416bcfcc1e85c2e79e2c91ed57d892846a0a3dacdc7d2d4b7345ea878bb",
+   "sha1": "2eb939d631d04e2047f08254a7f7bb0e93a334b6",
+   "repo_path": "preservation/issue-1366/wiki-originals/2022_World_Championship_Thursday_night_poker.jpg"
+  },
+  {
+   "title": "File:2022 World Championship player in a green cap.jpg",
+   "url": "https://swccg.com/wiki/images/6/6c/2022_World_Championship_player_in_a_green_cap.jpg",
+   "timestamp": "2026-11-25T23:14:25Z",
+   "bytes": 1112771,
+   "sha256": "275954cb05ce29e1db9b16a7a3de68c4c83a235665cbeee03d990298bab0f447",
+   "sha1": "7daf5c321c68a56d742aa20b3c655728041020f8",
+   "repo_path": "preservation/issue-1366/wiki-originals/2022_World_Championship_player_in_a_green_cap.jpg"
+  },
+  {
+   "title": "File:2022 World Championship streaming desk 4.jpg",
+   "url": "https://swccg.com/wiki/images/6/66/2022_World_Championship_streaming_desk_4.jpg",
+   "timestamp": "2026-11-25T23:14:28Z",
+   "bytes": 353523,
+   "sha256": "208e27ffa2456e7b82c2e9d1c0708ebee0ee45a876e6860cb46808b752c9f41f",
+   "sha1": "f57de8e0873e4d3a69a8e3510676035e7a06ffe5",
+   "repo_path": "preservation/issue-1366/wiki-originals/2022_World_Championship_streaming_desk_4.jpg"
+  },
+  {
+   "title": "File:2023 World Championship prize dice.jpg",
+   "url": "https://swccg.com/wiki/images/7/7d/2023_World_Championship_prize_dice.jpg",
+   "timestamp": "2026-11-25T23:24:10Z",
+   "bytes": 605470,
+   "sha256": "e2a364ce64369825c4b5ef6d0a203f83fe7e416bebba370f9b21ef9a4a36ac33",
+   "sha1": "69ff1c6b2a18dd74be7720adaba002eb8e50843b",
+   "repo_path": "preservation/issue-1366/wiki-originals/2023_World_Championship_prize_dice.jpg"
+  },
+  {
+   "title": "File:2024 Ryloth Regionals Cedrik Vanderhaegen at dinner.jpg",
+   "url": "https://swccg.com/wiki/images/e/ea/2024_Ryloth_Regionals_Cedrik_Vanderhaegen_at_dinner.jpg",
+   "timestamp": "2026-11-25T23:32:14Z",
+   "bytes": 416763,
+   "sha256": "7291ef9a6f2d87c09b61043a6326407d7b3d5333588874784334a32c23c03918",
+   "sha1": "ca5c7cb54985ae8fc0cbef1e101cb8355b31d47a",
+   "repo_path": "preservation/issue-1366/wiki-originals/2024_Ryloth_Regionals_Cedrik_Vanderhaegen_at_dinner.jpg"
+  },
+  {
+   "title": "File:2024 Ryloth Regionals dinner.jpg",
+   "url": "https://swccg.com/wiki/images/1/1c/2024_Ryloth_Regionals_dinner.jpg",
+   "timestamp": "2026-11-25T23:32:11Z",
+   "bytes": 1442561,
+   "sha256": "4984c319bbeb28b5509687a54c7cd9426b88df3168780ab842269ee332486e64",
+   "sha1": "fbda450b0e7b1d995e8c059216ae7b80072c80df",
+   "repo_path": "preservation/issue-1366/wiki-originals/2024_Ryloth_Regionals_dinner.jpg"
+  },
+  {
+   "title": "File:2024 World Championship Grandezza checklist.jpg",
+   "url": "https://swccg.com/wiki/images/4/48/2024_World_Championship_Grandezza_checklist.jpg",
+   "timestamp": "2026-11-25T23:28:00Z",
+   "bytes": 692787,
+   "sha256": "4fea689a4dd561f054301cdd7db77ab36686ba707d1d5aa59545bb88c9f0343c",
+   "sha1": "5f09fabde63359a95d35f191415af3d0944a5e38",
+   "repo_path": "preservation/issue-1366/wiki-originals/2024_World_Championship_Grandezza_checklist.jpg"
+  },
+  {
+   "title": "File:2024 World Championship Grandezza complete sets.jpg",
+   "url": "https://swccg.com/wiki/images/9/93/2024_World_Championship_Grandezza_complete_sets.jpg",
+   "timestamp": "2026-11-25T23:28:02Z",
+   "bytes": 426291,
+   "sha256": "3b3474ef4d875e72c963de0219c83bddde2ba3c0b3cce0b8d254e2f430edcd77",
+   "sha1": "7913a45f149dbebdd62b207e746a25c81301f7f1",
+   "repo_path": "preservation/issue-1366/wiki-originals/2024_World_Championship_Grandezza_complete_sets.jpg"
+  },
+  {
+   "title": "File:2024 World Championship Kevin Jaap Hall of Fame shirt.jpg",
+   "url": "https://swccg.com/wiki/images/a/a9/2024_World_Championship_Kevin_Jaap_Hall_of_Fame_shirt.jpg",
+   "timestamp": "2026-11-25T21:40:45Z",
+   "bytes": 653812,
+   "sha256": "bceba3ffd00fa9165163962c2a84bd4981d243c85875d121425ef8d7e239a93b",
+   "sha1": "468673791cf93ef2ea71a1d60747e1f69334f472",
+   "repo_path": "preservation/issue-1366/wiki-originals/2024_World_Championship_Kevin_Jaap_Hall_of_Fame_shirt.jpg"
+  },
+  {
+   "title": "File:2024 World Championship Thomas Santosuosso with Grandezza cards.jpg",
+   "url": "https://swccg.com/wiki/images/4/40/2024_World_Championship_Thomas_Santosuosso_with_Grandezza_cards.jpg",
+   "timestamp": "2026-11-25T23:28:05Z",
+   "bytes": 1073815,
+   "sha256": "cd1efed1686bf43e582f1a6100798b46a1ec4ef3ade0b152c65d6b8188dc9502",
+   "sha1": "b4aa1d88f6f54be079e476d1a89d2e427609594d",
+   "repo_path": "preservation/issue-1366/wiki-originals/2024_World_Championship_Thomas_Santosuosso_with_Grandezza_cards.jpg"
+  },
+  {
+   "title": "File:2024 World Championship audience 4.jpg",
+   "url": "https://swccg.com/wiki/images/f/f2/2024_World_Championship_audience_4.jpg",
+   "timestamp": "2026-11-25T21:40:06Z",
+   "bytes": 457499,
+   "sha256": "e93c049369a26473c203c06218fca46e684baa1ca07540088578f328643b959c",
+   "sha1": "7c4f5c0aba59df017955d34e663e7bc91b64bba2",
+   "repo_path": "preservation/issue-1366/wiki-originals/2024_World_Championship_audience_4.jpg"
+  },
+  {
+   "title": "File:2024 World Championship late-night games.jpg",
+   "url": "https://swccg.com/wiki/images/d/d0/2024_World_Championship_late-night_games.jpg",
+   "timestamp": "2026-11-25T21:40:41Z",
+   "bytes": 1513299,
+   "sha256": "c6ffceb96ccc70e17dcffa436e2722d0cc7a936d07d294ca35102ef544266e21",
+   "sha1": "3f6a3288171af3c288baf50452a073b88f402019",
+   "repo_path": "preservation/issue-1366/wiki-originals/2024_World_Championship_late-night_games.jpg"
+  },
+  {
+   "title": "File:2024 World Championship players outside the venue.jpg",
+   "url": "https://swccg.com/wiki/images/3/31/2024_World_Championship_players_outside_the_venue.jpg",
+   "timestamp": "2026-11-25T21:42:12Z",
+   "bytes": 1986534,
+   "sha256": "cc6a2e132573cc49d2a26c2709ff38a7e09b00b3db0d4808e362e6ff35cb1f71",
+   "sha1": "de4ef68997cb0b9bedc4eda29207ae323df73728",
+   "repo_path": "preservation/issue-1366/wiki-originals/2024_World_Championship_players_outside_the_venue.jpg"
+  },
+  {
+   "title": "File:2024 World Championship selfie at the banner.jpg",
+   "url": "https://swccg.com/wiki/images/a/a7/2024_World_Championship_selfie_at_the_banner.jpg",
+   "timestamp": "2026-11-25T21:40:10Z",
+   "bytes": 314280,
+   "sha256": "b69496aea27569d09d63f2a5bdb8c621b699dda3cad1ed0a38804cd42905d488",
+   "sha1": "ffe418aadca86ec8f32851baf5347b11d1e21563",
+   "repo_path": "preservation/issue-1366/wiki-originals/2024_World_Championship_selfie_at_the_banner.jpg"
+  },
+  {
+   "title": "File:2025 World Championship Cube Draft Benji Chu hand.jpg",
+   "url": "https://swccg.com/wiki/images/0/05/2025_World_Championship_Cube_Draft_Benji_Chu_hand.jpg",
+   "timestamp": "2026-11-25T23:49:59Z",
+   "bytes": 901045,
+   "sha256": "6a36d00b35e6fb5c507f5c82e063cc4ee44b1c5e67903a68cbbc594369a9b50b",
+   "sha1": "2348b35f3adc73e15ec9731560b0bc3c835f6166",
+   "repo_path": "preservation/issue-1366/wiki-originals/2025_World_Championship_Cube_Draft_Benji_Chu_hand.jpg"
+  },
+  {
+   "title": "File:2025 World Championship Cube Draft table 1.jpg",
+   "url": "https://swccg.com/wiki/images/d/d0/2025_World_Championship_Cube_Draft_table_1.jpg",
+   "timestamp": "2026-11-25T23:50:02Z",
+   "bytes": 1677029,
+   "sha256": "96f46f89763fa4f8eaa3ee7d94e3267ebff64ecab8e7fa2ee30ecca753648485",
+   "sha1": "0f866a47b37a57c01d8ea68f7d11dfba8cdaa01b",
+   "repo_path": "preservation/issue-1366/wiki-originals/2025_World_Championship_Cube_Draft_table_1.jpg"
+  },
+  {
+   "title": "File:2025 World Championship Cube Draft table 2.jpg",
+   "url": "https://swccg.com/wiki/images/f/f2/2025_World_Championship_Cube_Draft_table_2.jpg",
+   "timestamp": "2026-11-25T23:50:05Z",
+   "bytes": 1780526,
+   "sha256": "b80b1ce939385fa9e2401507bdb31b6702e5754b07f1855d140aef5704bfb7e8",
+   "sha1": "2103abd04b97b44adb8efe49a7eb013abe97b955",
+   "repo_path": "preservation/issue-1366/wiki-originals/2025_World_Championship_Cube_Draft_table_2.jpg"
+  },
+  {
+   "title": "File:2025 World Championship Benji Chu vs Amar Banger 3 October.jpg",
+   "url": "https://swccg.com/wiki/images/8/82/2025_World_Championship_Benji_Chu_vs_Amar_Banger_3_October.jpg",
+   "timestamp": "2026-11-25T23:50:26Z",
+   "bytes": 1509289,
+   "sha256": "c13a6e571fb0581bc7e7ef8b330c3c87a8a10e7da8824d296dd5321d5e1c648e",
+   "sha1": "03ff89f748cb17e1084afebc26493ab605b18f6f",
+   "repo_path": "preservation/issue-1366/wiki-originals/2025_World_Championship_Benji_Chu_vs_Amar_Banger_3_October.jpg"
+  },
+  {
+   "title": "File:2025 World Championship Community Award cards.jpg",
+   "url": "https://swccg.com/wiki/images/f/f0/2025_World_Championship_Community_Award_cards.jpg",
+   "timestamp": "2026-11-25T23:50:21Z",
+   "bytes": 1175305,
+   "sha256": "28135cefc391422091457d94affca5437ac72405b4a65bb1083208141f569e23",
+   "sha1": "8a15ee8a77cc234c7564c76e4c4f5afacf1cead0",
+   "repo_path": "preservation/issue-1366/wiki-originals/2025_World_Championship_Community_Award_cards.jpg"
+  },
+  {
+   "title": "File:2025 World Championship Coruscant Galactic Senate collector card.png",
+   "url": "https://swccg.com/wiki/images/2/2e/2025_World_Championship_Coruscant_Galactic_Senate_collector_card.png",
+   "timestamp": "2026-11-25T23:50:32Z",
+   "bytes": 1771502,
+   "sha256": "f4e38adb766db1fc794d3129a95f6365e768f3229bd11c731e15e3b8450900d2",
+   "sha1": "42a2893f0a350fb676ad50025a2b7014dd74f8d2",
+   "repo_path": "preservation/issue-1366/wiki-originals/2025_World_Championship_Coruscant_Galactic_Senate_collector_card.png"
+  },
+  {
+   "title": "File:2025 World Championship Cube Draft AJ Hatoum match.jpg",
+   "url": "https://swccg.com/wiki/images/b/be/2025_World_Championship_Cube_Draft_AJ_Hatoum_match.jpg",
+   "timestamp": "2026-11-25T23:50:15Z",
+   "bytes": 1767905,
+   "sha256": "bc1b3aca0ffc6212ab5eab510cb09c7848c8b2cabbb430d4159e5b07543f692e",
+   "sha1": "cb144421833a438e5733b326ef63f1960cf0fdb3",
+   "repo_path": "preservation/issue-1366/wiki-originals/2025_World_Championship_Cube_Draft_AJ_Hatoum_match.jpg"
+  },
+  {
+   "title": "File:2025 World Championship Cube Draft handshake.jpg",
+   "url": "https://swccg.com/wiki/images/c/c0/2025_World_Championship_Cube_Draft_handshake.jpg",
+   "timestamp": "2026-11-25T23:50:10Z",
+   "bytes": 1196601,
+   "sha256": "d1e0ffc437b4017e9155a44cc459fa5ec90234d1b3c316a01eb831fe8255a773",
+   "sha1": "55fb47b2c292335c8e5ab43383d179959550a6c8",
+   "repo_path": "preservation/issue-1366/wiki-originals/2025_World_Championship_Cube_Draft_handshake.jpg"
+  },
+  {
+   "title": "File:2025 World Championship Cube Draft starting setup.jpg",
+   "url": "https://swccg.com/wiki/images/9/98/2025_World_Championship_Cube_Draft_starting_setup.jpg",
+   "timestamp": "2026-11-25T23:50:07Z",
+   "bytes": 1606394,
+   "sha256": "7d6e79f75e2763383fe33b37f2c37899b771e7c17451cf35e496ced1837b8581",
+   "sha1": "29e1332c70db911e9fc5b02af2807f32611c0bbb",
+   "repo_path": "preservation/issue-1366/wiki-originals/2025_World_Championship_Cube_Draft_starting_setup.jpg"
+  },
+  {
+   "title": "File:2025 World Championship Cube Draft table 3.jpg",
+   "url": "https://swccg.com/wiki/images/f/f1/2025_World_Championship_Cube_Draft_table_3.jpg",
+   "timestamp": "2026-11-25T23:50:18Z",
+   "bytes": 1693305,
+   "sha256": "c60ca0eb5d1a49d2e1d318da88cbdc044bb434893191cc522cf8f152a0f64b04",
+   "sha1": "b93c9552420c7bede7c719144c628a2eb1c75f25",
+   "repo_path": "preservation/issue-1366/wiki-originals/2025_World_Championship_Cube_Draft_table_3.jpg"
+  },
+  {
+   "title": "File:2025 World Championship Team Tournament Steve Harpster and Chris Wirfs.jpg",
+   "url": "https://swccg.com/wiki/images/2/28/2025_World_Championship_Team_Tournament_Steve_Harpster_and_Chris_Wirfs.jpg",
+   "timestamp": "2026-11-25T23:50:23Z",
+   "bytes": 1795630,
+   "sha256": "02d274408a22a764e43453a524e61484f344150572430fb8cc9f19a80019cfb6",
+   "sha1": "7976361f310d852cde7f21a261c112cc2979a4c6",
+   "repo_path": "preservation/issue-1366/wiki-originals/2025_World_Championship_Team_Tournament_Steve_Harpster_and_Chris_Wirfs.jpg"
+  },
+  {
+   "title": "File:2025 World Championship glass trophy.jpg",
+   "url": "https://swccg.com/wiki/images/5/5e/2025_World_Championship_glass_trophy.jpg",
+   "timestamp": "2026-11-25T23:50:13Z",
+   "bytes": 902154,
+   "sha256": "4ed4f5d8b8d9d109b19602d2cfc1b8ca521cd90411ce0be4546cf0ecaa3c32e1",
+   "sha1": "8697058e69b623cd766e0ff7ecefc7934659b6be",
+   "repo_path": "preservation/issue-1366/wiki-originals/2025_World_Championship_glass_trophy.jpg"
+  },
+  {
+   "title": "File:2025 World Championship signed Chewbacca cards.jpg",
+   "url": "https://swccg.com/wiki/images/c/c2/2025_World_Championship_signed_Chewbacca_cards.jpg",
+   "timestamp": "2026-11-25T23:50:30Z",
+   "bytes": 1836024,
+   "sha256": "ea7245873f78d8c677a240ac69cae28e767d2be36ea0877327d5ca2b1a259174",
+   "sha1": "5f4f9a7939085becf1d56d43d55128850027d232",
+   "repo_path": "preservation/issue-1366/wiki-originals/2025_World_Championship_signed_Chewbacca_cards.jpg"
+  },
+  {
+   "title": "File:2026 World Championship Force Lightning sleeves match.jpg",
+   "url": "https://swccg.com/wiki/images/f/fd/2026_World_Championship_Force_Lightning_sleeves_match.jpg",
+   "timestamp": "2026-11-25T23:58:07Z",
+   "bytes": 1793788,
+   "sha256": "ad5f061ca110834094cf23a140f4ec6dcbb833e98118e8514a413913103938a0",
+   "sha1": "07e9f88275a917f37ff4773c1c5785ae5868b824",
+   "repo_path": "preservation/issue-1366/wiki-originals/2026_World_Championship_Force_Lightning_sleeves_match.jpg"
+  },
+  {
+   "title": "File:2026 World Championship Justin Desai vs Joe Olson stream table.jpg",
+   "url": "https://swccg.com/wiki/images/c/c8/2026_World_Championship_Justin_Desai_vs_Joe_Olson_stream_table.jpg",
+   "timestamp": "2026-11-25T23:58:04Z",
+   "bytes": 812794,
+   "sha256": "e10eab143e5489511f46c34251bb21ad7616048f2b9860d1beff75d7bc6f26bb",
+   "sha1": "92a30d046520775ebc87396437783eb4c47ee822",
+   "repo_path": "preservation/issue-1366/wiki-originals/2026_World_Championship_Justin_Desai_vs_Joe_Olson_stream_table.jpg"
+  },
+  {
+   "title": "File:2026 World Championship novelty card I Cant Believe Hes Gone.jpg",
+   "url": "https://swccg.com/wiki/images/6/6f/2026_World_Championship_novelty_card_I_Cant_Believe_Hes_Gone.jpg",
+   "timestamp": "2026-11-25T23:58:01Z",
+   "bytes": 1409617,
+   "sha256": "78e740eb4c87f27c3c0d7084ab814f170773197f149643dfdf57886c6701feb4",
+   "sha1": "6fd032b7ebb92d2903ccf59597d3e999fc207173",
+   "repo_path": "preservation/issue-1366/wiki-originals/2026_World_Championship_novelty_card_I_Cant_Believe_Hes_Gone.jpg"
+  }
+ ],
+ "slack_unscaled": [
+  {
+   "filename": "F09J7NP1887_img_8117.jpg",
+   "bytes": 2964671,
+   "sha256": "068761576730f8d7878c19299e00ad6915fd093cc790d2c7427a2131e78e2e50",
+   "sha1": "4596f9cad25696d96ca6b4d8a1eede6b8505daae",
+   "repo_path": "preservation/issue-1366/slack-unscaled/F09J7NP1887_img_8117.jpg"
+  },
+  {
+   "filename": "F09J8LWF2F9_image_from_ios.jpg",
+   "bytes": 2320704,
+   "sha256": "291edc2d2c2a4a4bc030ada6364ca1dee74ca760dfdfef99c45beb28801b9312",
+   "sha1": "17bbdfdc24b0383e2e477b96e9a4e7addc4ec164",
+   "repo_path": "preservation/issue-1366/slack-unscaled/F09J8LWF2F9_image_from_ios.jpg"
+  },
+  {
+   "filename": "F09JFN537MG_worlds_coruscant_galactic_senate.png",
+   "bytes": 5889268,
+   "sha256": "9c417e119dd9a59994e54378d1c611df233d9ad84ecce272a6ea78d2fef61739",
+   "sha1": "c532dd57312b451f51da0910b6fb949f3f8459ab",
+   "repo_path": "preservation/issue-1366/slack-unscaled/F09JFN537MG_worlds_coruscant_galactic_senate.png"
+  },
+  {
+   "filename": "F09JLSBRPNJ_img_8064.jpg",
+   "bytes": 2219695,
+   "sha256": "418a591ee0b7138d7b6207c2eeb7bee52314349fe6b31c2ad83be624092fbc15",
+   "sha1": "29e1d3a157cc066de16c22b8a07c83507ab84cb0",
+   "repo_path": "preservation/issue-1366/slack-unscaled/F09JLSBRPNJ_img_8064.jpg"
+  },
+  {
+   "filename": "F09JLTG9DPY_img_8066.jpg",
+   "bytes": 2640583,
+   "sha256": "af8435088f5bfcbdbd1ff0783f78c114b0d5f11d995a716a4e26c92ecda3d108",
+   "sha1": "3411356b120d43e124133545059f4bc76ca33747",
+   "repo_path": "preservation/issue-1366/slack-unscaled/F09JLTG9DPY_img_8066.jpg"
+  },
+  {
+   "filename": "F09JQ6G1QV8_img_8191.jpg",
+   "bytes": 2436219,
+   "sha256": "a4f4fb9be95ed5a420ab9f11901c106e9fd43d36d8156b77da547b4d414b4f9d",
+   "sha1": "d60905e7085baea36b6cc929ea45df47cfed61c5",
+   "repo_path": "preservation/issue-1366/slack-unscaled/F09JQ6G1QV8_img_8191.jpg"
+  },
+  {
+   "filename": "F09K1RMHMJM_img_8059.jpg",
+   "bytes": 2101268,
+   "sha256": "38a46d99dd34b8da4d43834aa4bdf86fcaa28db28bee26132df60c47007ee65b",
+   "sha1": "3dadf91dddfcf6394674de1eebfac89a61c8d956",
+   "repo_path": "preservation/issue-1366/slack-unscaled/F09K1RMHMJM_img_8059.jpg"
+  },
+  {
+   "filename": "F09K24S5CE5_img_8118.jpg",
+   "bytes": 2064137,
+   "sha256": "4ed4da90cf59762d5f39d3f812c3ca766eb67d1b673df7da42ab526b9a515f6e",
+   "sha1": "89e2d1f09e10748772fe0ba91d1bff58a8334415",
+   "repo_path": "preservation/issue-1366/slack-unscaled/F09K24S5CE5_img_8118.jpg"
+  },
+  {
+   "filename": "F09K96LS9K4_img_2180.jpg",
+   "bytes": 2702396,
+   "sha256": "87c21e610596b7be6c838f98ccfc17ae1f92046df9d71cabb5a6f530f8a85657",
+   "sha1": "b893490f562d1d5a1be40b22e3f9121655437891",
+   "repo_path": "preservation/issue-1366/slack-unscaled/F09K96LS9K4_img_2180.jpg"
+  },
+  {
+   "filename": "F0CCS4YT953_img_1555.jpg",
+   "bytes": 3132693,
+   "sha256": "209a626b150305f2454402b4d59a948813a73c1dabc508cc0e5ebda8d7d9b141",
+   "sha1": "dd4e4a45a0fe48d4212e7b9427ffebc694c6d8f0",
+   "repo_path": "preservation/issue-1366/slack-unscaled/F0CCS4YT953_img_1555.jpg"
+  }
+ ]
+}
