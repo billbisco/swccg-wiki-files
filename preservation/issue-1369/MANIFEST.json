@@ -2,7 +2,7 @@
   "ticket": "swccg-guild/work#1369",
   "parent_epic": "swccg-guild/work#139",
   "unit": "U5",
-  "wiki_originals_count": 101,
+  "wiki_originals_count": 114,
   "wiki_originals": [
     {
       "title": "File:2023 Endor Grand Prix Friday Palpatine sealed boxes.jpg",
@@ -912,6 +912,123 @@
       "sha256": "eeb6ac1bcf26f5a1ddb530b419b4017b01f7ee5fd6799b67a93eea7faedd145e",
       "sha1": "fad6e715aeaebfdedd36b29bc51ca9ff08fabfcb",
       "repo_path": "preservation/issue-1369/wiki-originals/2023_Beezer_Bowl_attendees.jpg"
+    },
+    {
+      "title": "File:2024 Eclipse Major event hall.jpg",
+      "url": "https://swccg.com/wiki/images/c/cb/2024_Eclipse_Major_event_hall.jpg",
+      "timestamp": "2026-11-27T22:14:38Z",
+      "bytes": 1207845,
+      "sha256": "b15e888c53405e7661cc064034e5e3c3636a50acc13b4f0883916b7322c69c7b",
+      "sha1": "782d0bb1548ecca28d8bf17e781db65d1b4f0b14",
+      "repo_path": "preservation/issue-1369/wiki-originals/2024_Eclipse_Major_event_hall.jpg"
+    },
+    {
+      "title": "File:2024 Eclipse Major hall 5 April.jpg",
+      "url": "https://swccg.com/wiki/images/f/f0/2024_Eclipse_Major_hall_5_April.jpg",
+      "timestamp": "2026-11-27T22:14:41Z",
+      "bytes": 571138,
+      "sha256": "96919122b7111570aa3e2cc9988b2204a4cf4cb532d2ac3f070f5801d7de6273",
+      "sha1": "e71a10ce676816e7d09d3c118f724651568ff274",
+      "repo_path": "preservation/issue-1369/wiki-originals/2024_Eclipse_Major_hall_5_April.jpg"
+    },
+    {
+      "title": "File:2024 Eclipse Major players at a table 7 April.jpg",
+      "url": "https://swccg.com/wiki/images/e/e6/2024_Eclipse_Major_players_at_a_table_7_April.jpg",
+      "timestamp": "2026-11-27T22:14:43Z",
+      "bytes": 199486,
+      "sha256": "60e520ace2bef478ee13628f89c4af19a27cefd88e89261b1bb2f5891068d5e9",
+      "sha1": "dedfddfd517cc877d275d7ce013e5edf8268d7ba",
+      "repo_path": "preservation/issue-1369/wiki-originals/2024_Eclipse_Major_players_at_a_table_7_April.jpg"
+    },
+    {
+      "title": "File:2024 Eclipse Major late-night game.jpg",
+      "url": "https://swccg.com/wiki/images/1/1f/2024_Eclipse_Major_late-night_game.jpg",
+      "timestamp": "2026-11-27T22:14:46Z",
+      "bytes": 1899095,
+      "sha256": "072fee1311e6691f852e1649d9e3d4a199d61bdd31cec1cd01e7bc23dcece55c",
+      "sha1": "fe9d25305a2c7247bdfe2fdd5e1e15acc4e05388",
+      "repo_path": "preservation/issue-1369/wiki-originals/2024_Eclipse_Major_late-night_game.jpg"
+    },
+    {
+      "title": "File:2024 Eclipse Major SWCCG during the eclipse.jpg",
+      "url": "https://swccg.com/wiki/images/a/a8/2024_Eclipse_Major_SWCCG_during_the_eclipse.jpg",
+      "timestamp": "2026-11-27T22:14:48Z",
+      "bytes": 331465,
+      "sha256": "d1fcf934a1cdfb579acf43e4a5abf1fc214338ed174c7a8913e8438fa478c93a",
+      "sha1": "ed882246c9fc5bb8eeb7263265d97ec6314ee961",
+      "repo_path": "preservation/issue-1369/wiki-originals/2024_Eclipse_Major_SWCCG_during_the_eclipse.jpg"
+    },
+    {
+      "title": "File:2024 Eclipse Major attendees outside.jpg",
+      "url": "https://swccg.com/wiki/images/3/3d/2024_Eclipse_Major_attendees_outside.jpg",
+      "timestamp": "2026-11-27T22:14:51Z",
+      "bytes": 774800,
+      "sha256": "25d5ba999f64e89742686a801dca75d865886015b9f8ecbd1c7d745f018dfb56",
+      "sha1": "aaf6775508e976e997d4415e967167cb4fc45f12",
+      "repo_path": "preservation/issue-1369/wiki-originals/2024_Eclipse_Major_attendees_outside.jpg"
+    },
+    {
+      "title": "File:2024 Eclipse Major daytime group at totality.jpg",
+      "url": "https://swccg.com/wiki/images/e/e7/2024_Eclipse_Major_daytime_group_at_totality.jpg",
+      "timestamp": "2026-11-27T22:14:54Z",
+      "bytes": 960747,
+      "sha256": "f2039cd7deebb1429119fb07e50c5f16df78ae49a6b4f4e18a4ec36d9875b1db",
+      "sha1": "a9ed49f68006b7be764d6fb4f794ff2ee1655e19",
+      "repo_path": "preservation/issue-1369/wiki-originals/2024_Eclipse_Major_daytime_group_at_totality.jpg"
+    },
+    {
+      "title": "File:2024 Ithor Regionals Thomas Santosuosso at the venue.jpg",
+      "url": "https://swccg.com/wiki/images/4/4a/2024_Ithor_Regionals_Thomas_Santosuosso_at_the_venue.jpg",
+      "timestamp": "2026-11-27T22:14:56Z",
+      "bytes": 233665,
+      "sha256": "2cfabf84b80e9e58c42b17a525b8e650ce6acada015bdbc4bab63b379f56c60e",
+      "sha1": "d6216a6495d41425525167462a8a794f206dc547",
+      "repo_path": "preservation/issue-1369/wiki-originals/2024_Ithor_Regionals_Thomas_Santosuosso_at_the_venue.jpg"
+    },
+    {
+      "title": "File:2024 Ithor Regionals Kingdom Wargames window.jpg",
+      "url": "https://swccg.com/wiki/images/7/75/2024_Ithor_Regionals_Kingdom_Wargames_window.jpg",
+      "timestamp": "2026-11-27T22:14:59Z",
+      "bytes": 800455,
+      "sha256": "dbfdb53fbe42c73f3341e6f2a5723cca1f636be8b3fcd59a5dd14f091b885b66",
+      "sha1": "465d6c4502f563d553f2ccd4ed759a83c654e2c1",
+      "repo_path": "preservation/issue-1369/wiki-originals/2024_Ithor_Regionals_Kingdom_Wargames_window.jpg"
+    },
+    {
+      "title": "File:2024 Ithor Regionals gathering 14 March.jpg",
+      "url": "https://swccg.com/wiki/images/e/ee/2024_Ithor_Regionals_gathering_14_March.jpg",
+      "timestamp": "2026-11-27T22:15:01Z",
+      "bytes": 489590,
+      "sha256": "1d6f8f67a2075c821c875eec10c0c0d92de716a271fc60648540688066022591",
+      "sha1": "649673523a9023a25e431b8d1d9069f0bbc97b1d",
+      "repo_path": "preservation/issue-1369/wiki-originals/2024_Ithor_Regionals_gathering_14_March.jpg"
+    },
+    {
+      "title": "File:2024 Ithor Regionals dinner 16 March.jpg",
+      "url": "https://swccg.com/wiki/images/b/b5/2024_Ithor_Regionals_dinner_16_March.jpg",
+      "timestamp": "2026-11-27T22:15:04Z",
+      "bytes": 1135334,
+      "sha256": "6dc86483b935d4898bad1e8ee6fb6e4779be0f484bd2911bcc73ada103b8e878",
+      "sha1": "648f1d1e52e3c9688c6112b1e82e65e697157711",
+      "repo_path": "preservation/issue-1369/wiki-originals/2024_Ithor_Regionals_dinner_16_March.jpg"
+    },
+    {
+      "title": "File:2024 Ithor Regionals gathering 18 March.jpg",
+      "url": "https://swccg.com/wiki/images/e/ee/2024_Ithor_Regionals_gathering_18_March.jpg",
+      "timestamp": "2026-11-27T22:15:06Z",
+      "bytes": 1361500,
+      "sha256": "6aa7a52f003f7109119bfef9408c029262e839e3626d05aca29b8be1cabe0b8a",
+      "sha1": "c734085cc1f03505028e68e7528c7ff9e5b2b413",
+      "repo_path": "preservation/issue-1369/wiki-originals/2024_Ithor_Regionals_gathering_18_March.jpg"
+    },
+    {
+      "title": "File:2024 Ithor Regionals dinner 18 March.jpg",
+      "url": "https://swccg.com/wiki/images/5/59/2024_Ithor_Regionals_dinner_18_March.jpg",
+      "timestamp": "2026-11-27T22:15:09Z",
+      "bytes": 1194926,
+      "sha256": "e0ec219498b66416e616bcd2ab143a38af9f0a6181448b8cc454099cf95bdcde",
+      "sha1": "b0cbd34fbd33eaa60a4bb803777de3093ada5b02",
+      "repo_path": "preservation/issue-1369/wiki-originals/2024_Ithor_Regionals_dinner_18_March.jpg"
     }
   ]
 }
