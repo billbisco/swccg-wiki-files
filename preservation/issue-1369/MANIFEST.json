@@ -2,7 +2,7 @@
   "ticket": "swccg-guild/work#1369",
   "parent_epic": "swccg-guild/work#139",
   "unit": "U5",
-  "wiki_originals_count": 122,
+  "wiki_originals_count": 139,
   "wiki_originals": [
     {
       "title": "File:2023 Endor Grand Prix Friday Palpatine sealed boxes.jpg",
@@ -1101,6 +1101,159 @@
       "sha256": "b75214d251c3c0895b8f91d84d42c599f6684981a6b47f309a9c74a97ca2419a",
       "sha1": "d23f12aeef5e9148c10e02260038b556c90f0dae",
       "repo_path": "preservation/issue-1369/wiki-originals/2025_Beezer_Bowl_logo.jpg"
+    },
+    {
+      "title": "File:2025 Beezer Bowl Gorax in Pursuit.jpg",
+      "url": "https://swccg.com/wiki/images/5/52/2025_Beezer_Bowl_Gorax_in_Pursuit.jpg",
+      "timestamp": "2026-11-27T22:43:31Z",
+      "bytes": 196796,
+      "sha256": "3ee29bc74c555099c71f33ead1eb22551b8a41adc17ab395d41b857f249d1fa7",
+      "sha1": "6b1e4b63cc495033d8c75bbdd299e4c242345c45",
+      "repo_path": "preservation/issue-1369/wiki-originals/2025_Beezer_Bowl_Gorax_in_Pursuit.jpg"
+    },
+    {
+      "title": "File:2025 Beezer Bowl The Great Devourer.jpg",
+      "url": "https://swccg.com/wiki/images/7/7f/2025_Beezer_Bowl_The_Great_Devourer.jpg",
+      "timestamp": "2026-11-27T22:43:34Z",
+      "bytes": 304145,
+      "sha256": "e8e7e0b03be0d5706abea7d033beceb5e26d8ca376646b6bf8afd26a0cb01245",
+      "sha1": "9fbdce4d4389c31862b70813b80720177ed94cd4",
+      "repo_path": "preservation/issue-1369/wiki-originals/2025_Beezer_Bowl_The_Great_Devourer.jpg"
+    },
+    {
+      "title": "File:2025 Beezer Bowl Master Zarrak.jpg",
+      "url": "https://swccg.com/wiki/images/b/b3/2025_Beezer_Bowl_Master_Zarrak.jpg",
+      "timestamp": "2026-11-27T22:43:36Z",
+      "bytes": 276834,
+      "sha256": "cd5879240581dc8f5a4c05fe85fed2fbb7cd1a5014bcb043b5e8f9cabd85f753",
+      "sha1": "ff9802aa6b5d0ee62d287d57f3246c9d520f358c",
+      "repo_path": "preservation/issue-1369/wiki-originals/2025_Beezer_Bowl_Master_Zarrak.jpg"
+    },
+    {
+      "title": "File:2025 Beezer Bowl sandcrawlers painting.jpg",
+      "url": "https://swccg.com/wiki/images/8/82/2025_Beezer_Bowl_sandcrawlers_painting.jpg",
+      "timestamp": "2026-11-27T22:43:39Z",
+      "bytes": 145057,
+      "sha256": "bb5bef4e76b9b1ccdf469d10239116cf8ad4c636778d05ae8da6173495a94368",
+      "sha1": "6952f20ba84ee49590797fd8e59cfbd3af124553",
+      "repo_path": "preservation/issue-1369/wiki-originals/2025_Beezer_Bowl_sandcrawlers_painting.jpg"
+    },
+    {
+      "title": "File:2025 Beezer Bowl speeder bike painting.jpg",
+      "url": "https://swccg.com/wiki/images/0/08/2025_Beezer_Bowl_speeder_bike_painting.jpg",
+      "timestamp": "2026-11-27T22:43:41Z",
+      "bytes": 585416,
+      "sha256": "49596e85cd3ad9d5ab51db6e0b6231719cf8bc04dc641f8af8af68429066f3d3",
+      "sha1": "03d7369a4fc57454378ccf0c872165c28ac769e9",
+      "repo_path": "preservation/issue-1369/wiki-originals/2025_Beezer_Bowl_speeder_bike_painting.jpg"
+    },
+    {
+      "title": "File:2025 Beezer Bowl expansion set.jpg",
+      "url": "https://swccg.com/wiki/images/d/dd/2025_Beezer_Bowl_expansion_set.jpg",
+      "timestamp": "2026-11-27T22:43:44Z",
+      "bytes": 1743157,
+      "sha256": "3d5821a8373d71a8a53d129d1c17e0d6d94c6a9ceca136bbe9085a57abcf74b7",
+      "sha1": "1e43d208a97c46a79114dbd782c6280c08daf169",
+      "repo_path": "preservation/issue-1369/wiki-originals/2025_Beezer_Bowl_expansion_set.jpg"
+    },
+    {
+      "title": "File:2025 Beezer Bowl host Frodolight.jpg",
+      "url": "https://swccg.com/wiki/images/6/6e/2025_Beezer_Bowl_host_Frodolight.jpg",
+      "timestamp": "2026-11-27T22:43:46Z",
+      "bytes": 97428,
+      "sha256": "ee9628379b32c2987dfb50a21931dfa6b8ac57bbeb4e483b34a8adfcfdc12918",
+      "sha1": "5c44e0fcac08636ee16f2e64f08ce39ed0b05737",
+      "repo_path": "preservation/issue-1369/wiki-originals/2025_Beezer_Bowl_host_Frodolight.jpg"
+    },
+    {
+      "title": "File:2025 Beezer Bowl venue yard prep.jpg",
+      "url": "https://swccg.com/wiki/images/4/4c/2025_Beezer_Bowl_venue_yard_prep.jpg",
+      "timestamp": "2026-11-27T22:43:49Z",
+      "bytes": 150367,
+      "sha256": "b55466a7b804593129c2862cef0d2caf0ed19b842859106474d57c47a9bcc259",
+      "sha1": "b1b7f056e347f820359032abd1949cdab224a45a",
+      "repo_path": "preservation/issue-1369/wiki-originals/2025_Beezer_Bowl_venue_yard_prep.jpg"
+    },
+    {
+      "title": "File:2025 Beezer Bowl attendees and paintings 11 July.jpg",
+      "url": "https://swccg.com/wiki/images/c/cc/2025_Beezer_Bowl_attendees_and_paintings_11_July.jpg",
+      "timestamp": "2026-11-27T22:43:51Z",
+      "bytes": 752773,
+      "sha256": "731712dba3229ec2fdb9460d8af48aba22e046dae1c5cb5488cd62846480ce5d",
+      "sha1": "b7ee179c2f36e1b3a57fc39692602491aa4a6040",
+      "repo_path": "preservation/issue-1369/wiki-originals/2025_Beezer_Bowl_attendees_and_paintings_11_July.jpg"
+    },
+    {
+      "title": "File:2025 Beezer Bowl play 11 July.jpg",
+      "url": "https://swccg.com/wiki/images/8/81/2025_Beezer_Bowl_play_11_July.jpg",
+      "timestamp": "2026-11-27T22:43:54Z",
+      "bytes": 723333,
+      "sha256": "bfac3d8a2d705ea22f4d34f42a7b3c082d2181f94a5768105f2ed7aa732b039c",
+      "sha1": "4d16ec6c3f2717468854ed7bf771b0fe8aa51d96",
+      "repo_path": "preservation/issue-1369/wiki-originals/2025_Beezer_Bowl_play_11_July.jpg"
+    },
+    {
+      "title": "File:2025 Beezer Bowl game 11 July.jpg",
+      "url": "https://swccg.com/wiki/images/c/c4/2025_Beezer_Bowl_game_11_July.jpg",
+      "timestamp": "2026-11-27T22:43:57Z",
+      "bytes": 633877,
+      "sha256": "a8df484d4c18f9dc235b053282025804acb5ba44a630e3c6b1ae011f90cf8679",
+      "sha1": "04cd83ed026e32f22525b7800240018f760d86d0",
+      "repo_path": "preservation/issue-1369/wiki-originals/2025_Beezer_Bowl_game_11_July.jpg"
+    },
+    {
+      "title": "File:2025 Beezer Bowl room after round 3.jpg",
+      "url": "https://swccg.com/wiki/images/4/46/2025_Beezer_Bowl_room_after_round_3.jpg",
+      "timestamp": "2026-11-27T22:43:59Z",
+      "bytes": 1253071,
+      "sha256": "d75ada4902c5926af24db7aeede89d55833f5719e2e8b83fec2959f1ab4afff5",
+      "sha1": "28c4d285622ec433d99a588d4f3ae2cca76ed700",
+      "repo_path": "preservation/issue-1369/wiki-originals/2025_Beezer_Bowl_room_after_round_3.jpg"
+    },
+    {
+      "title": "File:2025 Beezer Bowl player in a Yankees cap.jpg",
+      "url": "https://swccg.com/wiki/images/1/1c/2025_Beezer_Bowl_player_in_a_Yankees_cap.jpg",
+      "timestamp": "2026-11-27T22:44:02Z",
+      "bytes": 227105,
+      "sha256": "3f0d75d527aa5e75bc2b24e808d6ee6e8a3c8b3aece041ab55b48407ccbd9e75",
+      "sha1": "1cb79ff65fb8ba8cc37321926feb61f37b246d04",
+      "repo_path": "preservation/issue-1369/wiki-originals/2025_Beezer_Bowl_player_in_a_Yankees_cap.jpg"
+    },
+    {
+      "title": "File:2025 Beezer Bowl two players 11 July.jpg",
+      "url": "https://swccg.com/wiki/images/e/e0/2025_Beezer_Bowl_two_players_11_July.jpg",
+      "timestamp": "2026-11-27T22:44:04Z",
+      "bytes": 566392,
+      "sha256": "c27837f400e25eced64112689a72fc0876dc72bf829961c79f84c9b6d4ab8505",
+      "sha1": "0443f9b65ef245fbdbf0916843fd13b18dc7a00a",
+      "repo_path": "preservation/issue-1369/wiki-originals/2025_Beezer_Bowl_two_players_11_July.jpg"
+    },
+    {
+      "title": "File:2025 Beezer Bowl three players 11 July.jpg",
+      "url": "https://swccg.com/wiki/images/5/5e/2025_Beezer_Bowl_three_players_11_July.jpg",
+      "timestamp": "2026-11-27T22:44:07Z",
+      "bytes": 707952,
+      "sha256": "243abff2a472689e197c3c994b00b95ffaed5f7c708be9ee1cdb4ab55a814e89",
+      "sha1": "de22a1f8afc174bc800835db1768328f469d615a",
+      "repo_path": "preservation/issue-1369/wiki-originals/2025_Beezer_Bowl_three_players_11_July.jpg"
+    },
+    {
+      "title": "File:2025 Beezer Bowl mid-game 11 July.jpg",
+      "url": "https://swccg.com/wiki/images/d/d7/2025_Beezer_Bowl_mid-game_11_July.jpg",
+      "timestamp": "2026-11-27T22:44:10Z",
+      "bytes": 840676,
+      "sha256": "11cbda872e83c87fc57c39ba044bb7f0e4be3293af4438476c20595eb8ab1ead",
+      "sha1": "718eeb2dfa483cd602b594139beecf2f36c5862c",
+      "repo_path": "preservation/issue-1369/wiki-originals/2025_Beezer_Bowl_mid-game_11_July.jpg"
+    },
+    {
+      "title": "File:2025 Beezer Bowl evening game 11 July.jpg",
+      "url": "https://swccg.com/wiki/images/8/8c/2025_Beezer_Bowl_evening_game_11_July.jpg",
+      "timestamp": "2026-11-27T22:44:12Z",
+      "bytes": 698411,
+      "sha256": "9f206b5af2c075e8b4e087b550595b31a28aa016855a3893c705697066d41ab2",
+      "sha1": "1707367eea19b97276c1d03724ef27daffbf2584",
+      "repo_path": "preservation/issue-1369/wiki-originals/2025_Beezer_Bowl_evening_game_11_July.jpg"
     }
   ]
 }
