@@ -2,7 +2,7 @@
   "ticket": "swccg-guild/work#1369",
   "parent_epic": "swccg-guild/work#139",
   "unit": "U5",
-  "wiki_originals_count": 119,
+  "wiki_originals_count": 122,
   "wiki_originals": [
     {
       "title": "File:2023 Endor Grand Prix Friday Palpatine sealed boxes.jpg",
@@ -1074,6 +1074,33 @@
       "sha256": "c330525e2ae739bf9969efdf2695e9add3e6db930103b8c70ff916b3cb8326cb",
       "sha1": "d4e4b4a86bf4835814efcddfe49e724f2cb96126",
       "repo_path": "preservation/issue-1369/wiki-originals/2025_Las_Vegas_Grand_Prix_attendees.jpg"
+    },
+    {
+      "title": "File:2025 Morristown Melee gathering 26 April.jpg",
+      "url": "https://swccg.com/wiki/images/0/01/2025_Morristown_Melee_gathering_26_April.jpg",
+      "timestamp": "2026-11-27T22:35:53Z",
+      "bytes": 382675,
+      "sha256": "b6724b897e643dcd4a23ea0780199f0253b94fe0bec6e486b93e0948213a9388",
+      "sha1": "9e7928102d3b04b0295903f7b526d9c330bd7d32",
+      "repo_path": "preservation/issue-1369/wiki-originals/2025_Morristown_Melee_gathering_26_April.jpg"
+    },
+    {
+      "title": "File:2025 Morristown Melee Avalon game.jpg",
+      "url": "https://swccg.com/wiki/images/f/fe/2025_Morristown_Melee_Avalon_game.jpg",
+      "timestamp": "2026-11-27T22:35:55Z",
+      "bytes": 434615,
+      "sha256": "27000e58e54b6158e66a09cdac20fb59e70fbbd1d9ae1e4e299f11f87759acd0",
+      "sha1": "505d0051671d370fd0679b403bf9c291d0f4cba2",
+      "repo_path": "preservation/issue-1369/wiki-originals/2025_Morristown_Melee_Avalon_game.jpg"
+    },
+    {
+      "title": "File:2025 Beezer Bowl logo.jpg",
+      "url": "https://swccg.com/wiki/images/5/52/2025_Beezer_Bowl_logo.jpg",
+      "timestamp": "2026-11-27T22:35:57Z",
+      "bytes": 219199,
+      "sha256": "b75214d251c3c0895b8f91d84d42c599f6684981a6b47f309a9c74a97ca2419a",
+      "sha1": "d23f12aeef5e9148c10e02260038b556c90f0dae",
+      "repo_path": "preservation/issue-1369/wiki-originals/2025_Beezer_Bowl_logo.jpg"
     }
   ]
 }
