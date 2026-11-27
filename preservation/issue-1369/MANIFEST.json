@@ -2,7 +2,7 @@
  "ticket": "swccg-guild/work#1369",
  "parent_epic": "swccg-guild/work#139",
  "unit": "U5",
- "wiki_originals_count": 7,
+ "wiki_originals_count": 47,
  "wiki_originals": [
   {
    "title": "File:2023 Endor Grand Prix Friday Palpatine sealed boxes.jpg",
@@ -66,6 +66,366 @@
    "sha256": "36644c9642082505b8c0f55cc5f8ceed34a571b5fd36368d1531bf3747a9b243",
    "sha1": "fa3d4de0c31fdc3e84028265a1b5fb55216c077f",
    "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Friday_sealed_game_2.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix 10 VP slips.jpg",
+   "url": "https://swccg.com/wiki/images/a/ad/2023_Endor_Grand_Prix_10_VP_slips.jpg",
+   "timestamp": "2026-11-27T21:15:01Z",
+   "bytes": 1208463,
+   "sha256": "1fc77b484afa7435a9a544ba0fac88d509ef6eade17d0e39d98b76d0daabc445",
+   "sha1": "33daf1179a8d3b88c9a02aac3d18fbee73c78ab0",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_10_VP_slips.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix Anakin Skywalker Jedi Knight.jpg",
+   "url": "https://swccg.com/wiki/images/4/47/2023_Endor_Grand_Prix_Anakin_Skywalker_Jedi_Knight.jpg",
+   "timestamp": "2026-11-27T21:15:25Z",
+   "bytes": 1281372,
+   "sha256": "4f40e6c879e89233014898e53f3e2f2fa3780fcc7bc1253e98936ca9196e6980",
+   "sha1": "c3234d5ffcefbdb669fb334284e8aca8814a0d07",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Anakin_Skywalker_Jedi_Knight.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix Brentson game cards.jpg",
+   "url": "https://swccg.com/wiki/images/4/4d/2023_Endor_Grand_Prix_Brentson_game_cards.jpg",
+   "timestamp": "2026-11-27T21:15:45Z",
+   "bytes": 1205375,
+   "sha256": "19c91c58fdb59eb9e0726366bf8e629d39f6573aeb13d94ec801bff07daccebd",
+   "sha1": "a40be4463d4345432bc7c7019de88b85eaf6298a",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Brentson_game_cards.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix Chris Schoenthal verifying pairings.jpg",
+   "url": "https://swccg.com/wiki/images/2/26/2023_Endor_Grand_Prix_Chris_Schoenthal_verifying_pairings.jpg",
+   "timestamp": "2026-11-27T21:14:40Z",
+   "bytes": 1195415,
+   "sha256": "15ccbf27d73c301ecebcb8383b90c8bb8d855e66f2630eda717c2f6c71edded6",
+   "sha1": "4939e79eb5a0f7bbf3fe1393592e950428402879",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Chris_Schoenthal_verifying_pairings.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix Dan Tartaglione prize pile.jpg",
+   "url": "https://swccg.com/wiki/images/8/8a/2023_Endor_Grand_Prix_Dan_Tartaglione_prize_pile.jpg",
+   "timestamp": "2026-11-27T21:14:09Z",
+   "bytes": 1479409,
+   "sha256": "2ddff8c80389da8af1044a7214b40ffd6bea5184a1aa1281b32ca2360d47d8f8",
+   "sha1": "229a54d0d2a2c951858c723afd1fd9324e9e86db",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Dan_Tartaglione_prize_pile.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix Day 1 result slips.jpg",
+   "url": "https://swccg.com/wiki/images/9/91/2023_Endor_Grand_Prix_Day_1_result_slips.jpg",
+   "timestamp": "2026-11-27T21:15:09Z",
+   "bytes": 1312863,
+   "sha256": "1eba6f04018bb5999e26892590a720c5e0677c62796c0b8e23e84f8703e842ab",
+   "sha1": "82fc66ca7f943ce28b97cf48ea606b8308c7a17a",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Day_1_result_slips.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix Harpster game cards.jpg",
+   "url": "https://swccg.com/wiki/images/1/1e/2023_Endor_Grand_Prix_Harpster_game_cards.jpg",
+   "timestamp": "2026-11-27T21:14:32Z",
+   "bytes": 1203319,
+   "sha256": "931b349fa586b611e55f028d670a3df18164d85ac92ab66236b17fe790f357ec",
+   "sha1": "528dc084bf967eaaf6d9df3eaa8d39465130338d",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Harpster_game_cards.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix Hayes Hunter after a match.jpg",
+   "url": "https://swccg.com/wiki/images/d/dd/2023_Endor_Grand_Prix_Hayes_Hunter_after_a_match.jpg",
+   "timestamp": "2026-11-27T21:14:45Z",
+   "bytes": 768706,
+   "sha256": "cac2d916808dbe25f875752112d123de7cd421b8eadb3be8ebb98f1f378a1e63",
+   "sha1": "feabda0ce29911b5e65229427eac13af5a6869d9",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Hayes_Hunter_after_a_match.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix Hayes Hunter vs Mike Kessling.jpg",
+   "url": "https://swccg.com/wiki/images/6/60/2023_Endor_Grand_Prix_Hayes_Hunter_vs_Mike_Kessling.jpg",
+   "timestamp": "2026-11-27T21:14:35Z",
+   "bytes": 1130735,
+   "sha256": "5d1ea3d57aa0fde564a5f1d93a5fae8ea8b4565beb173bf78351a1803efd912d",
+   "sha1": "ca2682d1d02816ebba25cd45b69f4d3cfcc6228d",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Hayes_Hunter_vs_Mike_Kessling.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix Jared Napolitano decks.jpg",
+   "url": "https://swccg.com/wiki/images/6/63/2023_Endor_Grand_Prix_Jared_Napolitano_decks.jpg",
+   "timestamp": "2026-11-27T21:14:11Z",
+   "bytes": 741362,
+   "sha256": "38816683969b68082916311a59cd6c35f736b14cc4a28fa9d37e2dc330ff7e2e",
+   "sha1": "f9dd9a736caa60e12044ae3459d026cd005d2ffa",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Jared_Napolitano_decks.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix Joe Olson and Chris Schoenthal.jpg",
+   "url": "https://swccg.com/wiki/images/4/48/2023_Endor_Grand_Prix_Joe_Olson_and_Chris_Schoenthal.jpg",
+   "timestamp": "2026-11-27T21:15:48Z",
+   "bytes": 1431167,
+   "sha256": "c067e875d0a27bef3b08d655bda366ced7c7ba2386bd0a9f04650c8c1411e7fc",
+   "sha1": "dc11db094315141b4d7e2563376d58b06c901afb",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Joe_Olson_and_Chris_Schoenthal.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix Leia card in play.jpg",
+   "url": "https://swccg.com/wiki/images/e/ea/2023_Endor_Grand_Prix_Leia_card_in_play.jpg",
+   "timestamp": "2026-11-27T21:14:53Z",
+   "bytes": 1213253,
+   "sha256": "790ef4b195eca62d2f44424ded76c724c35c002adad0f8cb2ba050269e2c4df6",
+   "sha1": "99c84f46e796d994458ec74ca59633237ab2730d",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Leia_card_in_play.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix Phil Aasen and Dan Tartaglione.jpg",
+   "url": "https://swccg.com/wiki/images/0/06/2023_Endor_Grand_Prix_Phil_Aasen_and_Dan_Tartaglione.jpg",
+   "timestamp": "2026-11-27T21:14:19Z",
+   "bytes": 1205105,
+   "sha256": "2935c3b74b780ac9c89c4b4727d4c8ac6cf297f880c343188aea5cd7fbfd8673",
+   "sha1": "c48e549f93df4877798079d19501fcac625a0266",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Phil_Aasen_and_Dan_Tartaglione.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix Rebel cards in play.jpg",
+   "url": "https://swccg.com/wiki/images/4/47/2023_Endor_Grand_Prix_Rebel_cards_in_play.jpg",
+   "timestamp": "2026-11-27T21:14:51Z",
+   "bytes": 1517978,
+   "sha256": "cf5166e2a54916b60a831b75dea11ba8990d6500ae874349b7cd8779e6b57193",
+   "sha1": "bf3c43c1855b0bb46a390b94e5b8ae3c35acbb3b",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Rebel_cards_in_play.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix Revenge of the Sith cards.jpg",
+   "url": "https://swccg.com/wiki/images/c/cb/2023_Endor_Grand_Prix_Revenge_of_the_Sith_cards.jpg",
+   "timestamp": "2026-11-27T21:14:59Z",
+   "bytes": 592830,
+   "sha256": "2398f04bf56513b12827d7b8213494882a937153e9a6817f8e8fdd0c1a0aec4e",
+   "sha1": "129e2d929dda0d5c06314529a00aa88be78b5a1d",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Revenge_of_the_Sith_cards.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix Super Bowl rematch.jpg",
+   "url": "https://swccg.com/wiki/images/f/fc/2023_Endor_Grand_Prix_Super_Bowl_rematch.jpg",
+   "timestamp": "2026-11-27T21:15:31Z",
+   "bytes": 1524220,
+   "sha256": "ff2f7f15e48ef2e6b3d70d56ebc02d792d4c9dd0c4bd261ffc3ba2ccc3cbfc6f",
+   "sha1": "494db4c11f863fb0de62aa03c0d2870d5c07c479",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Super_Bowl_rematch.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix Taylor Gosiaco.jpg",
+   "url": "https://swccg.com/wiki/images/2/23/2023_Endor_Grand_Prix_Taylor_Gosiaco.jpg",
+   "timestamp": "2026-11-27T21:14:56Z",
+   "bytes": 1622027,
+   "sha256": "df5fda600bcd9130419c029e4408124d99218bf0140dde1ee9a6fcd5cbf035ef",
+   "sha1": "82326b297623aec8a450b68dce9687cedb34de7a",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Taylor_Gosiaco.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix Thrawn deck box.jpg",
+   "url": "https://swccg.com/wiki/images/f/f0/2023_Endor_Grand_Prix_Thrawn_deck_box.jpg",
+   "timestamp": "2026-11-27T21:14:30Z",
+   "bytes": 1138481,
+   "sha256": "610998208538fa14134177bdee3c23636fb0c6dbff4b8ccadd7479311a9623fb",
+   "sha1": "a7bcc6d087423c314cfbd1ee09f1297a84f6a855",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Thrawn_deck_box.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix Top 8.jpg",
+   "url": "https://swccg.com/wiki/images/e/e8/2023_Endor_Grand_Prix_Top_8.jpg",
+   "timestamp": "2026-11-27T21:15:20Z",
+   "bytes": 1013267,
+   "sha256": "59fdb97657a345386ce2bf72355267437ade3fd5e1e21cde506405bc8b9a3c99",
+   "sha1": "b205e62fdf0d7d4973c3ba40a6c2015c7aa636e0",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Top_8.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix Top 8 decks submitted.jpg",
+   "url": "https://swccg.com/wiki/images/d/d0/2023_Endor_Grand_Prix_Top_8_decks_submitted.jpg",
+   "timestamp": "2026-11-27T21:15:15Z",
+   "bytes": 1819091,
+   "sha256": "3991afdb0ba56b75f8ef0ba7f5ede8bbc516edf0b69dbf31aaf658c2632e5328",
+   "sha1": "44df508118722a46b2312b6ac5ab45fcf3c02ee2",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Top_8_decks_submitted.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix cards in play evening.jpg",
+   "url": "https://swccg.com/wiki/images/e/e5/2023_Endor_Grand_Prix_cards_in_play_evening.jpg",
+   "timestamp": "2026-11-27T21:15:07Z",
+   "bytes": 1641954,
+   "sha256": "e99e00bec442bb468af0c1e5276f64d992808c14329e33ca534dd7308acf8f73",
+   "sha1": "d6c6251b180fe28da5cb9e9d4e2317b3fcdd1548",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_cards_in_play_evening.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix consolation event.jpg",
+   "url": "https://swccg.com/wiki/images/8/80/2023_Endor_Grand_Prix_consolation_event.jpg",
+   "timestamp": "2026-11-27T21:15:28Z",
+   "bytes": 1136284,
+   "sha256": "ce81c2f069f610cc285de5cdfd536530b357dad816e82726e019a685061a34a7",
+   "sha1": "99156544c27224b254f7bd8a576270b2ad52f3c1",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_consolation_event.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix custom sleeves.jpg",
+   "url": "https://swccg.com/wiki/images/a/aa/2023_Endor_Grand_Prix_custom_sleeves.jpg",
+   "timestamp": "2026-11-27T21:15:23Z",
+   "bytes": 1285380,
+   "sha256": "0b3756d7bef8bbc64138c6bd64573ceb2d7f3f448728b410e140c936d332fd0e",
+   "sha1": "0246f92b97f9bb344b442512acdc0a4e7cd30ed3",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_custom_sleeves.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix decks checked.jpg",
+   "url": "https://swccg.com/wiki/images/b/b0/2023_Endor_Grand_Prix_decks_checked.jpg",
+   "timestamp": "2026-11-27T21:15:17Z",
+   "bytes": 1683788,
+   "sha256": "4dfe671c802c88349a698a0f4ceaba5cbbc8227cfb0aa7e11db0e2216b87b3c9",
+   "sha1": "e15112230487e3daa275738a641663bf5ee35dbe",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_decks_checked.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix family decorated Imperial Square.jpg",
+   "url": "https://swccg.com/wiki/images/9/9f/2023_Endor_Grand_Prix_family_decorated_Imperial_Square.jpg",
+   "timestamp": "2026-11-27T21:14:37Z",
+   "bytes": 1293443,
+   "sha256": "2b93eed3d4be4e46a45ee96fc35e2c9a6ddb85c1b8cf8b25dff50b86e349de83",
+   "sha1": "f0464cd91fb3a3936276cc3b8f3202d0b7d90201",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_family_decorated_Imperial_Square.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix game 29 October.jpg",
+   "url": "https://swccg.com/wiki/images/f/f1/2023_Endor_Grand_Prix_game_29_October.jpg",
+   "timestamp": "2026-11-27T21:15:36Z",
+   "bytes": 1531940,
+   "sha256": "c57d17211fe1265733678fafefdb93bc7f75670ac38945ce8b7ba11944835630",
+   "sha1": "8ae653b0c6beedacafb5a8a2f2a0cf6d2fdba230",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_game_29_October.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix game no lost piles.jpg",
+   "url": "https://swccg.com/wiki/images/5/53/2023_Endor_Grand_Prix_game_no_lost_piles.jpg",
+   "timestamp": "2026-11-27T21:15:53Z",
+   "bytes": 1645358,
+   "sha256": "9ab65e98c2b7e92ab1b08260fbac2fcab9205ee185809a0904b0aca634ec4dc5",
+   "sha1": "eea2f896c803aec8a55914e7c0ec7dbd9ac9cc86",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_game_no_lost_piles.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix game with phone replay.jpg",
+   "url": "https://swccg.com/wiki/images/7/77/2023_Endor_Grand_Prix_game_with_phone_replay.jpg",
+   "timestamp": "2026-11-27T21:15:42Z",
+   "bytes": 1116542,
+   "sha256": "5386b62b53fd2114efa7c355003a003453cf9f0cb9a052ab2b1464c9a40aacb2",
+   "sha1": "ddd151fdb554f8eccd2b59a8fd67ca7789ec254d",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_game_with_phone_replay.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix hall 28 October morning.jpg",
+   "url": "https://swccg.com/wiki/images/5/56/2023_Endor_Grand_Prix_hall_28_October_morning.jpg",
+   "timestamp": "2026-11-27T21:14:14Z",
+   "bytes": 1117360,
+   "sha256": "1f4cc81300e4abbd13dc57b60d320ba9c8b1581ff6349e6e173c6c9fd13e1baa",
+   "sha1": "c4f5f7db7db5839ed84759f84052c7fc49c6cd7e",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_hall_28_October_morning.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix hall 29 October.jpg",
+   "url": "https://swccg.com/wiki/images/1/1d/2023_Endor_Grand_Prix_hall_29_October.jpg",
+   "timestamp": "2026-11-27T21:15:39Z",
+   "bytes": 1368261,
+   "sha256": "8624826c87253102099a4fe26d51eedff66801ea9ab9a082b4e96691efd87543",
+   "sha1": "fe68b754765edc51a9ba7ac818dc984825131492",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_hall_29_October.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix handwritten decklists.jpg",
+   "url": "https://swccg.com/wiki/images/2/24/2023_Endor_Grand_Prix_handwritten_decklists.jpg",
+   "timestamp": "2026-11-27T21:15:04Z",
+   "bytes": 1124365,
+   "sha256": "36040fb71ee113de7b1fea6b7e862c9fc38fbd2967240986815b9960057b50c8",
+   "sha1": "834e81215c5b45f1898eabc6c382bd14567e07e2",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_handwritten_decklists.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix late-night gathering.jpg",
+   "url": "https://swccg.com/wiki/images/8/86/2023_Endor_Grand_Prix_late-night_gathering.jpg",
+   "timestamp": "2026-11-27T21:15:12Z",
+   "bytes": 272928,
+   "sha256": "88a70e1efeb28903cdcfcd6db6e1bf276dbea515e3519dc7a36c3ba7af60b6e6",
+   "sha1": "5695ac4e0a131b37e58db07705ec5946000819ed",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_late-night_gathering.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix players at a table 28 October.jpg",
+   "url": "https://swccg.com/wiki/images/5/50/2023_Endor_Grand_Prix_players_at_a_table_28_October.jpg",
+   "timestamp": "2026-11-27T21:14:22Z",
+   "bytes": 831756,
+   "sha256": "bf6d8268f84ee8ca1f8925aafc82069bf0fbc9d77b80c547127db45207790235",
+   "sha1": "39e72783e0c7f2228b4fe803ba65536325b14a3f",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_players_at_a_table_28_October.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix players mustered.jpg",
+   "url": "https://swccg.com/wiki/images/c/cb/2023_Endor_Grand_Prix_players_mustered.jpg",
+   "timestamp": "2026-11-27T21:14:17Z",
+   "bytes": 1168948,
+   "sha256": "0e6b75f942c50009347cf3b86ccf626b293837ad57c9f27f101d3b8c9d122d6a",
+   "sha1": "ee7e6ea3f1d37f2d84354615cb38eeeffbba065e",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_players_mustered.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix post-game discussion.jpg",
+   "url": "https://swccg.com/wiki/images/f/fe/2023_Endor_Grand_Prix_post-game_discussion.jpg",
+   "timestamp": "2026-11-27T21:15:50Z",
+   "bytes": 1399358,
+   "sha256": "9618d3f78562169f7245bec8ee873b0ea37c114f439a2d42f9e9b575d30165c0",
+   "sha1": "c249d840cb9c73f6c75c63c679b934f47b21bcaa",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_post-game_discussion.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix retro GEMP laptop.jpg",
+   "url": "https://swccg.com/wiki/images/e/ed/2023_Endor_Grand_Prix_retro_GEMP_laptop.jpg",
+   "timestamp": "2026-11-27T21:14:48Z",
+   "bytes": 1453062,
+   "sha256": "99d7ecaa116fcdc7a9e394716007355c1ee8a7f8c4ddb0ccf12fa5d5ea0c8ba2",
+   "sha1": "911dcc387d9b60d28f7fa94ac6dc870b21b21b67",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_retro_GEMP_laptop.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix stream table game 1.jpg",
+   "url": "https://swccg.com/wiki/images/4/48/2023_Endor_Grand_Prix_stream_table_game_1.jpg",
+   "timestamp": "2026-11-27T21:14:27Z",
+   "bytes": 1318302,
+   "sha256": "e2c0f09fd4900c6919c323d805914b98f32f26bc6699ed5973615d6aafe0318a",
+   "sha1": "647a17b7cabd4658e57b9336d4b04e3f50530c51",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_stream_table_game_1.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix streaming command center.jpg",
+   "url": "https://swccg.com/wiki/images/3/31/2023_Endor_Grand_Prix_streaming_command_center.jpg",
+   "timestamp": "2026-11-27T21:15:34Z",
+   "bytes": 1188203,
+   "sha256": "730da80b9bcd2b92444dbed58ed499911e86d104ca060e7e8bb35ecef4659299",
+   "sha1": "ce9012fa3fb3709398d0c9a213c62f031a1ac0f6",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_streaming_command_center.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix time called.jpg",
+   "url": "https://swccg.com/wiki/images/0/05/2023_Endor_Grand_Prix_time_called.jpg",
+   "timestamp": "2026-11-27T21:14:24Z",
+   "bytes": 1470982,
+   "sha256": "503cd929bc0d4219f26cc60914dc3303178b8e1fd0726f74ed08b125dec27da2",
+   "sha1": "371b8cc8a2f819b7bde142cdb94e731d52420332",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_time_called.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix verifying pairings 2.jpg",
+   "url": "https://swccg.com/wiki/images/c/cb/2023_Endor_Grand_Prix_verifying_pairings_2.jpg",
+   "timestamp": "2026-11-27T21:14:43Z",
+   "bytes": 1415842,
+   "sha256": "127101460c0361868d8f89288cc74648cdaaa62167a6694f6e370e618b75d229",
+   "sha1": "625a7c52c6d93fa32c63dba8d244eb696069ff85",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_verifying_pairings_2.jpg"
   }
  ]
 }
