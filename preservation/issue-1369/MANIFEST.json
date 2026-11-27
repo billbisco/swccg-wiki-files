@@ -1,0 +1,71 @@
+{
+ "ticket": "swccg-guild/work#1369",
+ "parent_epic": "swccg-guild/work#139",
+ "unit": "U5",
+ "wiki_originals_count": 7,
+ "wiki_originals": [
+  {
+   "title": "File:2023 Endor Grand Prix Friday Palpatine sealed boxes.jpg",
+   "url": "https://swccg.com/wiki/images/9/9a/2023_Endor_Grand_Prix_Friday_Palpatine_sealed_boxes.jpg",
+   "timestamp": "2026-11-27T20:51:34Z",
+   "bytes": 1407894,
+   "sha256": "1eb367fed47f4be63bb9b5c5de6daf1ef80d8354e1e44ab89169da7c5d245408",
+   "sha1": "e8eca5178a00e90227aebad2254e25c41ab0154a",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Friday_Palpatine_sealed_boxes.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix Friday opened sealed box.jpg",
+   "url": "https://swccg.com/wiki/images/a/a1/2023_Endor_Grand_Prix_Friday_opened_sealed_box.jpg",
+   "timestamp": "2026-11-27T20:51:37Z",
+   "bytes": 1313059,
+   "sha256": "1accf9ee6546768b31479769a19370d760c90d2690ddfca7d8935421e8be8af3",
+   "sha1": "0aa52c5d17fed8baf1967284dc0a6395ff4df5d0",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Friday_opened_sealed_box.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix Friday sealed boxes.jpg",
+   "url": "https://swccg.com/wiki/images/8/89/2023_Endor_Grand_Prix_Friday_sealed_boxes.jpg",
+   "timestamp": "2026-11-27T20:51:40Z",
+   "bytes": 1629719,
+   "sha256": "9928131e4f1cb19fa62f695b0f04788c7508925e14a181c1ce70c3f2bcbcf36f",
+   "sha1": "071062f4b72bfedfeb0b74574ffcdde9a3104dfd",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Friday_sealed_boxes.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix Friday sealed cards.jpg",
+   "url": "https://swccg.com/wiki/images/b/ba/2023_Endor_Grand_Prix_Friday_sealed_cards.jpg",
+   "timestamp": "2026-11-27T20:51:48Z",
+   "bytes": 2043112,
+   "sha256": "e11e3034ea7882d34dfda977736a0fade1d9fd5999685cfd9062a9b83d8a7aee",
+   "sha1": "c79ea1bd4f825ea463756fc34b7b06f5f79be248",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Friday_sealed_cards.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix Friday sealed event.jpg",
+   "url": "https://swccg.com/wiki/images/4/4d/2023_Endor_Grand_Prix_Friday_sealed_event.jpg",
+   "timestamp": "2026-11-27T20:51:32Z",
+   "bytes": 456856,
+   "sha256": "c92e6e740dc4cdb478fe42a812dcd0e66b177db47c5fa0ddaa918452e1d2a268",
+   "sha1": "53047298b93084f45d5b8a8d5a80d95fd409fece",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Friday_sealed_event.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix Friday sealed game 1.jpg",
+   "url": "https://swccg.com/wiki/images/0/09/2023_Endor_Grand_Prix_Friday_sealed_game_1.jpg",
+   "timestamp": "2026-11-27T20:51:43Z",
+   "bytes": 515348,
+   "sha256": "a1b4982b0d3d9a296f8121aa23b7c454737d8f13a501842a02c9d0fc94a20f51",
+   "sha1": "141be452f123415f5a05db0df7f050112d60a2a9",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Friday_sealed_game_1.jpg"
+  },
+  {
+   "title": "File:2023 Endor Grand Prix Friday sealed game 2.jpg",
+   "url": "https://swccg.com/wiki/images/f/f9/2023_Endor_Grand_Prix_Friday_sealed_game_2.jpg",
+   "timestamp": "2026-11-27T20:51:45Z",
+   "bytes": 547769,
+   "sha256": "36644c9642082505b8c0f55cc5f8ceed34a571b5fd36368d1531bf3747a9b243",
+   "sha1": "fa3d4de0c31fdc3e84028265a1b5fb55216c077f",
+   "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_Friday_sealed_game_2.jpg"
+  }
+ ]
+}
