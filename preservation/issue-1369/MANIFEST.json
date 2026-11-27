@@ -2,7 +2,7 @@
   "ticket": "swccg-guild/work#1369",
   "parent_epic": "swccg-guild/work#139",
   "unit": "U5",
-  "wiki_originals_count": 157,
+  "wiki_originals_count": 193,
   "wiki_originals": [
     {
       "title": "File:2023 Endor Grand Prix Friday Palpatine sealed boxes.jpg",
@@ -1416,6 +1416,330 @@
       "sha256": "41475eb0d9818c5d9d5eed490272514808e8efc17a60723ff62f4199768a5806",
       "sha1": "6cfb1cf5d91ff800fced472c61256e9b06ef8075",
       "repo_path": "preservation/issue-1369/wiki-originals/2025_Naboo_Regionals_poster.jpg"
+    },
+    {
+      "title": "File:2025 Naboo Regionals medal ceremony.jpg",
+      "url": "https://swccg.com/wiki/images/8/8d/2025_Naboo_Regionals_medal_ceremony.jpg",
+      "timestamp": "2026-11-27T23:24:36Z",
+      "bytes": 504991,
+      "sha256": "75d128ba36ba57fb581242394aec2b19f6179c30c7896454eceb183992cae842",
+      "sha1": "d291c2bfe659d4963896b569eb639ea0febf55e0",
+      "repo_path": "preservation/issue-1369/wiki-originals/2025_Naboo_Regionals_medal_ceremony.jpg"
+    },
+    {
+      "title": "File:2025 Naboo Regionals medal recipients.jpg",
+      "url": "https://swccg.com/wiki/images/3/3d/2025_Naboo_Regionals_medal_recipients.jpg",
+      "timestamp": "2026-11-27T23:24:39Z",
+      "bytes": 728579,
+      "sha256": "55ec5b2a4c3156d0c41bd4b5f094bd3af69259fbbc836985bfb0b0b35ad3a542",
+      "sha1": "e2203d89b01cec2037a81a89d33a5da5fb3a37af",
+      "repo_path": "preservation/issue-1369/wiki-originals/2025_Naboo_Regionals_medal_recipients.jpg"
+    },
+    {
+      "title": "File:2026 Boston Winter Classic venue.jpg",
+      "url": "https://swccg.com/wiki/images/4/4a/2026_Boston_Winter_Classic_venue.jpg",
+      "timestamp": "2026-11-27T23:24:41Z",
+      "bytes": 553479,
+      "sha256": "2a4d9e49c962cb385cfbcf6abebc1d33fb3ee332cd21d3c9627463a6b4d970da",
+      "sha1": "e112d633649f74e5764446a03e570a1d2ffc46d7",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_Boston_Winter_Classic_venue.jpg"
+    },
+    {
+      "title": "File:2026 Boston Winter Classic venue banner.jpg",
+      "url": "https://swccg.com/wiki/images/1/16/2026_Boston_Winter_Classic_venue_banner.jpg",
+      "timestamp": "2026-11-27T23:24:45Z",
+      "bytes": 575196,
+      "sha256": "51a5b45341e00bb1a55bce2713ecdb6996f08208164102bb3efb56b87e2ef97e",
+      "sha1": "b92b547fd3d041934c16c64db93523ddf48b73dc",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_Boston_Winter_Classic_venue_banner.jpg"
+    },
+    {
+      "title": "File:2026 Boston Winter Classic prizes 9 January.jpg",
+      "url": "https://swccg.com/wiki/images/e/ee/2026_Boston_Winter_Classic_prizes_9_January.jpg",
+      "timestamp": "2026-11-27T23:24:48Z",
+      "bytes": 965531,
+      "sha256": "ec5c0940b89e0b85b75ea3990a7512b1ba561589aba45d2d48594923ef7ef26e",
+      "sha1": "b101fcf71d9d1f29d42d5fa9e29322332a9546ea",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_Boston_Winter_Classic_prizes_9_January.jpg"
+    },
+    {
+      "title": "File:2026 Boston Winter Classic group 10 January.jpg",
+      "url": "https://swccg.com/wiki/images/6/64/2026_Boston_Winter_Classic_group_10_January.jpg",
+      "timestamp": "2026-11-27T23:24:50Z",
+      "bytes": 690086,
+      "sha256": "93de873dda02cfe877720e41dea1dc7cd2d6329513085acf149450bae1a85807",
+      "sha1": "2adf425f1351bbbcaefe6cf010f93bdbb9b2739b",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_Boston_Winter_Classic_group_10_January.jpg"
+    },
+    {
+      "title": "File:2026 Boston Winter Classic attendees 10 January.jpg",
+      "url": "https://swccg.com/wiki/images/c/c3/2026_Boston_Winter_Classic_attendees_10_January.jpg",
+      "timestamp": "2026-11-27T23:24:53Z",
+      "bytes": 602593,
+      "sha256": "6ef76e0660cffa54fdbb8610f0628889e9f1ddf227b6619c5375f1d6a89e9bee",
+      "sha1": "281edc8f2f8ad7c6e83d62dfd5e3df7ae43ab0fd",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_Boston_Winter_Classic_attendees_10_January.jpg"
+    },
+    {
+      "title": "File:2026 Boston Winter Classic play 10 January.jpg",
+      "url": "https://swccg.com/wiki/images/3/3b/2026_Boston_Winter_Classic_play_10_January.jpg",
+      "timestamp": "2026-11-27T23:24:55Z",
+      "bytes": 549834,
+      "sha256": "128524e203a94a0f63327635ba8e1f57a4095153cc03a02142d92c673bfffa6f",
+      "sha1": "173211db827aadb1820dc930eeb16577c37a49fa",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_Boston_Winter_Classic_play_10_January.jpg"
+    },
+    {
+      "title": "File:2026 Boston Winter Classic hall 10 January.jpg",
+      "url": "https://swccg.com/wiki/images/a/a4/2026_Boston_Winter_Classic_hall_10_January.jpg",
+      "timestamp": "2026-11-27T23:24:58Z",
+      "bytes": 640626,
+      "sha256": "c8b131b7f13d023398518bf4d8c549f56cdcf2f5ee1ecfe6764c20976adbecd1",
+      "sha1": "d2e43268cbbd1162f01784776c654914e7b96575",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_Boston_Winter_Classic_hall_10_January.jpg"
+    },
+    {
+      "title": "File:2026 Boston Winter Classic registration table.jpg",
+      "url": "https://swccg.com/wiki/images/b/ba/2026_Boston_Winter_Classic_registration_table.jpg",
+      "timestamp": "2026-11-27T23:25:01Z",
+      "bytes": 416804,
+      "sha256": "9ef63bc26e1436e576d3155f55c029906b9dc58259b2cd96bfddc77067bb5e15",
+      "sha1": "d28667559659f4edab814940d7b2fb7296f3ad74",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_Boston_Winter_Classic_registration_table.jpg"
+    },
+    {
+      "title": "File:2026 Boston Winter Classic Day 1.jpg",
+      "url": "https://swccg.com/wiki/images/3/31/2026_Boston_Winter_Classic_Day_1.jpg",
+      "timestamp": "2026-11-27T23:25:03Z",
+      "bytes": 454347,
+      "sha256": "21fd9d766445f58375cb5eae5e3144c4b9112568c5326728f3e42c144fa532d8",
+      "sha1": "beba12b9368b5f778de8cb4806340a24c9f73fa7",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_Boston_Winter_Classic_Day_1.jpg"
+    },
+    {
+      "title": "File:2026 Boston Winter Classic evening 10 January.jpg",
+      "url": "https://swccg.com/wiki/images/5/58/2026_Boston_Winter_Classic_evening_10_January.jpg",
+      "timestamp": "2026-11-27T23:25:06Z",
+      "bytes": 554624,
+      "sha256": "0f2660d694982cf4f277037e94bdb4da47715f1f11056ca7e4bb3c14f190f4c7",
+      "sha1": "933329307fb870880a9b88562d7dc8355c0c40fe",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_Boston_Winter_Classic_evening_10_January.jpg"
+    },
+    {
+      "title": "File:2026 Boston Winter Classic gathering 10 January.jpg",
+      "url": "https://swccg.com/wiki/images/6/6d/2026_Boston_Winter_Classic_gathering_10_January.jpg",
+      "timestamp": "2026-11-27T23:25:08Z",
+      "bytes": 634888,
+      "sha256": "9925326611c50477758d5cdf5bb2d59cc72b32ba38e8606848a171dd27d47e4d",
+      "sha1": "7063273858d9a9bc4a7f8ddfbe164a77037ea1f0",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_Boston_Winter_Classic_gathering_10_January.jpg"
+    },
+    {
+      "title": "File:2026 Boston Winter Classic prizes 10 January.jpg",
+      "url": "https://swccg.com/wiki/images/b/b4/2026_Boston_Winter_Classic_prizes_10_January.jpg",
+      "timestamp": "2026-11-27T23:25:11Z",
+      "bytes": 1698609,
+      "sha256": "6f9dd8a819847cc3e4c6b788c03f743a524bae17b3083e9adba20dde4f823d36",
+      "sha1": "5336e8b74781836418bd96e52095106d534bf261",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_Boston_Winter_Classic_prizes_10_January.jpg"
+    },
+    {
+      "title": "File:2026 Boston Winter Classic attendees evening 10 January.jpg",
+      "url": "https://swccg.com/wiki/images/9/9a/2026_Boston_Winter_Classic_attendees_evening_10_January.jpg",
+      "timestamp": "2026-11-27T23:25:13Z",
+      "bytes": 504694,
+      "sha256": "4c3d57321dd97f3b992cedd5b3adbfbbfaaf549dfacddbca802bc1417fb669c9",
+      "sha1": "c5f619b039ecf56926bcda2f945487bb19187ddd",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_Boston_Winter_Classic_attendees_evening_10_January.jpg"
+    },
+    {
+      "title": "File:2026 Boston Winter Classic players 10 January.jpg",
+      "url": "https://swccg.com/wiki/images/0/09/2026_Boston_Winter_Classic_players_10_January.jpg",
+      "timestamp": "2026-11-27T23:25:16Z",
+      "bytes": 404212,
+      "sha256": "1dc965155d13e7f9b7df6f32969bd98061eacd4f8140a19666da5bd5008a7701",
+      "sha1": "f88274a83848b73e3baa0095939d4804509b89ff",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_Boston_Winter_Classic_players_10_January.jpg"
+    },
+    {
+      "title": "File:2026 Boston Winter Classic standings after game 8.jpg",
+      "url": "https://swccg.com/wiki/images/e/ef/2026_Boston_Winter_Classic_standings_after_game_8.jpg",
+      "timestamp": "2026-11-27T23:25:18Z",
+      "bytes": 50958,
+      "sha256": "d97bebad6c1c64a3da5544ee1655ca940aa8c3052dc0b2a3b2ecaaaead508023",
+      "sha1": "e80500d71faa243b40a9368a405cf701467792fe",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_Boston_Winter_Classic_standings_after_game_8.jpg"
+    },
+    {
+      "title": "File:2026 Boston Winter Classic game 11 January.jpg",
+      "url": "https://swccg.com/wiki/images/4/43/2026_Boston_Winter_Classic_game_11_January.jpg",
+      "timestamp": "2026-11-27T23:25:20Z",
+      "bytes": 619856,
+      "sha256": "472bc063959cdba379a9f63d4bcc61714d9f551384df74024b0d52a73e156195",
+      "sha1": "9c0b0845354cf8602659a0b285e87a7c45a61c49",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_Boston_Winter_Classic_game_11_January.jpg"
+    },
+    {
+      "title": "File:2026 Boston Winter Classic play 11 January.jpg",
+      "url": "https://swccg.com/wiki/images/d/dd/2026_Boston_Winter_Classic_play_11_January.jpg",
+      "timestamp": "2026-11-27T23:25:23Z",
+      "bytes": 662049,
+      "sha256": "540fe8618800c2cc9e9675f60b836b261586070202573c0255ca195648c9670c",
+      "sha1": "45e996207424a166c92ad376682c18725b51a9b7",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_Boston_Winter_Classic_play_11_January.jpg"
+    },
+    {
+      "title": "File:2026 Boston Winter Classic signed Yoda.jpg",
+      "url": "https://swccg.com/wiki/images/6/62/2026_Boston_Winter_Classic_signed_Yoda.jpg",
+      "timestamp": "2026-11-27T23:25:26Z",
+      "bytes": 411752,
+      "sha256": "d528a45c411ace0bb5f0fd0c8a49156cc2d0e955731942d9fe94c2c709c59929",
+      "sha1": "b0b94018d4dfa1fa94c6b7fa1d800ee674a39d29",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_Boston_Winter_Classic_signed_Yoda.jpg"
+    },
+    {
+      "title": "File:2026 Boston Winter Classic feature game 11 January.jpg",
+      "url": "https://swccg.com/wiki/images/c/c2/2026_Boston_Winter_Classic_feature_game_11_January.jpg",
+      "timestamp": "2026-11-27T23:25:29Z",
+      "bytes": 551224,
+      "sha256": "ad44c23678d70e4b5570f263fe68242362089bcecd6cd2476c8d69c4efa7feb2",
+      "sha1": "eecff7c3f408c352a801458015ead12c0e8ded8c",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_Boston_Winter_Classic_feature_game_11_January.jpg"
+    },
+    {
+      "title": "File:2026 Boston Winter Classic table 11 January.jpg",
+      "url": "https://swccg.com/wiki/images/e/ea/2026_Boston_Winter_Classic_table_11_January.jpg",
+      "timestamp": "2026-11-27T23:25:31Z",
+      "bytes": 630845,
+      "sha256": "3b98a2c28d359632dadf9d55c5e020784e33a2b1a3303aeb5dbe851097f15b97",
+      "sha1": "15d13a035f3acf53435db47f95cb58b78c0c578a",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_Boston_Winter_Classic_table_11_January.jpg"
+    },
+    {
+      "title": "File:2026 Boston Winter Classic attendees with a prize 11 January.jpg",
+      "url": "https://swccg.com/wiki/images/b/b0/2026_Boston_Winter_Classic_attendees_with_a_prize_11_January.jpg",
+      "timestamp": "2026-11-27T23:25:34Z",
+      "bytes": 767657,
+      "sha256": "7ad5fc984091994a32c42d0036785dbd6ae6f620520364b72c4b883fe4bbe5cb",
+      "sha1": "c2c9916ebc0ca34cb898cee2c8d40baf71655ecf",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_Boston_Winter_Classic_attendees_with_a_prize_11_January.jpg"
+    },
+    {
+      "title": "File:2026 Boston Winter Classic attendees 12 January.jpg",
+      "url": "https://swccg.com/wiki/images/d/df/2026_Boston_Winter_Classic_attendees_12_January.jpg",
+      "timestamp": "2026-11-27T23:25:37Z",
+      "bytes": 904872,
+      "sha256": "8854ea06735ca6636e1e3bd1f76257266687275107e5a2bbc6824bd3e547c6bd",
+      "sha1": "fe0301fec33f897c8a076a82fd9eddea38bf447b",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_Boston_Winter_Classic_attendees_12_January.jpg"
+    },
+    {
+      "title": "File:2026 San Diego Super Open Day 1 hall.jpg",
+      "url": "https://swccg.com/wiki/images/3/3b/2026_San_Diego_Super_Open_Day_1_hall.jpg",
+      "timestamp": "2026-11-27T23:32:29Z",
+      "bytes": 836281,
+      "sha256": "7a6fc37dc76296aa7930e39e11ab103b24c2c60f7ddb9687593c0cd53fe4d90c",
+      "sha1": "86a6d1de547398764d33055c047bb1e22a10488d",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_Day_1_hall.jpg"
+    },
+    {
+      "title": "File:2026 San Diego Super Open stream game.jpg",
+      "url": "https://swccg.com/wiki/images/a/a5/2026_San_Diego_Super_Open_stream_game.jpg",
+      "timestamp": "2026-11-27T23:32:32Z",
+      "bytes": 1480072,
+      "sha256": "e23fb257fd0dc55d034e6b824afd74c1a2f0d11c72749cedaab2c33dbfc4b7f5",
+      "sha1": "47c8a6d8113a4d626d91b55c72ff866b5f335f7e",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_stream_game.jpg"
+    },
+    {
+      "title": "File:2026 San Diego Super Open play.jpg",
+      "url": "https://swccg.com/wiki/images/4/4e/2026_San_Diego_Super_Open_play.jpg",
+      "timestamp": "2026-11-27T23:32:35Z",
+      "bytes": 1704373,
+      "sha256": "430c3e11ae911cc9a64756846bb56baf3aed2f0646decd96eb7f8c51401c1f25",
+      "sha1": "f6fd17919b7538e8a2c8e3b0e4d0359c26ca0a11",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_play.jpg"
+    },
+    {
+      "title": "File:2026 San Diego Super Open gathering.jpg",
+      "url": "https://swccg.com/wiki/images/0/03/2026_San_Diego_Super_Open_gathering.jpg",
+      "timestamp": "2026-11-27T23:32:38Z",
+      "bytes": 829600,
+      "sha256": "f648542aadd6007e570690f267f334dc3474882203b9a6161f09dee852a3fc90",
+      "sha1": "7c90143fe9a8fe9e2fda5bc61d4dac809905fa06",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_gathering.jpg"
+    },
+    {
+      "title": "File:2026 San Diego Super Open game.jpg",
+      "url": "https://swccg.com/wiki/images/4/4d/2026_San_Diego_Super_Open_game.jpg",
+      "timestamp": "2026-11-27T23:32:41Z",
+      "bytes": 977675,
+      "sha256": "fff968e4c688a9c63996042b6f461d5b09bb89bc1fa5af4a4f9c0070c1ecb999",
+      "sha1": "4ec2a871da1b6a7ef4f65933e762b87260d0817d",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_game.jpg"
+    },
+    {
+      "title": "File:2026 San Diego Super Open feature game.jpg",
+      "url": "https://swccg.com/wiki/images/b/b9/2026_San_Diego_Super_Open_feature_game.jpg",
+      "timestamp": "2026-11-27T23:32:44Z",
+      "bytes": 835873,
+      "sha256": "cb719ea8f364bbfd3f929c82984180a1519086671d4f1a7a73a2364f5ff590b8",
+      "sha1": "25aad36cf23bd19ea3dab19e49988d246cb2ded0",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_feature_game.jpg"
+    },
+    {
+      "title": "File:2026 San Diego Super Open table.jpg",
+      "url": "https://swccg.com/wiki/images/3/3a/2026_San_Diego_Super_Open_table.jpg",
+      "timestamp": "2026-11-27T23:32:47Z",
+      "bytes": 868181,
+      "sha256": "356298bdc4c1834753999cf409aefff262285a2faae103988688e3be4cdf96c6",
+      "sha1": "8a2edb1ec33d623091c706f7ba57237bd20e8d4a",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_table.jpg"
+    },
+    {
+      "title": "File:2026 San Diego Super Open stream match.jpg",
+      "url": "https://swccg.com/wiki/images/f/f2/2026_San_Diego_Super_Open_stream_match.jpg",
+      "timestamp": "2026-11-27T23:32:50Z",
+      "bytes": 896466,
+      "sha256": "43d35ba8c99900974a8683342843d830db939d82da76980600c09dd6abdb57da",
+      "sha1": "b839196aa84784501eebfd7e614e4f7e6f55f3e0",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_stream_match.jpg"
+    },
+    {
+      "title": "File:2026 San Diego Super Open multiplayer table.jpg",
+      "url": "https://swccg.com/wiki/images/d/d0/2026_San_Diego_Super_Open_multiplayer_table.jpg",
+      "timestamp": "2026-11-27T23:32:52Z",
+      "bytes": 1905590,
+      "sha256": "b9e4670b319c7713617d8c241a1c798381989fd6707efcb37fc80f69450ff96f",
+      "sha1": "6d3e6cb6a7f4b203e244848591d993ded2ea84d7",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_multiplayer_table.jpg"
+    },
+    {
+      "title": "File:2026 San Diego Super Open stream setup.jpg",
+      "url": "https://swccg.com/wiki/images/0/03/2026_San_Diego_Super_Open_stream_setup.jpg",
+      "timestamp": "2026-11-27T23:32:56Z",
+      "bytes": 1296802,
+      "sha256": "50088d6841ecc7a2244bdc2ee7528c5fcc2a41c832a2157f86cc75dc7be7e5f0",
+      "sha1": "384f8fd4424ce640fb0d5ef0f962f656837263eb",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_stream_setup.jpg"
+    },
+    {
+      "title": "File:2026 San Diego Super Open playmat game.jpg",
+      "url": "https://swccg.com/wiki/images/c/ca/2026_San_Diego_Super_Open_playmat_game.jpg",
+      "timestamp": "2026-11-27T23:32:59Z",
+      "bytes": 960898,
+      "sha256": "37594e755fac48498fcea3bd22ca623b41f4e1bc7b778d84a4c18725ae24d770",
+      "sha1": "659c135532bfd04fa5592a94333fbbb6d64d268c",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_playmat_game.jpg"
+    },
+    {
+      "title": "File:2026 San Diego Super Open four-player table.jpg",
+      "url": "https://swccg.com/wiki/images/3/3f/2026_San_Diego_Super_Open_four-player_table.jpg",
+      "timestamp": "2026-11-27T23:33:02Z",
+      "bytes": 1088697,
+      "sha256": "10a90fa2a4e8fb51cdb4b05d01bd853925c2d8615346cb51408d7edb25f1ae7d",
+      "sha1": "a0dc5a9a346c972d4adb643cfee8878e7494e647",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_four-player_table.jpg"
     }
   ]
 }
