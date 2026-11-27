@@ -2,7 +2,7 @@
   "ticket": "swccg-guild/work#1369",
   "parent_epic": "swccg-guild/work#139",
   "unit": "U5",
-  "wiki_originals_count": 92,
+  "wiki_originals_count": 101,
   "wiki_originals": [
     {
       "title": "File:2023 Endor Grand Prix Friday Palpatine sealed boxes.jpg",
@@ -831,6 +831,87 @@
       "sha256": "c5277b55e09fca84b5b0a74b1d2d71d5e6d3ed31c5a3f74f5d9e4b072ea5f4c1",
       "sha1": "7fd48a565db371cbb1a60040bc93edf5abb94850",
       "repo_path": "preservation/issue-1369/wiki-originals/2023_Endor_Grand_Prix_semi-final_late.jpg"
+    },
+    {
+      "title": "File:2023 Grievous' Gambit ready check.png",
+      "url": "https://swccg.com/wiki/images/a/a4/2023_Grievous%27_Gambit_ready_check.png",
+      "timestamp": "2026-11-27T21:59:34Z",
+      "bytes": 61983,
+      "sha256": "cb668982b3020e8e49c80eb4379e1b29591d3bdd1c2fb01b33543f52881013f8",
+      "sha1": "6d09e9d7e62dd0e0c0d42b6cc3490be5ff688d1b",
+      "repo_path": "preservation/issue-1369/wiki-originals/2023_Grievous'_Gambit_ready_check.png"
+    },
+    {
+      "title": "File:2023 Grievous' Gambit sleeved cards.jpg",
+      "url": "https://swccg.com/wiki/images/7/7f/2023_Grievous%27_Gambit_sleeved_cards.jpg",
+      "timestamp": "2026-11-27T21:59:37Z",
+      "bytes": 2086512,
+      "sha256": "86e356ffe21c72a00df089b6d9c415c4f5a1c22d6358bb36e0b29ed65967acfa",
+      "sha1": "ab122f1bc6991d3dd01a22a7dfbe822d51002fc2",
+      "repo_path": "preservation/issue-1369/wiki-originals/2023_Grievous'_Gambit_sleeved_cards.jpg"
+    },
+    {
+      "title": "File:2023 Boot Camp logo.jpg",
+      "url": "https://swccg.com/wiki/images/a/af/2023_Boot_Camp_logo.jpg",
+      "timestamp": "2026-11-27T21:59:39Z",
+      "bytes": 49729,
+      "sha256": "af5965769a8e82af16886e25eb9d47497fcb531bccd407b56cf39fc820cdb06f",
+      "sha1": "b0cf3db0480eac32f92e4c94844283d4e01f3c73",
+      "repo_path": "preservation/issue-1369/wiki-originals/2023_Boot_Camp_logo.jpg"
+    },
+    {
+      "title": "File:2023 Battle for Boba ready check.png",
+      "url": "https://swccg.com/wiki/images/8/88/2023_Battle_for_Boba_ready_check.png",
+      "timestamp": "2026-11-27T21:59:41Z",
+      "bytes": 35633,
+      "sha256": "f54834e159082b5555ec2db22206e45cea464b28b7544434faa4eb0a5d554fc3",
+      "sha1": "2ee74c2deb418136df5eb81d765237d1d18480e0",
+      "repo_path": "preservation/issue-1369/wiki-originals/2023_Battle_for_Boba_ready_check.png"
+    },
+    {
+      "title": "File:2024 Supreme Southern Showdown Post-It Poker.jpg",
+      "url": "https://swccg.com/wiki/images/b/bb/2024_Supreme_Southern_Showdown_Post-It_Poker.jpg",
+      "timestamp": "2026-11-27T21:59:44Z",
+      "bytes": 1334358,
+      "sha256": "d0697151e98dd76a3db68ea29b9e727755c6f82f34e8cf6dfda31ca2e1009b5d",
+      "sha1": "7f3cf32f9fe3dbf3bd21af3ef7f8deccbb2448f7",
+      "repo_path": "preservation/issue-1369/wiki-originals/2024_Supreme_Southern_Showdown_Post-It_Poker.jpg"
+    },
+    {
+      "title": "File:2024 Supreme Southern Showdown Post-It Poker player.jpg",
+      "url": "https://swccg.com/wiki/images/c/cb/2024_Supreme_Southern_Showdown_Post-It_Poker_player.jpg",
+      "timestamp": "2026-11-27T21:59:47Z",
+      "bytes": 311466,
+      "sha256": "8dd81fafa8bf83b0e0fb87e026bd56af427f21b3db918e1fdfdf1386a5a77607",
+      "sha1": "1e6a88fb648d024a9fdc3253b493096ec0f01579",
+      "repo_path": "preservation/issue-1369/wiki-originals/2024_Supreme_Southern_Showdown_Post-It_Poker_player.jpg"
+    },
+    {
+      "title": "File:2023 BB-8's Bout ready check.png",
+      "url": "https://swccg.com/wiki/images/e/e3/2023_BB-8%27s_Bout_ready_check.png",
+      "timestamp": "2026-11-27T21:59:49Z",
+      "bytes": 36494,
+      "sha256": "1d28d22682a8c405d40a858deaca92dd050bcfa5d1dfc3eefaff002dc1b3f64a",
+      "sha1": "ef82dc93b65e5a94ccaefd53e3b2169c9dab4e10",
+      "repo_path": "preservation/issue-1369/wiki-originals/2023_BB-8's_Bout_ready_check.png"
+    },
+    {
+      "title": "File:2023 Beezer Bowl framed Corporal Beezer.jpg",
+      "url": "https://swccg.com/wiki/images/0/01/2023_Beezer_Bowl_framed_Corporal_Beezer.jpg",
+      "timestamp": "2026-11-27T21:59:52Z",
+      "bytes": 1314474,
+      "sha256": "90fa9aee8a95646bc61fea39e5ad18603e82084485df7eb6179b7e74763b2a11",
+      "sha1": "6c2cf94ba8e8c12febe912fa5e4f493f76fcc3dd",
+      "repo_path": "preservation/issue-1369/wiki-originals/2023_Beezer_Bowl_framed_Corporal_Beezer.jpg"
+    },
+    {
+      "title": "File:2023 Beezer Bowl attendees.jpg",
+      "url": "https://swccg.com/wiki/images/d/d2/2023_Beezer_Bowl_attendees.jpg",
+      "timestamp": "2026-11-27T21:59:54Z",
+      "bytes": 78552,
+      "sha256": "eeb6ac1bcf26f5a1ddb530b419b4017b01f7ee5fd6799b67a93eea7faedd145e",
+      "sha1": "fad6e715aeaebfdedd36b29bc51ca9ff08fabfcb",
+      "repo_path": "preservation/issue-1369/wiki-originals/2023_Beezer_Bowl_attendees.jpg"
     }
   ]
 }
