@@ -2,7 +2,7 @@
   "ticket": "swccg-guild/work#1369",
   "parent_epic": "swccg-guild/work#139",
   "unit": "U5",
-  "wiki_originals_count": 114,
+  "wiki_originals_count": 119,
   "wiki_originals": [
     {
       "title": "File:2023 Endor Grand Prix Friday Palpatine sealed boxes.jpg",
@@ -1029,6 +1029,51 @@
       "sha256": "e0ec219498b66416e616bcd2ab143a38af9f0a6181448b8cc454099cf95bdcde",
       "sha1": "b0cbd34fbd33eaa60a4bb803777de3093ada5b02",
       "repo_path": "preservation/issue-1369/wiki-originals/2024_Ithor_Regionals_dinner_18_March.jpg"
+    },
+    {
+      "title": "File:2024 Ithor Regionals dinner table 18 March.jpg",
+      "url": "https://swccg.com/wiki/images/8/8c/2024_Ithor_Regionals_dinner_table_18_March.jpg",
+      "timestamp": "2026-11-27T22:22:41Z",
+      "bytes": 1059939,
+      "sha256": "6c26a1de659160368a7dad466da433a0a0d43291e70206a492671c66b1dca77c",
+      "sha1": "70aa682309e0309ff28dd2de92300889eeb1c1c0",
+      "repo_path": "preservation/issue-1369/wiki-originals/2024_Ithor_Regionals_dinner_table_18_March.jpg"
+    },
+    {
+      "title": "File:2024 Naboo Regionals gathering.jpg",
+      "url": "https://swccg.com/wiki/images/f/ff/2024_Naboo_Regionals_gathering.jpg",
+      "timestamp": "2026-11-27T22:22:43Z",
+      "bytes": 1305288,
+      "sha256": "d9c5bfaa7350ad4e995f5fc43760167548491df5e192e5a39276fb366e6ea3ee",
+      "sha1": "cfabcf5b42b83d871a1d83f214b88cf860b245b7",
+      "repo_path": "preservation/issue-1369/wiki-originals/2024_Naboo_Regionals_gathering.jpg"
+    },
+    {
+      "title": "File:2024 Naboo Regionals group.jpg",
+      "url": "https://swccg.com/wiki/images/e/e7/2024_Naboo_Regionals_group.jpg",
+      "timestamp": "2026-11-27T22:22:46Z",
+      "bytes": 158734,
+      "sha256": "b66be613877b5573583c810d2f0161f607f0f1f59913f8666a94c6a43329d31c",
+      "sha1": "9d9a6f268e26a97baf1246b0012319cf9bd301f7",
+      "repo_path": "preservation/issue-1369/wiki-originals/2024_Naboo_Regionals_group.jpg"
+    },
+    {
+      "title": "File:2025 Las Vegas Grand Prix third-place game.jpg",
+      "url": "https://swccg.com/wiki/images/a/aa/2025_Las_Vegas_Grand_Prix_third-place_game.jpg",
+      "timestamp": "2026-11-27T22:22:48Z",
+      "bytes": 555005,
+      "sha256": "ac885ffed3167dbff13579d2c421729d87877a4834abf8bc1984f9d3a19765e7",
+      "sha1": "49d4743be6b8817546875e5ec2c7f134ba94eead",
+      "repo_path": "preservation/issue-1369/wiki-originals/2025_Las_Vegas_Grand_Prix_third-place_game.jpg"
+    },
+    {
+      "title": "File:2025 Las Vegas Grand Prix attendees.jpg",
+      "url": "https://swccg.com/wiki/images/3/3d/2025_Las_Vegas_Grand_Prix_attendees.jpg",
+      "timestamp": "2026-11-27T22:22:51Z",
+      "bytes": 1082491,
+      "sha256": "c330525e2ae739bf9969efdf2695e9add3e6db930103b8c70ff916b3cb8326cb",
+      "sha1": "d4e4b4a86bf4835814efcddfe49e724f2cb96126",
+      "repo_path": "preservation/issue-1369/wiki-originals/2025_Las_Vegas_Grand_Prix_attendees.jpg"
     }
   ]
 }
