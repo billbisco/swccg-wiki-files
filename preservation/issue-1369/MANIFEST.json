@@ -2,7 +2,7 @@
   "ticket": "swccg-guild/work#1369",
   "parent_epic": "swccg-guild/work#139",
   "unit": "U5",
-  "wiki_originals_count": 193,
+  "wiki_originals_count": 208,
   "wiki_originals": [
     {
       "title": "File:2023 Endor Grand Prix Friday Palpatine sealed boxes.jpg",
@@ -1740,6 +1740,141 @@
       "sha256": "10a90fa2a4e8fb51cdb4b05d01bd853925c2d8615346cb51408d7edb25f1ae7d",
       "sha1": "a0dc5a9a346c972d4adb643cfee8878e7494e647",
       "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_four-player_table.jpg"
+    },
+    {
+      "title": "File:2026 San Diego Super Open streamed tables.jpg",
+      "url": "https://swccg.com/wiki/images/4/4d/2026_San_Diego_Super_Open_streamed_tables.jpg",
+      "timestamp": "2026-11-27T23:46:50Z",
+      "bytes": 1841794,
+      "sha256": "b451bc4117bdebeffc8f9208d040c12c6d10cfc45a1ef9fccf086e4328cd7d1a",
+      "sha1": "b1ddc485502e685f0f57f3144bf713721ab5911a",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_streamed_tables.jpg"
+    },
+    {
+      "title": "File:2026 San Diego Super Open spectators.jpg",
+      "url": "https://swccg.com/wiki/images/c/cb/2026_San_Diego_Super_Open_spectators.jpg",
+      "timestamp": "2026-11-27T23:46:53Z",
+      "bytes": 1744813,
+      "sha256": "6576c1c223655b0482f6091073ebb7ee2caa726def88199243222a07f2844476",
+      "sha1": "910021f570e7e7f87f9fde52851b43bd14f9ea32",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_spectators.jpg"
+    },
+    {
+      "title": "File:2026 San Diego Super Open black-cap play.jpg",
+      "url": "https://swccg.com/wiki/images/a/aa/2026_San_Diego_Super_Open_black-cap_play.jpg",
+      "timestamp": "2026-11-27T23:46:56Z",
+      "bytes": 897273,
+      "sha256": "fa46ec2571402969ef55da37c9417cbb275e609a202d71a53df5ce479595d609",
+      "sha1": "ee9ab59aec83fc2fe10c24da9c83565737665468",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_black-cap_play.jpg"
+    },
+    {
+      "title": "File:2026 San Diego Super Open mid-hall game.jpg",
+      "url": "https://swccg.com/wiki/images/6/6e/2026_San_Diego_Super_Open_mid-hall_game.jpg",
+      "timestamp": "2026-11-27T23:46:59Z",
+      "bytes": 910747,
+      "sha256": "4538fd77c62665a06daff694834b822663caeb82959ef25956974b72df8b9697",
+      "sha1": "1300dbff5c7a506db375241d07a36553d193b423",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_mid-hall_game.jpg"
+    },
+    {
+      "title": "File:2026 San Diego Super Open hall overview.jpg",
+      "url": "https://swccg.com/wiki/images/6/6c/2026_San_Diego_Super_Open_hall_overview.jpg",
+      "timestamp": "2026-11-27T23:47:01Z",
+      "bytes": 2065390,
+      "sha256": "249243aa5eaeaca18b2066b72f84111d821de57becb8364865133a1e3c9b9800",
+      "sha1": "8cb5a06730e88ec0a77b132a70a5afab398cf7c9",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_hall_overview.jpg"
+    },
+    {
+      "title": "File:2026 San Diego Super Open two-player table.jpg",
+      "url": "https://swccg.com/wiki/images/f/fa/2026_San_Diego_Super_Open_two-player_table.jpg",
+      "timestamp": "2026-11-27T23:47:04Z",
+      "bytes": 931235,
+      "sha256": "bdc965ae68bd9f29a63b2193fecb08599cdd23824e56c186132899575c0e5bc2",
+      "sha1": "ef0540c287b0d876246e15b1330131a660a3d3b9",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_two-player_table.jpg"
+    },
+    {
+      "title": "File:2026 San Diego Super Open orange-shirt game.jpg",
+      "url": "https://swccg.com/wiki/images/5/54/2026_San_Diego_Super_Open_orange-shirt_game.jpg",
+      "timestamp": "2026-11-27T23:47:07Z",
+      "bytes": 1051219,
+      "sha256": "10b1a8bb7b186daaa6851fc7c4702fcdc845d0faec717ded31524f3de07a2175",
+      "sha1": "2d5b69ca046843e23276efb864f94c3dd2662daf",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_orange-shirt_game.jpg"
+    },
+    {
+      "title": "File:2026 San Diego Super Open posed table.jpg",
+      "url": "https://swccg.com/wiki/images/9/99/2026_San_Diego_Super_Open_posed_table.jpg",
+      "timestamp": "2026-11-27T23:47:10Z",
+      "bytes": 943121,
+      "sha256": "842c3cdf1271e836f39db0769deda6833ec876605f6296b39903cf46d4e73702",
+      "sha1": "7814dd039ea3a88e837fca9ef74f3acf83533b68",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_posed_table.jpg"
+    },
+    {
+      "title": "File:2026 San Diego Super Open yellow-mat game.jpg",
+      "url": "https://swccg.com/wiki/images/4/41/2026_San_Diego_Super_Open_yellow-mat_game.jpg",
+      "timestamp": "2026-11-27T23:47:14Z",
+      "bytes": 935577,
+      "sha256": "93b306f456aaa051a424228ffb7c9c5d9fb859452f68ea57f485247cd722cd73",
+      "sha1": "d4d7f2caa288e590a9bd795bf9adf22560bfc073",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_yellow-mat_game.jpg"
+    },
+    {
+      "title": "File:2026 San Diego Super Open six-player table.jpg",
+      "url": "https://swccg.com/wiki/images/1/1a/2026_San_Diego_Super_Open_six-player_table.jpg",
+      "timestamp": "2026-11-27T23:47:17Z",
+      "bytes": 1011885,
+      "sha256": "2ef42fcecaf45efbade49b8620bac457832919ae5897a921556b0bb8c2805d4a",
+      "sha1": "a6d8f766d53a01f1e8f71e372e7214a5316a7047",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_six-player_table.jpg"
+    },
+    {
+      "title": "File:2026 San Diego Super Open three-player game.jpg",
+      "url": "https://swccg.com/wiki/images/f/f4/2026_San_Diego_Super_Open_three-player_game.jpg",
+      "timestamp": "2026-11-27T23:47:21Z",
+      "bytes": 985505,
+      "sha256": "a1c6474c30bc8a0addbeaa4a3851cce24c3c69802dfba5fdcd3bae96fe9985a8",
+      "sha1": "6d120f4b5728b7f99f0f8aa6e156579c4baa06ed",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_three-player_game.jpg"
+    },
+    {
+      "title": "File:2026 San Diego Super Open prize group.jpg",
+      "url": "https://swccg.com/wiki/images/b/be/2026_San_Diego_Super_Open_prize_group.jpg",
+      "timestamp": "2026-11-27T23:47:24Z",
+      "bytes": 1904138,
+      "sha256": "67366d3457360d5762021009f5673b3af9a5d554872471fdac37282aff82817f",
+      "sha1": "8ec6a5b01453c00a1f0b77015ce850e8f1ac5148",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_prize_group.jpg"
+    },
+    {
+      "title": "File:2026 San Diego Super Open hall table.jpg",
+      "url": "https://swccg.com/wiki/images/c/c2/2026_San_Diego_Super_Open_hall_table.jpg",
+      "timestamp": "2026-11-27T23:47:28Z",
+      "bytes": 964752,
+      "sha256": "980f9eff72893cd0dab759d0363f6e891f5c006e4e365fdbbf9f269cb65bf8c0",
+      "sha1": "4497d5faa119b0768f15765e88f98aec66253fcf",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_San_Diego_Super_Open_hall_table.jpg"
+    },
+    {
+      "title": "File:2026 Naboo Regionals Friday venue.jpg",
+      "url": "https://swccg.com/wiki/images/a/aa/2026_Naboo_Regionals_Friday_venue.jpg",
+      "timestamp": "2026-11-27T23:47:30Z",
+      "bytes": 641010,
+      "sha256": "e17e612678420f4acc76792fa650869044ae3ed6f26904f6bf825deed2aad548",
+      "sha1": "3b936a9811092bc48d16467c8097e1aaff329b22",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_Naboo_Regionals_Friday_venue.jpg"
+    },
+    {
+      "title": "File:2026 Naboo Regionals Friday quiz.jpg",
+      "url": "https://swccg.com/wiki/images/8/8c/2026_Naboo_Regionals_Friday_quiz.jpg",
+      "timestamp": "2026-11-27T23:47:33Z",
+      "bytes": 538462,
+      "sha256": "ba1b8f0282284ebb82794bffa4e5985c088641dac75fa1b418d93a96a4a608c2",
+      "sha1": "4428a890d499c9fed10a4df759b59a318cc4c67e",
+      "repo_path": "preservation/issue-1369/wiki-originals/2026_Naboo_Regionals_Friday_quiz.jpg"
     }
   ]
 }
