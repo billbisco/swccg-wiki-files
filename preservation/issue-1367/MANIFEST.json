@@ -2,7 +2,7 @@
  "ticket": "swccg-guild/work#1367",
  "parent_epic": "swccg-guild/work#139",
  "unit": "U3",
- "wiki_originals_count": 2,
+ "wiki_originals_count": 3,
  "wiki_originals": [
   {
    "title": "File:2024 North American Continental Championship Top 8.jpg",
@@ -21,6 +21,15 @@
    "sha256": "856f99e8aa82525e8f47074abe62084d8b4321c3143bd2dd8ec5e8ed7b04b142",
    "sha1": "c26aaef7c975d5351c4baeae14d3a4df54e31036",
    "repo_path": "preservation/issue-1367/wiki-originals/2024_North_American_Continental_Championship_retro_event_players.jpg"
+  },
+  {
+   "title": "File:Community card Peter Jeeps Jacobson Euro Worlds II.png",
+   "url": "https://swccg.com/wiki/images/9/9d/Community_card_Peter_Jeeps_Jacobson_Euro_Worlds_II.png",
+   "timestamp": "2026-11-27T20:44:24Z",
+   "bytes": 1692672,
+   "sha256": "e1a057b281bd056b7351d59adafe584b8ec35f558adaba365326dee2d1ff539b",
+   "sha1": "159d70b9413ed0d184178baf9fa9a4d9dde3f6c5",
+   "repo_path": "preservation/issue-1367/wiki-originals/Community_card_Peter_Jeeps_Jacobson_Euro_Worlds_II.png"
   }
  ]
 }
