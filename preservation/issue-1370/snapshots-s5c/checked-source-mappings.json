@@ -1,0 +1,50 @@
+{
+ "ticket": "swccg-guild/work#1370",
+ "method": "authoring/make_snapshot.py through FlareSolverr on gemp (route C); post text compared with bs4 (div.post/div.content); session ids removed",
+ "snapshots": [
+  {
+   "topic": "t73398",
+   "primary_url": "https://forum.starwarsccg.org/viewtopic.php?t=73398",
+   "snapshot_url": "https://swccg.com/snapshots/forum/t73398.html",
+   "path": "preservation/issue-1370/snapshots-s5c/t73398.html",
+   "primary_html_sha256": "625c055d2010cc5943a9e5f05edacd28cd04be2e28318fc69f45f618518a41fd",
+   "snapshot_html_sha256": "e768ef1d2e45957ec4542bf19e55d2afec163ae9444b61944e26264b5ce0d698",
+   "article_text_sha256": "14509a9f0bb23fb661f123f1700164964933ce017cbbfc7f3f1d98b7752d34c8",
+   "posts": 15,
+   "bytes": 2050543
+  },
+  {
+   "topic": "t73599",
+   "primary_url": "https://forum.starwarsccg.org/viewtopic.php?t=73599",
+   "snapshot_url": "https://swccg.com/snapshots/forum/t73599.html",
+   "path": "preservation/issue-1370/snapshots-s5c/t73599.html",
+   "primary_html_sha256": "8a554f4f10dfd49ba2251925183659cf67f2a0fa7b513aa4b0c5c6a2e0c65aea",
+   "snapshot_html_sha256": "661f297c3efa53fe511094f5793a74d7aaa55df3b20ca51aae8e4d5d6a14f96c",
+   "article_text_sha256": "e6aceef4c960003f82aa698eae45b1b439e5bc6ec8c3c07413f36685828b6ae5",
+   "posts": 15,
+   "bytes": 1989179
+  },
+  {
+   "topic": "t64140",
+   "primary_url": "https://forum.starwarsccg.org/viewtopic.php?t=64140",
+   "snapshot_url": "https://swccg.com/snapshots/forum/t64140.html",
+   "path": "preservation/issue-1370/snapshots-s5c/t64140.html",
+   "primary_html_sha256": "5424e68c1fd0c0019d1ba83e7fb092129b85b2b88466a060045789aa5e7f3d35",
+   "snapshot_html_sha256": "6a38d9197556cce58ec51f9a83005c771e8fde7af9d48c7c2a74ef7184516fb9",
+   "article_text_sha256": "82bc9c1d1825bffcce3d4b2e0711fb3545b33999c8cf5bfa31a5efb20e28a4bb",
+   "posts": 20,
+   "bytes": 2038067
+  },
+  {
+   "topic": "t74521",
+   "primary_url": "https://forum.starwarsccg.org/viewtopic.php?t=74521",
+   "snapshot_url": "https://swccg.com/snapshots/forum/t74521.html",
+   "path": "preservation/issue-1370/snapshots-s5c/t74521.html",
+   "primary_html_sha256": "ee2009530d2dd36df65115c0212b3d79e8b7d6c168b9afeafff9b0ade1ae8e0d",
+   "snapshot_html_sha256": "807696b49e98dedfd484512567a769071eea256b94594451208d79d55d431ae6",
+   "article_text_sha256": "febaf979bf39791b6fd10c787d0d134bdefd468103904abca81426e0c9d2104b",
+   "posts": 17,
+   "bytes": 2208158
+  }
+ ]
+}
