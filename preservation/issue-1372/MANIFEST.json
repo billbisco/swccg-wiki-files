@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "ticket": 1372,
+  "parent_epic": 139,
+  "unit": "U8",
+  "created_at": "2026-11-28T01:11:14Z",
+  "files": [
+    {
+      "title": "File:2024 Kashyyyk League event 1 standings.png",
+      "path": "preservation/issue-1372/wiki-originals/2024_Kashyyyk_League_event_1_standings.png",
+      "bytes": 35973,
+      "sha1": "d8c92eb655f0fe1c46298537269104fa525d2261",
+      "sha256": "a6b87439c546a7c9c7c22b7dfc51cc38c4278e3a6dfc1a8a37aba9516ea94be7",
+      "upload_timestamp": "2026-11-28T01:08:20Z",
+      "original_version_url": "https://swccg.com/wiki/images/d/dc/2024_Kashyyyk_League_event_1_standings.png",
+      "mime": "image/png",
+      "width": 734,
+      "height": 481,
+      "user": "Comlink Cursor"
+    },
+    {
+      "title": "File:2024 Kashyyyk League event 4 standings.png",
+      "path": "preservation/issue-1372/wiki-originals/2024_Kashyyyk_League_event_4_standings.png",
+      "bytes": 36007,
+      "sha1": "623a246f4f2101546ff713265c60598da15a29ff",
+      "sha256": "6ec4923f95f4548d7cb090c84b171ae7577349e13c97ce112022e76debcac61a",
+      "upload_timestamp": "2026-11-28T01:08:22Z",
+      "original_version_url": "https://swccg.com/wiki/images/5/5e/2024_Kashyyyk_League_event_4_standings.png",
+      "mime": "image/png",
+      "width": 738,
+      "height": 477,
+      "user": "Comlink Cursor"
+    },
+    {
+      "title": "File:2024 Kashyyyk League event 5 standings.png",
+      "path": "preservation/issue-1372/wiki-originals/2024_Kashyyyk_League_event_5_standings.png",
+      "bytes": 30400,
+      "sha1": "13c7e255dc0652a846849a5a76415ded75d9559c",
+      "sha256": "5062b004dad0eb3f4d13bbb749befed9afbb2fe28dee1d1f131bea67cd34cf43",
+      "upload_timestamp": "2026-11-28T01:08:24Z",
+      "original_version_url": "https://swccg.com/wiki/images/e/e3/2024_Kashyyyk_League_event_5_standings.png",
+      "mime": "image/png",
+      "width": 868,
+      "height": 501,
+      "user": "Comlink Cursor"
+    },
+    {
+      "title": "File:2024 Kashyyyk League cumulative standings.png",
+      "path": "preservation/issue-1372/wiki-originals/2024_Kashyyyk_League_cumulative_standings.png",
+      "bytes": 33414,
+      "sha1": "d8baf4bbea2dd1d58183eec1d83564e099cb4b31",
+      "sha256": "e7a783b09851d5e94b36a54efd42c1e3d81f5847c82a1d3ad49cee340da82de4",
+      "upload_timestamp": "2026-11-28T01:08:27Z",
+      "original_version_url": "https://swccg.com/wiki/images/0/04/2024_Kashyyyk_League_cumulative_standings.png",
+      "mime": "image/png",
+      "width": 912,
+      "height": 382,
+      "user": "Comlink Cursor"
+    },
+    {
+      "title": "File:2026 Kashyyyk League event 2 standings after game 6.png",
+      "path": "preservation/issue-1372/wiki-originals/2026_Kashyyyk_League_event_2_standings_after_game_6.png",
+      "bytes": 52975,
+      "sha1": "b5b7319a8fd64934e530eb1a811297e2970fc791",
+      "sha256": "9eff489cbde0b73c9572fac298178d4d077334b8961911e011ccd43dda67b93d",
+      "upload_timestamp": "2026-11-28T01:08:29Z",
+      "original_version_url": "https://swccg.com/wiki/images/8/83/2026_Kashyyyk_League_event_2_standings_after_game_6.png",
+      "mime": "image/png",
+      "width": 1850,
+      "height": 353,
+      "user": "Comlink Cursor"
+    },
+    {
+      "title": "File:2026 Kashyyyk League event 3 final results.png",
+      "path": "preservation/issue-1372/wiki-originals/2026_Kashyyyk_League_event_3_final_results.png",
+      "bytes": 129002,
+      "sha1": "a40149db0cf176c606bbfd8243273730e624e96e",
+      "sha256": "fee6bf5f935c59a72c297207c971b32f973d0a861d817bb93241b5b9699a5008",
+      "upload_timestamp": "2026-11-28T01:08:32Z",
+      "original_version_url": "https://swccg.com/wiki/images/0/06/2026_Kashyyyk_League_event_3_final_results.png",
+      "mime": "image/png",
+      "width": 1126,
+      "height": 1035,
+      "user": "Comlink Cursor"
+    },
+    {
+      "title": "File:2025 Kashyyyk League event 4 standings after game 4.jpg",
+      "path": "preservation/issue-1372/wiki-originals/2025_Kashyyyk_League_event_4_standings_after_game_4.jpg",
+      "bytes": 123662,
+      "sha1": "8d551a3be22de9ea6ca75249f4f54d99b1459b53",
+      "sha256": "af2ad5312eaaffe6968320d8b04127dd0b4b81aa73d496ef66216fd99644160c",
+      "upload_timestamp": "2026-11-28T01:09:36Z",
+      "original_version_url": "https://swccg.com/wiki/images/a/a7/2025_Kashyyyk_League_event_4_standings_after_game_4.jpg",
+      "mime": "image/jpeg",
+      "width": 1742,
+      "height": 1457,
+      "user": "Comlink Cursor"
+    }
+  ]
+}
