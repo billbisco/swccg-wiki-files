@@ -1,0 +1,39 @@
+{
+ "ticket": "swccg-guild/work#1370",
+ "method": "authoring/make_snapshot.py through FlareSolverr on gemp (route C); post text compared with bs4 (div.post/div.content); session ids removed",
+ "snapshots": [
+  {
+   "topic": "t71673",
+   "primary_url": "https://forum.starwarsccg.org/viewtopic.php?t=71673",
+   "snapshot_url": "https://swccg.com/snapshots/forum/t71673.html",
+   "path": "preservation/issue-1370/snapshots-s5a/t71673.html",
+   "primary_html_sha256": "ed7a37279d405558be9e42b3c887cd521f8053ab52e6d07987ea76005c95eb97",
+   "snapshot_html_sha256": "db437fb354161268826bf12130cb676cfd1dbfe2774b18115c0e4af4d22e5c0b",
+   "article_text_sha256": "3790ce5d4c1763d1422e2bd453396ea3d7ec5fc10ade9b036b9f9b90bab42ed3",
+   "posts": 19,
+   "bytes": 2362594
+  },
+  {
+   "topic": "t71685",
+   "primary_url": "https://forum.starwarsccg.org/viewtopic.php?t=71685",
+   "snapshot_url": "https://swccg.com/snapshots/forum/t71685.html",
+   "path": "preservation/issue-1370/snapshots-s5a/t71685.html",
+   "primary_html_sha256": "693436125a2022d23ad7a94933ce116761310d6db5b3dd6aeb27a7892a750576",
+   "snapshot_html_sha256": "fdb1f0c7a40317d4fe4b21f4d349dd551e2065dfaee5c7bb30ded22ed60b0e3e",
+   "article_text_sha256": "8a3beeddab4ad1a98510c916bee3b98e94cf80e7533484d47ffc42ad32b80fc1",
+   "posts": 20,
+   "bytes": 2144759
+  },
+  {
+   "topic": "t71686",
+   "primary_url": "https://forum.starwarsccg.org/viewtopic.php?t=71686",
+   "snapshot_url": "https://swccg.com/snapshots/forum/t71686.html",
+   "path": "preservation/issue-1370/snapshots-s5a/t71686.html",
+   "primary_html_sha256": "0e5d3a18014e92a93138f5e94a81cec6dc7648dd9e5008a3bda61fd7dee2ccf6",
+   "snapshot_html_sha256": "2d8699089c702f39b376cff994f875fe876f201501e5cb73a6180327f9ffe161",
+   "article_text_sha256": "da8eef2848ba559952a251d426e5bab2756543f79ade6e4e101b883785209dd0",
+   "posts": 18,
+   "bytes": 2183990
+  }
+ ]
+}
