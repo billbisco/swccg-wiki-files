@@ -1,0 +1,17 @@
+{
+ "ticket": "swccg-guild/work#1370",
+ "method": "authoring/make_snapshot.py through FlareSolverr on gemp (route C); post text compared with bs4 (div.post/div.content); session ids removed",
+ "snapshots": [
+  {
+   "topic": "t64892",
+   "primary_url": "https://forum.starwarsccg.org/viewtopic.php?t=64892",
+   "snapshot_url": "https://swccg.com/snapshots/forum/t64892.html",
+   "path": "preservation/issue-1370/snapshots-snapC/t64892.html",
+   "primary_html_sha256": "42b3f7a4e4174412e4c31c15360cafb57abbeddb3c407ff62fb2b3be3f502150",
+   "snapshot_html_sha256": "d71f2e39d2a88be9a862033f6dcf2013f0074b938f6dd16125fa618acd755ab9",
+   "article_text_sha256": "604bb9136b33bf1f79e51bf88521e31fe148083405afe0af61371634a8e40191",
+   "posts": 4,
+   "bytes": 2050634
+  }
+ ]
+}
