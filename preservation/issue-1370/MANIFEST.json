@@ -1,0 +1,25 @@
+{
+  "ticket": "swccg-guild/work#1370",
+  "parent": 139,
+  "purpose": "exact public wiki original versions, U6 slice 6 Slack photographs",
+  "files": [
+    {
+      "title": "File:2018 European Championship team tournament winners.jpg",
+      "path": "preservation/issue-1370/wiki-originals/2018_European_Championship_team_tournament_winners.jpg",
+      "original_version_url": "https://swccg.com/wiki/images/3/3a/2018_European_Championship_team_tournament_winners.jpg",
+      "upload_timestamp": "2026-11-28T14:34:12Z",
+      "sha256": "e25f281fe0eca0e6df966cc9d195a14ed9b653ac02df6fa7fc9644c2a705fd60",
+      "sha1": "d60219737e80de128ef0acd6d6284c06ff3ca7d0",
+      "bytes": 1527748
+    },
+    {
+      "title": "File:2018 European Championship team tournament tables.jpg",
+      "path": "preservation/issue-1370/wiki-originals/2018_European_Championship_team_tournament_tables.jpg",
+      "original_version_url": "https://swccg.com/wiki/images/9/93/2018_European_Championship_team_tournament_tables.jpg",
+      "upload_timestamp": "2026-11-28T14:34:15Z",
+      "sha256": "e892dc422a870c8c1301f494af2c18f70589ca37ba67a6201f825091d2abe0ed",
+      "sha1": "f0274f7281bbed53c90dba60cd619824057d76d6",
+      "bytes": 1399186
+    }
+  ]
+}
