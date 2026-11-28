@@ -3,7 +3,7 @@
   "ticket": 1372,
   "parent_epic": 139,
   "unit": "U8",
-  "created_at": "2026-11-28T02:16:33Z",
+  "created_at": "2026-11-28T02:19:54Z",
   "files": [
     {
       "title": "File:2024 Kashyyyk League event 1 standings.png",
@@ -939,6 +939,45 @@
       "mime": "image/jpeg",
       "width": 4032,
       "height": 3024,
+      "user": "Comlink Cursor"
+    },
+    {
+      "title": "File:Corellia League 2026 third place trophy.jpg",
+      "path": "preservation/issue-1372/wiki-originals/Corellia_League_2026_third_place_trophy.jpg",
+      "bytes": 580948,
+      "sha1": "569dd992445f2e3d641e027d75deee5a2a8c7e09",
+      "sha256": "ba3d5dfddf7284b5c56e5458922494508726345aa4b6be82ef028a986dbd904a",
+      "upload_timestamp": "2026-11-28T02:18:54Z",
+      "original_version_url": "https://swccg.com/wiki/images/a/a0/Corellia_League_2026_third_place_trophy.jpg",
+      "mime": "image/jpeg",
+      "width": 2736,
+      "height": 3648,
+      "user": "Comlink Cursor"
+    },
+    {
+      "title": "File:Cube Throdo cubes boxed 5 November 2022.jpg",
+      "path": "preservation/issue-1372/wiki-originals/Cube_Throdo_cubes_boxed_5_November_2022.jpg",
+      "bytes": 290402,
+      "sha1": "9ee18e3a0214d10193cb4af8336dc7ab9153226c",
+      "sha256": "8d887d5f22a2be1e588d459037c59f92fb1029913367362440e2434a6ed9ecd1",
+      "upload_timestamp": "2026-11-28T02:18:57Z",
+      "original_version_url": "https://swccg.com/wiki/images/f/fa/Cube_Throdo_cubes_boxed_5_November_2022.jpg",
+      "mime": "image/jpeg",
+      "width": 1816,
+      "height": 4032,
+      "user": "Comlink Cursor"
+    },
+    {
+      "title": "File:Cube Throdo four cubes 5 November 2022.jpg",
+      "path": "preservation/issue-1372/wiki-originals/Cube_Throdo_four_cubes_5_November_2022.jpg",
+      "bytes": 364126,
+      "sha1": "cb12e84ef121a487a45bd8c67de9bf0d1de68182",
+      "sha256": "e9ca33c92a7f45c9f64e9ef0458fded231c0c46ad25c563d04ac4ccf6a02cda8",
+      "upload_timestamp": "2026-11-28T02:18:59Z",
+      "original_version_url": "https://swccg.com/wiki/images/b/b3/Cube_Throdo_four_cubes_5_November_2022.jpg",
+      "mime": "image/jpeg",
+      "width": 4032,
+      "height": 1816,
       "user": "Comlink Cursor"
     }
   ]
