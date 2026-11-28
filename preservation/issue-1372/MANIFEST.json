@@ -3,7 +3,7 @@
   "ticket": 1372,
   "parent_epic": 139,
   "unit": "U8",
-  "created_at": "2026-11-28T02:01:18Z",
+  "created_at": "2026-11-28T02:08:07Z",
   "files": [
     {
       "title": "File:2024 Kashyyyk League event 1 standings.png",
@@ -744,6 +744,97 @@
       "mime": "image/jpeg",
       "width": 4000,
       "height": 2256,
+      "user": "Comlink Cursor"
+    },
+    {
+      "title": "File:Corellia League 25 May 2024 Pittsburgh players at the tables 1.jpg",
+      "path": "preservation/issue-1372/wiki-originals/Corellia_League_25_May_2024_Pittsburgh_players_at_the_tables_1.jpg",
+      "bytes": 1023058,
+      "sha1": "c7aca4bb9dde1f5c63c916f95dc4f652fb179f56",
+      "sha256": "da7610da8d92192f25a078043b1ca4cb4b3038a51fae477e9eb1d6f8b8d18bba",
+      "upload_timestamp": "2026-11-28T02:07:22Z",
+      "original_version_url": "https://swccg.com/wiki/images/5/5d/Corellia_League_25_May_2024_Pittsburgh_players_at_the_tables_1.jpg",
+      "mime": "image/jpeg",
+      "width": 4032,
+      "height": 3024,
+      "user": "Comlink Cursor"
+    },
+    {
+      "title": "File:Corellia League 25 May 2024 Pittsburgh players at the tables 2.jpg",
+      "path": "preservation/issue-1372/wiki-originals/Corellia_League_25_May_2024_Pittsburgh_players_at_the_tables_2.jpg",
+      "bytes": 1458724,
+      "sha1": "00dc9333c70672dd748cc827804c15af0a6a1d8b",
+      "sha256": "b7580a56004bb4c45ac9f41cb65743d2edaac3efdbb5af34bd2b809ceffa516f",
+      "upload_timestamp": "2026-11-28T02:07:24Z",
+      "original_version_url": "https://swccg.com/wiki/images/9/94/Corellia_League_25_May_2024_Pittsburgh_players_at_the_tables_2.jpg",
+      "mime": "image/jpeg",
+      "width": 3427,
+      "height": 2570,
+      "user": "Comlink Cursor"
+    },
+    {
+      "title": "File:Corellia League 19 October 2024 Pittsburgh cube event 1.jpg",
+      "path": "preservation/issue-1372/wiki-originals/Corellia_League_19_October_2024_Pittsburgh_cube_event_1.jpg",
+      "bytes": 855014,
+      "sha1": "1678f70b85aefc70f000e518e19e4768ca387a1b",
+      "sha256": "f7d765c2fa5d0e8ff2a05ffd643166afb39e8647988d16ed9b73893396016bcd",
+      "upload_timestamp": "2026-11-28T02:07:27Z",
+      "original_version_url": "https://swccg.com/wiki/images/c/c9/Corellia_League_19_October_2024_Pittsburgh_cube_event_1.jpg",
+      "mime": "image/jpeg",
+      "width": 4000,
+      "height": 2252,
+      "user": "Comlink Cursor"
+    },
+    {
+      "title": "File:Corellia League 19 October 2024 Pittsburgh cube event 2.jpg",
+      "path": "preservation/issue-1372/wiki-originals/Corellia_League_19_October_2024_Pittsburgh_cube_event_2.jpg",
+      "bytes": 706649,
+      "sha1": "9ac58b58496faf961fde4c3ee05e9796b40b07af",
+      "sha256": "5d9cf1721e0882be844efd6872daf0c2b364b16b1cc13b1cef5399a984f62b67",
+      "upload_timestamp": "2026-11-28T02:07:30Z",
+      "original_version_url": "https://swccg.com/wiki/images/5/5f/Corellia_League_19_October_2024_Pittsburgh_cube_event_2.jpg",
+      "mime": "image/jpeg",
+      "width": 4000,
+      "height": 2252,
+      "user": "Comlink Cursor"
+    },
+    {
+      "title": "File:Corellia League 19 October 2024 Pittsburgh cube event 3.jpg",
+      "path": "preservation/issue-1372/wiki-originals/Corellia_League_19_October_2024_Pittsburgh_cube_event_3.jpg",
+      "bytes": 723098,
+      "sha1": "4b1c4820b7ce6bb2e8943890ae7f8f378f344998",
+      "sha256": "54576da1a8b00b0f39eca21f5386b9483d9319ff03d7c65796670e91274f0c73",
+      "upload_timestamp": "2026-11-28T02:07:33Z",
+      "original_version_url": "https://swccg.com/wiki/images/2/2a/Corellia_League_19_October_2024_Pittsburgh_cube_event_3.jpg",
+      "mime": "image/jpeg",
+      "width": 4000,
+      "height": 2252,
+      "user": "Comlink Cursor"
+    },
+    {
+      "title": "File:Corellia League 19 October 2024 Pittsburgh cube event 4.jpg",
+      "path": "preservation/issue-1372/wiki-originals/Corellia_League_19_October_2024_Pittsburgh_cube_event_4.jpg",
+      "bytes": 571283,
+      "sha1": "c8ff11acbcb40b0d644276b00457c5fe0bb332d5",
+      "sha256": "ae25518c2a1ee417c565247fbba64ea7e9d3763fb2e18ec8ffc30f8dc36bdbc7",
+      "upload_timestamp": "2026-11-28T02:07:35Z",
+      "original_version_url": "https://swccg.com/wiki/images/4/49/Corellia_League_19_October_2024_Pittsburgh_cube_event_4.jpg",
+      "mime": "image/jpeg",
+      "width": 3392,
+      "height": 2544,
+      "user": "Comlink Cursor"
+    },
+    {
+      "title": "File:Corellia League 5 November 2022 Columbus event players at the tables.jpg",
+      "path": "preservation/issue-1372/wiki-originals/Corellia_League_5_November_2022_Columbus_event_players_at_the_tables.jpg",
+      "bytes": 570712,
+      "sha1": "32e249098ec925069c88bddc6ebf130a07f0ac1a",
+      "sha256": "b0b92406903577650bcc169f761ec799a0bc459fc9715c99375db6e78dd92b43",
+      "upload_timestamp": "2026-11-28T02:07:38Z",
+      "original_version_url": "https://swccg.com/wiki/images/0/07/Corellia_League_5_November_2022_Columbus_event_players_at_the_tables.jpg",
+      "mime": "image/jpeg",
+      "width": 4032,
+      "height": 3024,
       "user": "Comlink Cursor"
     }
   ]
